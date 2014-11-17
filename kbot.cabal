@@ -13,7 +13,7 @@ maintainer:          kvitebjorn.k@gmail.com
 category:            Network
 build-type:          Simple
 extra-source-files:  README.md
-cabal-version:       >=1.10
+cabal-version:       >=1.8
 
 executable kbot
   main-is:             Main.hs
