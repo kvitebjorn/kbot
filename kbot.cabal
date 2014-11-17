@@ -3,10 +3,8 @@
 
 name:                kbot
 version:             0.1.0.0
--- synopsis:            
--- description:         
--- license:             
-license-file:        LICENSE
+synopsis:            A simple IRC bot
+description:
 author:              Kyle Harrington
 maintainer:          kvitebjorn.k@gmail.com
 -- copyright:           
