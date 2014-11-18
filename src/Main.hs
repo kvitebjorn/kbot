@@ -1,6 +1,6 @@
 module Main where
 
-import Control.Monad ( forever, mzero )
+import Control.Monad ( forever )
 import Data.List     ( isPrefixOf, isInfixOf )
 import Network
 import System.IO 
