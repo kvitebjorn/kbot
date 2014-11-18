@@ -66,7 +66,7 @@ pong h msg = do hPutStrLn h $ "PONG " ++ xs
 
 aqwis :: Handle -> String -> IO ()
 aqwis h msg = 
-  case "Aqwis" `isInfixOf` msg of
+  case "!Aqwis" `isInfixOf` msg of
     True  -> do hPutStrLn h $ "PRIVMSG " ++ channel ++ " :jævla Aqwis"
                 putStrLn    $ "PRIVMSG " ++ channel ++ " :jævla Aqwis"
     False -> hPutStrLn h ""
