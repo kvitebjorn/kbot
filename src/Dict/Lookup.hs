@@ -7,6 +7,7 @@ import Data.List ( isPrefixOf )
 import Dict.Entries
 
 lookupEntry :: String -> IO [String]
+lookupEntry ""  = return []
 lookupEntry str = case toLower $ head str of
   'a' -> filter (str `isPrefixOf`) <$> a
   'b' -> filter (str `isPrefixOf`) <$> b
