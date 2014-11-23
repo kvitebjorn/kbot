@@ -25,7 +25,7 @@ main = withSocketsDo $ do
 
   -- Connect to freenode
   h <- connectTo host $ PortNumber port
-
+  
   -- User authentication
   hPutStrLn h $ "USER " ++ nick ++ " " ++ nick ++ " " ++ nick ++ " :" ++ nick
 
@@ -41,18 +41,14 @@ main = withSocketsDo $ do
   msg003 <- hGetLine h
   msg004 <- hGetLine h
 
-  putStrLn $ "Connected to " ++ host ++ " on port " ++ show port
-
   -- Join channel
   hPutStrLn h $ "JOIN " ++ channel 
-
-  putStrLn $ "Joined " ++ channel
 
   -- Receive 
   forever $ do
     -- Receive msg
     msg <- hGetLine h
-    -- putStrLn msg -- stderr on 'ø', can't be bothered to fix it right now
+    putStrLn msg
 
     -- Handle messages/pings 
     handleMsg h msg
