@@ -5,6 +5,9 @@ import Data.List     ( isPrefixOf, isInfixOf )
 import Network
 import System.IO 
 
+import Dict.Entries
+import Dict.Lookup
+
 host :: HostName
 host = "irc.freenode.org"
 
