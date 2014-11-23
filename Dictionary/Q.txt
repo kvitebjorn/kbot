@@ -1,0 +1,107 @@
+﻿Qatar {prop} (a country in the Middle East)	 :: Qatar
+Qatari {adj} (of, from, or pertaining to Qatar or the Qatari people)	 :: [Bokmål] qatarsk; [Nynorsk] qatarsk
+Qatari {n} (Person from Qatar or of Qatari descent)	 :: [Bokmål] qatarer {m}; [Nynorsk] qatarar {m}
+Q-tip {n} (type of cotton swab) SEE: cotton swab	 ::
+quackgrass {n} (couch grass) SEE: couch grass	 ::
+quacksalver {n} (one falsely claiming to possess medical or other skills)	 :: [Bokmål] kvakksalver {m}; [Nynorsk] kvakksalvar {m}
+quad {adj} (quad bike) SEE: quad bike	 ::
+quad {adj} (quadrangle) SEE: quadrangle	 ::
+quad {adj} (quadrilateral) SEE: quadrilateral	 ::
+quad {adj} (quadruplet) SEE: quadruplet	 ::
+quadrangle {n} (quadrilateral) SEE: quadrilateral	 ::
+quadrant {n} (region of the Cartesian plane)	 :: kvadrant {m}
+quadrant {n} (section)	 :: kvadrant {m}
+quadrocopter {n} (quadcopter) SEE: quadcopter	 ::
+quadrotor {n} (quadcopter) SEE: quadcopter	 ::
+quadroxide {n} (tetroxide) SEE: tetroxide	 ::
+quadruple {adj} (being four times as long, as big or as many of something)	 :: firedobbelt, kvadruppelt
+quadruple {v} (to multiply by four)	 :: firedoble, kvadruple
+quadruplet {n} (infant born as one of four)	 :: [Bokmål] firling {m}; [Nynorsk] firling {m}
+quads {n} (quadriceps) SEE: quadriceps	 ::
+quagmire {n} (a perilous, mixed up and troubled situation)	 :: hengemyr {f}, kvikksand {f}
+quagmire {n} (swampy, soggy area)	 :: myr {f}, sump {n}, sump {n}
+quail {n} (any of several small game birds)	 :: vaktel {m}
+Quaker {n} (believer of the Quaker faith)	 :: kveker
+qualitative {adj} ((chemistry) of a form of analysis that yields the identity of a compound)	 :: kvalitativ
+quality {n} (level of excellence)	 :: kvalitet
+quantitative {adj}	 :: kvantitativ
+quantitative easing {n} (monetary policy where the central bank creates money electronically)	 :: kvantitative lettelser {p}
+quantity {n} (considerable measure or amount)	 :: [Bokmål] mengde {m}, antall {n}; [Nynorsk] mengd {f}, tal {n}
+quantity {n} (fundamental, generic term used when referring to the measurement)	 :: kvantitet {m}
+quantity {n} (indefinite amount of something)	 :: [Bokmål] mengde {m}; [Nynorsk] mengd {f}
+quantity {n} (specific measured amount)	 :: [Bokmål] mengde {m}, antall {n}; [Nynorsk] mengd {f}, tal {n}
+quantum leap {n} (abrupt change)	 :: kvantesprang {n}
+quantum leap {n} (electron's state of change)	 :: kvantesprang {n}
+quarrel {n} (verbal dispute or heated argument)	 :: krangel {m}
+quarrel {v} (disagree) SEE: disagree	 ::
+quarrel {v} (to contend, argue strongly, squabble)	 :: krangle
+quarter {n} (one of four equal parts)	 :: [Bokmål] firedel {m}, fjerdedel {m}; [Nynorsk] firedel {m}, fjerdedel {m}
+quarter bottle {n} (piccolo) SEE: piccolo	 ::
+quarter-final {n} (quarterfinal) SEE: quarterfinal	 ::
+quarter note {n} (quarter note) SEE: crotchet	 ::
+quartet {n} (four musicians who perform a piece of music together)	 :: [Bokmål] kvartett {m}; [Nynorsk] kvartett {m}
+quartet {n} (music composition in four parts)	 :: [Bokmål] kvartett {m}; [Nynorsk] kvartett {m}
+quasar {n} (An extragalactic object)	 :: kvasar {m}
+quasi {adj} (showing likeness)	 :: kvasi-
+quay {n} (structure for loading and unloading vessels)	 :: [Bokmål] kai {m} {f}; [Nynorsk] kai {f} {m}
+Quechua {prop} (language)	 :: quechua
+queen {n} (chess piece)	 :: dronning {f}
+queen {n} (female monarch)	 :: dronning {f}
+queen {n} (playing card)	 :: dame {c}, dama {f}
+queen {n} (reproductive female animal in a hive)	 :: dronning {f}
+queen {n} (wife of a king)	 :: dronning
+queer {adj} (slang: homosexual)	 :: skeiv, homse {m}, [highly offensive] soper {m}
+queer {adv} (queerly) SEE: queerly	 ::
+queer {n} (slang: homosexual) SEE: fag	 ::
+quell {v} (transitive: to take the life of; to kill) SEE: kill	 ::
+quench {v} (cool rapidly by immersion)	 :: bråkjøle
+quench {v} (extinguish a flame)	 :: slukke
+quench {v} (satisfy thirst)	 :: slukke
+Quenya {prop} (constructed language)	 :: quenya
+question {n} (sentence, phrase or word)	 :: spørsmål
+question {n} (talk; conversation; speech) SEE: talk, conversation, speech	 ::
+question {v} (raise doubts about)	 :: [Bokmål] sette spørsmålstegn ved, stille spørsmål ved; [Nynorsk] setje spørsmålsteikn ved, stille spørsmål ved
+questionary {n} (questionnaire) SEE: questionnaire	 ::
+questioner {n} (interrogator) SEE: interrogator	 ::
+questioning {n} (interrogation) SEE: interrogation	 ::
+question mark {n} (punctuation)	 :: spørsmålstegn {n}
+queue {n} (line of people)	 :: [Bokmål] kø {m}; [Nynorsk] kø {m}
+quick {adj} (alive)	 :: frisk og rask (literally healthy and quick)
+quick {adj} (lively, witty)	 :: kvikk
+quick {adj} (mentally agile, perceptive)	 :: kvikk
+quick {adj} (moving with speed)	 :: rask, kvikk
+quick {adj} (occurring in a short time)	 :: rask, kvikk
+quick-drying {adj} (able to dry quickly)	 :: [Bokmål] hurtigtørkende
+quickly {adv} (rapidly, fast)	 :: fort
+quickness {n} (dexterity) SEE: dexterity	 ::
+quicksand {n} (wet sand that things readily sink in, often found near rivers or coasts)	 :: [Bokmål] kvikksand {m}; [Nynorsk] kvikksand {m}, kviksand {m}
+quicksilver {n} (mercury)	 :: [Bokmål] kvikksølv {n}; [Nynorsk] kvikksølv {n}, kvikksylv {n}
+Quidditch {n} (fictitious popular ball game)	 :: Rumpeldunk
+quiet {adj} (having little motion)	 :: rolig
+quiet {adj} (not busy)	 :: rolig
+quiet {adj} (not talking)	 :: stille
+quiet {adj} (with little sound)	 :: stille
+quiet {v}	 :: tystne, stilne
+quiet as a mouse {adj} (very quiet)	 :: stille som en mus
+quill {n} (music: plectrum) SEE: plectrum	 ::
+quill {n} (pen made of feather)	 :: fjærpenn {m} {f}
+quince {n} (fruit)	 :: [Bokmål] kvede
+quincunx {n} (coin) SEE: coin	 ::
+quintessential {adj} (of the nature of a quintessence)	 :: ultimat {m} {f}
+quintet {n} (any group of five)	 :: [Bokmål] kvintett {m}; [Nynorsk] kvintett {m}
+quintet {n} ((music) a composition in five parts)	 :: [Bokmål] kvintett {m}; [Nynorsk] kvintett {m}
+quintet {n} ((music) a group of five musicians)	 :: [Bokmål] kvintett {m}; [Nynorsk] kvintett {m}
+quintuplet {n} (one of a group of five babies born from the same mother during the same birth)	 :: [Bokmål] femling {m}; [Nynorsk] femling {m}
+quisling {n} (traitor)	 :: quisling {m}, landsforræder {m}
+quit {v} (to give up, stop doing something)	 :: slutte
+quite {adv} (in a fully justified sense; truly)	 :: helt
+quite {adv} (to a moderate extent)	 :: ganske
+quite {adv} (to the greatest extent; completely)	 :: temmelig
+quiz {n} (competition in the answering of questions)	 :: quiz
+quotation {n} (fragment of a human expression)	 :: sitat {n}
+quotation mark {n} (quotation marks) SEE: quotation marks	 ::
+quotation marks {n} (Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural.)	 :: anførselstegn, gåseauge [«◌»] or [„◌”]
+quote {n} (a quotation mark)	 :: [Bokmål] anførselstegn {n}, hermetegn {n}; [Nynorsk] hermeteikn {n}
+quote {n} (a statement attributed to someone else)	 :: sitat {n}
+quote {v} (to refer to a statement that has been made by someone else)	 :: sitere
+quotient {n} (number resulting from division)	 :: [Bokmål] kvotient {m}; [Nynorsk] kvotient {m}

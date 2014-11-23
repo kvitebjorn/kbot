@@ -1,0 +1,1584 @@
+﻿aardvark {n} (mammal)	 :: jordsvin {n}
+Aaron {prop} (biblical brother of Moses)	 :: Aron
+Aaron {prop} (male given name)	 :: Aron
+Aaron's rod {n} (goldenrod) SEE: goldenrod	 ::
+Aaron's rod {n} (mullein) SEE: mullein	 ::
+Aaron's rod {n} (orpine) SEE: orpine	 ::
+abaca {n} (fiber/fibre) SEE: Manila hemp	 ::
+aback {adv} (backwards)	 :: bakk
+aback {adv}	 :: baklengs
+aback {n} (abacus) SEE: abacus	 ::
+abaft {prep} ((nautical) behind; toward the stern relative to some other object or position; aft of)	 :: akter, akterut, aktenfor, akterlig
+abaka {n} (fiber/fibre) SEE: Manila hemp	 ::
+abaka {n} (plant) SEE: abaca	 ::
+abandon {n} (a giving up to natural impulses)	 :: løssluppenhet, overgivenhet
+abandon {v} (to cast out)	 :: forvise
+abandon {v} (to give up)	 :: oppgi, skrinlegge
+abandon {v} (to leave behind or desert)	 :: forlate
+abandon {v} (to relinquish a claim to property)	 :: avskrive
+abandoned {adj} (no longer maintained, forsaken, deserted)	 :: løssluppen
+abandonment {n} (act of abandoning)	 :: [Bokmål] oppgivelse {m}; [Nynorsk] oppgjeving {f}
+abandonment {n} (relinquishment of a right, claim or privilege)	 :: dereliksjon {m}
+abase {v} (to lower so as to hurt feelings)	 :: fornedre, ydmyke
+abash {v} (to make ashamed, to embarrass)	 :: gjøre skamfull
+abashed {adj} (embarrassed)	 :: skamfull, forlegen, beskjemmet
+abatage {n} (abattage) SEE: abattage	 ::
+abate {v}	 :: slå ned, forminske, redusere
+abate {v} (to bring down a person physically or mentally)	 :: slå ned (physically), ydmyke (mentally)
+abate {v} (to bring down or reduce to a lower state)	 :: forringe
+abate {v} (to decrease or become less in strength)	 :: forminske, avta, minke, løye [about wind]
+abatement {n} (the act of abating or the state of being abated)	 :: minking, reduksjon, det å avta, bekjempelse
+abatis {n} (means of defense)	 :: [Bokmål] forhugning {m} {f}
+abattoir {n} (public slaughterhouse)	 :: slakterhus {n}, slakteri {n}
+abbacy {n} (dignity, estate, or jurisdiction of an abbot)	 :: [Bokmål] abbeddømme, abbedgjeld, abbedverdighet; [Nynorsk] abbeddømme, abbedgjeld
+abbatial {adj} (belonging to an abbey)	 :: abbed-, abbedisse-, abbedi-
+abbess {n} (female superior of a nunnery)	 :: [Bokmål] abbedisse {m} {f}; [Nynorsk] abbedisse {f}
+abbey {n} (church of a monastery)	 :: abbedi {n}, klosterkirke
+abbey {n} (monastery headed by an abbot)	 :: [Bokmål] abbedi {n}; [Nynorsk] abbedi {n}
+abbot {n} (superior or head of an abbey or monastery)	 :: abbed
+abbotship {n} (the state or office of an abbot)	 :: [Bokmål] abbedverdighet
+abbreviate {v} (to make shorter)	 :: forkorte
+abbreviation {n} (act or result of shortening or reducing)	 :: forkorting {m} {f}
+abbreviation {n} (shortened or contracted form of a word or phrase)	 :: [Bokmål] forkortelse {m}, forkorting {m} {f}; [Nynorsk] forkorting {f}
+abbreviature {n} (abbreviation)	 :: abbreviatur {m}
+ABC {n} (alphabet)	 :: abc, alfabet {n}
+ABC book {n} (primer) SEE: primer	 ::
+abdicate {v} (disinherit)	 :: [Bokmål] fornekte; [Nynorsk] fornekte
+abdicate {v} (reject)	 :: [Bokmål] avvise; [Nynorsk] avvise
+abdicate {v} (renounce a throne)	 :: [Bokmål] abdisere; [Nynorsk] abdisere
+abdicate {v} (surrender or relinquish)	 :: [Bokmål] frasi seg; [Nynorsk] fråseie seg
+abdication {n} (the act of abdicating; the renunciation of a high office, dignity, or trust, by its holder)	 :: [Bokmål] abdikasjon {m}, frasielse {m}; [Nynorsk] abdikasjon {m}, fråseiing {f}
+abditory {n} (place for hiding or preserving)	 :: gjemmested {n}
+abdomen {n} (belly)	 :: mage, buk
+abdominal cavity {n} (hollow portion of the torso, containing abdominal organs)	 :: bokmål: bukhole {f} {m}, bukhule {f} {m}; [Nynorsk] bukhole {f}
+abdominal fin {n} (pelvic fin) SEE: pelvic fin	 ::
+abduction {n} (law: wrongful carrying off of a human being)	 :: bortføring {c}, kidnapping {c}
+abduction {n} (leading away, carrying away)	 :: bortføring {c}
+abduction {n} (physiology: movement separating limb from axis)	 :: abduksjon {m}
+abearance {n} (behavior) SEE: behavior	 ::
+abecedarium {n} (a book used to teach the alphabet) SEE: primer	 ::
+abed {adv} (in bed, or on the bed)	 :: i seng
+Abel {prop} (biblical character)	 :: Abel
+Abel {prop} (male given name)	 :: Abel
+Abelam {prop} (Ambulas) SEE: Ambulas	 ::
+Abelian algebra {n} (commutative algebra) SEE: commutative algebra	 ::
+Abelonian {n} (Abelian) SEE: Abelian	 ::
+Aberdeen terrier {n} (breed of dog) SEE: Scottish terrier	 ::
+aberration {n}	 :: avvik {n}, villfarelse {c}
+abet {v}	 :: tilskynde, hjelpe
+abeyance {n} (expectancy; condition of being undetermined)	 :: uavklart
+abeyance {n} (suspension; temporary suppression)	 :: utsettelse
+abhor {v} (to regard with horror or detestation)	 :: avsky
+abhorrence {n}	 :: avsky {c}, vemmelse {c}
+abhorrent {adj}	 :: avskyelig, vemmelig
+abide {v} (to await)	 :: avvente
+abide {v} (to dwell)	 :: forbli
+abide {v} (to endure)	 :: holde ut
+abide {v} (to tolerate)	 :: tolerere
+Abidjan {adj} (Abidjanian) SEE: Abidjanian	 ::
+Abidjan {prop} (the largest city of Côte d'Ivoire)	 :: Abidjan; [Nynorsk] Abidjan
+ability {n} (quality or state of being able)	 :: evne m1
+a bird in the hand is worth two in the bush {proverb} (small but certain advantage is preferable)	 :: én fugl i hånden er bedre enn ti på taket
+a bit {adv} (a little) SEE: a little	 ::
+Abkhaz {prop} (a Northwest Caucasian language spoken in Abkhazia)	 :: abkhasisk
+Abkhazia {prop} (territory in the Caucasus, see also: Republic of Abkhazia)	 :: Abkhasia
+Abkhazian {adj} (Of or pertaining to Abkhazia) SEE: Abkhaz	 ::
+Abkhazian {n} (Abkhaz) SEE: Abkhaz	 ::
+Abkhazian {prop} (Abkhazian language) SEE: Abkhaz	 ::
+able {adj} (healthy) SEE: healthy	 ::
+able {adj} (permitted to)	 :: i stand
+-able {suffix} (able to be done)	 :: -abel, -ibel
+able {v} (enable) SEE: enable	 ::
+able {v} (vouch for) SEE: vouch for	 ::
+abnormal {adj} (not conforming to rule or system)	 :: abnorm, anormal, unormal
+abnormal {adj} (of or pertaining to behaviour that deviates from norms)	 :: abnorm, anormal, unormal
+abnormity {n} (departure from the ordinary type)	 :: [Bokmål] abnormitet {m}; [Nynorsk] abnormitet {m}
+abolish {v} (to end a law, system, institution, custom or practice)	 :: avskaffe, forkaste
+abolition {n} (act of abolishing)	 :: abolisjon {m}
+abominable {adj} (hateful; detestable; loathsome)	 :: avskyelig
+abominate {v} (to feel disgust towards, to hate in the highest degree)	 :: føle avsky
+Aboriginal {n} (aboriginal) SEE: aboriginal	 ::
+Aborigine {n} (an individual aboriginal Australian)	 :: [Bokmål] aborigin {m}; [Nynorsk] aborigin {m}
+abortion {n} (act of inducing abortion)	 :: abort
+abortion {n} (miscarriage)	 :: abort {m}
+abortive {adj} (causing abortion)	 :: abortiv
+abortive {adj} (coming to naught; fruitless)	 :: fruktløs
+abortive {adj} (imperfectly formed or developed; rudimentary; sterile)	 :: abortiv
+abortive {adj} (medicine: cutting short)	 :: abortiv, avbrutt
+abortive {adj} (produced by abortion; born prematurely)	 :: abortiv
+abound with {v} (abound) SEE: abound	 ::
+about {adv} (in circuit)	 :: rundt
+about {adv} (nearly, approximately)	 :: nesten
+about {adv} (on all sides)	 :: rundt
+about {prep} (concerned with, engaged in)	 :: om
+about {prep} (concerning)	 :: om, angående
+about {prep} (in the immediate neighborhood of)	 :: rundt
+about {prep} (near, approximately, regarding time, size or quantity)	 :: rundt
+about {prep} (on every side of)	 :: rundt, omkring
+about {prep} (on the point or verge of)	 :: på veg til
+about {prep} (over or upon different parts of)	 :: rundt
+above {adv} (higher in rank)	 :: høyere
+above {adv} (in a higher place)	 :: ovenfor, over
+above {prep} (in or to a higher place)	 :: over, ovenfor
+above {prep} (more)	 :: over
+above {prep} (superior to, surpassing)	 :: over, utover
+above measure {prep} (beyond measure) SEE: beyond measure	 ::
+above-named {adj} (mentioned or named before) SEE: above-mentioned	 ::
+abrade {v} ((transitive) to rub or wear off; to waste or wear away by friction)	 :: skure, slipe
+Abraham {prop} (male given name)	 :: Abraham
+Abraham {prop} (prophet in the Old Testament)	 :: Abraham
+abridge {v} (to make shorter)	 :: forkorte
+abridge {v} (to shorten or contract by using fewer words)	 :: sammendra
+abridged {adj} (cut or shortened, especially of a literary work)	 :: avkortet, avkorta
+abridgment {n}	 :: forkortelse {c} {n} utdrag
+abroad {adv} (in foreign countries)	 :: [Bokmål] utenlands, i utlandet; [Nynorsk] utanlands, i utlandet
+abrogate {v} (to annul by an authoritative act)	 :: oppheve, heve, annullere
+abrogate {v} (to put an end to)	 :: avslutte
+Abruka {prop} (Estonian island located in the Gulf of Riga)	 :: Abruka
+abrupt {adj} (botany: truncated)	 :: avkortet
+abrupt {adj} (curt in manner)	 :: brå, skarp
+abrupt {adj} (extremely steep)	 :: brå, bratt (steep)
+abrupt {adj} (having sudden transitions from one state to next)	 :: plutselig
+abrupt {adj} (without notice)	 :: brå, plutselig
+abscond {v} (to depart secretly)	 :: rømme, stikke av
+absence {n} (inattention to things present)	 :: [Bokmål] åndsfravær {n} [absence of mind]; [Nynorsk] åndsfråvær {n} [absence of mind]
+absence {n} (lack; deficiency; nonexistence)	 :: [Bokmål] fravær {n}, mangel {m}; [Nynorsk] fråvær {n}, mangel {m}
+absence {n} (state of being away)	 :: [Bokmål] fravær {n}; [Nynorsk] fråvær {n}
+absent {adj} (being away from a place)	 :: fraværende
+absent {adj} (inattentive)	 :: fraværende
+absent {adj} (not existing)	 :: fraværende
+absent-minded {adj} (absent in mind)	 :: distré
+absinthe {n} (Artemisia absinthium)	 :: [Bokmål] malurt {m}; [Nynorsk] malurt {m}
+absinthe {n} (liquor)	 :: [Bokmål] absint {m}; [Nynorsk] absint {m}
+absolute {adj} (chemistry: pure; unmixed)	 :: absolutt
+absolute {adj} (complete in itself, fixed)	 :: absolutt
+absolute {adj} (grammar: not immediately dependent on the other parts of the sentence in government)	 :: absolutt
+absolute {adj} (loosed from any conditions or limitations)	 :: absolutt
+absolute {adj} (loosed from any other being or comparison)	 :: absolutt
+absolute {adj} (viewed apart from modifying influences or without comparison with other objects)	 :: absolutt
+absolute {n} (that which is independent of context-dependent interpretation)	 :: absolutt {n}
+absoluteness {n} (the fact free from any conditions or other beings)	 :: [Bokmål] absolutthet {m} {f}
+absolute pitch {n} (ability to identify and reproduce a tone) SEE: perfect pitch	 ::
+absolutism {n} (political science: absolute or arbritary government; despotism)	 :: [Bokmål] absolutisme {m}; [Nynorsk] absolutisme {m}
+absolutistic {adj} (pertaining to absolutism)	 :: [Bokmål] absolutistisk; [Nynorsk] absolutistisk
+absolve {v} (theology: to pronounce free or give absolution from sin)	 :: tilgi
+absolve {v} (to pronounce free or give absolution)	 :: frikjenne
+absolve {v} (to set free)	 :: frikjenne
+absorb {v} (finance: to assume or pay for)	 :: påta seg
+absorb {v} (physics: to take up by chemical or physical action)	 :: absorbere
+absorb {v} (to consume completely)	 :: absorbere
+absorb {v} (to endure)	 :: utholde
+absorb {v} (to include so that it no longer has separate existence)	 :: absorbere, oppsluke
+absorb {v} (to learn)	 :: absorbere
+absorb {v} (to occupy fully)	 :: oppsluke
+absorb {v} (to suck up or drink in)	 :: absorbere
+absorption {n}	 :: inn-, oppsuging
+absorptive {adj} (having capacity to imbibe)	 :: absorberende {n}
+abstain {v} (refrain from)	 :: avholde seg
+abstainer {n} (one who abstains)	 :: avholdsmann {c}
+abstention {n} (the act of abstaining)	 :: avhold {n}
+abstinence {n} (specifically, abstinence from alcohol)	 :: avhold {n}, avholdenhet {m}
+abstinence {n} (specifically, abstinence from sexual intercourse)	 :: avhold {n}, avholdenhet {m}
+abstinence {n} (the act or practice of abstaining)	 :: avhold {n}, avholdenhet {m}
+abstinence {n} (the practice of self-denial)	 :: avhold {n}, avholdenhet {m}
+abstract {adj} (absent in mind)	 :: distrahert
+abstract {adj} (apart from practice or reality; not concrete)	 :: abstrakt
+abstract {adj} (art: free from representational qualities)	 :: abstrakt
+abstract {adj} (difficult to understand)	 :: abstrakt
+abstract {adj} (separate)	 :: abstrakt
+abstract {n} (an abrigement or summary)	 :: sammendrag {n}, oppsummering {m}, utdrag {n}, referat {n}
+abstract {n} (an abstraction)	 :: distraksjon {n}
+abstract {n} (an abstract work of art)	 :: abstrakt
+abstract {n} (an extract of a vegetable substance)	 :: ekstrakt
+abstract {n} (something that concentrates in itself the qualities of something else)	 :: sammenfatning {m}
+abstract {n} (that which is abstract)	 :: abstraksjon {m}
+abstract art {n} (art that does not depict objects in the natural world)	 :: [Bokmål] abstrakt kunst {m}; [Nynorsk] abstrakt kunst {m} {f}
+abstractness {n} (the quality of being abstract)	 :: [Bokmål] abstrakthet {m} {f}
+absurd {adj} (contrary to reason or propriety)	 :: absurd, tåpelig
+absurdity {n} (an absurd action)	 :: absurditet {m}, meningsløshet {m}
+absurdity {n} (the quality of being absurd)	 :: absurditet {m}
+Abu Dhabi {prop} (capital of UAE)	 :: Abu Dhabi
+abundance {n} (ample sufficiency)	 :: overflod {c}
+abundant {adj} (fully sufficient; plentiful)	 :: rikelig
+abuse {n} (catachresis) SEE: catachresis	 ::
+abuse {n} (corrupt practice)	 :: misbruk {n}
+abuse {n} (delusion) SEE: delusion	 ::
+abuse {n} (improper usage)	 :: [Bokmål] misbruk {m} {n}; [Nynorsk] misbruk {m} {n}
+abuse {n} (insulting speech)	 :: utskjelling {m}
+abuse {n} (physical maltreatment)	 :: mishandling {m}
+abuse {n} (sexual violation or assault)	 :: voldtekt {m}
+abuse {v} (to adulterate) SEE: adulterate	 ::
+abuse {v} (to hurt)	 :: mishandle
+abuse {v} (to insult)	 :: skjelle ut
+abuse {v} (to rape)	 :: voldta
+abuse {v} (to use improperly)	 :: misbruke
+abusio {n} (catachresis) SEE: catachresis	 ::
+abusive {adj}	 :: grov
+abysm {n} (abyss) SEE: abyss	 ::
+abyss {n} (bottomless or unfathomed depth)	 :: avgrunn {m}
+abyss {n} (moral depravity, vast intellectual or moral depth)	 :: avgrunn {m}
+Abyssinia {prop} (historical name of Ethiopia)	 :: [Bokmål] Abessinia; [Nynorsk] Abessinia
+Abyssinian {adj} (of or pertaining to Abyssinia)	 :: [Bokmål] abessinsk; [Nynorsk] abessinsk
+Abyssinian {n} (a native of Abyssinia)	 :: [Bokmål] abessinier; [Nynorsk] abessiniar
+acacia {n} (shrub or tree)	 :: akasie {m}
+academic {adj} (belonging to an academy or other higher institution of learning)	 :: akademisk
+academic {adj} (having no practical importance)	 :: akademisk
+academic {adj} (scholarly; literary or classical, in distinction from scientific)	 :: akademisk
+academic {n} (member of an academy, college, or university)	 :: [Bokmål] akademiker {m}; [Nynorsk] akademikar {m}
+academic {n} (person who attends an academy)	 :: akademiker {m}
+academician {n}	 :: akademiker, medlem {n}, av et akademi
+academy {n} (college or university)	 :: [Bokmål] akademi {n}; [Nynorsk] akademi {n}
+academy {n} (learned society)	 :: [Bokmål] akademi {n}; [Nynorsk] akademi {n}
+academy {n} (place of training, school)	 :: [Bokmål] akademi {n}; [Nynorsk] akademi {n}
+academy {n} (seminary)	 :: akademi {n}
+academy {n} (specialized school)	 :: [Bokmål] akademi {n}; [Nynorsk] akademi {n}
+Academy of Sciences {n} (national academy) SEE: national academy	 ::
+acajou {n} (cashew nut) SEE: cashew nut	 ::
+acajou {n} (cashew tree) SEE: cashew	 ::
+acajou {n} (wood from trees of Meliaceae family) SEE: mahogany	 ::
+a cappella {adv} (performed by a choir with no instrumental accompaniment)	 :: a cappella
+accedie {n} (acedia) SEE: acedia	 ::
+accelerate {v} (to become faster)	 :: sette opp farten
+accelerate {v} (to cause to move faster)	 :: akselerere
+accelerate {v} (to hasten)	 :: påskynde
+accelerate {v} (to quicken natural or ordinary progression or process)	 :: påskynde
+acceleration {n} (act or state)	 :: [Bokmål] akselerasjon {m}; [Nynorsk] akselerasjon {m}
+acceleration {n} ((physics))	 :: [Bokmål] akselerasjon {m}; [Nynorsk] akselerasjon {m}
+accelerator {n} (accelerator pedal)	 :: [Bokmål] gasspedal {m}
+accent {n} (distinctive pronunciation associated with a region, social group, etc.)	 :: aksent {m}, uttale {m}, tonefall {n}
+accent {n} (math: mark to distinguish magnitudes of similar kind)	 :: aksent {m}, merke {n}
+accent {n} (music: recurring stress on a tone)	 :: aksent {m}, trykk {n}
+accent {n} (music: rhythmical accent)	 :: aksent {m}, trykk {n}
+accent {n} (music: special emphasis on a tone)	 :: aksent {m}
+accent {n} (orthography: mark to indicate accent)	 :: aksent {m}
+accent {n} (prosody: stress on syllables of a verse)	 :: aksent {m}
+accent {n} (stronger articulation)	 :: aksent {m}, trykk {n}, betoning {m}
+accent {n} (utterance) SEE: utterance	 ::
+accent {v} (to emphasize)	 :: aksentuere
+accent {v} (to express the accent of)	 :: aksentuere
+accent {v} (to mark with written accents)	 :: aksentuere
+accentuate {v} (to bring out distinctly)	 :: aksentuere, betone, framheve
+accentuate {v} (to pronounce with an accent)	 :: aksentuere, betone
+accentuation {n}	 :: betoning {c}, aksentuering {c}
+accept {v} (to agree to)	 :: akseptere, godta
+accept {v} (to agree to pay)	 :: akseptere
+accept {v} (to endure patiently)	 :: aksepetere, godta
+accept {v} (to receive officially)	 :: motta
+accept {v} (to receive with consent)	 :: akseptere, motta, ta imot
+acceptable {adj} (capable, worthy or sure of being accepted)	 :: antakelig
+acceptance {n}	 :: godtagelse {c}, aksept {c}
+acceptor {n} (one who accepts)	 :: comm akseptant {c}
+access {n} (communication with a computer program or the Internet)	 :: aksess {m}, tilgang {m}
+access {n} (computing: process of locating data in memory)	 :: aksess {m}
+access {n} (onset, attack or fit of disease)	 :: anfall {n}
+access {n} (outburst of an emotion)	 :: anfall {n}, utbrudd {n}
+access {n} (right or ability of approaching or entering)	 :: [Bokmål] adgang {m}, tilgang {m}; [Nynorsk] åtgang {m}, tilgang {m}
+access {n} (right to visit one's child)	 :: besøksrett {m}
+access {n} (way or means of approaching)	 :: [Bokmål] adgang {m}, tilgang {m}; [Nynorsk] åtgang {m}, tilgang {m}
+access {v} (computing: to have access to (data))	 :: aksessere
+access {v} (to gain or obtain access to)	 :: få tilgang
+accident {n} (transport: unintended event that causes damage)	 :: [Bokmål] ulykke {m} {f}, uhell {n}; [Nynorsk] ulukke {f}, ulykke {f}, uhell {n}
+accident {n}	 :: ulykke
+accident {n} (unexpected event with negative consequences)	 :: [Bokmål] ulykke {m} {f}, uhell {n}, ulykkestilfelle {n}; [Nynorsk] ulukke {f}, ulykke {f}, uhell {n}
+accidently {adv} (unexpectedly, unintentionally) SEE: accidentally	 ::
+accoil {v} (nautical sense) SEE: coil	 ::
+accomplice {n} (an associate in the commission of a crime)	 :: medskyldig
+accordingly {adv} (agreeably; correspondingly; suitably; in a manner conformable)	 :: deretter
+according to {prep} (based on statement)	 :: [Bokmål] ifølge; [Nynorsk] ifølgje
+accordion {n} (A small, portable, keyed wind instrument)	 :: trekkspill
+accordion player {n} (accordion player) SEE: accordionist	 ::
+account {n} (a registry of pecuniary transactions)	 :: konto {m}
+account {n} (a statement in general of reasons, causes, grounds, etc.)	 :: redegjørelse {m}
+account {n} (a statement of facts or occurrences)	 :: forklaring {m}
+account {n} (reckoning, calculation)	 :: regning {m}
+account {v} (account for) SEE: account for	 ::
+account {v} (credit (to)) SEE: credit	 ::
+accountability {n} (state of being accountable)	 :: [Bokmål] ansvarlighet {m}, etterrettelighet {m}
+accourage {v} (encourage) SEE: encourage	 ::
+Accra {prop} (capital of Ghana)	 :: Accra; [Bokmål] Accra; [Nynorsk] Accra
+accumulator {n}	 :: akkumulator
+accuracy {n} (state of being accurate)	 :: [Bokmål] nøyaktighet {m} {f}
+accusative case {n} (case used to mark the immediate object) SEE: accusative	 ::
+accuse {v} (attribute blame to someone)	 :: [Bokmål] beskylde; [Nynorsk] skulde, skylde
+accustom {v} (cohabit) SEE: cohabit	 ::
+ace {n} (golf: hole in one) SEE: hole in one	 ::
+acedia {n} (boredom) SEE: boredom	 ::
+Aceh {prop} (language) SEE: Acehnese	 ::
+acetic acid {n} (clear colourless organic acid, CH3COOH)	 :: [Bokmål] eddiksyre {m} {f}; [Nynorsk] eddiksyre {f}
+acetyltransferase {n} (transacetylase) SEE: transacetylase	 ::
+ace up one's sleeve {n} (a surprise advantage of which others are not aware)	 :: ess i ermet
+Achaean {n} (an inhabitant of Achaea)	 :: [Bokmål] akhaier {m}
+a chain is only as strong as its weakest link {proverb} (aphorism)	 :: [Bokmål] en kjede er aldri sterkere enn sitt svakeste ledd
+achieve {v}	 :: oppnå
+Achilles {prop} (Greek mythical hero)	 :: [Bokmål] Akilles {m}
+Achilles heel {n} (Achilles' tendon) SEE: Achilles' tendon	 ::
+Achilles heel {n} (vulnerability in an otherwise strong situation)	 :: [Bokmål] akilleshæl {m}; [Nynorsk] akilleshæl {m}
+Achilles tendon {n} (strong tendon in the calf of the leg)	 :: [Bokmål] akillessene {m} {f}; [Nynorsk] akillessen {f}, akillessene {f}
+Achinese {prop} (Acehnese) SEE: Acehnese	 ::
+achoo {interj} (the sound of a sneeze)	 :: atsjo
+achromaticity {n} (achromatism) SEE: achromatism	 ::
+acid {adj} (of or pertaining to an acid)	 :: syre-
+acid {adj} (sour, sharp, or biting to the taste)	 :: sur
+acid {adj} (sour-tempered)	 :: sur
+acid {n} (a sour substance)	 :: [Bokmål] syre {m} {f}
+acidic {adj} (of or relating to acid)	 :: syrlig
+acidness {n} (acidity) SEE: acidity	 ::
+acid rain {n} (unusually acidic rain)	 :: sur nedbør
+acinesic {adj} (akinesic) SEE: akinesic	 ::
+acne {n}	 :: kvise
+aconite {n} (herb wolfsbane)	 :: hjelm; [Nynorsk] hjelm
+acorn {n} (fruit of the oak tree)	 :: kongle {m} {f}, åkorn {n}; [Bokmål] eikenøtt {m} {f}; [Nynorsk] eikenøtt {f}
+acoustic {adj} (pertaining to hearing or the science of sounds)	 :: [Bokmål] akustisk; [Nynorsk] akustisk
+acoustic {adj} (producing or produced without electrical amplification)	 :: [Bokmål] akustisk; [Nynorsk] akustisk
+acquaintance {n} (person)	 :: forbindelse {m}
+acrobat {n} (an athlete who performs acts requiring skill, agility and coordination)	 :: [Bokmål] akrobat {m}; [Nynorsk] akrobat {m}
+acrobatics {n} (art of performing acrobatic feats)	 :: [Bokmål] akrobatikk {m}; [Nynorsk] akrobatikk {m}
+acromegaly {n} (chronic disease marked by enlargement of the bones)	 :: akromegali
+acrophobia {n} (fear of heights)	 :: akrofobi {m}
+Acropolis {prop}	 :: Akropolis
+actinium {n} (chemical element)	 :: actinium
+activate {v}	 :: aktiviser
+active {adj} (having the quality or power of acting)	 :: aktiv
+activistic {adj} (activist) SEE: activist	 ::
+activity {n} (something done as an action or a movement)	 :: [Bokmål] aktivitet {m}; [Nynorsk] aktivitet {m}
+activity {n} (something done for pleasure or entertainment)	 :: [Bokmål] aktivitet {m}; [Nynorsk] aktivitet {m}
+activity {n} (The state or quality of being active; nimbleness; agility; vigorous action or operation; energy; active force)	 :: [Bokmål] aktivitet {m}; [Nynorsk] aktivitet {m}
+actor {n} (person who performs in a theatrical play or film)	 :: [Bokmål] skuespiller {m}, skuespillerinne {m} {f}; [Nynorsk] skodespelar {m}, skodespelarinne {f}
+actor {n} (plaintiff) SEE: plaintiff	 ::
+actress {n} (female actor)	 :: [Bokmål] skuespillerinne {m} {f}; [Nynorsk] skodespelarinne {f}
+Acts {prop} (Book of Acts) SEE: Acts of the Apostles	 ::
+Acts of the Apostles {prop} (fifth book of the New Testament)	 :: Apostelgjerningane
+actual {adj} (existing in act or reality, not just potentially)	 :: faktisk, reell, virkelig
+actually {adv} (really)	 :: faktisk, for øyeblikket, i virkeligheten, reelt sett
+acupuncturation {n} (acupuncture) SEE: acupuncture	 ::
+acupuncture {n} (insertion of needles for remedial purposes)	 :: akupunktur {m}
+acute {adj} (geometry: acute-angled) SEE: acute-angled	 ::
+acute {n} (acute accent) SEE: acute accent	 ::
+acute angle {n} (angle measuring less than ninety degrees)	 :: [Bokmål] spiss vinkel {m}; [Nynorsk] spiss vinkel {m}
+adage {n} (old saying)	 :: visdomsord {n}
+Adam {prop} (first man in Abrahamic religions)	 :: Adam
+Adam {prop} (male given name)	 :: Adam
+Adam and Eve {prop} (the first man and woman (according to Genesis))	 :: [Bokmål] Adam og Eva; [Nynorsk] Adam og Eva
+Adam's apple {n} (the lump in the throat)	 :: [Bokmål] adamseple {n}; [Nynorsk] adamseple {n}
+adapt {v}	 :: tilpasse
+adaptative {adj} (adaptive) SEE: adaptive	 ::
+addend {n}	 :: [Bokmål] addend {m}; [Nynorsk] addend {m}
+addendum {n} (Something to be added)	 :: [Bokmål] tillegg {n}, tilføyelse {m}; [Nynorsk] tillegg {n}, tilføying {f}
+add fuel to the fire {v} (worsen a conflict)	 :: helle bensin på bålet, (to blow in the fire) puste til ilden
+addicted {adj} (being dependent on something)	 :: avhengig
+addition {n} (act of adding)	 :: [Bokmål] legge til, tilføye; [Nynorsk] leggje til, tilføye
+addition {n} (arithmetic: process of adding)	 :: addisjon {m}, pluss {n}
+addition {n} (thing added)	 :: tillegg {n}
+additionally {adv} (by way of addition)	 :: attpåtil
+addon {n} (add-on) SEE: add-on	 ::
+address {n} (direction for letters)	 :: adresse
+addressee {n} (person or organization to which something is addressed or sent)	 :: [Bokmål] adressat {m}; [Nynorsk] adressat {m}
+addressing {n}	 :: adressering
+add up {v} (be reasonable or consistent) SEE: make sense	 ::
+Adele {prop} (female given name) SEE: Adela	 ::
+adept {n} (one fully skilled or well versed in anything)	 :: adept {m}
+adequate {adj} (equal to some requirement)	 :: adekvat, tilstrekkelig
+ad hoc {adj} (for this particular purpose)	 :: ad hoc
+ad hoc {adj} (impromptu) SEE: impromptu	 ::
+ad hoc {adj} (special) SEE: special	 ::
+adieu {n} (a farewell)	 :: adjø {n}, farvel {n}
+ad infinitum {adv} (endlessly)	 :: i all uendelighet, uten slutt
+adios {interj} (goodbye) SEE: goodbye	 ::
+adjacent {adj} (just before, after, or facing)	 :: foregående, forutgående (both signifying previous), etterfølgende, følgende, påfølgende, neste (all signifying next), motsatt (facing)
+adjacent {adj} (lying next to, close, or contiguous; neighboring)	 :: nabo-, ved siden av
+adjective {n} ((grammar) a word that modifies a noun or describes a noun’s referent)	 :: [Bokmål] adjektiv; [Nynorsk] adjektiv
+adjudicate {v} (to act as a judge)	 :: dømme
+adjudicate {v} (to settle a legal case or other dispute)	 :: bedømme, dømme, pådømme
+adjust {v} (to improve or rectify)	 :: justere, korrigere
+adjust {v} (to modify)	 :: justere, stille
+adjustable spanner {n} (adjustable hand tool)	 :: [Bokmål] skiftenøkkel {m}
+administration {n} (the act of administering)	 :: administrasjon {m} {f}
+administration {n} (the executive part of government)	 :: administrasjon {m} {f}
+administrator {n}	 :: administrator {m}
+admiration {n} (adoration; appreciation)	 :: beundring
+admit {v} (to allow to enter; to grant entrance)	 :: slippe inn
+admit {v} (to concede as true)	 :: [Bokmål] innrømme, tilstå; [Nynorsk] tilstå
+admonish {v} (warn against danger or an offense)	 :: advare
+admonish {v} (warn or notify of a fault; exhort)	 :: irettesette
+Adolf {prop} (male given name) SEE: Adolph	 ::
+Adolph {prop} (male given name)	 :: Adolf
+Adonis {prop} (the young man loved by Aphrodite)	 :: Adonis {m}
+adoration {n} (admiration or esteem)	 :: [Bokmål] hyldning {m}
+adore {v}	 :: tilbe
+adornment {n} (a decoration; that which adorns)	 :: utsmykning
+adornment {n} (the act of decorating)	 :: utsmykning
+adrenal {n} (noun sense) SEE: adrenal gland	 ::
+Adrian {prop} (male given name)	 :: Adrian
+Adriatic {prop} (Adriatic Sea) SEE: Adriatic Sea	 ::
+adulation {n} (Flattery; fulsome praise)	 :: grov smiger, , smisking {c}
+adult {adj} (pornographic) SEE: pornographic	 ::
+adult {n} (fully grown human)	 :: voksen
+adulter {v} (adulterate) SEE: adulterate	 ::
+adultery {n} (sexual intercourse by a married person with someone other than their spouse)	 :: utroskap {n}, hor {n}
+advancement {n} (payment in advance) SEE: advance payment	 ::
+advantage {n} (any condition, circumstance, opportunity, or means, particularly favorable to success)	 :: [Bokmål] fordel {m}; [Nynorsk] fordel {m}
+advantage {n} (superiority; mastery)	 :: [Bokmål] fordel {m}; [Nynorsk] fordel {m}
+advent {n} (Christianity) SEE: Advent	 ::
+Advent {prop} (season before Christmas)	 :: [Bokmål] advent {m}; [Nynorsk] advent {f}
+Advent calendar {n} (calendar used to count down the days of Advent)	 :: [Bokmål] adventskalender {m}, julekalender {m}; [Nynorsk] adventskalender {m}, julekalender {m}
+adventurous {adj} (full of hazard)	 :: [Bokmål] eventyrlig; [Nynorsk] eventyrleg
+adventurous {adj} (inclined to adventure)	 :: eventyrlysten
+adverb {n} (lexical category)	 :: [Bokmål] adverb {n}; [Nynorsk] adverb {n}
+adversary {n} (opponent)	 :: motstander {m}, opponent {m}
+adverse {adj} (opposite)	 :: motstående
+adverse {adj} (unfavourable)	 :: ugunstig, uhensiktsmessig
+adversity {n} (adverse event)	 :: motgang {m}
+adversity {n} (state of being adverse)	 :: motgang {m}
+advertisement {n} (commercial solicitation)	 :: reklame annonse
+advice {n} (opinion recommended or offered, as worthy to be followed; counsel)	 :: råd {n}
+advisatory {adj} (advisory) SEE: advisory	 ::
+advise {v} (to give advice to; to offer an opinion; to counsel; to warn)	 :: råde
+advisor {n} (one who offers advice)	 :: rådgiver {m}, veileder {m}
+advocacy {n} (the act of arguing in favour of, or supporting something)	 :: [Bokmål] forsvar
+advocate {n}	 :: advokat
+adware {n} (software application)	 :: reklameprogram {n}
+Adygei {prop} (Adygei) SEE: Adyghe	 ::
+Aegean {prop} (Aegean Sea) SEE: Aegean Sea	 ::
+Aegidius {prop} (male given name)	 :: Aegidius
+aerial {n} (device for receiving or transmitting)	 :: [Bokmål] antenne {m} {f}; [Nynorsk] antenne {f}
+aerodynamics {n} (The science of the dynamics of bodies moving relative to gases)	 :: [Bokmål] aerodynamikk {m}; [Nynorsk] aerodynamikk {m}
+aeroembolism {n} (condition) SEE: air embolism	 ::
+aeroplane {n} (airplane) SEE: airplane	 ::
+aerothorax {n} (pneumothorax) SEE: pneumothorax	 ::
+aesir {n} (Æsir) SEE: Æsir	 ::
+Aesop {prop} (ancient Greek author)	 :: Æsop {m}
+aesthetic {n} (the study of art or beauty) SEE: aesthetics	 ::
+aesthetics {n} (study or philosophy of beauty)	 :: [Bokmål] estetikk {m}; [Nynorsk] estetikk {m}
+aetiology {n} (study of causes or origins)	 :: etiologi
+Afar {prop} (language)	 :: afar, afarsk; [Nynorsk] afar
+affable {adj} (friendly, courteous, sociable)	 :: hyggelig, vennlig
+affable {adj} (mild; benign)	 :: velvillig, hyggelig
+affect {n} (psychology: feeling in response to a stimulus)	 :: affekt {m}
+affect {v} (to infect or harm)	 :: affektere
+affect {v} (to influence or alter)	 :: influere; [Bokmål] påvirke
+affect {v} (to move to emotion)	 :: affektere
+affection {n}	 :: affeksjon
+affiliate {v} (to adopt) SEE: adopt	 ::
+affirmance {n} (affirmation) SEE: affirmation	 ::
+affirmative {n} (An answer that shows agreement or acceptance)	 :: bekreftes, tiltredes (archaic)
+affirmative action {n} (advantaging minority groups who have traditionally been discriminated) SEE: reverse discrimination	 ::
+affix {n} (linguistics: a bound morpheme added to a word’s stem)	 :: affiks
+affixoid {n} (regular word that also works as an affix)	 :: affiksoid
+affluent {n} (tributary) SEE: tributary	 ::
+afford {v} (to incur, stand, or bear)	 :: tåle, ha råd til
+afford {v} (to offer, provide, or supply)	 :: skaffe
+Afghan {adj} (pertaining to Afghanistan)	 :: [Bokmål] afghansk; [Nynorsk] afghansk
+Afghan {n} (Afghan hound)	 :: [Bokmål] afghaner {m}; [Nynorsk] afghanar {m}
+Afghan {n} (person from Afghanistan)	 :: [Bokmål] afghaner {m}; [Nynorsk] afghanar {m}
+Afghan {prop} (Pashto language)	 :: [Bokmål] afghansk {m}; [Nynorsk] afghansk {m}
+Afghan hound {n} (Afghan Hound) SEE: Afghan Hound	 ::
+Afghan Hound {n} (Afghan Hound)	 :: [Bokmål] afghansk mynde {m}
+Afghani {adj} (relating to Afghanistan) SEE: Afghan	 ::
+Afghani {n} (citizen or native of Afghanistan) SEE: Afghan	 ::
+Afghani {n} (money) SEE: afghani	 ::
+Afghanistan {prop} (country)	 :: Afghanistan; [Nynorsk] Afghanistan
+a-fib {n} (atrial fibrillation) SEE: afib	 ::
+afraid {adj} (colloquially, express sorrow)	 :: redd
+afraid {adj} (impressed with fear or apprehension; in fear; apprehensive)	 :: redd, engstelig
+Africa-Eurasia {prop} (Afro-Eurasia) SEE: Afro-Eurasia	 ::
+African {adj} (of, or pertaining to Africa)	 :: afrikansk
+African {n} (a native of Africa)	 :: [Bokmål] afrikaner {m}; [Nynorsk] afrikanar {m}
+African American {adj} (African-American) SEE: African-American	 ::
+African American {n} (African-American) SEE: African-American	 ::
+African elephant {n} (Loxodonta africana or Loxodonta cyclotis found in Africa)	 :: afrikansk elefant {m}
+Africanist {n} (a specialist in African studies)	 :: afrikanist {m}
+African wild dog {n} (Lycaon pictus) SEE: African hunting dog	 ::
+Afrikaans {prop} (language)	 :: afrikaans; [Nynorsk] afrikaans
+Afrikaner {n} (breed of cattle) SEE: Afrikander	 ::
+aftcastle {n} (raised part of the upper deck) SEE: poop deck	 ::
+after {adv} (behind; later in time; following)	 :: senere, etterpå, etter
+after {conj} (Signifies that the action of its clause takes place before the action of the other clause)	 :: etter
+after {prep} (as a result of)	 :: etter at
+after {prep} (behind)	 :: etter, bak
+after {prep} (in allusion to, in imitation of; following or referencing)	 :: etter
+after {prep} (in pursuit of, seeking)	 :: etter
+after {prep} (in spite of)	 :: etter
+after {prep} (next in importance or rank)	 :: etter
+after {prep} (subsequently; following in time; later than)	 :: etter
+afterbirth {n} (material expelled after childbirth)	 :: [Bokmål] etterbyrd {m}
+after-effect {n} (after-effect) SEE: aftereffect	 ::
+aftereffect {n} (any delayed effect)	 :: [Bokmål] ettervirkning {m} {f}
+afterfeather {n} (downy lower barbs of a feather) SEE: hyporachis	 ::
+afterglow {n} (afterparty) SEE: afterparty	 ::
+aftergrowth {n} (second growth, figuratively)	 :: ettervekst {m}
+aftergrowth {n} (second growth, seen in plants)	 :: ettervekst {m}
+afternoon {n} (part of the day between noon and evening)	 :: ettermiddag {m}
+afterwards {adv} (at a later or succeeding time)	 :: etter, etterpå, i etterkant, derpå, senere, deretter
+afterword {n} (an epilogue)	 :: etterord
+again {adv} (another time)	 :: igjen
+against {prep}	 :: imot, mot
+against {prep} (in a contrary direction to)	 :: mot
+against {prep} (in opposition to)	 :: mot, imot
+against all odds {prep} (despite seemingly insurmountable opposition or probability)	 :: mot alle odds
+Agatha {prop} (female given name)	 :: Ågot
+age {n} (century) SEE: century	 ::
+age {v} (intransitive: become old)	 :: [Bokmål] eldes; [Nynorsk] eldast
+age {v} (transitive: cause to grow old)	 :: [Bokmål] aldre
+aged care {n} (eldercare) SEE: eldercare	 ::
+agency {n} (agent) SEE: agent	 ::
+agency {n} (place of business of an agent)	 :: [Bokmål] byrå
+agenda {n} (list of matters to be taken up)	 :: agenda {m}
+agenda {n} (temporally organized plan)	 :: agenda {m}
+agent {n} (one who acts in place of another)	 :: agent {m}
+age of consent {n} (an age at which one is legally mature enough to have sex)	 :: seksuell lavalder {m}
+Age of Enlightenment {prop} (period of history)	 :: [Bokmål] opplysningstid {m} {f}; [Nynorsk] opplysingstid {f}
+age of majority {n} (age at which the rights and privileges of an adult are legally granted)	 :: [Bokmål] myndighetsalder {m}; [Nynorsk] myndig alder {m}, myndigalder {m}
+age-reversal {n} (a therapy or process which reversees the physiological aging process)	 :: aldersreversering {f}
+aggravate {v} (To make worse, or more severe)	 :: [Bokmål] forverre; [Nynorsk] forverre
+aggression {n} (act of initiating hostilities or invasion)	 :: [Bokmål] aggresjon
+aggressive {adj} (tending or disposed to aggress)	 :: aggressiv
+agile {adj} (having the faculty of quick motion in the limbs)	 :: behendig, ledig, smidig, sprek
+agility {n} (quality of being agile)	 :: smidighet {m}, spenst {m}
+aglet {n} (catkin) SEE: catkin	 ::
+aglet {n} (cover of a shoelace) SEE: aiglet	 ::
+agnathic {adj} (agnathous) SEE: agnathous	 ::
+Agnes {prop} (female given name)	 :: Agnes
+ago {prep} (past; gone by; since)	 :: siden
+agoraphobia {n} (fear of open spaces)	 :: agorafobi
+agree {v}	 :: overensstemme
+agree {v} (to yield assent, to accede)	 :: jatte
+agreeable {adj} (pleasing)	 :: behagelig {n}
+agreement {n} (an understanding to follow a course of conduct)	 :: avtale {m}, samtykke {n}; [Bokmål] overenskomst {m}
+agreement {n} (grammatical agreement)	 :: kongruens {m}
+agreement {n} (legally binding contract enforceable in a court of law)	 :: avtale {m}
+agreement {n} (state whereby several parties share a view or opinion)	 :: enighet {m}, overensstemmelse {m}
+agriculture {n} (the art or science of cultivating the ground)	 :: landbruk {n}, jordbruk {n}
+ague {n} (malaria) SEE: malaria	 ::
+aha {interj} (exclamation of understanding, realization, invention, or recognition)	 :: aha
+Ahasuerus {prop} (biblical king of Persia)	 :: Xerxes
+ahorse {adv} (on the back of a horse) SEE: horseback	 ::
+ahorseback {adv} (on the back of a horse) SEE: horseback	 ::
+aid {n} (aide-de-camp) SEE: aide-de-camp	 ::
+aid {n} (something which helps; a material source of help)	 :: [Bokmål] hjelpemiddel {n}; [Nynorsk] hjelpemiddel {n}
+aide {n} (assistant) SEE: assistant	 ::
+aide {n} (military: officer who acts as an assistant to a more senior one) SEE: aide-de-camp	 ::
+aide-de-camp {n} (military officer)	 :: [Bokmål] adjutant {m}
+AIDS {n} (acquired immune deficiency syndrome)	 :: AIDS
+aileron {n} (Hinged part on trailing edge of airplane wing)	 :: balanseror {n}
+Ainu {prop} (language)	 :: ainu-språk
+air {n} (mixture of gases making up the atmosphere of the Earth)	 :: [Bokmål] luft {m} {f}; [Nynorsk] luft {f}
+air base {n} (airbase) SEE: airbase	 ::
+air bladder {n} (swim bladder) SEE: swim bladder	 ::
+air-conditioned {adj} (equipped with air-conditioning)	 :: [Bokmål] klimatisert, luftkondisjonert; [Nynorsk] klimatisert, luftkondisjonert
+aircraft {n} (machine capable of atmospheric flight)	 :: [Bokmål] luftfartøy {n}; [Nynorsk] luftfartøy {n}
+aircraft carrier {n} (warship for launching aircraft)	 :: [Bokmål] hangarskip {n}; [Nynorsk] hangarskip {n}
+airer {n} (clotheshorse) SEE: clotheshorse	 ::
+airfoil {n} (wing of an aircraft) SEE: wing	 ::
+air force {n} (branch of the military devoted to air warfare)	 :: [Bokmål] flyvåpen {n}, luftforsvar {n}; [Nynorsk] flyvåpen {n}, luftforsvar {n}
+air force {n}	 :: flyvåpen
+airily {adv} (in an airy manner)	 :: lettbent
+airing {n} (exposure to warm or fresh air)	 :: luftetur {m}
+airline {n} (company that flies airplanes)	 :: flyselskap
+airplane {n} (powered aircraft)	 :: [Bokmål] fly {n}; [Nynorsk] fly {n}
+airport {n} (a place designated for airplanes)	 :: flyplass {m}
+air resistance {n} (Friction that slows things moving through air)	 :: [Bokmål] luftmotstand {m}; [Nynorsk] luftmotstand {m}
+airship {n} (self-propelled lighter-than-air aircraft that can be steered) SEE: dirigible	 ::
+airstrip {n} (an aircraft landing field)	 :: [Bokmål] flystripe {m} {f}; [Nynorsk] flystripe {f}
+airwaves {n} (radio wave) SEE: radio wave	 ::
+airway {n} (trachea) SEE: trachea	 ::
+airway {n} (windpipe) SEE: windpipe	 ::
+airworthiness {n}	 :: [Nynorsk] flygedyktigheit {f}, flygeførheit {f}
+airworthiness {n} (the state of being airworthy)	 :: [Bokmål] flydyktighet {c}, flygedyktighet {c}, flyvedyktighet {c}; [Nynorsk] flygedyktig {f}, flygefør
+airworthy {adj} (being able to fly)	 :: [Bokmål] flydyktig, flygedyktig, flyvedyktig; [Nynorsk] flygedyktig, flygefør
+airworthy {adj} (meeting standards for safe flight)	 :: [Bokmål] flydyktig, flygedyktig, flyvedyktig; [Nynorsk] flygedyktig
+ajar {adj} (slightly turned or opened)	 :: på gløtt
+a journey of a thousand miles begins with a single step {proverb} (a journey of a thousand miles begins with a single step)	 :: en vandring på tusen mil starter med ett enkelt skritt
+Akan {prop} (language group spoken in Ghana)	 :: akan
+Akan {prop} (Niger-Congo language)	 :: akan, akansk; [Nynorsk] akan, akansk
+akinetic {adj} (akinesic) SEE: akinesic	 ::
+Akkadian {prop} (Semitic language)	 :: akkadisk
+al {n} (Indian mulberry) SEE: Indian mulberry	 ::
+alabaster {n} (variety of gypsum)	 :: [Bokmål] alabast {m}; [Nynorsk] alabast {m}
+Al-Andalus {prop} (Islamic Spain)	 :: Al-Andalus
+alas {interj} (exclamation of sorrow, etc.)	 :: akk
+Alaska {prop} (US state)	 :: Alaska
+alated {adj} (alate) SEE: alate	 ::
+Alban {prop} (male given name)	 :: Alban
+Albania {prop} (Caucasian Albania) SEE: Caucasian Albania	 ::
+Albania {prop} (country in south-eastern Europe)	 :: Albania
+Albanian {adj} (Of or pertaining to Albania)	 :: [Bokmål] albansk; [Nynorsk] albansk
+Albanian {n} (Person from Albania)	 :: [Bokmål] albaner {m}; [Nynorsk] alban {m}, albanar {m}
+Albanian {prop} (language)	 :: [Bokmål] albansk {m}; [Nynorsk] albansk {m}
+albatross {n} (seabird)	 :: [Bokmål] albatross {m}; [Nynorsk] albatross {m}
+albeit {conj} (despite its being; although)	 :: selv om, om enn
+Albert {prop} (male given name)	 :: Albert
+Alberta {prop} (province)	 :: Alberta
+Albin {prop} (male given name)	 :: Albin
+albinism {n} (lack of melanin pigmentation)	 :: albinisme {m}
+albino {adj} (congenitally lacking melanin)	 :: [Bokmål] albino
+albino {n} (one congenitally lacking melanin)	 :: [Bokmål] albino
+albinoism {n} (albinism) SEE: albinism	 ::
+albumen {n} (white part of an egg)	 :: [Bokmål] eggehvite {m} {f}, eggekvite {m} {f}; [Nynorsk] eggekvite {f}
+albumenoid {n} (albuminoid) SEE: albuminoid	 ::
+alburnum {n} (sapwood) SEE: sapwood	 ::
+alchemist {n} (one who practices alchemy)	 :: alkymist {c}
+alchemy {n} (ancient chemistry)	 :: [Bokmål] alkymi {m}; [Nynorsk] alkymi {m}
+alcohol {n} (intoxicating beverage)	 :: [Bokmål] alkohol {m}; [Nynorsk] alkohol {m}
+alcohol {n} (organic chemistry sense)	 :: [Bokmål] alkohol {m}; [Nynorsk] alkohol {m}
+alcohol abuse {n} (abuse caused by excessive drinking of alcohol)	 :: [Bokmål] alkoholmisbruk {m} {n}; [Nynorsk] alkoholmisbruk {m} {n}
+Alcoholics Anonymous {prop} (proper noun)	 :: Anonyme Alkoholikere
+aldehyde {n} (organic compound of the general formula R·CHO)	 :: [Bokmål] aldehyd {n}; [Nynorsk] aldehyd {n}
+alder {n} (any tree or shrub of the genus Alnus)	 :: or {c}, older {m} {f}, older {m} {f}
+aldose {n} (any of a class of monosaccharides)	 :: aldose {m}
+ale {n} (intoxicating liquor)	 :: ale
+Alejandro {prop} (cognates of Alejandro) SEE: Alexander	 ::
+alert {adj} (attentive)	 :: oppmerksom, våken
+alert {n} (an alarm)	 :: alarm {m}
+alert {n} (a notification)	 :: advarsel {m}, varsel {n}
+alert {v} (to give warning to)	 :: varsle
+Aletta {prop} (female given name)	 :: Alette
+Alex {prop} (male given name) SEE: Alexius	 ::
+Alexander {prop} (male given name)	 :: Alexander, Aleksander
+Alexandra {prop} (female given name)	 :: Alexandra
+Alexandroupoli {prop} (city)	 :: [Nynorsk] Alexandroúpoli
+Alfred {prop} (Male given name)	 :: Alfred
+alga {n} (any of many aquatic photosynthetic organisms)	 :: [Bokmål] alge {m}; [Nynorsk] alge {m}
+algae {n} (plural of alga)	 :: [Bokmål] alger {p}; [Nynorsk] algar {p}
+algebra {n} (system for computation)	 :: algebra
+algebra {n} (universal algebra) SEE: universal algebra	 ::
+Algeria {prop} (country)	 :: Algerie
+Algerian {adj} (of Algeria or its people)	 :: [Bokmål] algerisk; [Nynorsk] algerisk
+Algerian {n} (person from Algeria)	 :: [Bokmål] algerier {m}; [Nynorsk] algeriar {m}
+algorithm {n} (well-defined procedure)	 :: algoritme {m}
+alibi {n} (criminal legal defense)	 :: alibi
+Alice {prop} (female given name)	 :: Alice
+alien {adj} (Pertaining to an alien)	 :: utenomjordisk {m}
+alien {n} (life form of non-Earth origin)	 :: romvesen
+alienate {v} (To convey or transfer)	 :: fremmedgjøre
+alienate {v} (To estrange)	 :: fremmedgjøre
+alienist {n} (psychiatrist) SEE: psychiatrist	 ::
+alienist {n} (psychologist) SEE: psychologist	 ::
+alimentary canal {n} (digestive tract) SEE: digestive tract	 ::
+aline {v} (adhere oneself with a group or a way of thinking) SEE: align	 ::
+aline {v} (adjust or form to a line) SEE: align	 ::
+aline {v} (form in line, fall into line) SEE: align	 ::
+a little bird told me {phrase} (idiomatic)	 :: en liten fugl hvisket meg i øret, en liten fugl sa det
+Al Jazeera {prop} (Arabic satellite TV news channel)	 :: Al-Jazeera
+alkaline earth metal {n} (any element of group II of the periodic table)	 :: [Bokmål] jordalkalimetall {n}; [Nynorsk] jordalkalimetall {n}
+alkalinity {n} (state of being alkaline)	 :: alkalitet, alkalinitet
+alkane {n} (saturated hydrocarbon of formula CnH2n+2)	 :: [Bokmål] alkan {n}; [Nynorsk] alkan {n}
+alkene {n} (unsaturated aliphatic hydrocarbon with one or more carbon–carbon double bonds)	 :: alken {n}
+alkyne {n} (hydrocarbon containing at least one carbon-carbon triple bond)	 :: alkyn
+all {adv}	 :: helt
+all {determiner} (every individual of the given class)	 :: alle
+all {determiner} (everyone) SEE: everyone	 ::
+all {determiner} (everything) SEE: everything	 ::
+all {determiner} (throughout the whole of (a stated period of time))	 :: hele
+all {n} (everything possible)	 :: alt
+Allah {prop} (God, in Islam)	 :: Allah {m}
+all and sundry {pron}	 :: [Bokmål] alle og enhver, Gud og hvermann
+allative case {n} (case used to indicate movement onto, or to the adjacency of something)	 :: allativ; [Nynorsk] allativ
+all cats are gray at night {proverb} (all cats are grey in the dark) SEE: all cats are grey in the dark	 ::
+all cats are grey in the dark {proverb} (proverb)	 :: i mørket er alle katter grå
+allegedly {adv} (according to someone's allegation)	 :: angivelig, visstnok
+allegement {n} (allegation) SEE: allegation	 ::
+allegorically {adv} (in an allegorical manner)	 :: allegorisk
+allegory {n} (communication using such representation)	 :: allegori {m}
+allegory {n} (symbolic representation)	 :: allegori {m}
+allegory {n} (the representation of abstract principles)	 :: allegori {m}
+allegretto {adv} (musical direction)	 :: allegretto
+allelomorph {n} (allele) SEE: allele	 ::
+allergologist {n} (physician) SEE: allergist	 ::
+allergy {n} (disorder of the immune system)	 :: [Bokmål] allergi {m}; [Nynorsk] allergi {m}
+alley {n} (narrow street)	 :: allé {m}, strede {n}
+All Fools' Day {n} (April Fools' Day) SEE: April Fools' Day	 ::
+alliance {n} (state of being allied)	 :: [Bokmål] forbund {n}; [Nynorsk] forbund {n}
+alligator {n} (large amphibious reptile of genus Alligator)	 :: [Bokmål] alligator {m}; [Nynorsk] alligator {m}
+all of a sudden {adv} (colloquial: suddenly)	 :: plutselig
+all of the sudden {adv} (all of a sudden) SEE: all of a sudden	 ::
+allotypical {adj} (allotypic) SEE: allotypic	 ::
+allowance {n} (a child's allowance; pocket money) SEE: pocket money	 ::
+allowedly {adv} (admittedly) SEE: admittedly	 ::
+alloy {n} (metal combined of more elements)	 :: [Bokmål] legering {m} {f}; [Nynorsk] legering {f}
+alloy wheel {n} (mag wheel) SEE: mag wheel	 ::
+all right {adj}	 :: ålreit, ok
+all right {adj} (good)	 :: ålreit
+all right {interj}	 :: ålreit, ok
+all rights reserved {phrase} (copyright notice formula)	 :: alle rettigheter er forbeholdt
+all roads lead to Rome {proverb} (different paths to the same goal)	 :: alle veier fører til Rom
+allspice {n} (spice)	 :: [Bokmål] allehånde {m}; [Nynorsk] allehande {m}
+all's well that ends well {proverb} (even though something may have problems, it is all right ...)	 :: når enden er god er allting godt
+all that glitters is not gold {proverb} (things that appear valuable or worthwhile might not actually be so)	 :: det er ikke gull alt som glimrer
+all the same {adv} (anyway; nevertheless; nonetheless)	 :: likevel, tross alt
+all things come to those who wait {proverb} (good things come to those who wait) SEE: good things come to those who wait	 ::
+all together {adv} (altogether) SEE: altogether	 ::
+allure {n} (The power to attract, entice; the quality causing attraction)	 :: drag {n}
+allusion {n} (indirect reference, hint)	 :: allusjon {m}, hentydning {c}
+Alma {prop} (female given name)	 :: Alma
+almighty {adj} (unlimited in might)	 :: [Bokmål] allmektig; [Nynorsk] allmektig
+Almiros {prop} (Almyros) SEE: Almyros	 ::
+almond {adj} (resembling the colour of an almond nut)	 :: mandelfarget
+almond {n} (colour)	 :: mandelfarga, mandelfarva, mandelfarget, mandelfarvet
+almond {n} (nut)	 :: [Bokmål] mandel {m}; [Nynorsk] mandel {m}
+almond {n} (tree)	 :: mandeltre {n}
+almost {adv} (very close to)	 :: nesten
+almost doesn't count {proverb} (near success (or correctness) is not deemed success (or correctness))	 :: nesten holder ikke
+alms {n} (something given to the poor as charity)	 :: [Bokmål] almisse {m} {f}; [Nynorsk] almisse {f}
+aloha {interj} (goodbye) SEE: goodbye	 ::
+aloha {interj} (hello) SEE: hello	 ::
+alone {adv}	 :: alene
+alone {adv} (by oneself)	 :: alene
+alone {adv} (only)	 :: bare, kun, alene
+alone {adv} (without outside help)	 :: alene
+alopecia {n} (baldness) SEE: baldness	 ::
+a lot {adv} (often)	 :: ofte
+a lot {adv} (very much)	 :: mange
+alpaca {n} (camelid animal of the Andes)	 :: [Bokmål] alpakka {m}; [Nynorsk] alpakka {m}
+alpenglow {n} (a reddish glow seen near sunset or sunrise on the summits of mountains)	 :: [Bokmål] alpeglød {m}; [Nynorsk] alpeglød {m}
+alpha {n} (name of the letter Ɑ, ɑ) SEE: Latin alpha	 ::
+alphabet {n} (an ordered set of letters used in a language)	 :: [Bokmål] alfabet {n}; [Nynorsk] alfabet {n}
+alphabetical {adj} (in the sequence of the letters of the alphabet)	 :: [Bokmål] alfabetisk; [Nynorsk] alfabetisk
+alphabetically {adv} (arranged in the sequence of the alphabet)	 :: [Bokmål] alfabetisk; [Nynorsk] alfabetisk
+alphabetisation {n} (act of arranging in alphabetical order)	 :: alfabetisering
+alphanumeric {adj} (consisting of letters and numbers)	 :: [Bokmål] alfanumerisk; [Nynorsk] alfanumerisk
+alphanumerical {adj} (alphanumeric) SEE: alphanumeric	 ::
+alpine {adj} (of or relating to slalom or downhill skiing)	 :: alpint {m}
+alpine chough {n} (alpine chough)	 :: alpekaie
+alpinist {n} (mountain climber) SEE: mountaineer	 ::
+Alps {prop} (a mountain range in Western Europe)	 :: [Bokmål] Alpene; [Nynorsk] Alpane
+al-Qaeda {prop} (The global network of militant Islamic extremists.)	 :: al-Qaida
+al-Quds {prop} (Jerusalem) SEE: Jerusalem	 ::
+already {adv} (prior to some time)	 :: allerede
+alsatian {n} (dog) SEE: German shepherd	 ::
+Alsatian {n} (dog) SEE: German shepherd	 ::
+also {adv} (in addition; besides; as well; further; too)	 :: [Bokmål] også, òg, dessuten; [Nynorsk] òg, dessutan, også
+also known as {adv} (used to introduce an alternative name) SEE: AKA	 ::
+Altai {prop} (Altay) SEE: Altay	 ::
+altar {n} (flat-topped structure used for religious rites)	 :: [Bokmål] alter {n}; [Nynorsk] altar {n}, alter {n}
+alteration {n} (the act of altering or making different)	 :: [Bokmål] endring {m} {f}, forandring {m} {f}
+alteration {n} (the state of being altered)	 :: [Bokmål] forandring {m} {f}, omslag {n}
+alter ego {n} (alternate personality or persona)	 :: alter ego {n}
+alternate {adj} (other; alternative)	 :: [Bokmål] alternativ
+alternating current {n} (electric current)	 :: [Bokmål] vekselstrøm {m}; [Nynorsk] vekselstraum {m}
+alternation {n} (ablaut) SEE: ablaut	 ::
+alternation {n} (inclusive or) SEE: inclusive or	 ::
+alternative {adj} (other)	 :: alternativ
+alternative {adj} (Relating to a choice)	 :: alternativ
+alternative {n} (a situation which allows a choice between two or more possibilities)	 :: alternativ {n}, alternativ {n-p}
+alternative {n} (one of several things which can be chosen)	 :: alternativ {n}, alternativ {n-p}
+although {conj} (in spite of the fact that)	 :: [Bokmål] selv om
+altogether {adv} (on the whole; everything considered)	 :: [Bokmål] alt i alt, i det store og det hele; [Nynorsk] alt i alt, i det store og det heile
+altogether {adv} (without exception; wholly; completely)	 :: [Bokmål] uten unntak; [Nynorsk] utan unntak
+altophobia {n} (acrophobia) SEE: acrophobia	 ::
+altruism {n} (policy that benefits others' interests)	 :: altruisme {m}
+altruist {n} (person imbued with altruism)	 :: altruist {m}
+altruistic {adj} (regardful of others; beneficent; unselfish)	 :: altruistisk
+alula {n} (bastard wing) SEE: bastard wing	 ::
+aluminium {n} (silvery metal)	 :: aluminium; [Nynorsk] aluminium
+aluminium foil {n} (thin sheets of aluminium)	 :: aluminiumsfolie {m}, sølvpapir {n}
+aluminum {n} (aluminium) SEE: aluminium	 ::
+always {adv} (at all times)	 :: alltid, bestandig
+always {adv} (constantly during a certain period, or regularly at stated intervals)	 :: hele tiden, konstant, alltid
+ama {n} (amah) SEE: amah	 ::
+Amanda {prop} (female given name)	 :: Amanda
+amanita {n} (mushroom of the genus Amanita)	 :: fluesopp {c}
+amanuensis {n}	 :: amanuensis
+amateur {n} (person attached to a pursuit without pursuing it professionally)	 :: [Bokmål] amatør {m}; [Nynorsk] amatør {m}
+amateur radio {n} (hobby)	 :: [Bokmål] amatørradio {m}; [Nynorsk] amatørradio {m}
+amazing {adj} (causing wonder and amazement)	 :: forbløffende
+amœba {n} (amoeba) SEE: amoeba	 ::
+ambages {n} (indirect or roundabout ways of talking) SEE: circumlocution	 ::
+ambassador {n} (minister)	 :: [Bokmål] ambassadør {m}; [Nynorsk] ambassadør {m}
+ambassador {n} (representative)	 :: [Bokmål] ambassadør {m}
+amber {adj} (of a brownish yellow colour)	 :: ravgul
+amber {n} (ambergris) SEE: ambergris	 ::
+amber {n} (colour)	 :: ravgult {n}
+amber {n} (fossil resin)	 :: rav {n}
+amber {n} (traffic light colour)	 :: gult {n}
+ambergris {n} (waxy substance produced by sperm whales)	 :: ambra
+ambiance {n} (particular mood or atmosphere of an environment)	 :: stemning {c}
+ambigram {n} (design that may be read in two different ways)	 :: ambigram
+ambiguous {adj} (open to multiple interpretations)	 :: flertydig, tvetydig
+ambiguous {adj} (vague and unclear)	 :: vag, uklar
+ambrosia {n} (food of gods or delicious foods)	 :: ambrosia
+ambulance {n} (emergency vehicle)	 :: [Bokmål] ambulanse {m}, sykebil {m}, sjukebil {m}; [Nynorsk] ambulanse {m}, sjukebil {m}
+Amelia {prop} (female given name)	 :: Amalie
+amen {adv} (so be it)	 :: amen
+amenity {n} (convenience) SEE: convenience	 ::
+amerce {v} (to impose a fine on) SEE: fine	 ::
+amerce {v} (to make an exaction) SEE: punish	 ::
+America {prop} (United States of America) SEE: United States of America	 ::
+American {adj} (of or pertaining to the Americas)	 :: [Bokmål] amerikansk; [Nynorsk] amerikansk
+American {adj} (of or pertaining to the U.S. or its culture)	 :: [Bokmål] amerikansk; [Nynorsk] amerikansk
+American {n} (inhabitant of the Americas)	 :: [Bokmål] amerikaner {m}; [Nynorsk] amerikanar {m}
+American {n} (person born in or citizen of the USA)	 :: amerikaner {m}, amerikanere {m-p}; [Bokmål] amerikaner {m}, USA-amerikaner {m}; [Nynorsk] amerikanar {m}
+American {prop} (American English)	 :: [Bokmål] amerikansk engelsk {m}; [Nynorsk] amerikansk engelsk {m}
+American bison {n} (mammal)	 :: amerikansk bison
+American black vulture {n} (black vulture) SEE: black vulture	 ::
+American eagle {n} (bald eagle) SEE: bald eagle	 ::
+American English {prop} (English of the United States)	 :: amerikansk-engelsk
+American football {prop} (American football)	 :: amerikansk fotball
+Americanization {n} (Americanisation) SEE: Americanisation	 ::
+American pokeweed {n} (pokeweed) SEE: pokeweed	 ::
+American Samoa {prop} (US overseas territory in Oceania)	 :: Amerikansk Samoa
+American white birch {n} (Betula papyrifera) SEE: paper birch	 ::
+americium {n} (chemical element with atomic number 95)	 :: americium
+Amharic {prop} (language)	 :: amharisk
+amigo {n} (friend) SEE: friend	 ::
+amino acid {n} (any of the twenty α-amino acids)	 :: [Bokmål] aminosyre {m} {f}; [Nynorsk] aminosyre {f}
+amino acid {n} (any organic compound containing amino and carboxylic acid)	 :: [Bokmål] aminosyre {m} {f}; [Nynorsk] aminosyre {f}
+aminomycin {n} (perimycin) SEE: perimycin	 ::
+A-minor {n} (minor key with A as its tonic)	 :: A-moll
+amiss {adj} (wrong) SEE: wrong	 ::
+ammunition {n} (articles used in charging firearms)	 :: ammunisjon {m}
+amnesia {n} (loss of memory)	 :: hukommelsestap {n}
+amoeba {n} (a genus of unicellular protozoa)	 :: amøbe
+among {prep} (mingling or intermixing)	 :: blant, mellom
+amortize {v} (decrease (debt) in installments)	 :: amortisere
+Amos {prop} (book of the Old Testament)	 :: Amos
+amount {n} (number of elements in a set) SEE: number	 ::
+ampersand {n} (the symbol &)	 :: ampersand; kringle
+ampersat {n} (at sign) SEE: at sign	 ::
+amphibian {n} (vertebrate)	 :: [Bokmål] amfibium {n}; [Nynorsk] amfibium {n}
+amphitheater {n} (classic amphitheatre)	 :: [Bokmål] amfiteater {n}; [Nynorsk] amfiteater {n}
+amphitheatre {n} (an open, outdoor theatre)	 :: [Bokmål] amfiteater {n}; [Nynorsk] amfiteater {n}
+ample {adj} (fully sufficient; abundant)	 :: rikelig
+ample {adj} (not contracted or brief; not concise)	 :: fyldig
+amplitude {n} (magnitude)	 :: amplitude {m}
+amplitude {n} (math: maximum absolute value)	 :: amplitude {m}
+amplitude {n} (physics: maximum absolute value)	 :: amplitude {m}
+Amsterdam {prop} (capital of the Netherlands)	 :: Amsterdam
+Amur {prop} (Heilongjiang) SEE: Heilongjiang	 ::
+Amur {prop} (the river between the Far East Russia and China)	 :: Amur
+amusia {n} (the inability to comprehend or respond to music)	 :: [Bokmål] amusi {m}; [Nynorsk] amusi
+amylase {n} (enzyme, present in saliva, that breaks down carbohydrates such as starch)	 :: amylase
+an {article} (indefinite article)	 :: [Bokmål] en {m}, ei {f}, et {n}; [Nynorsk] ein {m}, ei {f}, eit {n}
+anabolism {n} (the constructive metabolism of the body)	 :: anabolisme
+anachronism {n} (person or thing which seems to belong to a different time)	 :: [Bokmål] anakronisme {m}; [Nynorsk] anakronisme {m}
+anaesthetist {n} (anesthesiologist) SEE: anesthesiologist	 ::
+anagram {n} (word or phrase created by rearranging letters from another word or phrase)	 :: anagram
+analog {adj} (represented by a continuously variable physical quantity)	 :: analog
+analogue {n} (analog) SEE: analog	 ::
+analysis {n} (chemistry: process of breaking down a substance or the result of this process)	 :: analyse
+analysis {n} (in mathematics)	 :: analyse
+analysis {n} (process of dismantling or separating into constituents in order to study)	 :: analyse
+analytical {adj} (analytic) SEE: analytic	 ::
+anamnesis {n} (recollection)	 :: anamnese
+ananas {n} (pineapple) SEE: pineapple	 ::
+anapest {n} (metrical foot)	 :: [Bokmål] anapest {m}; [Nynorsk] anapest {m}
+anaphrodisiac {adj} (antaphrodisiac) SEE: antaphrodisiac	 ::
+anaphrodisiac {n} (antaphrodisiac) SEE: antaphrodisiac	 ::
+anarchical {adj} (anarchic) SEE: anarchic	 ::
+anarchism {n} (belief that proposes the absence and abolition of government in all forms)	 :: anarkisme
+anarchist {n} (believer in anarchism)	 :: anarkist {m}
+anarchy {n} (absence of any form of political authority or government)	 :: anarki {n}
+anarchy {n} (political disorder and confusion)	 :: anarki {n}, vanstyre {n}
+anatomic {adj} (anatomical) SEE: anatomical	 ::
+anchor {n} (tool to moor a vessel into sea bottom)	 :: anker {n}
+anchovy {n} (small saltwater fish)	 :: ansjos {m}
+Ancient Greece {prop} (The ancient civilization of the Mediterranean)	 :: [Bokmål] Antikkens Hellas
+Ancient Greek {prop} (all the Greek languages spoken between the Dorian invasion and the fall of the Roman Empire)	 :: [Bokmål] gammelgresk {m}
+and {conj} (used at the end of a list to indicate the last item)	 :: [Bokmål] og; [Nynorsk] og
+and {conj} (used to connect two similar words, phrases, et cetera)	 :: [Bokmål] og; [Nynorsk] og
+and {conj} (used to show causation)	 :: [Bokmål] og, så; [Nynorsk] og, så
+and {conj} (used to string together sentences or sentence fragments in chronological order)	 :: [Bokmål] og; [Nynorsk] og
+Andalusi Arabic {prop} (Andalusian Arabic) SEE: Andalusian Arabic	 ::
+Anderson {prop} (surname meaning "son of Andrew")	 :: Andersen
+Andes {prop} (mountain range in South America)	 :: [Bokmål] Andes, Andesfjellene {n-p}; [Nynorsk] Andes, Andesfjella {n-p}
+and/or {conj} (inclusive "or")	 :: [Bokmål] og/eller; [Nynorsk] og/eller
+Andorra {prop} (country)	 :: Andorra
+Andorran {adj} (pertaining to Andorra)	 :: [Bokmål] andorransk; [Nynorsk] andorransk
+Andorran {n} (person from Andorra)	 :: [Bokmål] andorraner {m}; [Nynorsk] andorranar {m}
+Andrew {prop} (male given name)	 :: Andreas, Anders
+Andrew {prop} (the Apostle)	 :: Andreas
+androgenic hair {n} (body hair) SEE: body hair	 ::
+androgynous {adj} (having sex organs of both genders) SEE: hermaphroditic	 ::
+Andromeda {prop} (constellation)	 :: Andromeda
+Andromeda {prop} (mythical daughter of Cepheus)	 :: Andromeda
+Andromeda {prop} (spiral galaxy)	 :: Andromeda
+and so on {phrase} (indicates that a list continues)	 :: og så videre
+-ane {suffix} (alkanes)	 :: -an
+anecdote {n} (short account of an incident)	 :: [Bokmål] anekdote {m}; [Nynorsk] anekdote {m}
+anecdotic {adj} (anecdotal) SEE: anecdotal	 ::
+anecdotive {adj} (anecdotal) SEE: anecdotal	 ::
+anemometer {n} (an instrument for measuring and recording the speed of the wind)	 :: anemometer {n}, skålanemometer {n}
+anemone {n} (sea anemone) SEE: sea anemone	 ::
+angel {n} (in Christian angelology, the lowest order of angels)	 :: [Bokmål] engel {m}; [Nynorsk] engel {m}
+angel {n} (messenger from a deity)	 :: [Bokmål] engel {m}; [Nynorsk] engel {m}
+angel {n} (selfless person)	 :: [Bokmål] engel {m}; [Nynorsk] engel {m}
+Angel {prop} (female given name) SEE: Angela	 ::
+Angel {prop} (male given name) SEE: Angelo	 ::
+angel dust {n} (clenbuterol) SEE: clenbuterol	 ::
+angelica {n} (plants of genus Angelica)	 :: kvann {f}
+angelical {adj} (resembling, characteristic of, an angel) SEE: angelic	 ::
+anger {n} (A strong feeling of displeasure, hostility or antagonism towards someone or something)	 :: sinne {n}
+angina {n} (angina pectoris) SEE: angina pectoris	 ::
+angiograph {n} (angiograph) SEE: angiogram	 ::
+angiosperm {n} (member of plant group)	 :: [Bokmål] blomsterplante {m} {f}, angiosperm {m}
+angiospermous {adj} (having seeds enclosed in pericarp) SEE: angiosperm	 ::
+Angkor Wat {prop} (Cambodian temple complex)	 :: Angkor Vat
+angle {n} (geometrical figure)	 :: [Bokmål] vinkel
+angler {n} (angler fish)	 :: breiflabb {m}
+Anglican Communion {prop} (a worldwide network of churches that are in communion with the Church of England)	 :: [Nynorsk] anglikanske kommunionen
+anglicism {n} (Briticism) SEE: Briticism	 ::
+anglicism {n} (word or other feature borrowed from English to another language)	 :: [Bokmål] anglisisme {m}; [Nynorsk] anglisisme {m}
+Anglo-Saxon {adj} (related to the Anglo-Saxon peoples or language)	 :: [Bokmål] angelsaksisk; [Nynorsk] angelsaksisk
+Anglo-Saxon {prop} (Old English)	 :: gammelengelsk
+Angola {prop} (country in Southern Africa)	 :: Angola
+Angolan {adj} (of, from or pertaining to Angola or its people)	 :: [Bokmål] angolansk; [Nynorsk] angolansk
+Angolan {n} (person from Angola or of Angolan descent)	 :: [Bokmål] angolaner {m}; [Nynorsk] angolan {m}, angolanar {m}
+Angra Mainyu {prop} (Ahriman) SEE: Ahriman	 ::
+angst {n} (feeling of acute anxiety or apprehension)	 :: [Bokmål] angst {m}; [Nynorsk] angst {m}, angest {m}
+angular {adj} (ungraceful) SEE: ungraceful	 ::
+animal {adj} (of animals)	 :: animalisk, dyrisk
+animal {n} (organism)	 :: dyr
+animal {n} (person who behaves wildly)	 :: dyr {n}
+animalcule {n} (protozoan) SEE: protozoan	 ::
+animalize {v} (brutalize) SEE: brutalize	 ::
+animal magnetism {n} (magnetic fluid or ethereal medium said to reside in the bodies of animate beings)	 :: mesmerisme
+animate {adj} (that which lives)	 :: [Bokmål] levende; [Nynorsk] levande
+anime {n} (an animated work originated in Japan)	 :: anime
+anise {n} (fennel) SEE: fennel	 ::
+anise {n} (plant and spice)	 :: anis
+anisomorphism {n} (differences between two languages)	 :: anisomorfisme
+Ankara {prop} (capital of Turkey)	 :: Ankara
+ankle {n} (joint between foot and leg)	 :: [Bokmål] ankel {m}; [Nynorsk] ankel {m}, okle {f} {n}
+ankle bracelet {n} (ankle monitor) SEE: ankle monitor	 ::
+Ann {prop} (female given name)	 :: Anna
+Anna {prop} (biblical prophetess)	 :: Anna
+Anna {prop} (given name) SEE: Ann	 ::
+Anne {prop} (given name) SEE: Ann	 ::
+annex {n} (addition, an extension)	 :: anneks
+annex {n} (addition of territory) SEE: annexation	 ::
+annex {v} (to add something to another, to incorporate into)	 :: annektere
+annexation {n} (addition or incorporation of something)	 :: [Bokmål] anneksjon {m}
+annihilate {v} (to reduce to nothing, to destroy, to eradicate)	 :: tilintetgjøre
+anniversary {n} (day an exact number of years since an event)	 :: årsdag {m}, jubileum {n}
+anniversary {n} (wedding anniversary)	 :: bryllupsdag {m}
+announcement {n} (announcement)	 :: [Bokmål] kunngjøring {m} {f}, kunngjørelse {m}; [Nynorsk] kunngjering {f}
+annoyed {adj} (troubled, irritated by something unwanted or unliked; vexed)	 :: irritert, forarget, forbannet, ergerlig
+annoying {v} (causing irritation or annoyance; troublesome; vexatious)	 :: irriterende, plagsom, brysom, enerverende
+annual {adj} (happening once a year)	 :: [Bokmål] årlig
+annually {adv} (once every year)	 :: [Bokmål] årlig
+annul {v} (formally revoke the validity of)	 :: annullere, oppheve, tilbakekalle
+anoda {determiner} (another) SEE: another	 ::
+anonymity {n} (the quality or state of being anonymous)	 :: [Bokmål] anonymitet {m}; [Nynorsk] anonymitet {m}
+anorak {n} (heavy weatherproof jacket)	 :: [Bokmål] anorakk {m}; [Nynorsk] anorakk {m}
+anorexia {n} (anorexia nervosa) SEE: anorexia nervosa	 ::
+Anschluss {n} (the annexation of Austria into Germany in 1938 or an analogy)	 :: [Bokmål] anschluss
+answer {n} (reply to e-mail)	 :: svar {n}
+answer {n} (response)	 :: svar {n}
+answer {n} (solution)	 :: svar {n}, løsning {m}
+answer {v} (to make a reply or response to)	 :: svare
+answer {v} (to suit a need or purpose satisfactorily)	 :: oppfylle, tilfredsstille
+answer for {v} (to be held responsible for)	 :: [Bokmål] svare for
+ant {n} (insect)	 :: maur
+antagonist {n} (chemical)	 :: Kjemisk
+Antarctica {prop} (southernmost continent)	 :: Antarktis
+Antarctic Ocean {prop} (Southern Ocean) SEE: Southern Ocean	 ::
+anteater {n} (mammal)	 :: maursluker
+antebrachium {n} (forearm) SEE: forearm	 ::
+antelope {n} (mammal of the family Bovidae)	 :: antilope
+antelope {n} (pronghorn) SEE: pronghorn	 ::
+antenna {n} (device to receive or transmit radio signals) SEE: aerial	 ::
+anteroom {n} (antechamber) SEE: antechamber	 ::
+anthem {n} (hymn of praise or loyalty)	 :: hymne {m}
+anthem {n} (national anthem)	 :: nasjonalsang {m}
+ant-hill {n} (anthill) SEE: anthill	 ::
+Anthony {prop} (given name)	 :: Anton
+anthracite {n} (type of coal)	 :: [Bokmål] antrasitt {m}; [Nynorsk] antrasitt {m}
+anthrax {n} (disease)	 :: miltbrann
+anthropologic {adj} (anthropological) SEE: anthropological	 ::
+anthropological {adj} (relating to anthropology)	 :: [Bokmål] antropologisk; [Nynorsk] antropologisk
+anthropology {n} (the study of humanity)	 :: antropologi
+anthropomorphism {n} (the attribution or ascription of human characteristics to inanimate objects, animals, forces of nature, etc)	 :: antropomorfisme
+anthroposophy {n} (a spiritual philosophy)	 :: antroposofi {m}
+anti- {prefix}	 :: anti-
+antiacid {n} (antacid) SEE: antacid	 ::
+antiaging {adj} (related to the lessening or halting of the aging process)	 :: anti-aldring
+anti-beauty quark {n} (anti-bottom quark) SEE: anti-bottom quark	 ::
+antibiotic {adj} (of or relating to antibiotics)	 :: antibiotisk
+antibiotic {n} (substance that destroys or inhibits bacteria)	 :: antibiotikum {n}
+antibody {n} (protein that binds to a specific antigen)	 :: antistoff
+antibrachium {n} (antibrachium) SEE: forearm	 ::
+antichrist {n} (Someone that works against the teachings of Christ)	 :: antikrist {m}
+Antichrist {prop} (one under the direct control of the Devil)	 :: Antikrist {m}
+anticline {n} (anticlinal fold)	 :: antiklinal; [Nynorsk] antiklinal
+anticlockwise {adv}	 :: mot klokka
+anticlockwisely {adv} (anticlockwise) SEE: anticlockwise#Adverb	 ::
+antiderivative {n} (an indefinite integral)	 :: antiderivert {m}
+antifreeze {n} (a substance used to lower the freezing point of water)	 :: [Bokmål] frostvæske {m} {f}; [Nynorsk] frostvæske {f}
+Antigua and Barbuda {prop} (Country)	 :: Antigua og Barbuda
+Antiguan {adj} (of, from, or pertaining to Antigua, or the Antiguan people)	 :: [Bokmål] antiguansk; [Nynorsk] antiguansk
+Antiguan {n} (person)	 :: [Bokmål] antiguaner {m}; [Nynorsk] antiguan {m}, antiguanar {m}
+antihero {n} (protagonist who proceeds in an unheroic manner)	 :: antihelt {m}
+antimony {n} (chemical element)	 :: antimon
+antimony {n} (stibnite) SEE: stibnite	 ::
+antiparticle {n} (a subatomic particle)	 :: [Bokmål] antipartikkel {m}; [Nynorsk] antipartikkel {m}
+antipode {n} (something directly opposite)	 :: diametral motsats {c}, diametral motsetning {c}, rak motsats {c}, rak motsetning {c}
+antipole {n} (opposite pole)	 :: [Bokmål] motpol {m}; [Nynorsk] motpol {m}
+antipole {n} (position directly opposite)	 :: [Bokmål] motpol {m}; [Nynorsk] motpol {m}, motpol {m}
+antique {adj} (old; out of date)	 :: antikvarisk
+antique {n} (old piece)	 :: antikvitet {m}
+antisocial {adj} (unwilling or unable to associate normally with other people)	 :: asosial
+antisurveillance {n} (countersurveillance) SEE: countersurveillance	 ::
+antitau {n} (antitauon) SEE: antitauon	 ::
+antiziganism {n} (antigypsyism) SEE: antigypsyism	 ::
+antler {n} (bony structure on the head of deer, moose and elk)	 :: horn {n}; [Bokmål] gevir {n} (pair of antlers); [Nynorsk] gevir {n} (pair)
+Antonia {prop} (female given name)	 :: Antonie
+Antony {prop} (male given name) SEE: Anthony	 ::
+antonym {n} (word which has the opposite meaning)	 :: antonym
+antonymy {n} (semantic relation between antonyms)	 :: antonymi
+Antwerp {prop} (city)	 :: Antwerpen
+Antwerp {prop} (province)	 :: Antwerpen
+anus {n} (lower opening of the digestive tract)	 :: anus, endetarmsåpning
+anvil {n} (block used in blacksmithing)	 :: ambolt {m}, ste {n}
+anvil {n} (bone in inner ear)	 :: ambolt {m}
+anxiety {n} (pathological condition)	 :: angst
+anyhow {adv} (in any case) SEE: in any case	 ::
+anyone {pron} (anybody)	 :: noen, enhver, hvem som helst
+anyplace {adv} (anywhere) SEE: anywhere	 ::
+anyroad {adv} (anyway) SEE: anyway	 ::
+anytime {adv} (at any time)	 :: når som helst
+anyway {adv} (used to indicate that a statement explains or supports a previous statement)	 :: uansett
+Aomen {prop} (Macau) SEE: Macau	 ::
+apanage {n} (Grant as a birthright)	 :: appanasje
+apart {prep} (apart from) SEE: apart from	 ::
+apartment {n} (domicile occupying part of a building)	 :: [Bokmål] leilighet {m} {f}; [Nynorsk] husvære {n}, leilegheit {f}
+apatite {n} (type of mineral)	 :: apatitt
+ape {n} (animal)	 :: ape {c}
+aper {n} (someone who apes something) SEE: imitator	 ::
+apex {n} (highest point)	 :: topp
+aphasia {n} (pathological speech disorder)	 :: afasi {m}
+aphid {n} (insect)	 :: [Bokmål] bladlus {m} {f}
+aphonia {n} (aphonia)	 :: [Bokmål] afoni {m}; [Nynorsk] afoni {m}
+aphorism {n} (short phrase conveying some principle or concept of thought)	 :: aforisme {m}
+aphtha {n} (foot-and-mouth disease) SEE: foot-and-mouth disease	 ::
+apiarist {n} (beekeeper) SEE: beekeeper	 ::
+a picture is worth a thousand words {proverb} (visualisation is better than verbal description)	 :: et bilde sier mer enn tusen ord
+a picture paints a thousand words {proverb} (a picture is worth a thousand words) SEE: a picture is worth a thousand words	 ::
+apiculture {n} (beekeeping) SEE: beekeeping	 ::
+apoastron {n} (apastron) SEE: apastron	 ::
+apocalypse {n} (cataclysmic event)	 :: [Bokmål] apokalypse, dommedag {m}; [Nynorsk] apokalypse {m}, dommedag {m}, domedag {m}
+apocalypse {n} (end of the world)	 :: [Bokmål] apokalypse {m}, dommedag {m}; [Nynorsk] apokalypse {m}, dommedag {m}, domedag {m}
+apocalypse {n} (revealing or revelation)	 :: [Bokmål] apokalypse {m}; [Nynorsk] apokalypse {m}
+apocalyptic {adj} (of or relating to an apocalypse)	 :: [Bokmål] apokalyptisk; [Nynorsk] apokalyptisk
+apocalyptic {adj} (relating to a disaster)	 :: [Bokmål] apokalyptisk; [Nynorsk] apokalyptisk
+apocalyptic {adj} (relating to a revelation, revelatory, prophetic)	 :: [Bokmål] apokalyptisk; [Nynorsk] apokalyptisk
+apocalypticist {n} (apocalyptic) SEE: apocalyptic	 ::
+apologise {v} (apologize) SEE: apologize	 ::
+apology {n}	 :: unnskyldning
+apostle {n} (pioneer) SEE: pioneer	 ::
+apostrophe {n} (the character ’)	 :: [Bokmål] apostrof {m}; [Nynorsk] apostrof {m}
+apothecary {n} (pharmacist) SEE: pharmacist	 ::
+apothecary {n} (pharmacy) SEE: pharmacy	 ::
+apoxia {n} (altitude sickness) SEE: altitude sickness	 ::
+appanage {n} (Grant as a birthright)	 :: appanasje
+apparatchik {n} (member of a Communist apparat)	 :: apparatsjik {m}
+apparel {n} (clothing)	 :: antrekk, påkledning
+apparel {v}	 :: kle på, antrekke
+apparently {adv} (seemingly)	 :: tilsynelatende
+appeal {v} (to accuse) SEE: accuse	 ::
+appeal {v} (to invoke) SEE: invoke	 ::
+appease {v} (To make quiet; to calm; to reduce to a state of peace; to still; to pacify)	 :: stille, roe
+appendage {n} (an external body part that projects from the body)	 :: lem {n}
+appendicitis {n} (inflamation of the vermiform appendix)	 :: [Bokmål] appendisitt {m}, blindtarmsbetennelse {m}; [Nynorsk] appendisitt {m}, blindtarmsbetennelse {m}, blindtarmbetennelse {m}
+appendix {n} (text added to the end of a book or an article)	 :: vedlegg {n}, appendiks, supplement
+appendix {n} (vermiform appendix)	 :: blindtarm {m}
+appetite {n} (desire of or relish for food)	 :: matlyst {m}
+apple {n} (apples and pears (Cockney rhyming slang)) SEE: apples and pears	 ::
+apple {n} (fruit)	 :: eple {n}
+apple {n} (tree) SEE: apple tree	 ::
+apple {n} (wood)	 :: epletre {n}
+apple does not fall far from the tree {proverb} (a child is similar to its parents)	 :: [Bokmål] eplet faller ikke langt fra stammen, være sin far/mor opp av dage
+apple-green {adj} (apple-green)	 :: eplegrønn
+apple pie {n} (pie with apple filling)	 :: [Bokmål] eplepai {m}; [Nynorsk] eplepai {m}
+apple sauce {n} (a food)	 :: [Bokmål] eplemos {m}; [Nynorsk] eplemos {m}
+apple sauce {n} (nonsense) SEE: apple sauce	 ::
+applesauce {n} (apple sauce) SEE: apple sauce	 ::
+apple tree {n} (tree that bears apples)	 :: epletre
+applicant {n} (one who applies)	 :: søker
+application {n} (a computer program)	 :: program {n}, applikasjon {m}
+application {n} (a verbal or written request)	 :: søknad
+application programming interface {n}	 :: Application Programming Interface {n}
+applied mathematics {n} (area of mathematics)	 :: anvendt matematikk {m}
+appoint {v} (To assign, designate, or set apart by authority)	 :: oppnevne
+apposition {n} (rhetoric: appositio) SEE: appositio	 ::
+appraise {v} (to set a value; to estimate the worth of)	 :: taksere, vurdere
+appreciate {v} (to be aware of)	 :: forstå
+appreciate {v} (to be grateful for something)	 :: sette pris på
+appreciate {v} (to increase in value)	 :: stige i verdi
+appreciate {v} (to value highly)	 :: verdsette
+apprentice {n} (trainee, especially in a skilled trade)	 :: [Bokmål] lærling {m}; [Nynorsk] lærling {m}
+approach {n} (a manner in which a problem is solved or policy is made)	 :: tilnærmelsesmåte {m}
+approach {n} (a way, passage, or avenue by which a place or buildings can be approached; an access)	 :: innkjøring {c}
+approach {n} (the act of drawing near)	 :: tilnærmelse {m} (space or figuratively), tilstundelse {m} (time, archaic)
+approach {n} (the way a plane lands at an airport)	 :: innflyging {c}
+approach {v} (To come near to in place, time, or character)	 :: nærme seg
+approach {v} (To draw near, in a figurative sense)	 :: tilnærme seg
+appropriate {adj} (peculiar, suitable, fit, proper)	 :: egnet, formålstjenlig, passende, hensiktsmessig
+appropriate {adj} (suitable to social situation)	 :: velegnet
+appropriate {v} (Law: To annex)	 :: annektere
+approximant {n} (mathematics: approximation) SEE: approximation	 ::
+apricot {n} (fruit)	 :: aprikos {m}
+apricot {n} (tree)	 :: aprikostre {n}
+April {prop} (fourth month of the Gregorian calendar)	 :: april
+April fool {n} (person subjected to a practical joke April Fools' Day)	 :: aprilsnarr; [Nynorsk] aprilnarr
+April fool {n} (practical joke played on April Fools' Day)	 :: [Bokmål] aprilsnarr, aprilspøk; [Nynorsk] aprilnarr, aprilspøk
+apriori {adv} (a priori) SEE: a priori	 ::
+apron {n} (clothing)	 :: [Bokmål] forkle {n}; [Nynorsk] forkle {n}, forklede {n}
+apron {n} (the paved area of an airport)	 :: [Bokmål] oppstillingsplass {m}
+apse {n} (astronomy: apsis) SEE: apsis	 ::
+apse {n} (case in which the relics were kept) SEE: reliquary	 ::
+apse {n} (obsolete or dialectal: aspen tree) SEE: aspen	 ::
+apse {n} (semicircular projection from a building)	 :: apsis {m}, korrunding {m}
+apside {n} (apsis) SEE: apsis	 ::
+apt {adj} (fit or fitted; suited; suitable; appropriate)	 :: [Bokmål] egnet, egna; [Nynorsk] egna
+aptitude {n} (natural ability to acquire knowledge or skill)	 :: begavelse {m}
+aptitude {n} (the condition of being suitable)	 :: egnethet {m}
+Aquarius {n} (Someone with a Aquarius star sign)	 :: vannmann {m}
+Aquarius {prop} (astrological sign)	 :: Vannmannen {m}
+Aquarius {prop} (constellation)	 :: Vannmannen {m}
+aquavit {n} (Scandinavian liquor)	 :: akevitt {m}
+Ara {prop} (constellation)	 :: Alteret, [Nynorsk] Altaret
+Arab {adj} (of or pertaining to Arabs and their nations)	 :: arabisk
+Arab {n} (Semitic person)	 :: [Bokmål] araber {m}; [Nynorsk] arabar {m}
+Arabian Peninsula {prop} (peninsula in the Middle East)	 :: [Bokmål] Den arabiske halvøy {m} {f}
+Arabic {adj} (of, from, or pertaining to Arab countries or cultural behaviour)	 :: [Bokmål] arabisk; [Nynorsk] arabisk
+Arabic {prop} (language)	 :: [Bokmål] arabisk {m}; [Nynorsk] arabisk {m}
+Arabization {n} (Arabisation) SEE: Arabisation	 ::
+arachnoid {n} (the arachnoid mater) SEE: arachnoid mater	 ::
+Aramaean {prop} (Aramaic) SEE: Aramaic	 ::
+arbitrary {adj} (based on individual discretion or judgment)	 :: [Bokmål] vilkårlig; [Nynorsk] vilkårleg
+arbitrary {adj} (chosen at random)	 :: tilfeldig
+arbitrary {adj} (determined by impulse)	 :: vilkårlig
+arbitrary {adj} ((mathematics))	 :: vilkårlig, tilfeldig
+arbitrary {adj} (unrestrained by law; tyrannical)	 :: vilkårlig
+arbor {n} (axis or shaft on a lathe)	 :: [Bokmål] spindel {m}
+arbutus {n} (strawberry tree) SEE: strawberry tree	 ::
+arc {n} (curve)	 :: bue {m}
+arc {n} (directed edge) SEE: directed edge	 ::
+arc {n} (geometry: part of a curve)	 :: [Bokmål] bue {m}
+arch {n} (architectural element)	 :: [Bokmål] bue {m}
+arch- {prefix} (chief, highest, most extreme)	 :: erke-
+archaeastronomy {n} (The archeological study of astronomy)	 :: arkeoastronomi {m}
+archaeological {adj} (relating to the science or research of archaeology)	 :: [Bokmål] arkeologisk; [Nynorsk] arkeologisk
+archaeologist {n} (someone who is skilled, professes or practices archaeology)	 :: [Bokmål] arkeolog {m}; [Nynorsk] arkeolog {m}
+archaeology {n} (scientific study of past remains)	 :: arkeologi
+archaic {adj} (old-fashioned or antiquated)	 :: arkaisk, gammeldags, foreldet
+archaism {n} (archaic word, language)	 :: arkaisme
+archaize {v} (To give an archaic quality or character to)	 :: arkaisere
+Archangel {prop} (Arkhangelsk) SEE: Arkhangelsk	 ::
+archbishop {n} (senior bishop)	 :: [Bokmål] erkebiskop {m}, erkebisp {m}; [Nynorsk] erkebiskop {m}, erkebisp {m}
+archenemy {n} (a principal enemy)	 :: erkefiende {m}
+archeological {adj} (archaeological) SEE: archaeological	 ::
+archeopteryx {n} (ancient bird)	 :: [Bokmål] urfugl {m}, archaeopteryx; [Nynorsk] urfugl {m}, archaeopteryx
+archer {n} (one who shoots an arrow from a bow or a bolt from a crossbow)	 :: [Bokmål] bueskytter {m}
+archfiend {n} (Satan) SEE: Satan	 ::
+Archimedes' screw {n} (A screwlike device that raises water)	 :: Archimedes' skrue
+archipelago {n} (group of islands)	 :: [Nynorsk] øygard {m}, arkipel {n}
+architect {n} (designer of buildings)	 :: [Bokmål] arkitekt {m}; [Nynorsk] arkitekt {m}
+architect {n} (planner)	 :: [Bokmål] arkitekt {m}; [Nynorsk] arkitekt {m}
+architectural {adj} (pertaining to architecture)	 :: [Bokmål] arkitektonisk; [Nynorsk] arkitektonisk
+architecture {n} (art and science of designing buildings and other structures)	 :: arkitektur {m}
+archon {n} (chief magistrate)	 :: arkont {m}
+archosaurian {n} (archosaur) SEE: archosaur	 ::
+arcminute {n} (minute of angle) SEE: minute of angle	 ::
+Arctic {adj} (Pertaining to the northern polar region of the planet)	 :: [Bokmål] arktisk; [Nynorsk] arktisk
+Arctic {prop} (A region of the Earth)	 :: [Bokmål] Arktis; [Nynorsk] Arktis
+Arctic cod {n} (Arctogadus glacialis)	 :: istorsk {m}
+Arctic Ocean {prop} (the smallest of the five oceans of the Earth, on and around the North Pole)	 :: Nordishavet
+arctic raspberry {n} (Rubus arcticus)	 :: åkerbær
+Arctic skua {n} (arctic skua)	 :: tyvjo {c}
+ardour {n} (ardor) SEE: ardor	 ::
+arduous {adj} (hard to climb)	 :: vanskelig
+arduous {adj} (needing or using up much energy)	 :: slitsom, vanskelig
+are {n} (unit of area)	 :: ar
+are {v} (be) SEE: be	 ::
+area {n} (math: measure of extent of a surface)	 :: areal; [Nynorsk] flatevidd
+area {n} (particular geographic region)	 :: område {n}
+area {n} (soccer: penalty area) SEE: penalty area	 ::
+Ares {prop} (the god of war, son of Zeus and Hera)	 :: Ares
+argent {n} (silver or metal tincture)	 :: sølv
+Argentina {prop} (Argentine Republic)	 :: Argentina; [Nynorsk] Argentina
+Argentine {adj} (Argentinian) SEE: Argentinian	 ::
+Argentine {n} (Argentinian) SEE: Argentinian	 ::
+Argentine {prop} (Argentina) SEE: Argentina	 ::
+Argentinean {adj} (Argentinian) SEE: Argentinian	 ::
+Argentinean {n} (Argentinian) SEE: Argentinian	 ::
+Argentinian {adj} (pertaining to an Argentinian, Argentinians)	 :: [Bokmål] argentinsk; [Nynorsk] argentinsk
+Argentinian {adj} (pertaining to Argentina)	 :: [Bokmål] argentinsk; [Nynorsk] argentinsk
+Argentinian {n} (person from Argentina)	 :: [Bokmål] argentiner {m}; [Nynorsk] argentinar {m}
+argentophilic {adj} (argentophilic) SEE: argyrophilic	 ::
+argon {n} (a chemical element)	 :: argon {n}
+Argonaut {prop} (A member of the Argo who searched for the Golden Fleece)	 :: Argonaut
+argue {v} (intransitive: to debate, disagree, or discuss opposing or differing viewpoints)	 :: [Bokmål] argumentere
+arhythmic {adj} (arrhythmic) SEE: arrhythmic	 ::
+Ariadne {prop} (daughter of King Minos)	 :: Ariadne
+Arian {n} (a kind of Christian who holds Arian ideas)	 :: arianer
+Arian {n} (someone whose star sign is in Aries) SEE: Aries	 ::
+Aries {n} (Someone with an Aries star sign)	 :: vær {m}
+Aries {prop} (astrological sign)	 :: Væren {m}
+Aries {prop} (constellation)	 :: Væren {m}
+arise {v} (get up, stand up)	 :: [Bokmål] stå opp; [Nynorsk] stå opp
+arise {v} (start to exist, originate)	 :: [Bokmål] oppstå; [Nynorsk] oppstå
+arisen {v} (started to exist)	 :: oppstått
+aristocrat {n} (one of the aristocracy)	 :: [Bokmål] aristokrat {m}; [Nynorsk] aristokrat {m}
+Aristotelian {adj} (of or pertaining to the philosophy taught by Aristotle)	 :: aristotelisk
+Aristotle {prop} (ancient Greek philosopher)	 :: Aristoteles
+arithmetic {adj} (arithmetical)	 :: aritmetisk
+arithmetic {n} (mathematics of numbers, etc.)	 :: aritmetikk {m}
+ark {n} (consecrated container)	 :: ark {m}
+ark {n} (large box)	 :: ark {m}
+ark {n} (Noah's ship)	 :: ark {m}
+Arkhangelsk {prop} (city in Russia)	 :: Arkhangelsk
+arm {n} (part of object)	 :: arm
+arm {n} (portion of the upper appendage from shoulder to wrist)	 :: arm
+arm {v} (to supply with weapons)	 :: [Bokmål] væpne; [Nynorsk] væpna, væpne
+Armageddon {prop} (The place where the final battle will be fought between the forces of good and evil)	 :: Harmageddon
+arm and a leg {n} (an exorbitant amount)	 :: [Bokmål] det hvite ut av øynene [ usually used after the verb koste (cost)]
+armchair {n} (a chair with supports for the arms or elbows)	 :: [Bokmål] lenestol {m}; [Nynorsk] lenestol {m}
+Armenia {prop} (ancient kingdom and country in West Asia)	 :: Armenia
+Armenian {adj} (of, from, or pertaining to Armenia, Armenians, the language or alphabet)	 :: [Bokmål] armensk; [Nynorsk] armensk
+Armenian {n} (person)	 :: [Bokmål] armener {m}, armenier {m}; [Nynorsk] armenar {m}, armeniar {m}
+Armenian {prop} (language)	 :: [Bokmål] armensk {m}; [Nynorsk] armensk {m}
+armistice {n} (formal agreement to end fighting)	 :: våpenhvile {m}
+armor {n} (tank) SEE: tank	 ::
+armorbearer {n} (armourbearer) SEE: armourbearer	 ::
+armored personnel carrier {n} (armored vehicle for carrying infantry soldiers in combat)	 :: [Bokmål] pansret personellkjøretøy {n}
+armory {n} (armoury) SEE: armoury	 ::
+armoured car {n} (armoured truck) SEE: armoured truck	 ::
+armoured truck {n} (armoured car) SEE: armoured car	 ::
+armoury {n} (place where arms are kept, an arsenal)	 :: arsenal {m}
+arm to the teeth {v} (to equip with weapons)	 :: [Bokmål] væpnet til tennene
+army {n} (military force concerned mainly with ground operations)	 :: [Bokmål] hær {m}, armé {m}; [Nynorsk] hær {m}, armé {m}
+Arne {prop} (male given name)	 :: Arne
+Arnold {prop} (male given name)	 :: Arnold
+arquebus {n} (firearm) SEE: harquebus	 ::
+arraignment {n} (charging of a defendant)	 :: tiltale {m}
+arrange {v} (to put in order)	 :: [Bokmål] arrangere
+arrant {adj} (errant) SEE: errant	 ::
+arrival {n} (act of arriving or something that has arrived)	 :: ankomst {m}
+arrogance {n} (act or habit of arrogating, or making undue claims in an overbearing manner)	 :: [Bokmål] arroganse {m}; [Nynorsk] arroganse {m}
+arrogant {adj} (having excessive pride)	 :: arrogant
+arrogate {v} (to appropriate or lay claim to something without right)	 :: tilta seg, rive til seg, rane til seg, tilrane seg, tilrive seg, tiltvinge seg
+arrow {n} (in graph theory) SEE: directed edge	 ::
+arrow {n} (projectile)	 :: pil
+arse {n} (ass) SEE: ass	 ::
+arsenic {n} (chemical element)	 :: [Bokmål] arsen {n}; [Nynorsk] arsen {n}
+arsewipe {n} (toilet paper) SEE: asswipe	 ::
+arsewipe {n} (useless or annoying person) SEE: asswipe	 ::
+arsonry {n} (arson) SEE: arson	 ::
+art {n} (conscious production or arrangement)	 :: kunst
+art {n} (human effort)	 :: [Bokmål] kunst
+art {n}	 :: kunst {m}
+artefact {n} (artifact) SEE: artifact	 ::
+arteriography {n} (radiography of an artery) SEE: angiography	 ::
+art gallery {n} (space where works of art are placed on display)	 :: [Bokmål] kunstgalleri {n}; [Nynorsk] kunstgalleri {n}
+arthritis {n} (inflammation of a joint)	 :: artritt {m}, leddgikt {c}
+arthropod {n} (animal of Arthropoda)	 :: leddyr; [Bokmål] leddyr; [Nynorsk] leddyr
+arthrosis {n} (articulation or joint between bones)	 :: artrose {m}, slitasjegikt {c}
+Arthur {prop} (male given name)	 :: Arthur
+artichoke {n} (Vegetable)	 :: [Bokmål] artisjokk {m}, artiskokk {m}; [Nynorsk] artisjokk {m}, artiskokk {m}
+article {n} (object) SEE: object	 ::
+articulated bus {n} (articulated bus)	 :: leddbuss {m}
+articulation {n} (clarity of speech)	 :: artikulasjon {m}
+artifact {n} (archaeological object)	 :: kulturgjenstand
+artificer {n} (artisan) SEE: artisan	 ::
+artificer {n} (inventor) SEE: inventor	 ::
+artificer {n} (savant) SEE: savant	 ::
+artificer {n} (trickster) SEE: trickster	 ::
+artificial person {n} (legal person) SEE: legal person	 ::
+artificial sweetener {n} (sugar substitute) SEE: sugar substitute	 ::
+artificial turf {n} (artificial grass surface)	 :: [Bokmål] kunstgress {n}; [Nynorsk] kunstgras {n}
+artist {n} (person who creates art)	 :: [Bokmål] artist {m}, kunstner {m}; [Nynorsk] artist {m}, kunstnar {m}
+artistic licence {n} (any departure from fact or convention by an artist)	 :: [Bokmål] kunstnerisk frihet {m}
+Aruba {prop} (autonomous territory of the Netherlands in the Caribbean)	 :: Aruba
+Aruküla {prop} (small borough in Estonia)	 :: Aruküla
+as {adv} (to such an extent or degree)	 :: like
+as {conj} (at the same instant that)	 :: når, da, idet
+as {conj} (because)	 :: siden
+as {conj} (in the manner of)	 :: som
+as {conj} (in the same way that)	 :: som
+as {conj} (that) SEE: that	 ::
+as {conj} (while)	 :: mens
+ascertain {v} (find out; discover or establish)	 :: fastslå
+Asclepius {prop} (Greek god of medicine and healing)	 :: Asklepios
+ascribe {v} (attribute a cause or characteristic)	 :: tilskrive, tilskrive
+ASEAN {prop} (Association of Southeast Asian Nations)	 :: [Nynorsk] ASEAN, Samansluttinga av søraustasiatiske statar
+ash {n} (solid remains of a fire)	 :: [Bokmål] aske {m} {f}; [Nynorsk] oske {f}
+ash {n} (tree) SEE: ash tree	 ::
+ash {n} (wood)	 :: ask {m}
+Asher {prop} (eighth son of Jacob)	 :: Asjer
+ash gourd {n} (fuzzy melon fruit) SEE: winter melon	 ::
+ash gourd {n} (vine) SEE: winter melon	 ::
+ashtray {n} (receptacle for ashes)	 :: askebeger
+ash tree {n} (Fraxinus tree)	 :: ask {m}
+Asia {prop} (the continent of Asia)	 :: Asia
+Asia Minor {prop} (peninsula between the Mediterranean Sea, the Aegean Sea and the Black Sea;)	 :: Lilleasia
+Asian {adj} (of, relating to or from Asia)	 :: [Bokmål] asiatisk; [Nynorsk] asiatisk
+as if {conj} (as though)	 :: som om, som
+as if {conj} (in mimicry of)	 :: som om, som
+as in {adv} (in the sense of)	 :: som i
+as it were {adv} (to indicate a word or statement is not exact)	 :: mer eller mindre
+ask {v} (make a request)	 :: be om
+ask {v} (request an answer)	 :: [Bokmål] spørre; [Nynorsk] spørje
+aslant {adj} (slanting) SEE: slanted	 ::
+as long as {conj} (while)	 :: medan [Nynorsk], mens [Bokmål]
+asocial {adj} (antisocial) SEE: antisocial	 ::
+asp {n} (Egyptian cobra) SEE: Egyptian cobra	 ::
+asparagus {n} (asparagus plant)	 :: asparges
+asparagus {n} (asparagus shoots (food))	 :: asparges
+aspect {n} (quality of a verb)	 :: [Bokmål] aspekt {m} {n}; [Nynorsk] aspekt {m} {n}
+aspect {n} (the way something appears)	 :: [Bokmål] aspekt {m} {n}; [Nynorsk] aspekt {m} {n}
+asperse {v} (scatter) SEE: scatter	 ::
+asperse {v} (sprinkle) SEE: sprinkle	 ::
+aspersion {n} (an attack on somebody's reputation or good name)	 :: [Bokmål] baktalelse {m}, bakvaskelse {m}
+aspersion {n} (a sprinkling of holy water)	 :: [Bokmål] bestenkning {c} (med vievann)
+as per usual {adv} (as usual) SEE: as usual	 ::
+asphyxiation {n} (An acute lack of oxygen)	 :: oksygenmangel {m}
+aspirate {adj} (aspirated) SEE: aspirated	 ::
+aspirate {v} (linguistics: to produce an audible puff of breath)	 :: aspirere
+ass {n} (animal)	 :: esel {n}, asen {n}
+ass {n} (buttocks)	 :: ræv {f}, rumpe {m}
+ass {n} (stupid person)	 :: idiot {m}, tulling {m}, dumskalle {m}, tosk {m}
+assailant {n} (an attacker; someone who attacks another violently, or criminally)	 :: overfallsmann {m}; [Bokmål] angriper {m}
+assassin {n} (one who, motivated by political reasons, intentionally kills a particular person)	 :: [Bokmål] snikmorder {m}; [Nynorsk] snikmordar {m}
+assassin {v} (assassinate) SEE: assassinate	 ::
+assassinate {n} (assassination) SEE: assassination	 ::
+assassinate {n} (assassin) SEE: assassin	 ::
+assault {n} (a violent onset or attack)	 :: voldta
+assault rifle {n} (a rifle)	 :: automatgevær
+ass crack {n} (groove between buttocks) SEE: anal cleft	 ::
+assembler {n} (assembly language) SEE: assembly language	 ::
+assembly {n} (congregation of people)	 :: forsamling {m}
+assembly {n} (legislative body)	 :: forsamling {m}
+assent {n} (agreement, act of agreeing)	 :: [Bokmål] samtykke {n}; [Nynorsk] samtykkje {n}
+assent {v} (to agree to, give approval to)	 :: [Bokmål] samtykke; [Nynorsk] samtykkje
+assertive {adj} (boldly self-assured)	 :: [Bokmål] fremoverlent
+assertoric {adj} (stating that which is actual)	 :: assertorisk
+asseverate {v} (declare earnestly)	 :: [Bokmål] bedyre, (høytidelig) forsikre; [Nynorsk] (høgtidleg) forsikre
+assfucker {n} (buttfucker) SEE: buttfucker	 ::
+assfucker {n} (jerk) SEE: jerk	 ::
+asshole {n} (anus)	 :: rasshøl
+asshole {n} (mean or rude person)	 :: rasshøl
+assign {v} (to allot or give something as a task)	 :: [Bokmål] tildele
+assistance {n} (aid; help; the act or result of assisting)	 :: [Bokmål] hjelp {m} {f}; [Nynorsk] hjelp {f}
+asskisser {n} (someone who kisses ass) SEE: asslicker	 ::
+association {n} (group of persons associated for a common purpose)	 :: [Bokmål] forening {m} {f}; [Nynorsk] foreining {f}
+as soon as {conj} (immediately after)	 :: straks
+as soon as possible {adv} (as soon as is possible)	 :: så snart som mulig
+assure {v} (to give someone confidence in the trustworthiness of something)	 :: [Bokmål] forsikre; [Nynorsk] forsikre
+assure {v} (to make sure and secure)	 :: [Bokmål] sikre; [Nynorsk] sikre
+assured {adj} (confident) SEE: confident	 ::
+assured {adj} (guaranteed) SEE: guaranteed	 ::
+Astana {prop} (Akmola) SEE: Akmola	 ::
+Astana {prop} (Akmolinsk) SEE: Akmolinsk	 ::
+astatine {n} (the chemical element)	 :: astat
+asterisk {n} (symbol used to highlight words or sentences)	 :: asterisk
+asteroid {n} (astronomy)	 :: asteroide
+asthma {n} (chronic respiratory disease)	 :: [Bokmål] astma {m}; [Nynorsk] astma {m}
+astragalus {n} (talus) SEE: talus	 ::
+astrology {n} (star divination)	 :: [Bokmål] astrologi {m}; [Nynorsk] astrologi {m}
+astronavigation {n} (navigation by using the positions of the stars) SEE: celestial navigation	 ::
+astronomer {n} (one who studies astronomy)	 :: astronom {m}
+astronomic {adj} (incredibly large) SEE: astronomical	 ::
+astronomic {adj} (pertaining to astronomy) SEE: astronomical	 ::
+astronomical unit {n} (measure of distance)	 :: [Bokmål] astronomisk enhet; [Nynorsk] astronomisk eining
+astronomy {n} (study of the physical universe beyond the Earth's atmosphere)	 :: astronomi {m}
+astrophysics {n} (interdisciplinary branch of astronomy and physics)	 :: astrofysikk {m}, astrofysikk
+Asturian {adj} (of or pertaining to Asturias in Spain)	 :: [Bokmål] asturianer {m}
+as well {adv} (in addition, also)	 :: også
+as well as {conj} (and in addition)	 :: [Bokmål] samt; [Nynorsk] og dessutan
+asylum {n} (place of safety)	 :: asyl {c}
+asymmetric {adj} (asymmetrical) SEE: asymmetrical	 ::
+asymmetrical {adj} (not symmetrical)	 :: asymmetrisk
+asynchronism {n} (asynchrony) SEE: asynchrony	 ::
+at {prep} (in or very near a particular place)	 :: på
+at {prep} (in the direction of)	 :: på
+at all {prep} (at all)	 :: [Bokmål] overhodet
+at a loss {prep} (not sure; uncertain; lacking further ideas, direction, or ability)	 :: rådvill, på bærtur [to be in the woods]; [Bokmål] rådløs; [Nynorsk] rådlaus
+atavism {n} (reappearance of an ancestral characteristic)	 :: atavisme {m}
+atavistic {adj} (biology: of the recurrence of a trait after an absence of generations)	 :: atavistisk
+at first sight {prep} (at first glance) SEE: at first glance	 ::
+atheist {adj} (relating to atheists) SEE: atheistic	 ::
+atheist {n} (a person who rejects belief that any deities exist, whether or not that person believes that deities do not exist)	 :: ateist {m}
+atheistic {adj} (relating to atheists)	 :: ateistisk
+Athena {prop} (Greek goddess)	 :: Athene {f}
+Athenian {n} (an inhabitant, resident, or citizen of Athens, Greece)	 :: [Nynorsk] atenar {m}
+Athens {prop} (capital city of Greece)	 :: Aten, Athen
+athlete {n} (an exceptionally physically fit person)	 :: spreking {m}, atlet {m}
+athlete {n} (A participant in a group of sporting activities which includes track and field, road running, cross country running and racewalking)	 :: idrettsmann {m}
+athlete {n} (A person who actively participates in physical sports, possibly highly skilled in sports)	 :: atlet {m}
+at home {prep} (In one's place of residence)	 :: hjemme
+at large {prep} (on the loose)	 :: på frifot
+atlas {n} (bound collection of maps)	 :: [Bokmål] atlas; [Nynorsk] atlas
+at least {prep} (at a lower limit)	 :: [Bokmål] på minst, minst
+atmosphere {n} (a unit of measurement for pressure)	 :: [Bokmål] atmosfære {m}; [Nynorsk] atmosfære {m}
+atmosphere {n} (gases surrounding the Earth)	 :: [Bokmål] atmosfære {m}; [Nynorsk] atmosfære {m}
+atmosphere {n} (mood or feeling)	 :: [Bokmål] atmosfære {m}; [Nynorsk] atmosfære {m}
+at no time {prep} (never) SEE: never	 ::
+atoll {n} (island)	 :: atoll {m}
+atomic clock {n} (radio clock) SEE: radio clock	 ::
+atomic nucleus {n} (nucleus of an atom)	 :: atomkjerne
+at once {adv} (at the same time)	 :: på en gang, samtidig
+at once {adv} (immediately)	 :: straks, med én gang
+atrial fibrillation {n} (Cardiac arrhythmia)	 :: atrieflimmer {n}, harehjerte {n}
+atrocity {n} (extremely cruel act)	 :: grusomhet {c}
+atrophy {n} (reduced functionality)	 :: [Bokmål] atrofi {m}; [Nynorsk] atrofi {m}
+at sign {n} (name of the symbol @)	 :: krøllalfa, alfakrøll
+at-sign {n} (at sign) SEE: at sign	 ::
+at symbol {n} (at sign) SEE: at sign	 ::
+attachment {n} (file sent along with an email)	 :: [Bokmål] vedlegg {n}; [Nynorsk] vedlegg {n}
+attachment {n} (legal: taking a person's property to satisfy a debt)	 :: utlegg {n}, ta utlegg i
+attacker {n} ((soccer))	 :: angriper {m}, spiss {m}
+attacker {n} (someone who attacks)	 :: angriper {m}
+attain {v} (to accomplish; to achieve)	 :: oppnå
+attempt {n} (attack)	 :: angrep {n}
+attempt {n} (the action of trying at something)	 :: forsøk {n}
+attempt {v} (to try)	 :: forsøke, prøve
+attention {n} (mental focus)	 :: [Bokmål] oppmerksomhet {c}
+attentive {adj} (paying attention)	 :: [Bokmål] oppmerksom; [Nynorsk] oppmerksam
+attenuate {v} (To weaken)	 :: svekke
+attestation {n} (linguistics: appearance in records)	 :: belegg {n}
+at that {prep} (in addition)	 :: også
+at the end of one's rope {prep} (at the end of one's tether) SEE: at the end of one's tether	 ::
+at the moment {prep} (right now)	 :: i øyeblikket, akkurat nå
+attic {n} (space, often unfinished and with sloped walls, directly below the roof)	 :: loft
+attometer {n} (attometre) SEE: attometre	 ::
+attractive {adj} (having the power of charming)	 :: attraktiv, tiltrekkende
+attractive {adj} (having the quality of attracting by inherent force)	 :: attraktiv, tiltrekkende
+attractive {adj} (pleasing or appealing to the senses)	 :: tiltalende
+attribute {n} (characteristic or quality)	 :: attributt {m}, egenskap {m}
+attribution {n} (acknowledgment of ownership or authorship)	 :: [Bokmål] heder {m}
+ATV {initialism} (Automated Transfer Vehicle)	 :: ATV
+at work {prep} (in the process of doing work)	 :: [Bokmål] i arbeid
+aubergine {n} (eggplant) SEE: eggplant	 ::
+auction {n} (public sales event)	 :: [Bokmål] auksjon {m}; [Nynorsk] auksjon {m}
+audience {n} (group of people seeing a performance)	 :: publikum {n}
+audience {n} (readership of a written publication)	 :: lesere {p}
+audiobook {n} (audiobook)	 :: lydbok; [Nynorsk] lydbok
+audiology {n} (study of hearing and hearing defects)	 :: audiologi
+audit {n} (independent review)	 :: revisjon {m}, regnskapskontroll {m}, bokettersyn {n}
+auditor {n} (one who audits bookkeeping accounts)	 :: revisor {m}
+auger {n} (plumber's snake) SEE: plumber's snake	 ::
+augment {v} (to increase, make larger or supplement)	 :: øke
+August {prop} (eighth month of the Gregorian calendar)	 :: august
+August {prop} (female given name) SEE: Augusta	 ::
+August {prop} (male given name) SEE: Augustus	 ::
+Augustus {prop} (male given name)	 :: August
+aulete {n} (flautist) SEE: flautist	 ::
+aunt {n} (affectionate term for an older woman, by means of fictive kin)	 :: tante {m} {f}
+aunt {n} (a parent’s sister or sister-in-law)	 :: tante {m} {f}, faster {m} {f} (paternal), moster {m} {f} (maternal)
+aunt {n} (grandmother) SEE: auntie or grandmother	 ::
+aunt {n} (great-aunt or grandaunt) SEE: great-aunt or grandaunt	 ::
+au pair {n} (a single girl or boy staying as a guest with a host family)	 :: au pair
+aureola {n} (luminous cloud)	 :: [Bokmål] glorie {m}; [Nynorsk] glorie {m} {f}
+auricle {n} (outer ear) SEE: pinna	 ::
+auricle {n} (smaller of the two types of heart chamber) SEE: atrium	 ::
+aurochs {n} (European bison) SEE: European bison	 ::
+aurora {n} (an atmospheric phenomenon)	 :: polarlys {n}
+Aurora {prop} (female given name)	 :: Aurora
+Aurora {prop} (Roman goddess of dawn)	 :: Aurora
+aurora australis {n} (southern lights) SEE: southern lights	 ::
+aurora borealis {n} (aurora of the northern hemisphere) SEE: northern lights	 ::
+auspicious {adj} (indicating future success)	 :: [Bokmål] gunstig; [Nynorsk] gunstig
+auster {n} (auster(wind)) SEE: ostro	 ::
+austerity {n} (severity of manners or life)	 :: [Bokmål] strenghet {m}
+austerity {n} (sourness and harshness to the taste)	 :: [Bokmål] stramhet {m}
+Australia {prop} (Commonwealth of Australia)	 :: Australia
+Australia {prop} (continent of Australia)	 :: Australia
+Australian {adj} (of or pertaining to Australia, the Australian people or languages)	 :: australsk
+Australian {n} (a person from the country of Australia or of Australian descent)	 :: [Bokmål] australier {m}; [Nynorsk] australiar {m}
+Australian Sign Language {prop} (Auslan) SEE: Auslan	 ::
+Austria {prop} (country in Central Europe)	 :: [Bokmål] , Østerrike; [Nynorsk] Austerrike
+Austrian {adj} (related to Austria)	 :: [Bokmål] østerriksk; [Nynorsk] austerriksk
+Austrian {n} (Austrian person)	 :: [Bokmål] østerriker {m}; [Nynorsk] austerrikar {m}
+autarchy {n} (autocratic government) SEE: autocracy	 ::
+authentic {adj} (of undisputed origin)	 :: autentisk
+author {n} (originator or creator of a work)	 :: [Bokmål] forfatter {m}; [Nynorsk] forfattar {m}
+author {n} (writer) SEE: writer	 ::
+authoress {n} (a female author)	 :: [Bokmål] forfatterinne {m} {f}; [Nynorsk] forfattarinne {f}
+authoritarian {adj} (characterised by a tyrannical obedience to an authority; dictatorial)	 :: [Bokmål] autoritær; [Nynorsk] autoritær
+authoritarian {adj} (of, or relating to, absolute obedience to an authority)	 :: [Bokmål] autoritær; [Nynorsk] autoritær
+authoritarian {adj} (tending to impose one's demands upon others as if one was an authority)	 :: [Bokmål] autoritær; [Nynorsk] autoritær
+authoritative {adj} (having a commanding style)	 :: myndig
+authoritative {adj} (originating from a figure of authority)	 :: myndig
+autism {n} (neurological disorder)	 :: [Bokmål] autisme {m}; [Nynorsk] autisme {m}
+autistic {adj} (pertaining to, or having autism)	 :: [Bokmål] autistisk; [Nynorsk] autistisk
+auto- {prefix} (automatic)	 :: auto-
+auto- {prefix} (regarding oneself)	 :: selv-, auto-
+auto- {prefix} (relating to cars or the driving of cars)	 :: auto-
+autobiographic {adj} (autobiographical) SEE: autobiographical	 ::
+autodidact {n} (a self-taught person)	 :: selvlært {m}, autodidakt {m}
+autoerotic {adj} (masturbatory)	 :: autoerotisk
+autoerotism {n} (sexual activity involving oneself)	 :: autoerotisme {m}
+autofocus {n} (language)	 :: autofokus {m}
+automagical {adj} (automatic, but with an apparent element of magic)	 :: automagisk
+automated teller machine {n} (banking)	 :: minibank {m}
+automatic teller machine {n} (automated teller machine) SEE: automated teller machine	 ::
+automatize {v} (automate) SEE: automate	 ::
+autonomous {adj} (acting on one's own)	 :: [Bokmål] sjølstendig {m} {f} {n}, selvstendig {m} {f} {n}, autonom {m} {f}; [Nynorsk] sjølvstendig {m} {f} {n}, autonom {m} {f}
+autonomous {adj} (self-governing)	 :: [Bokmål] selvstyrt {m} {f} {n}, sjølstyrt {m} {f} {n}; [Nynorsk] sjølvstyrt {m} {f} {n}
+autonomy {n} (self-government)	 :: [Bokmål] selvstyre {n}, sjølstyre {n}, autonomi {m}; [Nynorsk] sjølvstyre {n}, autonomi {m}
+autopsy {n} (a dissection performed on a cadaver)	 :: obduksjon {m}
+autopsy {v} (perform an autopsy)	 :: obdusere
+autoteller {n} (automated teller machine) SEE: automated teller machine	 ::
+autumn {n} (season)	 :: [Bokmål] høst {m}; [Nynorsk] haust {m}
+autumnal equinox {n} (moment)	 :: [Bokmål] høstjevndøgn {n}; [Nynorsk] haustjamndøger {n}, haustjamndøgn {n}
+autumn equinox {n} (autumnal equinox) SEE: autumnal equinox	 ::
+auxiliary {adj} (relating to an auxiliary verb)	 :: hjelpe-, hjelpeverb {n}
+auxiliary language {n} (auxiliary language)	 :: [Bokmål] hjelpespråk {n}; [Nynorsk] hjelpespråk {n}
+available {adj} (capable of being used)	 :: tilgjengelig, tilgjengelige {p}
+avalanche {n} (fall of earth, rocks, etc.)	 :: skred {n}, ras {n}
+avalanche {n} (large sliding mass of snow and ice)	 :: lavine, snøras, snøskred {n}
+avantgardistic {adj} (innovative, pioneering) SEE: avant-garde	 ::
+Avar {prop} (language)	 :: avarisk
+Aventine {prop} (Aventine Hill) SEE: Aventine Hill	 ::
+avenue {n} (broad street)	 :: allé {m}
+average {adj} (constituting or relating to the average)	 :: [Bokmål] gjennomsnittlig; [Nynorsk] gjennomsnittleg
+average {n} (arithmetic mean)	 :: [Bokmål] gjennomsnitt {n}; [Nynorsk] gjennomsnitt {n}
+Avernus {prop} (underworld) SEE: underworld	 ::
+avian flu {n} (avian influenza) SEE: avian influenza	 ::
+aviation {n} (art or science of flying)	 :: luftfart {m} {f}
+avid {adj}	 :: ivrig
+avoid {v} (to keep away from)	 :: unngå
+Avraham {prop} (given name) SEE: Abraham	 ::
+await {v} (transitive: to wait for)	 :: [Bokmål] avvente
+awake {adj} (conscious)	 :: [Bokmål] våken; [Nynorsk] vaken
+award {v} (give an award/prize for merit)	 :: [Bokmål] utdele
+awareness {n} (the state or quality of being aware of something)	 :: oppmerksomhet
+awash {adj} (washed by the waves or tide)	 :: [Bokmål] overskyllet
+away {adv} (absent; gone; at a distance)	 :: [Bokmål] borte; [Nynorsk] borte
+away {adv} (aside; off; in another direction)	 :: [Bokmål] bort; [Nynorsk] bort
+away {adv} (from a place; hence)	 :: [Bokmål] bort; [Nynorsk] bort
+away {adv} (from a state or condition of being; out of existence)	 :: [Bokmål] borte; [Nynorsk] borte
+away game {n} (athletic contest played in the opposing team's territory)	 :: bortekamp {m}
+away side {n} (away side) SEE: visiting team	 ::
+away team {n} (visiting team) SEE: visiting team	 ::
+awestricken {adj} (awestruck) SEE: awestruck	 ::
+awful {adj}	 :: forferdelig, fryktelig, grusom
+awful {adj} (oppressing with fear; appalling; terrible)	 :: grusom, forferdelig
+awful {adj} (terror-stricken) SEE: terrorstricken	 ::
+awfully {adv} (badly) SEE: badly	 ::
+awfully {adv} (fearfully) SEE: fearfully	 ::
+awfully {adv} (reverently) SEE: reverently	 ::
+awfully {adv} (very) SEE: very (adverb)	 ::
+awkward {adj} (lacking dexterity in the use of the hands)	 :: klumsete, klønete
+awkward {adj} (not easily managed or effected; embarrassing)	 :: pinlig
+awl {n} (a pointed instrument)	 :: syl
+axe {n} (an ancient weapon)	 :: øks {m}, stridsøks {m}
+axe {n} (tool)	 :: øks {m}
+Axel {prop} (male given name)	 :: Aksel, Axel
+axial {adj}	 :: aksial
+axis {n} (basis of space or part of graph)	 :: [Bokmål] akse {m}; [Nynorsk] akse {m}
+axis {n} (geometry: imaginary line)	 :: [Bokmål] akse {m}; [Nynorsk] akse {m}
+Axis {prop} (Axis Powers) SEE: Axis Powers	 ::
+Ayers Rock {prop} (giant rock in Australia)	 :: Uluru
+Aymara {prop} (language of South America)	 :: aymara; [Nynorsk] aymara
+Azerbaijan {prop} (country in Eastern Europe)	 :: Aserbajdsjan
+Azerbaijani {adj} (pertaining to Azerbaijan)	 :: aserbajdsjansk
+Azerbaijani {n} (a person from Azerbaijan — see Azeri)	 :: aserbajdsjaner {m} {f}
+Azerbaijani {prop} (language of Azerbaijan) SEE: Azeri	 ::
+Azerbaijani Turkic {prop} (Azeri) SEE: Azeri	 ::
+Azeri {n} (Azeri person)	 :: [Bokmål] aserbajdsjaner {m}; [Nynorsk] aserbajdsjanar {m}
+Azeri {prop} (Azeri language)	 :: [Bokmål] aserbajdsjansk {m}; [Nynorsk] aserbajdsjansk {m}
+Azeri Turkic {prop} (Azeri) SEE: Azeri	 ::
+azure {n} (lapis lazuli) SEE: lapis lazuli	 ::
+Åland {prop} (Autonomous province of Finland)	 :: Åland
+Æsir {prop} (the principal Norse gods)	 :: [Bokmål] æsene {p}; [Nynorsk] æsene {p}

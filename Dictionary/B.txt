@@ -1,0 +1,1621 @@
+﻿baa {interj} (cry of sheep)	 :: bæ
+baa {n} (bleating of sheep)	 :: bæ {n}
+baa {v} (to make the cry of sheep)	 :: breke
+Baba Yaga {prop} (hag who flies through the air in a mortar)	 :: Baba Jaga
+babble {v} (to talk much)	 :: bable, plapre
+babble {v} (to utter words indistinctly)	 :: bable
+babby {n} (baby) SEE: baby	 ::
+babe {n} (baby or infant) SEE: baby	 ::
+babe {n} (darling) SEE: baby	 ::
+babehood {n} (babyhood) SEE: babyhood	 ::
+baboon {n} (primate)	 :: bavian {m}
+babushka {n} (matryoshka) SEE: Russian doll	 ::
+baby {n} (very young human being)	 :: [Bokmål] spedbarn {n}, baby {m}; [Nynorsk] spedbarn {n}, baby {m}
+baby boom {n} (any increase in the birth rate)	 :: babyboom {m}
+baby boom {n} (post-World War II baby boom (1946 to 1964))	 :: babyboom {m}
+baby bottle {n} (bottle with a teat)	 :: tåteflaske {f}, {m}
+baby carriage {n} (pram) SEE: pram	 ::
+baby fat {n} (natural fat of the body of a child)	 :: [Bokmål] valpefett {n}; [Nynorsk] kvalpefeitt {n}, kvelpefeitt {n}
+baby formula {n} (artificial substitute for human breast milk)	 :: [Bokmål] morsmelkerstatning {c}, morsmjølkerstatning {c}; [Nynorsk] morsmjølkerstatning {f}
+baby massage {n} (massage therapy for infants) SEE: infant massage	 ::
+baby seat {n} (child safety seat) SEE: child safety seat	 ::
+babysitter {n} (baby or child caretaker)	 :: barnevakt; kenguru
+baby tooth {n} (tooth which will be replaced) SEE: milk tooth	 ::
+bachelordom {n} (bachelorhood) SEE: bachelorhood	 ::
+bachelorette party {n} (bachelorette party)	 :: [Bokmål] utdrikkingslag {n}, utdrikningslag; [Nynorsk] utdrikkingslag {n}
+bachelor party {n} (party)	 :: [Bokmål] utdrikninglag {n}, utdrikkingslag {n}; [Nynorsk] utdrikkingslag {n}
+bachelors' button {n} (plant and button) SEE: bachelor's button	 ::
+bachelorship {n} (bachelorhood) SEE: bachelorhood	 ::
+back {adv} (in a manner that impedes)	 :: tilbake
+back {adv} (to or in a previous condition or place)	 :: tilbake
+back {n} (a position behind most players on the team)	 :: back {m}
+back {n} (that which is farthest away from the front)	 :: bakside {c}
+back {n} (the part of something that goes last)	 :: bakende {m}
+back {n} (the rear of body)	 :: rygg {m}, bak {m} {n}
+back {n} (the reverse side)	 :: bakside {c}
+back {v} (to go in the reverse direction)	 :: [Bokmål] rygge; [Nynorsk] rygge, ryggje
+backbone {n} (any fundamental support, structure, or infrastructure)	 :: ryggrad {m} {f}
+backbone {n} (courage, fortitude, or strength)	 :: ryggrad {m} {f}
+backbone {n} (series of vertebrae that encloses the spinal cord)	 :: ryggrad {m} {f}
+backchat {n} (backtalk) SEE: backtalk	 ::
+backchat {v} (backtalk) SEE: backtalk	 ::
+back door {n} (secret, unprotected means of access)	 :: bakdør {m}
+back door {n} (subsidiary entrance to building)	 :: bakdør {m}
+backdoor {n} (backdoor (all definitions)) SEE: back door	 ::
+back-formation {n} (linguistic process)	 :: tilbakedanning {c}
+back-formation {n} (word formed by this linguistic process)	 :: tilbakedanning {c}
+backgammon {n} (board game)	 :: backgammon {n}
+background radiation {n} (ionizing radiation that is naturally present in the environment)	 :: bakgrunnsstråling {c}
+backlog {n} (an accumulation or buildup)	 :: avfall {n}
+back matter {n} (parts of a book that appear after the text)	 :: baktekst, ettertekst, posttekst
+backpack {n} (worn on a person's back, e.g., for hiking)	 :: ryggsekk
+backpackers {n} (hostel) SEE: hostel	 ::
+back page {n} (final page) SEE: back cover	 ::
+back seat {n} (seat)	 :: [Bokmål] baksete {n}; [Nynorsk] baksete {n}
+back-to-back {adj} (sequential or consecutive)	 :: back-to-back
+back to front {adj} (reversed)	 :: [Bokmål] bak fram; [Nynorsk] bak fram
+backwater {n} (a remote place; somewhere that remains unaffected by new events, progresses, ideas, etc.)	 :: bakevje {m} {f}
+bacon {n} (cut of meat)	 :: [Bokmål] (røykt) flesk {n}, bacon {n}; [Nynorsk] (røykt) flesk {n}, bacon {n}
+bacon {n} (thin slice of pork)	 :: [Bokmål] bacon {n}; [Nynorsk] bacon {n}
+bacteriophage {n} (a virus that infects bacteria)	 :: [Bokmål] bakteriofag {m}; [Nynorsk] bakteriofag {m}
+bacterium {n} (single celled organism with no nucleus or organelles)	 :: bakterie {m}
+bad {adj}	 :: dårlig
+bad {adj} (evil, wicked)	 :: dårlig, ond
+bad {adj} (faulty; not functional)	 :: dårlig, i stykker
+bad {adj} (not good)	 :: dårlig
+bad {adj} (not suitable or fitting)	 :: dårlig, gal
+bad {adj} (of breath: malodorous)	 :: dårlig
+bad {adj} (seemingly non-appropriate, in manners)	 :: dårlig
+bad {adj} (spoilt, rotten, overripe) SEE: spoilt	 ::
+bad {adj} (tricky; stressful; unpleasant)	 :: dårlig, ubehagelig
+bad {adv} (badly) SEE: badly	 ::
+badger {n} (mammal)	 :: grevling {m}
+badger {n} (native or resident of Wisconsin) SEE: Wisconsinite	 ::
+badger {v} (fart) SEE: fart	 ::
+bad luck {n} (misfortune)	 :: uheld {n}, uflaks {m}
+badly {adj} (ill, unwell)	 :: [Bokmål] dårlig
+badly {adv} (in a bad manner)	 :: [Bokmål] dårlig
+bad trip {n} (psychedelic crisis)	 :: psykedelisk krise
+badware {n} (malware) SEE: malware	 ::
+baffle {v} (to totally bewilder; confuse or perplex)	 :: skvalpeskott, forvirre
+bag {n} (backpack) SEE: backpack	 ::
+bag {n} (flexible container)	 :: [Bokmål] veske {m} {f}, pose {m}; [Nynorsk] veske {f}
+bag {n} (suitcase) SEE: suitcase	 ::
+bag {n} (ugly woman)	 :: burugle {c}
+bag {v} (to provide artificial ventilation)	 :: bagge
+baggage {n} (luggage)	 :: bagasje {m}
+baggage cart {n} (luggage cart) SEE: luggage cart	 ::
+Baghdadian {adj} (Baghdadi) SEE: Baghdadi	 ::
+Baghdadian {n} (Baghdadi) SEE: Baghdadi	 ::
+baglady {n} (bag lady) SEE: bag lady	 ::
+bagpipe {n} (bagpipes) SEE: bagpipes	 ::
+bagpipes {n} (musical wind instrument)	 :: sekkepipe {m} {f}
+Bahamas {prop} (country in the Caribbean)	 :: Bahamas
+Bahamian {adj} (pertaining to the Bahamas)	 :: [Bokmål] bahamansk; [Nynorsk] bahamansk
+Bahamian {n} (person from the Bahamas)	 :: [Bokmål] bahamaner {m}; [Nynorsk] bahaman {m}, bahamanar {m}
+Bahrain {prop} (Country in the Middle East)	 :: Bahrain
+Bahraini {adj} (of, from, or pertaining to Bahrain or the Bahraini people)	 :: [Bokmål] bahrainsk; [Nynorsk] bahrainsk
+Bahraini {n} (a person from Bahrain or of Bahraini descent)	 :: [Bokmål] bahrainer {m}; [Nynorsk] bahrainar {m}
+bait {n} (substance used in catching fish)	 :: beita {f}, agn {n}
+Bajan {adj} (Barbadian) SEE: Barbadian	 ::
+Bajan {prop} (Barbadian) SEE: Barbadian	 ::
+bake {v}	 :: baka
+baked beans {n} (food)	 :: hvite bønner i tomatsaus
+baker {n} (person who bakes and sells bread, etc)	 :: [Bokmål] baker {m}; [Nynorsk] bakar {m}
+bakery {n} (a shop in which bread and such is baked and sold)	 :: bakeri
+Baku {prop} (the capital of Azerbaijan)	 :: Baku
+balalaika {n} (Russian instrument)	 :: [Bokmål] balalaika {m}, balalaika {m}
+balance {n} (equilibrium)	 :: balanse {m}
+balance {n} (scales)	 :: vekt {f}
+balance {v} (hold (objects) precariously)	 :: balansere
+balance {v} (make (items) weigh up)	 :: balansere
+balance {v} (make the credits and debits of (an account) correspond)	 :: balansere
+balaphone {n} (balafon) SEE: balafon	 ::
+balconette bra {n} (balcony bra) SEE: balcony bra	 ::
+balcony {n} (structure extending from a building)	 :: [Bokmål] balkong {m}; [Nynorsk] balkong {m}
+bald {adj} (having no hair)	 :: [Bokmål] skallet; [Nynorsk] skalla
+bale {v} (to remove water from a boat) SEE: bail	 ::
+Balearic Islands {prop} (group of Mediterranean islands)	 :: Balearene
+Bali {prop} (name of island)	 :: Bali
+balk {n} (beam)	 :: bjelke {m}
+Balkanian {adj} (Balkan) SEE: Balkan	 ::
+Balkanization {prop} (fragmentation of a region into several small states)	 :: balkanisering
+ball {n} (formal dance)	 :: [Bokmål] ball {n}; [Nynorsk] ball {n}
+ball {n} (object, generally spherical, used for playing games)	 :: [Bokmål] ball {m}; [Nynorsk] ball {m}
+ball {n} (solid or hollow sphere)	 :: [Bokmål] ball {m}; [Nynorsk] ball {m}
+ballad {n} (narrative poem)	 :: vise
+ballast {n} (heavy material placed in the hold of a vessel)	 :: ballast {m}
+ballast {n} (material laid to form a bed for a road)	 :: ballast {m} (for railroads), fundament {n}
+ballast {v} (to stabilize a ship with ballast)	 :: ballaste
+ball bearing {n} (bearing assembly with spherical balls)	 :: julelager
+ballerina {n} (female ballet dancer)	 :: [Bokmål] ballerina {m}; [Nynorsk] ballerina {f}
+ballet {n} (classical form of dance)	 :: [Bokmål] ballett {m}; [Nynorsk] ballett {m}
+ballet {n} (theatrical presentation of such dancing)	 :: [Bokmål] ballett {m}; [Nynorsk] ballett {m}
+ballgown {n} (formal gown)	 :: [Bokmål] ballkjole {m}; [Nynorsk] ballkjole {m}
+ballistic missile {n} (missile)	 :: ballistisk missil
+ball lightning {n} (a short-lived, glowing ball sometimes observed to float in the air)	 :: kulelyn
+balloon {n} (child’s toy)	 :: ballong {m}
+balloon {n} (inflatable object)	 :: ballong {m}
+balloon {n} (inflatable object to transport people through the air)	 :: luftballong {m}, luftskip {n}
+balloon {n} (sac inserted into part of the body)	 :: ballong {m}
+balloon {n} (speech bubble) SEE: speech bubble	 ::
+balloonfish {n} (blowfish) SEE: blowfish	 ::
+ballot {n} (list of candidates)	 :: valgliste {c}
+ballot {n} (paper used for vote-casting)	 :: stemmeseddel {m}
+ballot {n} (process of voting)	 :: [Bokmål] avstemning {m} {f}
+ballot {n} (total of all votes cast in an election)	 :: opptelling {m}
+ballot box {n} (a sealed box into which a voter puts his voting slip)	 :: urne {m} {f}, valgurne {m} {f}
+ballpark {adj} (approximate)	 :: grov, omtrentlig
+ballpark {n} (field)	 :: idrettsanlegg {n}
+ball pen {n} (ballpoint pen) SEE: ballpoint pen	 ::
+ballpoint pen {n} (pen)	 :: kulepenn {f}
+balls {n} (follow the translations in the entry "ball") SEE: ball	 ::
+balls-up {n} ( or maybe cock up) SEE: or maybe cock up	 ::
+balm {n} (figurative: something soothing) SEE: balsam	 ::
+balm {n} (plant or tree yielding such substance) SEE: balsam	 ::
+balm {n} (soothing lotion) SEE: balsam	 ::
+balm {n} (sweet-smelling oil or resin derived from some plants) SEE: balsam	 ::
+balrog {n} (fiery demonic creature)	 :: balrog
+balsam {n} (balsam fir) SEE: balsam fir	 ::
+balsam {n} (turpentine from the resin of balsam fir) SEE: Canada balsam	 ::
+Baltic {prop} (Baltic Sea) SEE: Baltic Sea	 ::
+Baltic Sea {prop} (a sea)	 :: [Nynorsk] Austersjøen; [Bokmål] Østersjøen
+Balto-Slavic {prop} (Proto-Balto-Slavic language) SEE: Proto-Balto-Slavic	 ::
+balustrade {n} (row of balusters)	 :: balustrade
+Bambara {prop} (language)	 :: bambara; [Nynorsk] bambara
+Bamboo Curtain {prop} (political barrier between communist and capitalist in Asia)	 :: Bambusteppet
+ban {n} (prohibition)	 :: utvisning {m} {f}, forvisning {m} {f}, forvisning {f}
+ban {v} (forbid)	 :: forby, utelukke
+banal {adj} (common)	 :: banal {m} {f}, banalt
+banana {n} (fruit)	 :: banan {m}
+banana {n} (plant)	 :: bananplante {m} {f}
+banana boat {n} (ship for transporting bananas)	 :: [Bokmål] bananbåt
+banana peel {n} (outermost layer of the banana)	 :: [Bokmål] bananskall {n}; [Nynorsk] bananskal {n}
+banana republic {n} (small country dependent on a single export commodity with a corrupt dictatorial government)	 :: [Bokmål] bananrepublikk {m}; [Nynorsk] bananrepublikk {m}
+banana skin {n} (banana skin) SEE: banana peel	 ::
+band {n} (group of energy levels in a solid state material)	 :: bånd {n}
+band {n} (group of musicians)	 :: band {n}
+band {n} (group of people loosely united for a common purpose)	 :: bande {m}
+band {n} (orchestra originally playing janissary music)	 :: korps {n}
+band {n} (part of radio spectrum)	 :: bånd {n}
+band {n} (strip along the spine of a book where the pages are attached)	 :: bind {n}
+band {n} (strip of material wrapped around things to hold them together)	 :: band {n}, bånd {n}
+band {v} (ornithology: to fasten an identifying band around the leg of)	 :: ringmerke
+band {v} (to fasten with a band)	 :: binde
+bandage {n} (medical binding)	 :: [Bokmål] bandasje {m}; [Nynorsk] bandasje {m}
+band-aid {n} (adhesive bandage)	 :: plaster
+band-aid {v} (to apply an adhesive bandage)	 :: plastre
+bandeaux {n} (a bandeau) SEE: bandeau	 ::
+banded anteater {n} (numbat) SEE: numbat	 ::
+bandoleer {n} (a pocketed belt)	 :: bandolær {n}
+bandwidth {n} (measure of data flow rate in digital networks)	 :: [Bokmål] båndbredde {m}, båndvidde {m} {f}
+bandy {n} (winter sport played on ice)	 :: bandy {c}
+bane {n} (killer) SEE: killer	 ::
+bane {n} (source of harm or ruin; affliction)	 :: bane {m}
+bane {v} (to be the bane of)	 :: bane {m}
+bane {v} (to (kill by) poison) SEE: poison	 ::
+bang {n} (bangs) SEE: bangs	 ::
+Bangla {prop} (Bengali) SEE: Bengali	 ::
+Bangladesh {prop} (country)	 :: Bangladesh
+Bangladeshi {adj} (of, from, or pertaining to Bangladesh)	 :: [Bokmål] bangladeshisk; [Nynorsk] bangladeshisk
+Bangladeshi {n} (person from Bangladesh or of Bangladeshi descent)	 :: [Bokmål] bangladesher {m}; [Nynorsk] bangladeshar {m}
+bangs {n} (hair that hangs down over the forehead)	 :: pannelugg {m}, lugg {m}
+banister {n} (the handrail on the side of a staircase)	 :: gelender {n}
+banjo {n} (a musical instrument)	 :: [Bokmål] banjo
+bank {n} (an underwater area of higher elevation, a sandbank)	 :: banke {m}
+bank {n} (branch office of such an institution)	 :: bank {m}
+bank {n} (edge of river or lake)	 :: bredd {m}
+bank {n} (institution)	 :: bank {m}
+bank {n} (storage for important goods)	 :: bank {m}
+bankable {adj} (reliable) SEE: reliable	 ::
+bank account {n} (fund deposited by a customer for safekeeping in a bank)	 :: [Bokmål] bankkonto {m}; [Nynorsk] bankkonto {m}
+bank machine {n} (automated teller machine) SEE: automated teller machine	 ::
+banknote {n} (paper currency)	 :: seddel, pengeseddel; [Nynorsk] setel, pengesetel
+bankrupt {v} (force into bankruptcy)	 :: konkurs, bankerott, insolvent
+banner {n} (advertisement in a web page)	 :: banner {m}
+banner {n} (cause or purpose; a campaign or movement)	 :: fane {m}
+banner {n} (flag)	 :: flagg {n}
+banner {n} (large piece of cloth with a device or motto borne in a procession)	 :: fane {m}
+banner {n} (large sign)	 :: banner {m}
+bannerette {n} (banneret) SEE: banneret	 ::
+bannister {n} (the handrail on the side of a staircase)	 :: gelender {n}
+banquet {n} (a large celebratory meal; a feast)	 :: [Bokmål] bankett {m}; [Nynorsk] bankett {m}
+baptise {v} (baptize) SEE: baptize	 ::
+baptism {n} (Christian sacrament with water)	 :: dåp {m}
+baptismal font {n} (a church article)	 :: døpefont
+bar {n} (business licensed to sell intoxicating beverages)	 :: [Bokmål] bar {m}, drikkested {n}, kneipe {m} {f}, bule {m} {f}
+bar {n} (cuboid piece of any commodity)	 :: -bar {m}
+bar {n} (heraldry: one of the ordinaries) SEE: fess	 ::
+bar {n} (long, narrow drawn or printed rectangle, cuboid or cylinder)	 :: [Bokmål] felt {n}, linje {m} {f}
+bar {n} (metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section)	 :: [Bokmål] bjelke {m}
+bar {n} (soccer: crossbar) SEE: crossbar	 ::
+bar {n} (solid object with uniform cross-section)	 :: [Bokmål] bjelke {m}, bom {m}
+bar {n} (unit of pressure)	 :: bar {m}
+bar {prep} (with the exception of) SEE: except	 ::
+barb {n} (beard or something that resembles a beard) SEE: beard	 ::
+barb {n} (bit for a horse) SEE: bit	 ::
+barb {n} (kingfish) SEE: kingfish	 ::
+barb {n} (point that stands backward in an arrow, fishhook, etc)	 :: mothake {m}
+Barbadian {adj} (of or relating to Barbados)	 :: [Bokmål] barbadisk; [Nynorsk] barbadisk
+Barbadian {n} (person from Barbados)	 :: [Bokmål] barbader {m}; [Nynorsk] barbadar {m}
+Barbados {prop} (country in the Caribbean)	 :: Barbados
+Barbara {prop} (cognates and transliterations of female given name)	 :: Barbro
+barbariousness {n} (barbarousness) SEE: barbarousness	 ::
+barbarism {n} (barbaric act)	 :: barbari {n}
+Barbary ape {n} (tailless monkey) SEE: Barbary macaque	 ::
+barbary dove {n} (Streptopelia risoria) SEE: ringneck dove	 ::
+barbecue {n} (cooking instrument)	 :: [Bokmål] grill {m}; [Nynorsk] grill {m}
+barbecue {v} (to grill)	 :: [Bokmål] grille; [Nynorsk] grille
+Barcelonan {adj} (from Barcelona) SEE: Barcelonian	 ::
+Barcelonan {n} (someone from Barcelona) SEE: Barcelonian	 ::
+barcode {n} (set of machine-readable parallel bars)	 :: strekkode
+bare {adv} (barely) SEE: barely	 ::
+barefoot doctor {n} (farmer with basic medical training)	 :: barfotlege {m}
+barely {adv} (almost not at all)	 :: nesten ikke
+barely {adv} (by a small margin)	 :: så vidt
+barely {adv} (merely)	 :: bare så vidt
+Barents Island {prop} (island)	 :: Barentsøya
+Barents Sea {prop} (part of the Arctic Ocean)	 :: Barentshavet {n}
+barge {n} (flat-bottomed bulk carrier mainly for inland waters)	 :: pram {m}
+bari {n} (baritone saxophone) SEE: baritone saxophone	 ::
+baritone {n} (instrument similar to euphonium)	 :: [Bokmål] baryton {m}; [Nynorsk] baryton {m}
+baritone {n} (male voice)	 :: [Bokmål] baryton {m}; [Nynorsk] baryton {m}
+baritone {n} (person, instrument or group)	 :: [Bokmål] baryton {m}; [Nynorsk] baryton {m}
+baritone horn {n} (baritone horn) SEE: baritone	 ::
+barium {n} (chemical element)	 :: barium
+bark {n} (exterior covering of a tree)	 :: [Bokmål] bark {m}; [Nynorsk] bork {m}
+bark {n} (figurative: abrupt utterance)	 :: bjeff {n}
+bark {n} (in medicine) SEE: Jesuit's bark	 ::
+bark {n} (short, loud, explosive utterance)	 :: bjeff {n}
+bark {n} (similar sound of other animals)	 :: bjeff {n}
+bark {n} (three-masted vessel, foremast and mainmast square-rigged, mizzenmast schooner-rigged)	 :: [Bokmål] bark {m}; [Nynorsk] bark {m}
+bark {v} (to girdle) SEE: girdle	 ::
+barley {n} (Hordeum vulgare or its grains)	 :: bygg {n} {m}
+barman {n} (bartender) SEE: bartender	 ::
+barn {n} (building)	 :: låve {m}
+barnacle {n} (barnacle goose) SEE: barnacle goose	 ::
+barnacle goose {n} (Branta leucopsis)	 :: hvitkinngås {f}
+barn owl {n} (An owl of the genus Tyto)	 :: tårnugle
+barn swallow {n} (species of swallow)	 :: [Bokmål] låvesvale {f}
+bar of chocolate {n} (slab of chocolate)	 :: [Bokmål] sjokoladeplate {m} {f}; [Nynorsk] sjokoladeplate {f}
+barometer {n} (an instrument for measuring atmospheric pressure)	 :: barometer {n}
+baroscope {n} (barometer) SEE: barometer	 ::
+barque {n} (sailing vessel, all masts but sternmost square-rigged)	 :: [Bokmål] bark {m}; [Nynorsk] bark {m}
+barquentine {n} (sailing vessel)	 :: (bokmål): Skonnertbark
+barracks {n} (buildings used by military personnel) SEE: barrack	 ::
+barrel {n} (metallic tube of a gun)	 :: [Bokmål] løp {n}, pipe {m} {f}; [Nynorsk] laup {n}, løp {n}, pipe {f}
+barrel {n} (round vessel made from staves bound with a hoop)	 :: [Bokmål] tønne {m} {f}; [Nynorsk] tunne {f}, tønne {f}
+barrel vault {n} (architecture)	 :: tønnehvelv {n}
+barricade {n} (a barrier constructed across a road, especially as a military defence)	 :: [Bokmål] barrikade {m}; [Nynorsk] barrikade {m}
+barricade {n} (an obstacle, barrier or bulwark)	 :: barrikade {m}
+barricade {v} (to close or block a road etc., using a barricade)	 :: barrikadere
+barricade {v} (to keep someone in (or out), using a blockade, especially ships in a port)	 :: barrikadere, blokkere, stenge inne
+barrier {n} (structure that bars passage)	 :: bom {m}
+barring {prep} (excepting)	 :: bortsett fra
+bar-tailed godwit {n} (bar-tailed godwit)	 :: lappspove {m}
+barter {n} (an equal exchange)	 :: byttehandel {m}
+Bartholomew {prop} (the Apostle)	 :: Bartolomeus
+barycentre {n} (barycenter) SEE: barycenter	 ::
+baryon {n} (heavy subatomic particle)	 :: [Bokmål] baryon {n}; [Nynorsk] baryon {n}
+barytes {n} (barite) SEE: barite	 ::
+basalt {n} (hard rock)	 :: [Bokmål] basalt {m}; [Nynorsk] basalt {m}
+base {n} (chemical compound that will neutralize an acid)	 :: base
+base {n} (headquarters)	 :: hovedkvarter {n}
+base {n} (safe zone in children's game)	 :: frie
+baseball {n} (ball game)	 :: [Bokmål] baseball
+baseboard {n} (panel or molding between floor and interior wall) SEE: skirting board	 ::
+based {adj} (founded on)	 :: baserat
+baseless {adj} (based on something that is not true) SEE: unfounded	 ::
+basement {n} (floor below ground level)	 :: kjeller {m}; [Nynorsk] kjellar {m}
+Basenji {n} (Basenji)	 :: basenji
+bash {v} (collide) SEE: collide	 ::
+Basheer {prop} (Bashir) SEE: Bashir	 ::
+bashful {adj} (inclined to avoid notice)	 :: beskjeden, sky, forlegen
+Bashkir {prop} (language)	 :: basjkirsk; [Nynorsk] basjkirsk
+Bashkiria {prop} (Bashkortostan) SEE: Bashkortostan	 ::
+basic {adj} (elementary, simple, merely functional)	 :: [Bokmål] grunnleggende
+basil {n} (herb)	 :: [Bokmål] basilikum {m}, basilik {m}; [Nynorsk] basilikum {m}
+basil {n} (plant)	 :: [Bokmål] basilikum {m}, basilik {m}; [Nynorsk] basilikum {m}
+basilean {n} (partisan of a king) SEE: royalist	 ::
+basileolatry {n} (basileiolatry) SEE: basileiolatry	 ::
+basilica {n} (Christian church building having a nave)	 :: basilika {m}
+basilisk {n}	 :: basilisk {m}
+basilisk {n} (snake-like dragon type)	 :: basilisk {m}
+basilolatry {n} (basileiolatry) SEE: basileiolatry	 ::
+basin {n} (area of water that drains into a river)	 :: vann {n}, innsjø {n}, basseng {n}
+basin {n} (bowl for washing, often affixed to a wall)	 :: servant {m}, vaskekum {m}, balje {m}
+bask {v} (to take great pleasure or satisfaction; to feel warm or happiness)	 :: kose seg
+basket {n} (basketball: hoop from which a net is suspended)	 :: kurv {m}
+basket {n} (container)	 :: kurv {m}
+basket {n} (wire or plastic container for carrying articles for purchase) SEE: shopping basket	 ::
+basketball {n} (the sport)	 :: basketball {m}; [Nynorsk] korgball {m}
+Basque {n} (member of a people)	 :: basker
+Basque {prop} (language)	 :: baskisk
+bass {n} (perch)	 :: bass
+bass fiddle {n} (instrument) SEE: double bass	 ::
+bass guitar {n} (stringed musical instrument)	 :: bassgitar {m}, bass {m}
+bassoon {n} (musical instrument in the woodwind family)	 :: fagott {m}
+bass viol {n} (musical instrument) SEE: double bass	 ::
+bass violin {n} (instrument) SEE: double bass	 ::
+bastard {n} (contemptible etc. person)	 :: drittsekk {m}
+bastard {n} (longsword) SEE: longsword	 ::
+bastard {n} (person born to unmarried parents)	 :: lausunge {m}, løsunge {m}, bastard {m}
+bat {n} (club)	 :: balltre {n}
+bat {n} (small flying mammal)	 :: [Bokmål] flaggermus {m} {f}; [Nynorsk] flaggermus {f}, skinnvengje {f}
+bat {v} (hit)	 :: [Bokmål] slå
+bat an eyelash {v} (to react in any slight way)	 :: heve et øyenbryn
+bat an eyelid {v} (to react in any slight way)	 :: heve et øyelokk
+batch {n} (computing)	 :: batch
+batch {n} (quantity of baked goods made at one time)	 :: ladning {f}
+bate {v} (masturbate) SEE: masturbate	 ::
+bate {v} (simple past of beat) SEE: beat	 ::
+bath {n} (act of bathing)	 :: bade
+bath {n} (room)	 :: bad {n}
+bath {n} (tub)	 :: badekar {n}
+bath {v} (To wash a person or animal in a bath)	 :: [Bokmål] bade; [Nynorsk] bada, bade
+bathe {n} (act of bathing)	 :: bad {n}
+bathe {v} (to clean oneself)	 :: [Bokmål] bade; [Nynorsk] bada, bade
+bathe {v} (to sunbathe) SEE: sunbathe	 ::
+bathing box {n} (beach hut) SEE: bathing hut	 ::
+bathing cap {n} (cap worn by swimmers) SEE: swim cap	 ::
+bathing suit {n} (tight fitting garment for swimming) SEE: swimsuit	 ::
+bathing trunks {n} (pair of shorts or briefs) SEE: swimming trunks	 ::
+bathrobe {n} (terrycloth robe)	 :: [Bokmål] badekåpe {m} {f}; [Nynorsk] badekåpe {f}
+bathroom {n} (a room containing a bath where one can bathe)	 :: badrom {n}, bad {n}
+bathtub {n} (large container in which a person may bathe)	 :: badekar {n}
+bathymeter {n} (bathometer) SEE: bathometer	 ::
+bathyscaphe {n} (self-propelled deep-sea submersible)	 :: batyskaf
+Bats {prop} (a Northeast Caucasian language spoken in Georgia)	 :: batsisk
+batter {n} (A beaten mixture of flour and liquid, used for baking)	 :: [Bokmål] røre {m} {f}; [Nynorsk] røre {f}
+batter {v} (to hit or strike violently and repeatedly)	 :: slå; [Bokmål] pryle
+battering ram {n} (type of siege engine used to smash gates and walls)	 :: rambukk {m}
+battery {n} (crime of striking another)	 :: [Bokmål] legemsbeskadigelse {m}; [Nynorsk] lekamskrenking {f}
+battery {n} (device producing electricity)	 :: [Bokmål] batteri {n}; [Nynorsk] batteri {n}
+battlefield {n} (field of a land battle)	 :: [Bokmål] slagmark {m} {f}; [Nynorsk] slagmark {f}
+battleground {n} (location) SEE: battlefield	 ::
+battleship {n} (warship)	 :: [Bokmål] slagskip {n}; [Nynorsk] slagskip {n}
+Baumé {n} (Baumé scale) SEE: Baumé scale	 ::
+bauxite {n} (ore)	 :: [Bokmål] bauksitt {m}, bauxitt {m}; [Nynorsk] bauksitt {m}, bauxitt {m}
+bay {n} (body of water)	 :: bukt {f}
+bay {n} (herb)	 :: laurbærblad {n}
+bay {n} (shrub)	 :: laurbær {m}
+bay leaf {n} (herb)	 :: [Bokmål] laurbærblad {n}; [Nynorsk] laurbærblad {n}
+bayonet {n} (weapon)	 :: bajonett
+Bayonne ham {n} (an air dried salted ham that takes its name from the French city of Bayonne)	 :: bayonneskinke {f}
+bazaar {n} (marketplace)	 :: basar {m}
+be {v} ((archaic) used to form the perfect aspect with certain intransitive verbs)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (elliptical form of "be here", or similar)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (exist)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (occupy a place)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (occur, take place)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (used to connect a noun to an adjective that describes it)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (used to form the continuous forms of various tenses)	 :: Not used in Norwegian
+be {v} (used to form the passive voice)	 :: [Bokmål] bli; [Nynorsk] verta, verte, bli
+be {v} (used to indicate that the subject and object are the same)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (used to indicate that the subject has the qualities described by a noun or noun phrase)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (used to indicate that the subject plays the role of the predicate nominative)	 :: [Bokmål] være; [Nynorsk] vera, vere
+be {v} (used to indicate that the values on either side of an equation are the same)	 :: [Bokmål] være or være lik; [Nynorsk] vera, vere or vera, vere lik
+be {v} (used to indicate weather, air quality, or the like)	 :: [Bokmål] være; [Nynorsk] vera, vere
+beach {n} (sandy shore)	 :: [Bokmål] strand {m} {f}; [Nynorsk] strand {f}
+beach hut {n} (building for changing into swimming clothes) SEE: bathing hut	 ::
+beach volleyball {n} (sport)	 :: strandvolleyball
+beak {n} (slang: human nose) SEE: schnozzle	 ::
+beak {n} (structure projecting from a bird's face)	 :: nebb
+beaker {n} (drinking vessel without a handle)	 :: beger {n}, krus {n}
+beaker {n} (flat-bottomed vessel)	 :: beger {n}
+bean {n} (guinea coin) SEE: guinea	 ::
+bean {n} (seed)	 :: bønne {c}
+bean goose {n} (Anser fabalis)	 :: [Bokmål] sædgås {f}
+bear {n} (large mammal of family Ursidae)	 :: [Bokmål] bjørn {m}; [Nynorsk] bjørn {m}
+bear {v} (be equipped with)	 :: bære, føre
+bear {v} (be in a specific direction)	 :: bære mot
+bear {v} (carry)	 :: bære
+bear {v} (declare)	 :: føre
+bear {v} (give birth to)	 :: bære, fram, føde
+bear {v} (produce)	 :: bære fram
+bear {v} (put up with)	 :: tåle, utstå
+bearberry {n} (the species Arctostaphylos uva-ursi)	 :: melbær
+bearcat {n} (binturong) SEE: binturong	 ::
+beard {n} (facial hair)	 :: skjegg {n}
+bearded vulture {n} (vulture) SEE: lammergeier	 ::
+bear garlic {n} (ramsons) SEE: ramsons	 ::
+bearing {n} (mechanical device)	 :: [Bokmål] lager {n}; [Nynorsk] lager {n}
+beast of burden {n} (animal that carries or pulls heavy loads)	 :: trekkdyr {n}, kløvdyr {n}
+beat {n} (pulse) SEE: pulse	 ::
+beat {v} (to hit, to knock, to pound, to strike)	 :: slå
+beat {v} (to win against)	 :: slå
+beat a dead horse {v} (continue far beyond reason) SEE: flog a dead horse	 ::
+beat around the bush {v} (to delay or avoid talking about something difficult or unpleasant)	 :: gå som katten rundt den varme grøten (circle like a cat around the warm porridge)
+beat around the bush {v} (to treat a topic but omit its main points)	 :: gå som katten rundt den varme grøten (circle like a cat around the warm porridge)
+beating {n} (action of the verb to beat)	 :: slag {n}
+beating {n} (the pulsation of the heart)	 :: [Bokmål] hjerteslag {n}; [Nynorsk] hjarteslag {n}, hjerteslag {n}
+beatnik {n} (beatnik)	 :: beatnik {m}
+beat up {v} (To give a beating to)	 :: [Bokmål] banke opp
+beautify {v} (to make beautiful or more beautiful)	 :: forskjønne
+beauty {n} (beautiful female)	 :: [Bokmål] skjønnhet {m} {f}; [Nynorsk] skjønnheit {f}
+beauty {n} (quality of pleasing appearance)	 :: [Bokmål] skjønnhet {m} {f}; [Nynorsk] venleik {m}, skjønnheit {f}
+beauty {n} (something particularly good or pleasing)	 :: praktfull {n}
+beauty contest {n} (beauty pageant) SEE: beauty pageant	 ::
+beauty parlor {n} (salon with hairdressers and beauticians)	 :: [Bokmål] skjønnhetssalong {m}
+beauty salon {n} (beauty salon) SEE: beauty parlor	 ::
+beauty spot {n} (birthmark) SEE: mole	 ::
+beaver {n} (aquatic mammal)	 :: bever {m}
+beazle {n} (bezel) SEE: bezel	 ::
+be born {v} (to come into existence through birth)	 :: [Bokmål] bli født
+be born yesterday {v}	 :: født i går
+be called {v} (to have a specific name)	 :: hete
+because {adv} (on account)	 :: [Bokmål] på grunn av
+because {conj} (by or for the cause that; on this account that; for the reason that)	 :: [Bokmål] fordi, ettersom, da; [Nynorsk] av di, fordi, ettersom, då
+because of {prep} (on account of, by reason of, for the purpose of)	 :: på grunn av
+Bechuanaland {prop} (formal name for Botswana)	 :: Protektoratet Bechuanaland
+become {v} (to begin to be)	 :: bli
+become {v} (to look attractive on, be suitable for)	 :: kle
+bed {n} (area where a large number of shellfish is found)	 :: banke {m}
+bed {n} (flat surface or layer on which something else is to be placed)	 :: seng {m}
+bed {n} (garden plot)	 :: bed {n}
+bed {n} (piece of furniture)	 :: seng {m}
+bed {n} (prepared spot to spend the night in)	 :: seng {m}
+bed {n} (shaped piece of timber to hold a cask clear) SEE: pallet	 ::
+bed {n} (the bottom of a lake or other body of water)	 :: bunn {m}
+bedbound {adj} (unable to leave one's bed) SEE: bedridden	 ::
+bedbug {n} (small nocturnal insects)	 :: veggdyr
+bedclothes {n} (sheets, blankets, quilts or other coverings used on a bed)	 :: sengetøy {n}
+bedcover {n} (decorative cover for a bed) SEE: bedspread	 ::
+bedfast {adj} (unable to leave one's bed) SEE: bedridden	 ::
+bedouin {n} (desert-dweller)	 :: beduin {m}
+bedridden {adj} (confined to bed)	 :: sengeliggende
+bedrock {n} (underground solid rock)	 :: grunnfjell {n}
+bedroom {n} (room in a house where a bed is kept for sleeping)	 :: [Bokmål] soveværelse {n}, soverom {n}; [Nynorsk] soverom {n}
+bed sheet {n} (sheet, a piece of cloth cut and finished as bedlinen)	 :: laken {n}
+bedsheet {n} (a sheet, a piece of cloth cut and finished as bedlinen)	 :: laken {n}
+bedside table {n} (nightstand) SEE: nightstand	 ::
+bedspread {n} (coverlet) SEE: coverlet	 ::
+bee {n} (insect)	 :: bie {m} {f}
+beech {n} (tree of Fagus family)	 :: bøk {m}
+beef {n} (cow, bull) SEE: cow, bull	 ::
+beef {n} (meat)	 :: storfekjøtt {n}
+beef up {v} (to strengthen or reinforce) SEE: strengthen	 ::
+beefy {adj} (muscular) SEE: muscular	 ::
+beefy {adj} (robust) SEE: robust	 ::
+beehive {n} (home of bees)	 :: bikube {c}
+beehive {n} (man-made structure in which bees are kept for their honey)	 :: bikube
+beekeeper {n} (someone who keeps bees)	 :: birøkter {m}
+beekeeping {n} (raising bees)	 :: birøkt {c}
+beemer {n} (slang term for a BMW car or motorcycle)	 :: beamer {m}
+beer {n} (alcoholic drink made of malt)	 :: øl
+beer {n} (glass of beer)	 :: øl {m}
+beer goggles {n} (the illusion that people are more attractive, brought on by alcohol consumption)	 :: [Bokmål] ølbrille {m} {f}; [Nynorsk] ølbrille {f}
+beer gut {n} (beer belly) SEE: beer belly	 ::
+beer parlor {n} (beer parlour) SEE: beer parlour	 ::
+bee sting {n} (puncture from a Anthophila)	 :: bistikk
+beestings {n} (first milk drawn from an animal) SEE: colostrum	 ::
+beet {n} (Beta vulgaris)	 :: roe
+beetle {n} (insect)	 :: bille {m}
+beetroot {n} (a normally deep red coloured cultivar of the beet)	 :: rødbete; [Nynorsk] raudbete
+before {adv} (at an earlier time)	 :: før
+before {prep} (earlier than in time)	 :: før
+before {prep} (in front of in space)	 :: [Bokmål] foran; [Nynorsk] føre, framanfor
+beforehand {adv} (at an earlier time)	 :: på forhånd, i forkant, i forveien
+befriend {v} (make friends) SEE: make friends	 ::
+beggar {n} (person who begs)	 :: tigger {m}
+begin {v} (To start, to initiate or take the first step into something.)	 :: begynne
+beginning {n} (act of doing that which begins anything)	 :: [Bokmål] begynnelse {m}
+beginning {n} (initial portion of some extended thing)	 :: [Bokmål] begynnelse {m}
+beginning {n} (that which begins or originates something)	 :: [Bokmål] begynnelse {m}
+behalf {n} (stead) SEE: stead	 ::
+behave {v} (to act in a specific manner)	 :: oppføre seg
+behave oneself {v} (to act in a polite or proper way) SEE: behave	 ::
+beheadal {n} (beheading) SEE: beheading	 ::
+behind {n}	 :: bak {m}
+behind {n} (butt, buttocks)	 :: bak {m}, rompe {c}
+behind {n} (rear, back-end)	 :: bakpart {m}
+behind {prep} (after, time- or motion-wise)	 :: bak
+behind {prep} (at the back of)	 :: bak
+behind {prep} (in support of)	 :: bak
+behind {prep} (to the back of)	 :: bak
+behoove {v} (to be necessary)	 :: være nødvendig
+behoove {v} (to suit; to befit)	 :: [reflexive] passe
+Beijing {prop} (capital of China)	 :: Beijing, Peking, Pekin
+Beijinger {prop} (Pekingese) SEE: Pekingese	 ::
+Beijingese {adj} (Pekingese) SEE: Pekingese	 ::
+Beijingese {n} (Pekingese) SEE: Pekingese	 ::
+Beijing opera {n} (Peking opera) SEE: Peking opera	 ::
+being {n} (a living creature)	 :: vesen
+being {n} (the state or fact of existence)	 :: tilværelse, det å være, bli til
+Beirut {prop} (capital of Lebanon)	 :: Beirut
+Belarus {prop} (country)	 :: Hviterussland [Bokmål], Kviterussland [Nynorsk]
+Belarusian {adj} (pertaining to Belarus)	 :: [Bokmål] hviterussisk; [Nynorsk] kviterussisk
+Belarusian {n} (person from Belarus or of Belarusian descent)	 :: [Bokmål] hviterusser {m}, kviterusser {m}; [Nynorsk] kviterussar {m}
+Belarusian {prop} (language)	 :: hviterussisk; [Nynorsk] kviterussisk
+belated {adj} (later in relation to the proper time)	 :: forsinket, på etterskudd
+beleaguer {v} (to besiege; to surround with troops)	 :: beleire; [Nynorsk] omleire
+Belgian {adj} (of or pertaining to Belgians or Belgian people)	 :: belgisk
+Belgian {adj} (of or pertaining to Belgium)	 :: belgisk
+Belgian {n} (Belgian, person from Belgium)	 :: [Bokmål] belgier {m}; [Nynorsk] belgiar {m}
+Belgian Sheepdog {n} (Belgian Groenendael) SEE: Belgian Groenendael	 ::
+Belgian Sheepdog {n} (Umbrella term for the four Belgian sheepdog variants)	 :: belgisk fårehund {m}
+Belgium {prop} (country in Europe)	 :: Belgia; [Nynorsk] Belgia
+Belgrade {prop} (capital of Serbia)	 :: Beograd, Belgrad
+believe {v} (to accept that someone is telling the truth (object: person))	 :: tro
+believe {v}	 :: tro
+Belize {prop} (country)	 :: Belize
+Belizean {adj} (Pertaining to Belize)	 :: [Bokmål] belizisk; [Nynorsk] belizisk
+Belizean {n} (person from Belize)	 :: [Bokmål] belizer {m}; [Nynorsk] belizar {m}
+Belizian {adj} (Belizean) SEE: Belizean	 ::
+Belizian {n} (Belizean) SEE: Belizean	 ::
+bell {n} (informal: telephone call)	 :: ringing {m} {f}
+bell {n} (percussive instrument)	 :: bjelle {m} {f}
+bell {n} (signal at a school)	 :: innringing {m} {f}
+bell {n} (the flared end of a brass or woodwind instrument)	 :: sjallstykke {n}
+bell {v} (to attach a bell to)	 :: henge en bjelle på
+belladonna {n} (a plant, Atropa belladonna) SEE: deadly nightshade	 ::
+belligerent {adj} (eager to go to war)	 :: krigersk, stridslysten
+belligerent {adj} (hostile, eager to fight)	 :: stridslysten
+bellows {n} (air blower)	 :: blåsebelg {n}
+bell pepper {n} (spicy-sweet vegetable)	 :: paprika {m}
+bell the cat {v} (to undertake a dangerous action in the service of a group)	 :: [Bokmål] henge bjella på katten; [Nynorsk] hengje bjølla på katten, henge bjølla på katten
+belly {n} (abdomen)	 :: [Bokmål] mage {m}
+belowstairs {adv} (downstairs) SEE: downstairs	 ::
+belt {n} (band used for safety purposes)	 :: belte {n}
+belt {n} (band used in a machine to help transfer motion or power)	 :: belte {n}
+belt {n} (band worn around the waist)	 :: belte {n}
+belt {n} (geographical region)	 :: belte {n}, region {m}
+beluga {n} (cetacean, Delphinapterus leucas)	 :: [Bokmål] hvithval {m}, kvitkval {m}; [Nynorsk] kvitkval {m}
+bemock {v} (mock) SEE: mock	 ::
+bench {n} (long seat)	 :: benk {m}
+bench {v} (remove a player from play)	 :: benke
+benchlet {n} (stool) SEE: stool	 ::
+bend {v}	 :: bøye
+bend {v} (to cause to shape into a curve)	 :: bøye
+bender {n} (simple shelter) SEE: bender tent	 ::
+bender {n} (slang: homosexual man)	 :: skeiv {m}
+bends {n} (nautical: thickest and strongest planks on the sides of a ship) SEE: wales	 ::
+beneath {prep} (below)	 :: under
+Benedict {prop} (male given name)	 :: Bendik
+Benedicta {prop} (feminine form of Benedict)	 :: Benedikte
+benediction {n} (a short invocation for divine help, blessing and guidance, usually after a church worship service)	 :: takksigelse
+benefactive case {n} (case used to indicate beneficiary)	 :: benefaktiv
+benefit of the doubt {n} (a favorable judgement given in the absence of full evidence)	 :: [Bokmål] la tvilen komme tiltalte til gode; [Nynorsk] la tvilen kome tiltalte til gode
+Benghazi {prop} (Benghazi, Libya)	 :: Benghazi
+benign tumor {n} (tumor which can usually be removed without serious complications)	 :: godarta svulst {m}
+Benin {prop} (country)	 :: Benin
+Beninese {adj} (of, from, or pertaining to Benin)	 :: [Bokmål] beninsk; [Nynorsk] beninsk
+Beninese {n} (person)	 :: [Bokmål] beniner {m}; [Nynorsk] beninar {m}
+Benjamin {prop} (male given name)	 :: Benjamin
+Benjamin {prop} (the youngest son of Jacob)	 :: Benjamin
+benumb {v} (deaden) SEE: deaden	 ::
+benumb {v} (make numb) SEE: numb	 ::
+benzene {n} (the phenyl group) SEE: phenyl	 ::
+benzine {n} (benzene) SEE: benzene	 ::
+benzoin {n} (spicebush) SEE: spicebush	 ::
+be prepared {phrase} (motto)	 :: vær beredt
+bequest {n} (a person's inheritance)	 :: testamentarisk gave, legat {n}
+bequest {n} (will of the deceased)	 :: testament {n}
+be quiet {interj} (common imperative instructing the addressed to remain silent) SEE: silence	 ::
+berdache {n} (person who identifies with a gender identity not exclusively corresponding to their biological sex) SEE: two-spirit	 ::
+beret {n} (type of brimless cap)	 :: [Bokmål] alpelue {m} {f}, beret {m}
+Bergen {prop} (city in Norway)	 :: Bergen
+berkelium {n} (transuranic chemical element)	 :: berkelium
+Berlin {prop} (capital city of Germany)	 :: Berlin
+Berliner {n} (doughnut)	 :: [Bokmål] berlinerbolle {m}
+Berliner {n} (native or inhabitant of Berlin)	 :: berliner {m}
+Bermuda {prop} (island group)	 :: Bermuda
+Bernard {prop} (male given name)	 :: Bernhard
+Bernice {prop} (female given name) SEE: Berenice	 ::
+berry {n} (small fruit)	 :: bær {n}
+berry sugar {n} (caster sugar) SEE: caster sugar	 ::
+berserk {n} (a crazed Norse warrior who fought in a frenzy)	 :: berserk
+berth {n} (bunk)	 :: køye
+beryllium {n} (chemical element)	 :: beryllium; [Nynorsk] beryllium
+beside {prep} (next to)	 :: ved siden av
+beside {prep} (not relevant to)	 :: på siden
+besiege {v} (to surround with armed forces)	 :: beleire; [Nynorsk] omleire
+bespoke {adj} (individually or custom made)	 :: [Bokmål] skreddersy, spesialtilpasse
+best {adj} (superlative of the adjective good)	 :: best
+best {adv} (superlative of the adverb well)	 :: best
+best {n} (effort)	 :: beste
+best {n} (person)	 :: best
+best {v} (to beat)	 :: slå
+best friend {n} (an especially close and trusted friend)	 :: bestevenn
+best man {n} (primary attendant to the groom)	 :: forlover {m}
+bestow {v} (present a thing as a gift or honour)	 :: forære, skjenke
+best regards {n} (polite closing of a letter)	 :: med vennlig hilsen
+bestride {v} (dominate) SEE: dominate	 ::
+bet {n} (a wager)	 :: veddemål {n}
+bet {v} (To be sure of something)	 :: vedde på
+bet {v} (To stake or pledge upon the outcome of an event)	 :: vedde
+be taken ill {v} (to become ill) SEE: take sick	 ::
+Bethlehem {prop} (City)	 :: Betlehem
+betray {v} (to deliver into the hands of an enemy)	 :: [Bokmål] forråde
+betrayal {n} (treason) SEE: treason	 ::
+betrayer {n} (someone who betrays)	 :: angiver, forræder, sladrehank, sviker, tyster
+better {adj} (comparative of the adjectives good or well)	 :: bedre
+better {adv} (comparative form of the adverb well)	 :: bedre
+better {v} (to improve)	 :: forbedre
+better half {n} (spouse or lover)	 :: [Bokmål] bedre halvdel {m}
+better late than never {adv} (it’s better to do something late, than to never do it at all)	 :: bedre sent enn aldri, bedre seint enn aldri
+better safe than sorry {proverb} (it is preferable to be cautious)	 :: bedre å være på den sikre siden
+between {prep} (in the position or interval that separates two things)	 :: mellom
+between {prep} (in transit from one to the other)	 :: mellom
+between {prep} (one of, representing a choice)	 :: mellom
+between {prep} (shared in confidence by)	 :: mellom
+beverage {n} (a drink)	 :: drikk {m}
+beware {v} (use caution, pay attention (to))	 :: passe seg (for)
+bewitch {v} (to cast a spell)	 :: [Bokmål] forhekse; [Nynorsk] forhekse
+beyond the pale {prep} (behaviour that is considered to be outside the bounds of morality)	 :: over streken
+Bharat {prop} (India) SEE: India	 ::
+Bhubaneshwar {prop} (Bhubaneswar) SEE: Bhubaneswar	 ::
+Bhutan {prop} (Himalayan country)	 :: Bhutan
+Bhutanese {adj} (pertaining to Bhutan)	 :: [Bokmål] bhutansk; [Nynorsk] bhutansk
+Bhutanese {n} (person from Bhutan)	 :: [Bokmål] bhutaner {m}; [Nynorsk] bhutanar {m}
+biannual {adj} (occurring every two years) SEE: biennial	 ::
+biannual {adj} (occurring twice a year; semi-annual)	 :: halvårlig, halvårs-
+bias {n} (inclination towards something; predisposition, partiality)	 :: Fordom, partiskhet
+bias {n}	 :: partisk
+biathlon {n} (winter sport)	 :: [Bokmål] skiskyting {m} {f}; [Nynorsk] skiskyting {f}
+bibimbap {n} (Korean dish of white rice topped with vegetables, beef, a whole egg, and gochujang)	 :: bibimbap {m}
+Bible {prop} (Christian holy book)	 :: bibel {m}
+bibliophage {n} (person who loves books) SEE: bookworm	 ::
+bicarbonate {n} (chemistry)	 :: hydrogenkarbonat {n}
+bicarbonate {n} (of soda)	 :: natron {n}
+bicarbonate of soda {n} (sodium bicarbonate) SEE: sodium bicarbonate	 ::
+biceps {n} (biceps brachii) SEE: biceps brachii	 ::
+bichon {n} (Bichon Frisé) SEE: Bichon Frisé	 ::
+bicycle {n} (vehicle)	 :: sykkel {m}
+bicycle kick {n} (kick)	 :: brassespark
+bicycle lane {n} (part of a roadway designated for use by cyclists)	 :: sykkelsti {m}, sykkelfelt {n}
+bicycle path {n} (segregated path for the use of bicycles)	 :: [Bokmål] sykkelsti {m}; [Nynorsk] sykkelsti {m}, sykkelstig {m}
+bicycle rack {n} (rack in which bicycles may be parked) SEE: bicycle stand	 ::
+bicyclist {n} (rider of bicycle) SEE: cyclist	 ::
+bid {n} (offer at an auction)	 :: [Bokmål] bud {n}; [Nynorsk] bud {n}
+bidet {n} (low-mounted plumbing fixture for cleaning the genitalia and anus)	 :: bidet
+bidirectional {adj} (moving in two directions)	 :: bidireksjonal, toretnings-
+bidirectional {adj} (operating in two directions)	 :: bidireksjonal, toretnings-
+bid price {n} (bidding price) SEE: bidding price	 ::
+bifurcate {v} (divide into two)	 :: bifurkere
+big {adj} (of a great size, see also: large)	 :: stor
+big brother {n} (a sibling's older brother) SEE: elder brother	 ::
+big data {n} (collection of data sets)	 :: stordata
+Big Dipper {prop} (bright circumpolar asterism of the northern sky)	 :: Karlsvognen
+big league {adj} (major league) SEE: major league	 ::
+big league {n} (major league) SEE: major league	 ::
+Big Mac {n} (burger)	 :: Big Mac {m}
+bigotedness {n} (bigotry) SEE: bigotry	 ::
+big shot {n} (person with reputation or importance) SEE: big cheese	 ::
+big sister {n} (a sibling's older sister) SEE: elder sister	 ::
+big-time {adj} (bigtime) SEE: bigtime	 ::
+big-time {adv} (bigtime) SEE: bigtime	 ::
+big toe {n} (largest of the toes of the foot of a human)	 :: [Bokmål] stortå {m} {f}; [Nynorsk] stortå {f}
+big wheel {n} (Ferris wheel) SEE: Ferris wheel	 ::
+bike {n} (bicycle)	 :: sykkel {m}
+bike {n} (motorcycle)	 :: motorsykkel {m}
+bike lane {n} (bicycle lane) SEE: bicycle lane	 ::
+bike path {n} (bicycle path) SEE: bicycle path	 ::
+bike rack {n} (bicycle stand) SEE: bicycle stand	 ::
+bikini {n} (bathing suit)	 :: [Bokmål] bikini {m}; [Nynorsk] bikini {m}
+bilberry {n} (the shrub of this plant)	 :: [Bokmål] blåbær {n}; [Nynorsk] blåbær {n}
+bilberry {n} (type of blueberry from the cowberry family)	 :: [Bokmål] blåbær {n}; [Nynorsk] blåbær {n}
+bile {n} (secretion produced by the liver)	 :: galle {m}
+bilingual {adj} (speaking two languages)	 :: [Bokmål] bilingv, bilingval, tospråklig; [Nynorsk] bilingv, bilingval, tospråkleg
+bilingualism {n} (condition of being bilingual)	 :: tospråklighet {m} {f}
+bilk {v} (defraud, cheat)	 :: la i stikken
+bill {n} (bird's beak)	 :: nebb
+bill {n} (piece of paper money) SEE: banknote	 ::
+billet-doux {n} (love letter) SEE: love letter	 ::
+billfold {n} (wallet) SEE: wallet	 ::
+billiards {n} (a cue sport)	 :: [Bokmål] biljard {m}; [Nynorsk] biljard {m}
+billiard table {n} (table used for playing billiards etc.)	 :: [Bokmål] biljardbord {n}; [Nynorsk] biljardbord {n}
+billion {num} (a thousand million; 1,000,000,000; a milliard)	 :: milliard
+billionaire {n} (wealth exceeding one billion (10⁹))	 :: milliardær {m}
+billy goat {n} (male goat)	 :: [Bokmål] geitebukk {m}; [Nynorsk] geitebukk {m}
+binary {adj} (on or off)	 :: binær
+binary star system {n} (binary star) SEE: binary star	 ::
+bind {v} (transitive connect)	 :: binde
+binky {n} (pacifier) SEE: pacifier	 ::
+bin man {n} (garbage collector) SEE: garbage collector	 ::
+binoculars {n} (hand-held device for looking at a distance.)	 :: kikkert {m}
+biocenosis {n} (biocoenosis) SEE: biocoenosis	 ::
+biochemistry {n} (the chemistry of those compounds that occur in living organisms, and the processes that occur in their metabolism and catabolism)	 :: [Bokmål] biokjemi {m}; [Nynorsk] biokjemi {m}
+bioelectrical {adj} (bioelectric) SEE: bioelectric	 ::
+biogenesis {n} (biosynthesis) SEE: biosynthesis	 ::
+biographic {adj} (biographical) SEE: biographical	 ::
+bioinspired {adj} (bio-inspired) SEE: bio-inspired	 ::
+biology {n} (study of living matter)	 :: [Bokmål] biologi {m}; [Nynorsk] biologi {m}
+biometric {adj} (of, pertaining to or using biometrics)	 :: [Bokmål] biometrisk; [Nynorsk] biometrisk
+bionic ear {n} (cochlear implant) SEE: cochlear implant	 ::
+biopsychology {n} (biological psychology) SEE: biological psychology	 ::
+bipennate {adj} (pinnate with a pinnate leaflet) SEE: bipinnate	 ::
+bipolar disorder {n} (psychiatric diagnostic category)	 :: nipolar lidelse
+birch {n} (tree)	 :: [Bokmål] bjørk {m} {f}, bjerk {m} {f}; [Nynorsk] bjørk {f}
+birch {n} (wood)	 :: [Bokmål] bjerk {m} {f}, bjørk {m} {f}; [Nynorsk] bjørk {f}
+birch bolete {n} (Leccinum scabrum)	 :: brunskrubb {m}
+bird {n} (animal)	 :: [Bokmål] fugl {m}; [Nynorsk] fugl {m}
+bird {n} (woman)	 :: rype {f}
+bird cherry {n} (Prunus padus)	 :: hegg
+bird dog {n} (gun dog) SEE: gun dog	 ::
+bird dog {n} (tout) SEE: tout	 ::
+bird flu {n} (avian influenza) SEE: avian influenza	 ::
+birdhouse {n} (aviary) SEE: aviary	 ::
+birdie {n} (badminton: shuttlecock) SEE: shuttlecock	 ::
+birdie {n} (bird, birdling)	 :: småfugl {m}, titting (dialect)
+birdlife {n} (birds collectively)	 :: [Bokmål] fugleliv {n}; [Nynorsk] fugleliv {n}
+birdlime {n} (serving of a prison sentence) SEE: time	 ::
+birdling {n} (small bird, birdie)	 :: småfugl {m}
+bird of paradise {n} (bird)	 :: [Bokmål] paradisfugl {m}; [Nynorsk] paradisfugl {m}
+bird of passage {n} (bird) SEE: migrant	 ::
+bird of prey {n} (carnivorous bird)	 :: rovfugl {m}
+bird's-eye view {n} (view from directly or high above)	 :: [Bokmål] fugleperspektiv {n}; [Nynorsk] fugleperspektiv {n}
+birds of a feather flock together {proverb} (people of similar character, etc. tend to associate)	 :: like barn leker best
+birds of the feather flock together {proverb} (birds of a feather flock together) SEE: birds of a feather flock together	 ::
+biro {n} (ballpoint pen) SEE: ballpoint pen	 ::
+birthdate {n} (date of birth) SEE: date of birth	 ::
+birthday {n} (anniversary)	 :: bursdag {m}, fødselsdag {m}
+birthday {n} (date of birth)	 :: fødselsdag {m}
+birthday suit {n} (nakedness)	 :: Adams drakt [used of men], Evas drakt [used of women]
+birthmark {n} (a mark on the skin formed before birth)	 :: føflekk {c}, fødselsmerke {n}
+Biscay {prop} (Bay of Biscay) SEE: Bay of Biscay	 ::
+biscuit {n} (cookie)	 :: kjeks {m}, småkake {m}
+biscuit {n} (ship's "bread")	 :: kjeks {m}
+bisexual {adj} (hermaphrodite) SEE: hermaphrodite	 ::
+bisexuality {n} (psychology)	 :: bisexualitet {m}
+Bishkek {prop} (capital of Kyrgyzstan)	 :: Bisjkek
+bishop {n} (chess piece)	 :: løper {m}
+bishop {n} (church official, supervisor of priests and congregations)	 :: [Bokmål] biskop {m}, bisp {m}; [Nynorsk] biskop {m}, bisp {m}
+bismuth {n} (chemical element)	 :: vismut
+bistro {n} (small European-style restaurant)	 :: bistro {m}
+bisyllabic {adj} (comprising two syllables) SEE: disyllabic	 ::
+bit {n} (coin) SEE: coin	 ::
+bit {n} (metal in horse's mouth)	 :: bitt {n}
+bit {n} (portion)	 :: bit {m}
+bit {n} (rotary cutting tool)	 :: bit {n}
+bit {n} (small amount of something)	 :: bit {m}
+bitch {n} (complaint) SEE: complaint	 ::
+bitch {n} (disagreeable, aggressive person, usually female)	 :: tispe {f}
+bitch {n} (female canine)	 :: tispe {f}
+bitch {n} (playful variation on dog (sense "man")) SEE: dog	 ::
+bite {n} (act of biting)	 :: biting {m}
+bite {n} (mouthful)	 :: tygge {m}, munnfull {m}
+bite {n} (swelling of one's skin caused by an insect's mouthparts or sting)	 :: stikk {n}, bitt {n}
+bite {n} (wound left behind after having been bitten)	 :: bitt {n}
+bite {v} (to attack with the teeth)	 :: bite
+bite {v} (to bite a baited hook or other lure)	 :: bite på
+bite {v} (to cut off a piece by clamping the teeth)	 :: bite
+bite {v} (to fall for a deception)	 :: bite på
+bite {v} (to hold something by clamping one’s teeth)	 :: bite
+bite {v} (to sting)	 :: bite
+bite one's tongue {v} (prevent oneself from uttering a word)	 :: hvis du ikke har noe hyggelig å si, si ingen ting
+bite the bullet {v} (endure punishment with dignity or accept a negative aspect of a situation)	 :: bite i det sure eple [bite into the sour apple]
+bite the dust {v} (to die)	 :: [Bokmål] bite i gresset, bite i graset; [Nynorsk] bite i graset
+bite the dust {v} (to quit or fail)	 :: [Bokmål] bite i gresset, bite i graset; [Nynorsk] bite i graset
+Bitola {prop} (city)	 :: Bitola
+blab {n} (gossip) SEE: gossip	 ::
+black {adj} (absorbing all light)	 :: svart, sort
+black {adj} (Bad; evil)	 :: svart
+black {adj} (Illegitimate, illegal or disgraced)	 :: svart
+black {adj} (relating to persons of African descent)	 :: svart
+black {adj} (without light)	 :: mørk
+black {adj} (without milk)	 :: svart
+black {n} (colour/color)	 :: svart, sort
+black {n} (person)	 :: svart
+black {v} (to blacken) SEE: blacken	 ::
+black alder {n} (American winterberry) SEE: American winterberry	 ::
+black alder winterberry {n} (American winterberry) SEE: American winterberry	 ::
+black and white {adj} (black-and-white) SEE: black-and-white	 ::
+black bag {n} (plastic bag for the disposal of household waste) SEE: garbage bag	 ::
+blackberry {n} (blackcurrant) SEE: blackcurrant	 ::
+blackberry {n} (fruit)	 :: bjørnebær {n}
+blackberry {n} (shrub)	 :: bjørnebær {n}
+blackbird {n} (common thrush, Turdus merula)	 :: [Bokmål] svarttrost {m}; [Nynorsk] svarttrast {m} {f}, svarttrost {m} {f}
+blackboard {n} (a surface that can be written upon with chalk)	 :: tavle {m} {f}
+blackcap {n} (A bird of the Sylviidae family)	 :: [Bokmål] munk {m}
+black cat {n} (Martes pennanti) SEE: fisher	 ::
+blackcurrant {n} (berry)	 :: solbær {n}
+blackcurrant {n} (shrub)	 :: [Bokmål] solbærbusk {m}, solbærplante {m}
+Black Death {prop} (the Black Death)	 :: svartedauden [definite form]
+Black Ditch {prop} (Taiwan Strait) SEE: Taiwan Strait	 ::
+black earth {n} (chernozem) SEE: chernozem	 ::
+black eye {n} (bruised eye)	 :: blått øye {n}, blåveis {m}
+Blackfoot {prop} (a Native American confederacy)	 :: svartfot {m}
+black grouse {n} (Lyrurus tetrix)	 :: orrfugl
+blackguard {n} (scoundrel) SEE: scoundrel	 ::
+black hole {n} (celestial body)	 :: [Bokmål] svart hull, sort hull; [Nynorsk] svart hòl
+blacking {n} (shoe polish) SEE: shoe polish	 ::
+black light {n} (light bulb that emits ultraviolet light )	 :: black light
+blacklist {v} (to place on a blacklist)	 :: [Bokmål] svarteliste; [Nynorsk] svarteliste
+blackmail {n} (payment of money exacted by means of intimidation)	 :: utpressing {m} {f}, utpresning {m} {f}
+Black Maria {n} (a police van for transporting prisoners)	 :: svartemarje {c}
+black metal {n} (a subgenre of heavy metal)	 :: svartmetall
+Black Sea {prop} (an inland sea between southeastern Europe, Caucasus and Asia Minor)	 :: Svartehavet {n}
+blacksmith {n} (iron forger)	 :: smed {c}
+blackthorn {n} (Prunus spinosa)	 :: slåpetorn {m}, [the fruit] slåpe {m} {f}
+black-throated diver {n} (Gavia arctica)	 :: storlom {m} {f}; [Nynorsk] storlom {m}
+black-throated loon {n} (large member of the diver family, Gavia immer)	 :: storlom {m}
+black vulture {n} (Aegypius monachus) SEE: Eurasian black vulture	 ::
+black widow {n} (a murderous woman)	 :: sorte enke {f}
+black widow {n} (species of venomous spider)	 :: sorte enke {f}
+bladder {n} (urinary bladder) SEE: urinary bladder	 ::
+blade {n} (part of a propeller)	 :: blad {n}
+blade {n} (sharp-edged or pointed working end of a tool or utensil)	 :: [Bokmål] blad {n}; [Nynorsk] blad {n}
+blade {n} (slang term for a weapon such as a dagger)	 :: blad {n}
+blade {n} (The flat part of a leaf or petal)	 :: blad {n}
+blade {n} (thin plate, foil)	 :: blad {n}
+blame {n} (censure) SEE: censure	 ::
+blame {n} (culpability) SEE: culpability	 ::
+blame {n} (responsibility) SEE: responsibility	 ::
+blame {v} (place blame upon)	 :: skylde
+blanch {v} (to grow or become white)	 :: blekne
+blank {adj} (free from writing, printing or marks)	 :: blank
+blank {n} (space character)	 :: [Bokmål] mellomrom {n}; [Nynorsk] mellomrom {n}
+blanket {n} (fabric)	 :: dyne {m} {f}, teppe {n}
+blanket {n} (layer of anything)	 :: teppe {n}
+blare {n} (a loud sound)	 :: brøl {n}, skrall {n}
+blare {v} (to make a loud sound)	 :: brøle, skralle
+blaspheme {n} (blasphemy) SEE: blasphemy	 ::
+blasphemy {n} (Irreverence toward something sacred)	 :: blasfemi
+blast {n} (explosion)	 :: explosjon, sprenging
+bleach {n} (chemical)	 :: [Bokmål] blekemiddel {n}, bleikemiddel {n}; [Nynorsk] bleikemiddel {n}, bleikjemiddel {n}
+bleach {v} (to treat with bleach)	 :: [Bokmål] bleke, bleike; [Nynorsk] bleike, bleikje
+bleachers {n} (tiered, exposed spectator seating)	 :: tribuner {m}
+bleed dry {v} (to bleed white) SEE: bleed white	 ::
+bless {v} (confer blessing on)	 :: velsigne, signa, blessa
+blessed {adj} (having divine aid, or protection, or other blessing)	 :: velsignet
+blessing {n} (prayer before a meal) SEE: grace	 ::
+bless you {interj} (said to somebody who has sneezed)	 :: prosit
+bless you {interj} (short for "God bless you") SEE: God bless you	 ::
+blind {adj} (unable to see)	 :: [Bokmål] blind {m} {f}; [Nynorsk] blind {m} {f}
+blind {v} (make temporarily or permanently blind)	 :: blinde [permanently], blende [temporarily, as by the sun]
+blind alley {n} (a street that leads nowhere)	 :: [Bokmål] blindvei {m}, blindveg {m}, blindgate {m} {f}; [Nynorsk] blindveg {m}, blindgate {f}
+blind gut {n} (caecum) SEE: caecum	 ::
+blindingly {adv} (extremely) SEE: extremely	 ::
+blindness {n} (condition of being blind)	 :: [Bokmål] blindhet {m} {f}
+blindside {n} (driver's field of blindness)	 :: [Bokmål] dødvinkel {m}
+blindside {v} (catch off guard)	 :: [Bokmål] ta på sengen, overrumple; [Nynorsk] ta på senga, overrumple
+blind tiger {n} (speakeasy) SEE: speakeasy	 ::
+blindworm {n} (slowworm) SEE: slowworm	 ::
+blink {v} (to close and reopen both eyes quickly)	 :: [Bokmål] blunke
+blink {v} (to flash headlights)	 :: [Bokmål] blinke
+blink {v} (to send a signal with a lighting device)	 :: [Bokmål] blinke
+blinker {n} (eye shield)	 :: skylapper {p}
+blinkers {n} (horse's eye shields)	 :: skylapper {n}
+blink of an eye {n} (very short period of time)	 :: [Bokmål] øyeblikk {n}
+bliss {n} (perfect happiness)	 :: [Bokmål] lykksalighet
+blitzkrieg {n} (fast military offensive)	 :: blitskrig {m}, lynkrig {m}
+blizzard {n} (severe snowstorm)	 :: snøstorm {m}
+bloc {n} (group of countries)	 :: blokk {m}
+bloc {n} (group of voters or politicians)	 :: blokk {m}
+blockfield {n} (rock surface)	 :: [Bokmål] blokkmark {m} {f}
+block of flats {n} (apartment building) SEE: apartment building	 ::
+blog {n} (a personal or corporate website)	 :: [Bokmål] blogg {m}; [Nynorsk] blogg {m}
+blogger {n} (contributor to a blog)	 :: [Bokmål] blogger {m}; [Nynorsk] bloggar {m}
+bloke {n} (man)	 :: fyr {m}
+blond {n} (fair-haired person)	 :: lys(håret), blond, blondine
+blonde {adj} (blond) SEE: blond	 ::
+blonde {n} (blond) SEE: blond	 ::
+blood {n} (blood test or blood sample)	 :: blodprøve {m}
+blood {n} (family relationship due to birth, e.g. between siblings)	 :: blodsbånd {n}
+blood {n} (vital liquid flowing in animal bodies)	 :: [Bokmål] blod {n}; [Nynorsk] blod {n}
+blood clot {n} (thrombus) SEE: thrombus	 ::
+blood corpuscle {n} (blood cell) SEE: blood cell	 ::
+blood diamond {n} (1. a diamond that has been mined in a war zone and sold in order to finance the conflict)	 :: bloddiamanter
+blood donor {n} (person who donates blood)	 :: [Bokmål] blodgiver {m}
+blood group {n} (blood type) SEE: blood type	 ::
+bloodhound {n} (dog)	 :: [Bokmål] blodhund {m}; [Nynorsk] blodhund {m}
+blood is thicker than water {proverb} (relationships are stronger within the family)	 :: blod er tykkere enn vann
+bloodless {adj} (taking place without loss of blood)	 :: [Bokmål] ublodig; [Nynorsk] ublodig
+blood pressure {n} (pressure exerted by the blood against the walls of the arteries and veins)	 :: [Bokmål] blodtrykk {n}; [Nynorsk] blodtrykk {n}
+blood pudding {n} (blood sausage) SEE: blood sausage	 ::
+blood relative {n} (blood relation) SEE: blood relation	 ::
+bloodsucker {n} (one who attempts to take as much from others as possible)	 :: blodsuger {m}
+bloodsucker {n} (parasite) SEE: parasite	 ::
+bloodsucker {n} (vampire) SEE: vampire	 ::
+blood transfusion {n} (taking blood from one and giving it to another individual)	 :: [Bokmål] blodoverføring {m} {f}; [Nynorsk] blodoverføring {f}
+blood vessel {n} (component of the circulatory system that carries blood)	 :: [Bokmål] blodåre
+bloodwork {n} (blood test) SEE: blood test	 ::
+bloody {adj} (intensifier)	 :: jævla
+bloody hell {interj} (expression of dismay)	 :: fyttirakkern
+bloody mary {n} (A cocktail made from vodka and tomato juice)	 :: bloody mary
+bloom {n} (blossom) SEE: blossom	 ::
+bloom {n} (flower) SEE: flower	 ::
+blossom {v} (begin to thrive or flourish)	 :: [Bokmål] blomstre; [Nynorsk] blomstre, bløme
+blossom {v} (have or open into blossoms)	 :: [Bokmål] blomstre; [Nynorsk] blomstre, bløme
+blot {n} (Southern blot analysis) SEE: Southern blot analysis	 ::
+blotter {n} (piece of blotting paper) SEE: blotting paper	 ::
+blotting paper {n} (absorbent paper used to dry ink)	 :: trekkpapir {n}
+blouse {n} (an outer garment, usually loose, that is similar to a shirt)	 :: [Bokmål] bluse {m} {f}; [Nynorsk] bluse {m} {f}
+blow {n} (act of striking or hitting)	 :: [Bokmål] slag {n}; [Nynorsk] slag {n}
+blow {n} (cocaine) SEE: cocaine	 ::
+blow {v} (blossom) SEE: blossom	 ::
+blow-dryer {n} (an electrical device used for drying hair) SEE: hairdryer	 ::
+blower {n} (telephone) SEE: telephone	 ::
+blowfly {n} (flies of the family Calliphoridae)	 :: [Bokmål] spyflue {m} {f}; [Nynorsk] spyfluge {f}
+blow one's top {v} (lose one's temper) SEE: lose one's temper	 ::
+blowpipe {n} (weapon) SEE: blowgun	 ::
+bludgeon {n} (short heavy club)	 :: [Bokmål] klubbe {m} {f}; [Nynorsk] klubbe {f}
+bludgeon {v} (to club, hit with a bludgeon)	 :: [Bokmål] klubbe, klubbe ned; [Nynorsk] klubbe
+blue {adj} (blue-colored)	 :: blå
+blue {n} (argument) SEE: argument	 ::
+blue {n} (bluefish) SEE: bluefish	 ::
+blue {n} (blue uniform) SEE: blues	 ::
+blue {n} (bluing) SEE: bluing	 ::
+blue {n} (colour)	 :: blåfarge
+blue {n} (sky, literally or figuratively) SEE: sky	 ::
+Bluebeard {prop} (the title character)	 :: Ridder Blåskjegg
+bluebell {n} (harebell)	 :: [Bokmål] blåklokke {m} {f}; [Nynorsk] blåklokke {f}
+blueberry {n} (fruit)	 :: [Bokmål] blåbær {n}; [Nynorsk] blåbær {n}
+blueberry {n} (plant)	 :: [Bokmål] blåbærplante {c}, blåbær {n}; [Nynorsk] blåbær {n}
+bluebird {n} (bird of Sialia)	 :: hyttesanger {m}
+bluebottle {n} (blue ant) SEE: blue ant	 ::
+bluebottle {n} (cornflower) SEE: cornflower	 ::
+bluebottle {n} (man-of-war) SEE: man-of-war	 ::
+blue cheese {n} (kind of cheese with bluish mold)	 :: blåost
+blue screen {n} (blue screen of death) SEE: blue screen of death	 ::
+blue screen {n} (film technique) SEE: chromakey	 ::
+blue screen of death {n} (screen indicating a system error)	 :: blå skjermen av døden
+bluestone {n} (basalt) SEE: basalt	 ::
+bluestone {n} (limestone) SEE: limestone	 ::
+bluestone {n} (slate) SEE: slate	 ::
+blue straggler {n} (unusually hot and blue star)	 :: [Bokmål] blå etterslenger; [Nynorsk] blå etternølar
+blue-tongued skink {n} (blue-tongue lizard) SEE: blue-tongue lizard	 ::
+blue whale {n} (a whale, Balaenoptera musculus)	 :: [Bokmål] blåhval
+blurb {n} (a short description of a book, film, musical work)	 :: brødtekst {m}
+blurt out {v} (blurt) SEE: blurt	 ::
+blush {v} (to redden in the face from shame, excitement or embarrassment)	 :: rødme
+bluster {n} (fitful noise and violence)	 :: raseri {n}, bråk {n}
+bluster {n} (pompous, officious talk)	 :: uforskammet mas, tomme trusler
+bluster {v} (to blow in strong or sudden gusts)	 :: rase
+bluster {v} (to speak or protest loudly)	 :: bråke, bruke seg, opptre uforskammet
+boar {n} (male pig)	 :: galte {m} (castrated), råne {m}
+boar {n} (wild boar) SEE: wild boar	 ::
+board {n} (blackboard, whiteboard, etc.)	 :: [Bokmål] tavle {m} {f}, brett {n}
+board {n} (committee)	 :: styre {n}
+board {n} (device containing electrical switches)	 :: tavle {c}, panel {n}
+board {n} (piece of wood or other material)	 :: bord, planke
+board {n} (side of a ship)	 :: bord
+board {n} (wall surrounding ice hockey rink)	 :: vant {n}
+board {v} (nautical: to capture an enemy ship)	 :: borde
+board {v} (to provide someone with meals and lodging)	 :: losjere
+board {v} (to receive meals and lodging in exchange for money)	 :: losjere
+board {v} (to step or climb)	 :: borde, entre, gå ombord
+boarding school {n} (school which provides board and lodging)	 :: internatskole {m}, kostskole {m}
+boast {n} (brag)	 :: skryt {n}
+boast {v} (to brag; to talk loudly in praise of oneself)	 :: skryte
+boat {n} (water craft)	 :: båt {m}
+bob {n} (bobber) SEE: float	 ::
+bob {n} (curtsey) SEE: curtsey	 ::
+bobber {n} (buoyant fishing device) SEE: float	 ::
+bobby pin {n} (type of hair pin) SEE: hairgrip	 ::
+bobsled {n} (the sled) SEE: bobsleigh	 ::
+bobsled {n} (the sport) SEE: bobsleigh	 ::
+Boche {n} (derogatory: German) SEE: Fritz	 ::
+Boche {n} (German) SEE: German	 ::
+bodger {n} (a woodworker in the traditional style)	 :: bendreier {m}
+bodiless {adj} (lacking a body)	 :: kroppsløs
+bodily fluid {n} (biofluid)	 :: kroppsvæske
+body {n} (physical structure of a human or animal)	 :: [Bokmål] kropp {m}; [Nynorsk] kropp {m}
+bodyguard {n} (person responsible for protecting an individual)	 :: [Bokmål] livvakt {m} {f}; [Nynorsk] livvakt {f}
+bodywork {n} (exterior body of a motor vehicle)	 :: [Bokmål] karosseri {n}
+bog {n} (expanse of marshland)	 :: myr, sump
+bog bilberry {n} (shrub)	 :: blokkebær {n}
+bogey {n} (piece of solid or semisolid mucus in or removed from the nostril) SEE: booger	 ::
+bogeyman {n} (menacing, ghost-like monster in children's stories)	 :: busemann {m}
+bog myrtle {n} (Myrica gale) SEE: gale#Etymology 3	 ::
+Bogotá {prop} (Bogota) SEE: Bogota	 ::
+bogue {n} (bayou) SEE: bayou	 ::
+Bohemian waxwing {n} (Bombycilla garrulus)	 :: [Bokmål] sidensvans {m}; [Nynorsk] sidensvans {m}
+bohemium {n} (rhenium) SEE: rhenium	 ::
+bohrium {n} (chemical element)	 :: bohrium
+boiled {adj} (angry) SEE: angry	 ::
+boiled {adj} (drunk) SEE: drunk	 ::
+boiled egg {n} (boiled egg (generic))	 :: kokt egg
+boilerplate {n} (A sheet of steel used in the construction of a boiler)	 :: [Bokmål] kokeplate {m} {f}; [Nynorsk] kokeplate {f}
+boiling point {n} (temperature at which a liquid boils)	 :: [Bokmål] kokepunkt {n}; [Nynorsk] kokepunkt {n}
+Bokmål {prop} (language)	 :: [Bokmål] bokmål {n}; [Nynorsk] bokmål {n}
+bold {adj} (courageous, daring)	 :: modig
+bold {adj} (presumptuous) SEE: presumptuous	 ::
+Bolivia {prop} (country in South America)	 :: Bolivia
+Bolivian {n} (Bolivian person)	 :: [Bokmål] bolivianer {m}; [Nynorsk] bolivian {m}, bolivianar {m}
+bollocks {n} (testicles)	 :: pokker
+Bolshevik {n} (Bolshevik)	 :: bolsjevik {m}
+bolt {n} (metal fastener)	 :: bolt {m}
+bolt {n} (sliding mechanism to chamber and unchamber a cartridge in a firearm)	 :: sluttstykke {n}
+bolt {n} (sliding pin or bar in a lock)	 :: [Bokmål] rigel {m}
+bomb {n} (device filled with explosives)	 :: bombe {c}
+bomb {n} (success) SEE: success	 ::
+bomb {v} (attack with bombs)	 :: bombe
+bombard {v}	 :: bombe
+bombastic {adj} (high-sounding but with little meaning)	 :: høyttravende, høystemt; [Nynorsk] høgttravande, høgttråvande, høgstemt
+bombastic {adj} (inflated, overfilled)	 :: bombastisk, svulstig; [Nynorsk] bombastisk, svulstig
+bombastic {adj} (pompous or overly wordy)	 :: bombastisk, svulstig; [Nynorsk] bombastisk, svulstig
+Bombay {n} (Mumbai) SEE: Mumbai	 ::
+Bombay cat {n} (Bombay) SEE: Bombay	 ::
+bomber {n} (aircraft)	 :: [Bokmål] bombefly {n}; [Nynorsk] bombefly {n}
+bombproof {n} (air-raid shelter) SEE: air-raid shelter	 ::
+bomb shelter {n} (air-raid shelter) SEE: air-raid shelter	 ::
+bona fides {n} (good faith) SEE: good faith	 ::
+bon appétit {interj} (used to wish someone enjoyment of the meal they are about to eat)	 :: velbekomme, spis godt håper det smaker
+bond {n} (bail bond) SEE: bail bond	 ::
+bone {n} (component of a skeleton)	 :: [Bokmål] bein {n}, ben {n}; [Nynorsk] bein {n}
+bone {v} (slang: have sexual intercourse with)	 :: pule, knulle
+bone china {n} (type of porcelain)	 :: [Bokmål] benporselen {n}
+bone dry {adj} (bone-dry) SEE: bone-dry	 ::
+boner {n} (erect penis)	 :: ståpikk {m}
+bones {n} (plural of bone) SEE: bone	 ::
+bone tissue {n} (osseous tissue) SEE: osseous tissue	 ::
+bonfire {n} (large, outdoor controlled fire)	 :: bål {n}
+bongo drum {n} (bongo) SEE: bongo	 ::
+Boniface {prop} (male given name) SEE: Bonifatius	 ::
+bonito {n} (Katsuwonus pelamis) SEE: skipjack tuna	 ::
+bonjour {interj} (hello) SEE: hello	 ::
+bon voyage {interj} (wish of good journey)	 :: god reise
+boob {n} (breast (colloquial))	 :: [Bokmål] pupp {m}; [Nynorsk] pupp {m}
+booger {n} (a piece of solid or semisolid mucus)	 :: buse {m}
+book {n} (collection of sheets of paper bound together containing printed or written material)	 :: [Bokmål] bok {c}; [Nynorsk] bok {f}
+book {v} (to reserve)	 :: bestille, reservere
+book {v} (to write down, register, record)	 :: notere, nedskrive
+bookcase {n} (furniture displaying books)	 :: bokhylle {f} {m}
+book club {n} (a group of people who meet to discuss books)	 :: lesesirkel {m}
+book club {n} (commercial organization)	 :: bokklubb {m}
+bookie {n} (bookmaker) SEE: bookmaker	 ::
+bookjacket {n} (jacket of a book) SEE: dust jacket	 ::
+bookkeeper {n} (person responsible for keeping records)	 :: [Bokmål] bokholder {m}
+booklet {n} (small book)	 :: pamflett {m}, brosjyre {m}, flygeblad {n}
+book-scorpion {n} (pseudoscorpion) SEE: pseudoscorpion	 ::
+bookseller {n} (business)	 :: bokhandel {m}
+bookseller {n} (person engaged in the business of selling books)	 :: [Bokmål] bokhandler {m}; [Nynorsk] bokhandlar {m}
+bookshelf {n} (shelf for storing books)	 :: bokhylle
+bookshop {n} (shop that sells books)	 :: bokhandel {m}
+bookstore {n} (bookshop) SEE: bookshop	 ::
+bookworm {n} (avid reader)	 :: [Bokmål] lesehest
+boomerang {n} (flat curved airfoil)	 :: [Bokmål] bumerang {m}; [Nynorsk] bumerang {m}
+boorish {adj} (behaving as a boor)	 :: ubehøvlet, tverr, trumpete
+boot {n} (heavy shoe that covers part of the leg)	 :: støvel {m}
+boot {n} (kick) SEE: kick	 ::
+boot {n} (luggage storage compartment of a sedan/saloon style car) SEE: trunk	 ::
+bootblack {n} (shoeshiner) SEE: shoeshiner	 ::
+bootlicker {n} (bootlick)	 :: [Bokmål] spyttslikker {m}; [Nynorsk] spyttslikkar {m}
+bopomofo {prop} (Zhuyin fuhao) SEE: Zhuyin fuhao	 ::
+bordello {n} (brothel) SEE: brothel	 ::
+border {n} (a decorative strip around the edge of something)	 :: bord {m}
+border {n} (the line or frontier area separating regions)	 :: [Bokmål] grense {m} {f}; [Nynorsk] grense {f}
+border {n} (the outer edge of something)	 :: ytterkant {m}, kant {m}, rand {m}
+Border Collie {prop} (Border Collie) SEE: border collie	 ::
+bore {v} (to inspire boredom)	 :: kjede
+bore {v} (to make a hole)	 :: bore
+boreal owl {n} (Tengmalm's owl) SEE: Tengmalm's owl	 ::
+bored {adj} (suffering from boredom)	 :: kjed
+boredom {n} (state of being bored)	 :: kjedsomhet
+boring {adj} (inciting boredom)	 :: kjedelig, kjedsommelig
+born {v} (be born) SEE: be born	 ::
+Bornholm {prop} (Danish island in the Baltic Sea)	 :: Bornholm {c}
+boro {v} (borrow) SEE: borrow	 ::
+boron {n} (chemical element)	 :: bor; [Nynorsk] grunnstoffet bor
+borrowing {n} (loanword) SEE: loanword	 ::
+borscht {n} (beetroot soup)	 :: [Bokmål] borsjtsj {c}
+borstal {n} (juvenile institution) SEE: reform school	 ::
+Bose-Einstein condensate {n} (gaseous superfluid)	 :: Bose-Einstein-kondensasjon
+Bosnia and Herzegovina {prop} (country on the Balkan peninsula)	 :: Bosnia-Hercegovina
+Bosnian {adj} (of or pertaining to Bosnia)	 :: [Bokmål] bosnisk; [Nynorsk] bosnisk
+Bosnian {n} (the people)	 :: [Bokmål] bosnier {m}; [Nynorsk] bosniar {m}
+Bosnian {prop} (the standardized variety of Serbo-Croatian)	 :: [Bokmål] bosnisk {m}; [Nynorsk] bosnisk {m}
+bosom {n} (chest, breast)	 :: barm {m}
+Bosphorus {prop} (A strait that passes through Istanbul)	 :: Bosporos
+boss {n} (enemy in video game)	 :: boss {m}
+bosun's chair {n} (boatswain's chair) SEE: boatswain's chair	 ::
+bot {n} (robot) SEE: robot	 ::
+botanic {adj} (pertaining to botany) SEE: botanical	 ::
+botanic garden {n} (botanical garden) SEE: botanical garden	 ::
+botanist {n} (a person engaged in botany)	 :: [Bokmål] botaniker {m}; [Nynorsk] botanikar {m}
+botany {n} (scientific study of plants)	 :: [Bokmål] plantelære; [Nynorsk] plantelære
+botch {v} (to do something without skill, without care, or clumsily)	 :: [Bokmål] slurve
+Boötes {prop} (a constellation)	 :: [Bokmål] Bjørnevokteren; [Nynorsk] Bjørnepassaren
+botfly {n} (insect)	 :: brems {m}
+both {conj} (both...and...)	 :: både ... og ...
+both {determiner} (each of two; one and the other)	 :: begge, båe
+bother {n} (fuss, ado)	 :: kluss, bry
+bother {v} (make or take trouble)	 :: gidde
+bother {v} (to annoy, disturb)	 :: forstyrre, plage, bry, irritere
+bother {v} (to do something which is of negligible inconvenience)	 :: gidde
+Botswana {prop} (Republic of Botswana)	 :: Botswana
+Botswanan {adj} (pertaining to Botswana)	 :: [Bokmål] botswansk; [Nynorsk] botswansk
+Botswanan {n} (person from Botswana)	 :: [Bokmål] botswaner {m}; [Nynorsk] botswan {m}, botswanar {m}
+bottle {n} (container)	 :: flaske {m} {f}
+bottle {n} (container with a rubber nipple) SEE: baby bottle	 ::
+bottle {n} (contents of such a container)	 :: flaske {m} {f}
+bottleneck {n} (any delay; part of a process that is too slow or cumbersome)	 :: [Bokmål] flaskehals {m}; [Nynorsk] flaskehals {m}
+bottleneck {n} (narrowing of the road, especially resulting in a delay)	 :: [Bokmål] flaskehals {m}; [Nynorsk] flaskehals {m}
+bottleneck {n} (neck of a bottle)	 :: [Bokmål] flaskehals {m}; [Nynorsk] flaskehals {m}
+bottom {n} (abyss) SEE: abyss	 ::
+bottom {n} (gay sexual slang: penetrated part in anal sex)	 :: passiv
+bottom {n} (physics: bottom quark) SEE: bottom quark	 ::
+boudoir {n} (woman's private room) SEE: bower	 ::
+bougainvillea {n} (flower)	 :: bougainvillea, trillingblomst
+bouillon {n} (a clear seasoned broth)	 :: buljong {m}
+boulder {n} (large mass of stone)	 :: kampestein {m}
+bouldering {n} (climbing on large boulders)	 :: buldring
+boulevard {n} (broad, landscaped thoroughfare)	 :: bulevard
+bounce house {n} (bouncy castle) SEE: bouncing castle	 ::
+bouncy castle {n} (inflatable structure) SEE: bouncing castle	 ::
+bounty {n} (generosity) SEE: generosity	 ::
+bounty {n} (reward)	 :: belønning {m} {f}, dusør {m}
+bounty {n} (something given liberally)	 :: gave {m} {f}, presang {m}
+bourdon {n} (bumblebee) SEE: bumblebee	 ::
+Bouvet Island {prop} (uninhabited volcanic island in the South Atlantic Ocean)	 :: Bouvetøya
+bovine spongiform encephalopathy {n} (bovine spongiform encephalopathy)	 :: kugalskap
+bow {n} (front of a boat or ship)	 :: [Bokmål] baug {m}; [Nynorsk] baug {m}
+bow {n} (musical bow) SEE: musical bow	 ::
+bow {n} (weapon used for shooting arrows)	 :: [Bokmål] bue {m}, boge {m}; [Nynorsk] boge {m}
+bowel {n} (intestines, entrails)	 :: tykktarm {m}
+bowel {n} (large intestine)	 :: tarm {m}
+bowhead whale {n} (a whale, Balaena mysticetus) SEE: bowhead	 ::
+bowl {n} (as much as is held by a bowl) SEE: bowlful	 ::
+bowl {n} (container)	 :: skål {m} {f}; [Bokmål] bolle {m}; [Nynorsk] bolle {m}
+bowl {n} (haircut) SEE: bowl cut	 ::
+bowl {n} (lawn bowls) SEE: bowls	 ::
+bowl {n} (part of a spoon)	 :: skjeblad {n}
+bowler {n} (bowler hat) SEE: bowler hat	 ::
+bowler {n} (pitcher) SEE: pitcher	 ::
+bowman {n} (archer) SEE: archer	 ::
+bowtie {n} (necktie shaped like a bow)	 :: sløyfe {f}
+bow-wow {interj} (bow wow) SEE: bow wow	 ::
+box {n} (cuboid container)	 :: kasse {m}, boks {m}
+box {n} (input field on an electronic display) SEE: text box	 ::
+box {v} (to hem in) SEE: hem in	 ::
+boxcutter {n} (utility knife) SEE: utility knife	 ::
+boxer {n} (breed of dog)	 :: [Bokmål] boxer {m}, bokser {m}
+boxer {n} (participant in a boxing match)	 :: [Bokmål] bokser {m}
+boxers {n} (boxer shorts) SEE: boxer shorts	 ::
+boxing {n} (the sport of boxing)	 :: boksing {m} {f}
+Boxing Day {n} (Boxing Day)	 :: andre juledag {m}
+boy {n} (adult male found attractive)	 :: mann kar fyr {m}
+boy {n} (male friend)	 :: kamerat {m}, kompis {m} (informal)
+boy {n} (male of any age, used as a friendly diminutive)	 :: [Bokmål] gutt {m}; [Nynorsk] gut {m}
+boy {n} (male servant)	 :: [Bokmål] tjenestegutt {m} [young male servant]
+boy {n} (non-white male)	 :: [Bokmål] negergutt {m}, neger, nigger
+boy {n} (young male)	 :: [Bokmål] gutt {m} (child); tenåringsgutt {m} (teenager); [Nynorsk] gut {m}
+boyfriend {n} (male friend)	 :: [Bokmål] venn {m}
+boyfriend {n} (male partner in a romantic relationship)	 :: [Bokmål] kjæreste {m}
+boy genius {n} (wunderkind) SEE: wunderkind	 ::
+bra {n} (brassiere)	 :: [Bokmål] brystholder {m}, bysteholder {m}, behå {m}, BH {m}, bh {m}; [Nynorsk] brysthaldar {m}, bystehaldar {m}, behå {m}, BH {m}
+brace {n} (bitstock) SEE: bitstock	 ::
+brace {n} (harness) SEE: harness	 ::
+brace {n} (system to correct crooked teeth) SEE: braces	 ::
+brace {v} (to prepare oneself for an impact)	 :: hold deg fast!
+brace aback {v} (bring the wind onto the forward side of the sails)	 :: brase bakk
+bracelet {n} (a band or chain worn around the wrist as jewelry or an ornament)	 :: armbånd {n}
+braces {n} (device for straightening teeth)	 :: regulering {c}
+braces {n} (handcuffs) SEE: handcuffs	 ::
+brachium {n} (upper arm) SEE: upper arm	 ::
+brachygrapher {n} (stenographer) SEE: stenographer	 ::
+brackish {adj} (slightly salty)	 :: [Bokmål] brakk, [brackish water] brakt vann / vatn, brakkvann {n}, brakkvatn {n}; [Nynorsk] brakk, [brackish water] brakt vatn, brakkvatn {n}
+bradoon {n} (type of snaffle bit) SEE: bridoon	 ::
+brag {n} (boast) SEE: boast	 ::
+brag {v} (to boast)	 :: [Bokmål] skryte
+braggadocio {n} (braggart) SEE: braggart	 ::
+Brahman {prop} (Brahmin) SEE: Brahmin	 ::
+braid {n} (weave of three or more strands)	 :: flette {m} {f}
+braid {v} (intertwine)	 :: flette
+braille {n} (system of writing using raised dots)	 :: blindeskrift {m}
+brain {n} (organ)	 :: hjerne
+brain-dead {adj} (colloquially: having no useful thoughts)	 :: [Bokmål] hjernedød; [Nynorsk] hjernedød, hjernedaud
+brain-dead {adj} (in medicine: having cessation of brain activity)	 :: [Bokmål] hjernedød; [Nynorsk] hjernedød, hjernedaud
+brain stem {n} (part of the brain that connects the spinal cord to the forebrain and cerebrum)	 :: [Bokmål] hjernestamme {m}
+brainstorm {n} (brainstorming) SEE: brainstorming	 ::
+brainstorming {v} (method of problem solving)	 :: idédugnad {m}, brainstorming {m}, idémyldring {m} {f}
+brain tumor {n} (an intracranial growth of abnormal and uncontrolled cell division)	 :: hjernesvulst {m}
+brain-washing {n} (form of indoctrination)	 :: [Bokmål] hjernevask {m}; [Nynorsk] hjernevask {m} {n}, hjernevasking {f}
+brake {n} (device used to slow or stop a vehicle)	 :: brems {m}
+brake fluid {n} (hydraulic fluid)	 :: [Bokmål] bremsevæske {m} {f}
+brake pedal {n} (the pedal in a vehicle which operates the brakes)	 :: [Bokmål] bremsepedal {m}; [Nynorsk] bremsepedal {m}
+brambling {n} (bird)	 :: bjørkefink
+branch {n} (woody part of a tree arising from the trunk and usually dividing)	 :: gren {m}, grein {m}
+brand {n} (a specific product, service, or provider so distinguished)	 :: [Bokmål] merke {n}; [Nynorsk] merke {n}
+brand {n} (marker for cattle) SEE: branding iron	 ::
+brand {n} (mark made by burning)	 :: brennmerke {n}
+brand {n} (name, symbol, logo)	 :: varemerke {n}
+brand {v} (burn the flesh)	 :: brennemerke
+brand {v} (impress on the memory or senses)	 :: innprente
+brand {v} (mark with proof of ownership)	 :: brennemerke
+brand {v} (stigmatize)	 :: stemple, brennemerke, stigmatisere
+brand name {n} (trade name) SEE: trade name	 ::
+brand new {adj} (utterly new)	 :: splitter ny
+brass {n} (alloy of copper and zinc)	 :: [Bokmål] messing {m}; [Nynorsk] messing {m}
+brass {n} (class of wind instruments)	 :: messinginstrument {n}
+brass {n} (colour of brass)	 :: messing {m}
+brass {n} (slang: money)	 :: stål {n}
+brassic {adj} (boracic) SEE: boracic	 ::
+brassiere {n} (bra) SEE: bra	 ::
+brass knuckles {n} (weapon which reinforces the fist)	 :: knokejern {n}
+brat {n} (a selfish, spoiled, or unruly child)	 :: (bortskjemt) drittunge {n}, snørrunge {m}
+brat {n} (bratwurst) SEE: bratwurst	 ::
+bratwurst {n} (A small pork sausage)	 :: bratwurst {m}
+Braunschweig {prop} (Brunswick) SEE: Brunswick	 ::
+brave {adj} (strong in the face of fear)	 :: modig
+bravery {n} (being brave)	 :: [Bokmål] mot {n}, tapperhet {m}
+Brazil {prop} (Portuguese-speaking country in South America)	 :: Brasil
+Brazilian {adj} (pertaining to Brazil)	 :: [Bokmål] brasiliansk; [Nynorsk] brasiliansk
+Brazilian {n} (person from Brazil)	 :: [Bokmål] brasilianer {m}; [Nynorsk] brasilianar {m}
+brazil nut {n}	 :: paranøtt
+bread {n} (baked dough made from cereals)	 :: brød {n}
+breadbasket {n} (stomach) SEE: stomach	 ::
+breadcrumb {n} (Internet) SEE: breadcrumbs	 ::
+bread machine {n} (household appliance which makes dough) SEE: bread maker	 ::
+breadmaker {n} (baker) SEE: baker	 ::
+breadmaker {n} (bread maker) SEE: bread maker	 ::
+breadth {n} (width) SEE: width	 ::
+breadwinner {n} (primary income-earner in a household)	 :: [Bokmål] familieforsørger {m}, forsørger {m}
+breakable {adj} (fragile) SEE: fragile	 ::
+breaker {n} (breakdancer) SEE: breakdancer	 ::
+breakfast {n} (first meal of the day)	 :: [Bokmål] frokost {m}; [Nynorsk] frukost {m}
+breakfast cereal {n} (food)	 :: frokostblanding {m} {f}
+break of dawn {n} (daybreak) SEE: daybreak	 ::
+break the ice {v} (to start to get to know people, by avoiding awkwardness)	 :: bryte isen
+breakup {n} (breakdown) SEE: breakdown	 ::
+bream {n} (Abramis brama)	 :: brasme
+breast {n} (animal's thorax)	 :: bryst {n}
+breast {n} (chest)	 :: bryst {n}
+breast {n} (choice cut of meat from poultry or other animals)	 :: bringe {c}
+breast {n} (female organ)	 :: [Bokmål] bryst {n}, (informal) pupp {m}; [Nynorsk] bryst {n}, (informal) pupp {m}
+breast {n} (seat of emotions)	 :: bryst {n}
+breast {n} (section of clothing covering the breast area)	 :: bryst {n}
+breast cancer {n} (cancer of the breast)	 :: [Bokmål] brystkreft {m}; [Nynorsk] brystkreft {m}
+breastfeed {v} (feed a baby milk via the breasts)	 :: amme
+breast implant {n} (medical prosthesis)	 :: [Bokmål] brystimplantat {n}; [Nynorsk] brystimplantat {n}
+breast milk {n} (milk produced by humans)	 :: [Bokmål] brystmelk {c}, brystmjølk {c}, morsmelk {c}, morsmjølk {c}; [Nynorsk] brystmjølk {f}, morsmjølk {f}
+breath {n} (a single act of breathing in and out)	 :: [Bokmål] åndedrag {n}, andedrag {n}; [Nynorsk] andedrag {n}
+breathe {v}	 :: puste
+breathe {v} (to draw air in and out)	 :: puste, ånde
+breathe {v} (to stop and catch one's breath)	 :: [Bokmål] trekke pusten, puste ut
+breeches {n} (a garment worn by men, covering the hips and thighs)	 :: knebukser {m} {f}
+breeze {n} (a light, gentle wind)	 :: [Bokmål] bris {m}
+breezefly {n} (horsefly) SEE: horsefly	 ::
+Breslau {prop} (Wroclaw) SEE: Wroclaw	 ::
+Breton {adj} (pertaining to Brittany)	 :: [Bokmål] bretonsk
+Breton {prop} (the language)	 :: Bretonsk, Bretangsk
+brevity {n} (the quality of being brief in duration)	 :: [Bokmål] korthet; [Nynorsk] stuttleik
+brick {n} (hardened block used for building)	 :: [Bokmål] murstein {m}; [Nynorsk] murstein {m}
+bricklayer {n} (craftsman)	 :: [Bokmål] murer {m}
+bridal couple {n} (bride and bridegroom)	 :: [Bokmål] brudepar {n}; [Nynorsk] brudepar {n}, brurepar {n}, brurpar {n}
+bride {n} (bride)	 :: [Bokmål] brud {m} {f}; [Nynorsk] brud {f}, brur {f}
+bridegroom {n} (bridegroom, groom)	 :: [Bokmål] brudgom {m}; [Nynorsk] brudgom {m}
+bridge {n} (construction or natural feature that spans a divide)	 :: [Bokmål] bro {m} {f}, bru {m} {f}; [Nynorsk] bru {f}
+bridge {n} (nautical)	 :: [Bokmål] styrehus {n}; [Nynorsk] styrehus {n}, styrhus {n}
+bridgehead {n} (area of ground on the enemy's side of an obstacle)	 :: [Bokmål] brohode {n}, bruhode {n}; [Nynorsk] bruhovud {n}
+Bridget {prop} (female given name)	 :: Birgitte
+bridle {n} (headgear for horse)	 :: bissel {n}, hodelag {n}
+bright {adj} (happy)	 :: glad
+bright {adj} (intelligent)	 :: intelligent, dyktig, klok
+bright {adj} (visually dazzling, luminous, radiant)	 :: lys
+bright {adj} (vivid)	 :: livlig, lystig
+brightness {n} (the quality of being bright)	 :: glans {m}, lysstyrke {m}, klarhet {c}, lyshet {c}
+brill {n} (Scophthalmus rhombus')	 :: slettvar {m}
+brilliant {adj} (highly intelligent)	 :: enestående, genial
+brilliant {adj} (magnificent or wonderful (primarily UK usage))	 :: enestående, storslagen
+brilliant {adj} (of a colour: both light and saturated)	 :: strålende
+brilliant {adj} (of a voice or sound: having a sharp, clear tone)	 :: klar
+brilliant {adj} (shining brightly)	 :: lysende, strålende
+brilliant {adj} (surpassing excellence (primarily UK usage))	 :: enestående, genial
+brine {n} (salt water)	 :: saltlake
+bring {v} (to transport toward somebody/somewhere)	 :: [Bokmål] bringe, ta med; [Nynorsk] bringe, ta med
+bring about {v} (To cause to take place)	 :: [Bokmål] forårsake, foranledige, avstedkomme, bevirke
+bring forth {v} (to give birth) SEE: give birth	 ::
+brinjal {n} (an aubergine) SEE: eggplant	 ::
+Brit {abbr} (British person) SEE: Briton	 ::
+Britain {prop} (Brittany) SEE: Brittany	 ::
+Britain {prop} (United Kingdom) SEE: United Kingdom	 ::
+britches {n} (breeches) SEE: breeches	 ::
+britches {n} (pants) SEE: pants	 ::
+British {adj} (colloquial: of the UK)	 :: [Bokmål] britisk; [Nynorsk] britisk
+British {adj} (history: of the ancient inhabitants of the southern part of Britain)	 :: [Bokmål] britisk; [Nynorsk] britisk
+British {adj} (of Britain)	 :: [Bokmål] britisk; [Nynorsk] britisk
+British {prop} (citizens or inhabitants of Britain)	 :: [Bokmål] brite {m}; [Nynorsk] brite {m}
+British {prop} (the British English language)	 :: [Bokmål] britisk engelsk {m}; [Nynorsk] britisk engelsk {m}
+British {prop} (the citizens or inhabitants of the UK)	 :: [Bokmål] brite {m}; [Nynorsk] brite {m}
+British Columbia {prop} (Province in western Canada)	 :: Britisk Columbia
+British Commonwealth {prop} (Commonwealth of Nations) SEE: Commonwealth of Nations	 ::
+British Virgin Islands {prop} (a British overseas territory in the Caribbean)	 :: Britiske Jomfruøyer
+Briton {n} (inhabitant of Great Britain)	 :: [Bokmål] brite {m}; [Nynorsk] brite {m}
+brittle {adj} (able to break or snap easily under stress or pressure)	 :: sprø
+broach {n} (brooch) SEE: brooch	 ::
+broad {adj} (wide) SEE: wide	 ::
+broad {n} (whore) SEE: whore	 ::
+broadband {n} (high-capacity internet connection)	 :: Bredbånd
+broadcast {n} (a program transmitted)	 :: program {n}, utsending {m} {f}
+broadcast {n} (a radio or TV transmission on air)	 :: kringkasting {m} {f}, utsending {m} {f}
+broadcast {v} (to transmit a message or signal via radio waves or electronic means)	 :: kringkaste, sende ut
+broadcasting {n} (business or profession of radio and television)	 :: kringkasting {m}, rikskringkasting {m}
+broccoli {n} (plant Brassica oleracea var. italica)	 :: brokkoli
+broke {adj} (lacking money; bankrupt)	 :: blakk
+brokeback {adj} (derelict) SEE: derelict	 ::
+brokeback {adj} (hunchbacked) SEE: hunchbacked	 ::
+bromide {n} (chemistry: binary compound of bromine and another element)	 :: bromid {n}
+bromide {n} (platitude) SEE: platitude	 ::
+bromine {n} (nonmetallic chemical element)	 :: brom
+bronchitis {n} (inflammation of the lungs)	 :: [Bokmål] bronkitt {m}; [Nynorsk] bronkitt {m}
+bronze {adj} (having a bronze colour)	 :: bronsefarget
+bronze {n} (alloy)	 :: bronse {m}
+bronze {n} (bronze medal) SEE: bronze medal	 ::
+bronze {n} (colour)	 :: bronse {m}, bronsefarge {m}
+bronze {v} (to color bronze)	 :: bronse, bronsere
+bronze {v} (to plate with bronze)	 :: bronse, bronsere
+bronze {v} (to tan) SEE: tan	 ::
+Bronze Age {prop} (archaeology)	 :: [Bokmål] bronsealder {m}; [Nynorsk] bronsealder {m}
+bronzewing pigeon {n} (Australian pigeon) SEE: bronzewing	 ::
+brood {v} (to keep an egg warm)	 :: ruge
+brook alder {n} (American winterberry) SEE: American winterberry	 ::
+brook lamprey {n} (a small European lamprey)	 :: [Bokmål] bekkeniøye {m}; [Nynorsk] bekkeniauge {m}
+brook trout {n} (Salvelinus fontanalis)	 :: bekkerøye {m} {f}, bekkerøyr {m} {f}
+broom {n} (domestic utensil)	 :: sopelime, kost
+broomstick {n} (the handle of a broom)	 :: kosteskaft {n}, sopelime {m}
+brothel {n} (house of prostitution)	 :: bordell
+brother {n}	 :: [1] bror, [little brother; 1] lillebror, [big brother; 1] storebror, [elder form/formal] Broder, [stepbrother; 2] stebror, [half-brother; 2] halvbror
+brother {n} (male sibling)	 :: bror {m}
+brother {v} (to treat as a brother)	 :: brors
+brotherhood {n} (an association of any purpose, a fraternity)	 :: brorskap {n}
+brotherhood {n} (state of being brothers or a brother)	 :: [Bokmål] brorskap {n}; [Nynorsk] brorskap {m} or {n}
+brother-in-arms {n} (fellow combatant or soldier)	 :: våpenbror {m}
+brother-in-law {n} (one's husband's brother)	 :: svoger {c}
+brother-in-law {n} (one's sister's husband)	 :: svoger {c}
+brother-in-law {n} (one's wife's brother)	 :: svoger {c}
+brow {n} (eyebrow) SEE: eyebrow	 ::
+brown {adj} (having brown colour)	 :: brun
+brown {n} (colour)	 :: brun
+brown {v} (to tan) SEE: tan	 ::
+brown coal {n} (lignite) SEE: lignite	 ::
+brown eye {n} (vulgar, slang for the anus)	 :: brun øye {n}
+brown hare {n} (brown hare) SEE: European hare	 ::
+brownnose {v} (fawn) SEE: fawn	 ::
+brownnose {v} (to flatter in obsequious manner)	 :: smiske, pisse oppetter ryggen, sleike oppetter ryggen
+browse {v} (move about while eating parts of plants)	 :: [Bokmål] beite; [Nynorsk] beite
+browser {n} (web browser) SEE: web browser	 ::
+Børselv {prop} (village in Norway)	 :: Børselv {m} {f}; [Bokmål] Børselv {m} {f}; [Nynorsk] Børselv {f}
+brunch {n} (a meal)	 :: [Bokmål] brunsj {m}; [Nynorsk] brunsj {m}
+Brunei {prop} (A country in Southeast Asia)	 :: Brunei
+Bruneian {adj} (pertaining to Brunei)	 :: [Bokmål] bruneisk; [Nynorsk] bruneisk
+Bruneian {n} (person from Brunei)	 :: [Bokmål] bruneier {m}, bruneiar {m}
+brunette {adj} (Of a woman having brown or black hair)	 :: mørkhåret
+brunette {n} (A girl or woman with brown or black hair)	 :: brunette {f}
+brunion {n} (nectarine) SEE: nectarine	 ::
+brushtail {n} (brushtail possum) SEE: brushtail possum	 ::
+Brussels {prop} (capital of Belgium)	 :: Brussel; [Nynorsk] Brussel
+Brussels sprout {n} (vegetable)	 :: rosenkål {m}
+brutalize {v} (brutalise) SEE: brutalise	 ::
+brute {n} (brutal person)	 :: bølle {c}
+bubble {n} (Greek) SEE: Greek	 ::
+bubble {n} (someone who has been fooled) SEE: dupe	 ::
+bubble {n} (spherically contained volume of air or other gas)	 :: bubla {f}
+bubble {v} (to cheat, delude) SEE: cheat	 ::
+bubble {v} (to cry, weep) SEE: weep	 ::
+bubble level {n} (tool) SEE: spirit level	 ::
+buckbean {n} (Menyanthes trifoliata)	 :: bukkeblad {n}
+bucket {n} (amount held in this container)	 :: [Bokmål] bøtte {m} {f}; [Nynorsk] bytte {f}, bøtte {f}
+bucket {n} (basketball: basket)	 :: [Bokmål] kurv {m} {f}; [Nynorsk] kurv {m}
+bucket {n} (container)	 :: [Bokmål] bøtte {m} {f}, spann {n}; [Nynorsk] bytte {f}, bøtte {f}
+Buddhism {n} (religion and philosophy)	 :: [Bokmål] buddhisme {m}; [Nynorsk] buddhisme {m}
+Buddhist {adj} (of, relating to a Buddhist, Buddhists)	 :: [Bokmål] buddhistisk; [Nynorsk] buddhistisk
+Buddhist {adj} (of, relating to, or practicing Buddhism)	 :: [Bokmål] buddhistisk; [Nynorsk] buddhistisk
+Buddhist {n} (follower of Buddha)	 :: [Bokmål] buddhist {m}; [Nynorsk] buddhist {m}
+Buddhist {n} (practitioner of Buddhism)	 :: [Bokmål] buddhist {m}; [Nynorsk] buddhist {m}
+budgerigar {n} (species of parakeet)	 :: [Bokmål] undulat {m}; [Nynorsk] undulat {m}
+budget {n} (amount of money or resources)	 :: [Bokmål] budsjett {n}; [Nynorsk] budsjett {n}
+budget {n} (itemized summary of intended expenditure)	 :: [Bokmål] budsjett {n}; [Nynorsk] budsjett {n}
+buffalo {n} (North American bison)	 :: bison
+buffalo {n} (Old World mammals)	 :: bøffel {m}
+buffer {n} (portion of memory in computing)	 :: [Bokmål] buffer {m}
+buffet {n}	 :: buffé {m}, buffet {m}
+bug {n}	 :: [2] insekt {n}, [3] feil {m}, [4] bakterie {m}
+bugger {n} (heretic) SEE: heretic	 ::
+bugger {n} (whippersnapper) SEE: whippersnapper	 ::
+bugger factor {n} (Murphy's law) SEE: Murphy's law	 ::
+bugger off {interj} (go away) SEE: get lost	 ::
+buggy {n} (pushchair) SEE: pushchair	 ::
+builder {n} (a bodybuilder) SEE: bodybuilder	 ::
+building {n} (act or process of building)	 :: bygge, konstruere
+building {n} (closed structure with walls and a roof)	 :: bygning
+building worker {n} (construction worker) SEE: construction worker	 ::
+bulb {n} (light bulb) SEE: light bulb	 ::
+Bulgaria {prop} (country)	 :: Bulgaria
+Bulgarian {adj} (relating to Bulgaria, its people or the Bulgarian language)	 :: [Bokmål] bulgarsk; [Nynorsk] bulgarsk
+Bulgarian {n} (native of Bulgaria)	 :: [Bokmål] bulgarer {m}; [Nynorsk] bulgar {m}, bulgarar {m}
+Bulgarian {prop} (language)	 :: [Bokmål] bulgarsk {m}; [Nynorsk] bulgarsk {m}
+bulk {n} (major part of something)	 :: [Bokmål] masse {m}
+bulk {n} (size, mass or volume)	 :: [Bokmål] masse {m}
+bull {n} (adult male animal)	 :: okse {m}
+bull {n} (large, strong man)	 :: okse {m}
+bull {n} (uncastrated adult male bovine)	 :: okse {m}
+bull {v} (lie) SEE: lie	 ::
+bullcrap {n} (bullshit) SEE: bullshit	 ::
+bulldog {n} (British bulldog) SEE: British bulldog	 ::
+bulldozer {n} (tractor)	 :: [Bokmål] bulldoser {m}; [Nynorsk] bulldosar {m}
+bullet {n} (projectile)	 :: kule
+bull fiddle {n} (instrument) SEE: double bass	 ::
+bullfinch {n} (bird)	 :: dompap {m}
+bullhead {n} (Europe, Asia: the European bullhead) SEE: European bullhead	 ::
+bullhead {n} (rail transport: bullhead rail) SEE: bullhead rail	 ::
+bullhook {n} (ankus) SEE: ankus	 ::
+bullion {n} (bulk quantity of precious metal)	 :: barre {m}
+bull ring {n} (bullring) SEE: bullring	 ::
+bullshit {n} (deceitful statements, etc)	 :: pisspreik, okseavføring, bull
+bull thistle {n} (spear thistle) SEE: spear thistle	 ::
+bully {n} (bully beef) SEE: bully beef	 ::
+bully {n} (pimp) SEE: pimp	 ::
+bum bag {n} (pouch attached to a belt)	 :: rumpetaske {m} {f}
+bumblebee {n} (genus of bee)	 :: humle
+bumfodder {n} (toilet paper) SEE: toilet paper	 ::
+bumfuck {n} (assfuck) SEE: assfuck	 ::
+bumfuck {n} (sodomy) SEE: sodomy	 ::
+bumfuck {v} (sodomize) SEE: assfuck	 ::
+bump {n} (a protuberance on a level surface)	 :: [Bokmål] kul {m}; [Nynorsk] kul {m}
+bump {n} (a swelling on the skin caused by illness or injury)	 :: [Bokmål] kul {m}; [Nynorsk] kul {m}
+bumper {n} (impact absorber on a vehicle)	 :: [Bokmål] støtfanger {m}, støytfanger {m}; [Nynorsk] støytfangar {m}
+bun {n} (A small bread roll, often sweetened or spiced)	 :: [Bokmål] bolle {m}; [Nynorsk] bolle {m}
+bun {n} (newbie) SEE: newbie	 ::
+bunch {n} (a group of a number of similar things)	 :: klase {m}, bunke {m}
+bunch {n} (an informal body of friends)	 :: gjeng {m}
+bundle {n} (group of objects held together by wrapping or tying)	 :: [Bokmål] bunt {m}; [Nynorsk] bunt {m}
+bung {n} (bribe) SEE: bribe	 ::
+bungee {n} (elastic cord used in bungee jumping) SEE: bungee rope	 ::
+bungee cord {n} (elastic cord used in bungee jumping) SEE: bungee rope	 ::
+bungee cord {n} (elastic strap with hooks) SEE: bungee	 ::
+bungee line {n} (elastic cord used in bungee jumping) SEE: bungee rope	 ::
+bunk bed {n} (two or more beds fixed on top of one another)	 :: [Bokmål] køyeseng {m} {f}; [Nynorsk] køyeseng {f}, køyseng {f}
+bunkbed {n} (bunk bed) SEE: bunk bed	 ::
+bunny {n} (young rabbit)	 :: hare {m}, harepus {m}
+bunny hug {n} (sweatshirt with hood) SEE: hoodie	 ::
+buoy {n} (nautical: a moored float)	 :: bøye {m}
+buoyance {n} (buoyancy) SEE: buoyancy	 ::
+buoyancy {n} (physics: upward force on an immersed body)	 :: [Bokmål] oppdrift {m} {f}; [Nynorsk] oppdrift {f}
+bur {n} (prickly husk) SEE: burr	 ::
+burbot {n} (a freshwater fish: Lota lota)	 :: lake {c}
+burden {n} (cause of worry)	 :: belastning {m}
+burden {n} (heavy load)	 :: byrde {m}, belastning {m}
+burden {n} (responsibility, onus)	 :: byrde {m}, ansvar {n}
+burden of proof {n} (duty of a party in a legal proceeding)	 :: [Bokmål] bevisbyrde {m}
+burdensome {adj} (of or like a burden; arduous or demanding)	 :: [Bokmål] byrdefull; [Nynorsk] børefull, byrdefull
+bureau {n} (chest of drawers for clothes)	 :: [Bokmål] kommode {m}; [Nynorsk] kommode {m}
+bureau {n} (desk)	 :: [Bokmål] skatoll {n}, sekretær {m}; [Nynorsk] skatoll {n}, sekretær {m}
+bureaucracy {n} (structure and regulations in place to control activity)	 :: byråkrati {n}
+bureaucrat {n} (An official in a bureaucracy)	 :: byråkrat {m}
+bureau de change {n} (a place where foreign currency can be exchanged)	 :: vekslingskontor
+burglary {n} (the crime of breaking into)	 :: [Bokmål] innbrudd {n}; [Nynorsk] innbrott {n}
+burgundy {adj} (color)	 :: burgunder
+burgundy {n} (color)	 :: burgunder {m}
+Burgundy {prop} (region)	 :: Burgund
+burial ground {n} (cemetery) SEE: cemetery	 ::
+burka {n} (female garment that covers the whole body)	 :: burka {m}
+Burkina Faso {prop} (country)	 :: Burkina Faso
+burlap {n} (strong cloth)	 :: grovt lerret {n}, pakklerret {n}, sekkestrie {c}
+burlesque {adj} (burlesque)	 :: burlesk
+burlesque {n} (burlesque)	 :: burlesk {m}
+Burma {prop} (Myanmar) SEE: Myanmar	 ::
+Burma {prop} (Southeast Asian country (former name))	 :: Burma
+Burmese {adj} (Of, from, or pertaining to Burma)	 :: [Bokmål] burmesisk, myanmarsk; [Nynorsk] burmesisk, myanmarsk
+Burmese {n} (a person from Myanmar or of Burmese descent)	 :: [Bokmål] burmeser {m}, myanmarer {m}; [Nynorsk] burmesar {m}, myanmarar {m}
+Burmese {prop} (language)	 :: [Bokmål] burmesisk {m}, myanmarsk {m}; [Nynorsk] burmesisk {m}, myanmarsk {m}
+Burmese {prop} (script)	 :: [Bokmål] burmesisk {m}, myanmarsk {m}; [Nynorsk] burmesisk {m}, myanmarsk {m}
+burn {n} (act of burning something)	 :: brenning {m}
+burn {n} (physical injury)	 :: brannsår, forbrenning
+burn {n} (stream)	 :: bekk, strøm
+burn {v} (be consumed by fire)	 :: brenne
+burn {v} (betray)	 :: foræde
+burn {v}	 :: brenne
+burn {v} (cause to be consumed by fire)	 :: brenne
+burn {v} (feel hot)	 :: brenne
+burn {v} (injure (a person or animal) with heat or caustic chemicals)	 :: forbrenne
+burn {v} (sunburn) SEE: sunburn	 ::
+burn {v} (waste (time))	 :: brenne
+burn {v} (write data)	 :: brenne
+burocracy {n} (structure and regulations in place to control activity)	 :: byråkrati {n}
+burp {n} (a softer belch)	 :: rap {n}
+burp {v} (to emit a burp)	 :: rape
+burqa {n} (burka) SEE: burka	 ::
+Burundi {prop} (A country in Eastern Africa)	 :: Burundi
+Burundian {adj} (pertaining to Burundi)	 :: [Bokmål] burundisk; [Nynorsk] burundisk
+Burundian {n} (person from Burundi)	 :: [Bokmål] burundier {m}; [Nynorsk] burundiar {m}
+bury one's head in the sand {v} (to deliberately ignore the reality of a situation)	 :: [Bokmål] stikke hodet i sanden, strutse
+bus {n} (electrical conductor)	 :: buss {m}
+bus {n} (vehicle)	 :: buss {m}
+bus {v} (transport students to school)	 :: busse
+bus {v} (transport via a motor bus)	 :: busse
+bus {v} (travel by bus)	 :: busse [rarely used]
+bus driver {n} (driver of a bus)	 :: [Bokmål] bussjåfør {m}, buss-sjåfør {m}; [Nynorsk] bussjåfør {m}, buss-sjåfør {m}
+bush {n} (category of woody plant)	 :: busk {m}
+bush antelope {n} (bushbuck) SEE: bushbuck	 ::
+bushing {n} (mechanical engineering: type of bearing to reduce friction)	 :: foring {m}
+business {n} (commercial enterprise or establishment)	 :: forretning {m}
+business card {n} (a small card with a person’s name and professional information)	 :: visittkort {n}
+business plan {n} (a summary of how a business owner, manager, or entrepreneur intends to organize an entrepreneurial endeavor)	 :: businessplan {m}
+businessworthy {adj} (Following principles of ethical and responsible conduct in business)	 :: forretningsverdig
+bus stop {n} (a stop for public transport buses)	 :: [Bokmål] bussholdeplass {m}, busstopp {m} {n}, buss-stopp {m} {n}; [Nynorsk] busstopp {m} {n}, buss-stopp {m} {n}
+bust {n} (breasts and upper thorax of a woman)	 :: [Bokmål] byste {m} {f}; [Nynorsk] byste {m} {f}
+bust {n} (sculptural portrayal of a person's head and shoulders)	 :: [Bokmål] byste {m} {f}; [Nynorsk] byste {m} {f}
+busting {adj} (urgently needing to urinate) SEE: bursting	 ::
+busty {adj} (having large breasts)	 :: barmfager
+busy {adj} (doing a great deal)	 :: travel, opptatt
+busy {adj} (engaged)	 :: opptatt, travel
+but {conj} (although)	 :: men
+but {conj} (except)	 :: enn, bortsett fra, unntatt, foruten
+but {conj} (rather)	 :: men
+butane {n} (the organic compound)	 :: [Bokmål] butan {m} {n}; [Nynorsk] butan {m} {n}
+butch {n} (masculine lesbian)	 :: [Bokmål] traktorlesbe {m} {f}; [Nynorsk] traktorlesbe {f}
+butcher {n} (a brutal or indiscriminate killer)	 :: slakter {m}
+butcher {n} (a person who prepares and sells meat)	 :: slakter {m}
+butcher {v} (to kill brutally)	 :: slakte
+butcher {v} (To ruin something)	 :: slakte
+butcher {v} (To slaughter animals and prepare meat for market)	 :: slakte
+butcher's {n} (butcher's shop)	 :: slakteri {n}
+butchery {n} (abattoir) SEE: abattoir	 ::
+butler {n} (chief male servant)	 :: bøtler {m}
+butt {n} (butt hinge) SEE: butt hinge	 ::
+butt {n} (butt joint) SEE: butt joint	 ::
+butt {n} (buttocks)	 :: bak {m}, rumpe {m} {f}
+butt {n} (remnant of a smoked cigarette or cigar)	 :: [Bokmål] sneip {m}
+butt chin {n} (cleft chin) SEE: cleft chin	 ::
+buttcrack {n} (anal cleft) SEE: anal cleft	 ::
+butter {n} (soft foodstuff made from milk)	 :: [Bokmål] smør {n}; [Nynorsk] smør {n}
+buttercup {n} (flower of the genus Narcissus) SEE: daffodil	 ::
+butterfish {n} (Maccullochella macquariensis) SEE: trout cod	 ::
+butterfly {n} (insect)	 :: sommerfugl {m} [Bokmål], fivrelde {n} [Nynorsk]
+butterfly {n} (swimming stroke) SEE: butterfly stroke	 ::
+butterfly effect {n}	 :: [Nynorsk] sommarfugleffekten; sommerfugleffekt
+butterfly stroke {n} (swimming stroke)	 :: butterfly {m}
+buttermilk {n} (traditional buttermilk)	 :: [Bokmål] kjernemelk {m} {f}, kjernemjølk {m} {f}; [Nynorsk] kjernemjølk {f}
+butternut {n} (butternut squash) SEE: butternut squash	 ::
+butter up {v} (to flatter)	 :: smiske
+buttfuck {n} (assfuck) SEE: assfuck	 ::
+buttfuck {n} (sodomy) SEE: sodomy	 ::
+buttfuck {v} (sodomize) SEE: assfuck	 ::
+buttkisser {n} (someone who kisses ass) SEE: asslicker	 ::
+buttlicker {n} (a contemptible person) SEE: asslicker	 ::
+button {n} (a mechanical device meant to be pressed with a finger)	 :: trykknapp {m}, knapp {m}
+button {n} (in computer software, an on-screen control that can be selected)	 :: knapp {m}
+button {n} (knob or small disc serving as a fastener)	 :: [Bokmål] knapp {m}; [Nynorsk] knapp {m}
+button {v} (to fasten with a button)	 :: kneppe
+buttonbush {n} (common buttonbush) SEE: common buttonbush	 ::
+buttonhole {n} (flower worn in the buttonhole for decoration)	 :: [Bokmål] knapphullsblomst {m}, knappholsblomst {m}
+buttonhole {n} (hole for a button)	 :: [Bokmål] knapphull {n}, knapphol {n}; [Nynorsk] knapphol {n}
+button man {n} (professional assassin) SEE: contract killer	 ::
+buttonwood {n} (American sycamore) SEE: American sycamore	 ::
+buttonwood {n} (California sycamore) SEE: California sycamore	 ::
+buttonwood {n} (mangrove) SEE: mangrove	 ::
+butt plug {n} (A sex toy for the anus and rectum)	 :: analplugg
+buttress {n} (anything that serves to support something)	 :: støtte {m} {f}
+buttress {n} (brick or stone structure built against another structure to support it)	 :: støtte {m} {f}
+buttress {v} (support something or someone by supplying evidence)	 :: understøtte
+buttress {v} (support something physically with, or as if with, a buttress)	 :: støtte
+buxom {adj} (having a full, voluptuous figure)	 :: yppig
+buy {n} (purchase) SEE: purchase	 ::
+buy {v} (to accept as true)	 :: kjøpe
+buy {v} (to obtain something with money)	 :: kjøpe
+buyer {n} (person who makes purchases)	 :: [Bokmål] kjøper {m}; [Nynorsk] kjøpar {m}
+buy the farm {v} (to die)	 :: skride hen til de evige jaktmarker
+buzzard {n} (American black vulture) SEE: black vulture	 ::
+buzzard {n} (Genus Buteo)	 :: musvåk
+buzzard {n} (turkey vulture) SEE: turkey vulture	 ::
+by {prep} (indicates a means)	 :: med
+by {prep} (indicates a rule followed)	 :: etter
+by {prep} (indicates creator of a work)	 :: av, ved
+by {prep} (indicating amount of progression)	 :: med
+by {prep} (indication of passive voice)	 :: av
+by {prep} (near, or next to)	 :: ved
+by {prep} (some time before the given time)	 :: innen
+by {prep} (steady progression)	 :: etter, for
+by {prep} (with the authority of)	 :: ved
+by accident {adv} (accidentally) SEE: accidentally	 ::
+by and by {adv} (soon) SEE: soon	 ::
+by dint of {prep} (because of) SEE: because of	 ::
+by dint of {prep} (by means of) SEE: by means of	 ::
+bye {interj} (short for goodbye)	 :: adjø, farvel, ha det bra
+bye-bye {n} (goodbye)	 :: ha det
+by foot {adv} (on foot) SEE: on foot	 ::
+by hand {prep} (manually) SEE: manually	 ::
+by heart {prep} (knowing completely)	 :: utenat
+by mistake {prep} (mistakenly) SEE: mistakenly	 ::
+by-product {n} (secondary product)	 :: [Bokmål] biprodukt {n}; [Nynorsk] biprodukt {n}
+by the Grace of God {prep} (By divine right)	 :: av Guds nåde
+by the time {phrase} (when) SEE: when	 ::
+by the way {prep} (incidentally)	 :: forresten
+by turns {adv} ( is in turn a synonym? in this case: one after the other) SEE: is in turn a synonym? in this case: in turn	 ::
+by walking {adv} (on foot) SEE: on foot	 ::
+Byzantine Empire {prop} (an ancient Greek-speaking empire of Eastern Europe)	 :: Østromerriket
+Byzantium {prop} (ancient Greek city)	 :: Bysants
+Byzantium {prop} (Byzantine Empire) SEE: Byzantine Empire	 ::

@@ -1,0 +1,923 @@
+﻿rabbet joint {n} (rabbet) SEE: rabbet	 ::
+rabbi {n} (Jewish scholar or teacher)	 :: [Bokmål] rabbiner {m}; [Nynorsk] rabbin {m}, rabbinar {m}
+rabbit {n} (mammal)	 :: kanin {m}
+rabies {n} (viral disease)	 :: hundegalskap {n}, rabies {m}
+raccoon {n} (nocturnal omnivore living in North America, Procyon lotor)	 :: vaskebjørn {m}
+racecourse {n} ((UK) a racetrack where horse races are run)	 :: [Bokmål] galoppbane {m}; [Nynorsk] galoppbane {m} {f}
+racer {n} (racehorse) SEE: racehorse	 ::
+Rachel {prop} (younger daughter of Laban)	 :: Rakel
+racism {n} (race discrimination or dislike)	 :: [Bokmål] rasisme {m}; [Nynorsk] rasisme {m}
+racket {n} (implement)	 :: [Bokmål] rekkert {m}, racket {m}; [Nynorsk] rekkert {m}, racket {m}
+racoon {n} (raccoon) SEE: raccoon	 ::
+rada {n} (soviet) SEE: soviet	 ::
+radarmeteorology {n} (radar meteorology) SEE: radar meteorology	 ::
+radiation {n} (process of radiating waves or particles)	 :: stråling {c}
+radiation {n} (radioactive energy)	 :: stråling {c}
+radiation {n} (shooting forth of anything from a point or surface)	 :: utstråling {c}
+radiation {n} (transfer of energy via radiation)	 :: stråling {c}
+radical {adj} (favouring fundamental change)	 :: [Bokmål] radikal; [Nynorsk] radikal
+radio {n} (receiver)	 :: [Bokmål] radio {m}; [Nynorsk] radio {m}
+radio {n} (technology)	 :: [Bokmål] radio {m}; [Nynorsk] radio {m}
+radio {n} (transmitter)	 :: [Bokmål] radio {m}; [Nynorsk] radio {m}
+radioactivity {n} (emission of ionizing radiation)	 :: [Bokmål] radioaktivitet {m}; [Nynorsk] radioaktivitet {m}
+radioactivity {n} (radiation emitted)	 :: [Bokmål] radioaktivitet {m}; [Nynorsk] radioaktivitet {m}
+radio cassette {n} (radio cassette player) SEE: radio cassette player	 ::
+radio-controlled {adj} (controlled remotely using radio signals)	 :: [Bokmål] radiostyrt; [Nynorsk] radiostyrt
+radio drama {n} (acoustic performance)	 :: hørespill
+radiogram {n} (radiograph) SEE: radiograph	 ::
+radio-telephone {n} (radiotelephone) SEE: radiotelephone	 ::
+radish {n} (plant)	 :: reddik
+radome {n} (radar dome) SEE: radar dome	 ::
+radon {n} (chemical element)	 :: radon {n}
+raft {n} (flat, floating structure)	 :: [Bokmål] flåte {m}; [Nynorsk] flote {m}, flåte {m}
+ragbag {n} (collection of miscellaneous things) SEE: hodgepodge	 ::
+Ragnarok {prop} (the final battle in Norse mythology)	 :: ragnarok {n}
+Ragusa {prop} (Dubrovnik) SEE: Dubrovnik	 ::
+rail {n} (horizontal bar; railing)	 :: rekkverk, gelender, rekkverk, gelender
+rail {n} (horizontal piece of wood in a door or window)	 :: sprosse (i vindu), slå (for dør)
+rail {n} (metal bar that makes the track of a railroad)	 :: skinne
+rail {n} (railroad; railway)	 :: jernbane
+railcar {n} (any railway carriage) SEE: railroad car	 ::
+railgun {n} (railway gun) SEE: railway gun	 ::
+railing {n} (fence or barrier)	 :: [Bokmål] rekkverk {n}, gelender {n}; [Nynorsk] rekkverk {n}, gelender {n}
+railman {n} (railwayman) SEE: railwayman	 ::
+railroad {n} (permanent road consisting of fixed metal rails) SEE: railway	 ::
+railroad {n} (transportation system) SEE: railway	 ::
+railroad car {n} (railroad vehicle)	 :: [Bokmål] togvogn {m}; [Nynorsk] togvogn {m}
+railroad crossing {n} (level crossing) SEE: level crossing	 ::
+railroad station {n} (place where trains stop for passengers) SEE: railway station	 ::
+railroad switch {n} (points) SEE: points	 ::
+railway {n} (track, consisting of parallel rails)	 :: [Bokmål] jernbane {m}; [Nynorsk] jernbane {m} {f}, jarnbane {m} {f}
+railway {n} (transport system using these rails)	 :: [Bokmål] jernbane {m}; [Nynorsk] jarnbane {m} {f}, jernbane {m} {f}
+railway station {n} (place where trains stop)	 :: [Bokmål] togstasjon {m}, jernbanestasjon {m}; [Nynorsk] jarnbanestasjon {m}, jernbanestasjon {m}
+rain {n} (an instance of particles falling)	 :: regn {n}
+rain {n} (any matter falling)	 :: regn {n}
+rain {n} (condensed water from a cloud)	 :: regn {n}, regnvær {n}
+rain {v} (of rain: to fall from the sky)	 :: regne
+rain {v} (to fall in large quantities)	 :: regne
+rain {v} (to issue in large quantities)	 :: regne
+rainbow {n} (baseball: curveball) SEE: curveball	 ::
+rainbow {n} (multicoloured arch in the sky)	 :: [Bokmål] regnbue {m}, regnboge {m}; [Nynorsk] regnboge {m}
+rainbow trout {n} (Oncorhynchus mykiss (countable))	 :: [Bokmål] regnbueørret {m}; [Nynorsk] regnbogeaure {m}
+rainbow trout {n}	 :: orret
+rain buckets {v} (to rain heavily) SEE: rain cats and dogs	 ::
+rain cats and dogs {v} (to rain very heavily)	 :: høljeregne
+raindrop {n} (droplet of rainwater)	 :: [Bokmål] regndråpe {m}; [Nynorsk] regndrope {m}
+rainfall {n} (amount of rain that falls on a single occasion)	 :: nedbør {m}
+rainforest {n} (forest in a climate with high annual rainfall and no dry season)	 :: [Bokmål] regnskog {m}
+rain pitchforks {v} (rain cats and dogs) SEE: rain cats and dogs	 ::
+rainwater {n} (rainfall) SEE: rainfall	 ::
+rainwear {n} (clothing worn as a protection from rain)	 :: [Bokmål] regntøy {n}; [Nynorsk] regntøy {n}, regnty {n}
+rainy season {n} (portion of the year when rainfall amounts are greatest)	 :: [Bokmål] regntid
+raise the stakes {v} (up the ante) SEE: up the ante	 ::
+rake {n} (garden tool)	 :: rake {m} {f}
+rake together {v} (collect small amounts) SEE: scrape together	 ::
+rally {n} (motor racing: event)	 :: rally {c}
+rally {n} (tennis: sequence of strokes)	 :: ballveksling {m}
+rally {v} (To collect, and reduce to order, as troops dispersed or thrown into confusion)	 :: [mostly reflexive] regruppere (seg)
+rally {v} (To collect one's vital powers or forces)	 :: komme seg, [idiomatic] komme til krefter
+rally {v} (To come into orderly arrangement)	 :: samle seg, fylke seg
+ram {n} (battering ram) SEE: battering ram	 ::
+ram {n} (male sheep)	 :: saubukk {m} (both); [Bokmål] vær {m}; [Nynorsk] vêr {m}
+ramble {n} (stroll) SEE: stroll	 ::
+ramble {v} (wander) SEE: wander	 ::
+rambler {n} (recreational walker) SEE: hiker	 ::
+ramson {n} (ramsons) SEE: ramsons	 ::
+rancid {adj} (being rank in taste or smell)	 :: harsk
+rancid {adj} (rancid) SEE: offensive	 ::
+rand {n} (currency of South Africa)	 :: [Bokmål] rand {m}; [Nynorsk] rand {m}
+Randolph {prop} (male given name)	 :: Randolf, Randulf
+random {adj} (all outcomes being unpredictable)	 :: tilfeldig, tilfellelig, tilfelleleg
+random {adj}	 :: [Bokmål] vilkårlig
+random {adj} (computing: pseudorandom)	 :: tilfeldig, tilfellelig, tilfelleleg
+random {adj} (mathematics: of or relating to probability distribution)	 :: tilfeldig, tilfellelig, tilfelleleg
+range anxiety {n} (fear that a vehicle has insufficient range to reach its destination)	 :: [Bokmål] rekkeviddeangst {m}
+range hood {n} (kitchen device) SEE: extractor hood	 ::
+Rangoon {prop} (Yangon) SEE: Yangon	 ::
+ranunculus {n} (buttercup) SEE: buttercup	 ::
+rap {n} (rap music) SEE: rap music	 ::
+rape {n} (act of forcing sexual activity)	 :: [Bokmål] voldtekt; [Nynorsk] valdtekt {f}
+rape {n} (rapeseed) SEE: rapeseed	 ::
+rape {v} (force sexual intercourse)	 :: [Bokmål] voldta; [Nynorsk] valdta
+rapid {adj} (Very swift or quick)	 :: rask, hurtig
+rapid {n} (section of river)	 :: [Bokmål] stryk {n}; [Nynorsk] stryk {n}
+rapist {n} (someone who rapes someone else)	 :: voldtektsmann {m}
+raptor {n} (bird of prey) SEE: bird of prey	 ::
+raptor {n} (velociraptor) SEE: velociraptor	 ::
+rapunzel {n} (corn salad) SEE: corn salad	 ::
+rapunzel {n} (rampion) SEE: rampion	 ::
+rare {adj} (very uncommon)	 :: skjelden
+Rarotongan {prop} (Cook Islands Maori) SEE: Cook Islands Maori	 ::
+rash {n} (of skin)	 :: utslett {n}
+raspberry {n} (fruit)	 :: [Bokmål] bringebær {n}; [Nynorsk] bringebær {n}, bringbær {n}
+raspberry {n} (noise imitative of a fart)	 :: prompelyd {m}
+raspberry {n} (plant)	 :: [Bokmål] bringebærbusk {m}, bringebær {n}; [Nynorsk] bringebær {n}, bringbær {n}
+raspy {adj} (irritable) SEE: irritable	 ::
+rat {n} (rodent)	 :: [Bokmål] rotte {m} {f}; [Nynorsk] rotte {f}
+rat-arsed {adj} (extremely drunk) SEE: shitfaced	 ::
+ratchet {n}	 :: sperrehake {m}, sperrehjul {n}, klinkehake {m}
+rate {n} (proportional relationship between amounts)	 :: hyppighet, prosent, tall
+rate {n} (speed) SEE: speed	 ::
+ratel {n} (Mellivora capensis) SEE: honey badger	 ::
+rather {adv} (preferably)	 :: heller, fortrinnsvis
+rather {adv} (somewhat, fairly)	 :: ganske, nokså, temmelig
+ratio {n} (number representing comparison)	 :: forhold {n}
+ratio {n} (ratio decidendi) SEE: ratio decidendi	 ::
+rational {n} (rational number) SEE: rational number	 ::
+rationalise {v} (rationalize) SEE: rationalize	 ::
+rationality {n} (quality or state of being rational)	 :: [Bokmål] rasjonalitet {m}; [Nynorsk] rasjonalitet {m}
+rational number {n} (quotient of integers)	 :: rasjonalt tall {n}
+ration card {n} (food stamp) SEE: food stamp	 ::
+rationing {n} (ration) SEE: ration	 ::
+ration stamp {n} (food stamp) SEE: food stamp	 ::
+rat race {n} (activity which is hectic, tedious, and congested with participants)	 :: rotterace, rotteres
+rattle {n} (baby's toy)	 :: skrangle, rasle, rangle
+rattler {n} (rattlesnake) SEE: rattlesnake	 ::
+raven {adj} (of the color of the raven; jet-black)	 :: ravnsort, ravnsvart
+raven {n} (bird)	 :: ravn
+ravish {v} (rape) SEE: rape	 ::
+rawhide {n} (untanned hide)	 :: råskinn
+ray {n} (beam of light or radiation)	 :: [Bokmål] stråle {m}; [Nynorsk] stråle {m}
+Raymond {prop} (male given name)	 :: Raymond
+razor {n} (shaving knife)	 :: barberhøvel
+razor shell {n} (razor clam) SEE: razor clam	 ::
+razor strop {n} (birch bracket) SEE: birch bracket	 ::
+razor wire {n} (a form of security wire)	 :: piggtråd {m}
+reaction {n} (action in response to an event)	 :: [Bokmål] reaksjon {m}; [Nynorsk] reaksjon {m}
+reaction {n} (chemical transformation)	 :: [Bokmål] reaksjon {m}; [Nynorsk] reaksjon {m}
+reactionary {adj} (opposed to change)	 :: reaksjonær
+reactionary {n} (such a person)	 :: reaksjonær {m}
+reactor {n} (a device which uses atomic energy to produce heat)	 :: reaktor
+read {v} (be able to hear (in a radio communication))	 :: forstå, høre, oppfatte
+read {v} (have the ability to read text or other information)	 :: lese
+read {v} (look at and interpret letters or other information)	 :: lese
+read {v} (make a study of)	 :: studere
+read {v} (speak aloud words or other information that is written)	 :: lese
+readable {adj} (legible) SEE: legible	 ::
+readableness {n} (readability) SEE: readability	 ::
+reading {n} (the process of interpreting written language)	 :: lesing
+ready {adj} (Inclined, apt to happen)	 :: beredt, rede
+ready {adj}	 :: klar
+ready {adj} (Prepared for immediate action or use)	 :: klar, parat
+ready, aim, fire {interj} (sequence of commands)	 :: klar, sikt, fyr
+ready, set, go {phrase} (on your mark, get set, go) SEE: on your mark, get set, go	 ::
+ready, steady, go {phrase} (on your mark, get set, go) SEE: on your mark, get set, go	 ::
+real {adj}	 :: ekte
+real {adj} (true, genuine, not merely nominal)	 :: virkelig
+real {adv} (really) SEE: really	 ::
+real {n} (mathematics: a real number) SEE: real number	 ::
+real estate {n} (property that cannot easily be moved)	 :: fast eiendom
+realia {n} (real objects or facts)	 :: realia {m-p}
+realism {n} (concern for fact or reality)	 :: realisme
+reality {n} (entirety of all that is real)	 :: [Bokmål] virkelighet {m} {f}; [Nynorsk] røynd {f}, røyndom {m}, verkelegheit {f}
+real number {n} (floating-point number) SEE: floating-point number	 ::
+real number {n} (limit of a convergent sequence of rational numbers)	 :: reelt tall {n}
+real number line {n} (geometric representation of the real number system) SEE: real line	 ::
+realtor {n} (dealer in real estate)	 :: eiendomsmegler {m}
+reaper {n} (machine used for harvesting) SEE: harvester	 ::
+reaper {n} (the Grim Reaper) SEE: Grim Reaper	 ::
+reap hook {n} (sickle) SEE: sickle	 ::
+reaping hook {n} (sickle) SEE: sickle	 ::
+rearguard {n} (the rearmost part of a force)	 :: baktropp {m}
+rearm {v} (to replace or restore the weapons or arms)	 :: gjenoppruste
+rearmament {n} (the process of rearming)	 :: [Bokmål] gjenopprustning {c}, gjenopprusting {c}; [Nynorsk] gjenopprusting {f}
+reason {n}	 :: grunn
+reason {n} (math: ratio, proportion) SEE: ratio	 ::
+reason {n} ((the capacity of the human mind for) rational thinking)	 :: fornuft
+reason {v} (to arrange and present the reasons for or against; to examine, debate, discuss) SEE: debate	 ::
+reason {v} (to converse; to compare opinions)	 :: diskutere fornuftig
+reason {v} (to exercise the rational faculty)	 :: resonnere, overveie
+reasonable {adj} (inexpensive)	 :: rimelig
+reasonable {adj} (just; fair; agreeable to reason)	 :: rimelig, fornuftig
+reasonable {adj} (satisfactory)	 :: fornuftig
+reata {n} (lasso) SEE: lasso	 ::
+rebate {n} (A deduction from an amount to be paid; an abatement)	 :: [Bokmål] rabatt
+rebate {n} (rabbet) SEE: rabbet	 ::
+Rebecca {prop} (female given name)	 :: Rebekka
+Rebekah {prop} (sister of Laban and wife to Isaac)	 :: Rebekka
+rebel {n} (person who resists an established authority)	 :: [Bokmål] opprører {m}; [Nynorsk] opprørar {m}
+rebirth {n} (reincarnation)	 :: [Bokmål] gjenfødelse {m}, reinkarnasjon {m}; [Nynorsk] gjenføding {f}, reinkarnasjon {m}
+reborn {adj}	 :: gjenfødt
+rebuke {v} (to criticise harshly; to reprove)	 :: bestride
+recalcitrant {adj} (hard to deal with or operate)	 :: gjenstridig
+recalcitrant {adj} (marked by a stubborn unwillingness to obey figures of authority)	 :: trassig
+receipt {n} (recipe)	 :: oppskrift
+receipt {n} (written acknowledgement)	 :: kvittering
+receive {v} (get)	 :: få
+receiver {n} (electronic device)	 :: mottaker {m}
+receiver {n} (person who buys stolen goods)	 :: heler {m}
+receiver {n} (person who receives)	 :: mottaker {m}
+recent {adj} (having happened a short while ago)	 :: nylig
+recently {adv} (in the recent past)	 :: [Bokmål] nylig, i det siste; [Nynorsk] nyleg, i det siste
+receptacle {n} (botany: part of flower)	 :: blomsterbunn {m}
+receptacle {n} (container)	 :: beholder {m}
+receptacle {n} (electrical: contact device)	 :: stikkontakt {m}
+reception {n} (act of receiving)	 :: mottakelse {m}
+reception {n} (electronics: act or ability to receive signals)	 :: mottak {n}
+reception {n} (front desk)	 :: [Bokmål] resepsjon {m}; [Nynorsk] resepsjon {m}
+reception {n}	 :: mottak {n}
+reception {n} (social engagement)	 :: mottakelse {m}; [Bokmål] resepsjon {m}; [Nynorsk] resepsjon {m}
+receptionist {n} (employee who receives visitors and/or calls, typically in an office setting)	 :: [Bokmål] resepsjonist {m}; [Nynorsk] resepsjonist {m}
+recipe {n} (instructions for making or preparing food dishes)	 :: oppskrift {m} {f}
+reciprocating engine {n} (piston engine) SEE: piston engine	 ::
+recite {v} (to deliver a recitation)	 :: [Bokmål] resitere; [Nynorsk] resitere, resitera
+recite {v} (to repeat aloud some passage, poem or other text previously memorized, often before an audience)	 :: [Bokmål] resitere; [Nynorsk] resitere, resitera
+reclaim {v} (to recycle) SEE: recycle	 ::
+reclaim {v} (to tame or domesticate a wild animal) SEE: tame	 ::
+recoil {n} (pushback from a fired firearm)	 :: rekyl {m}, tilbakeslag {n}, tilbakestøt {n}, tilbakevirkning {m}
+recoil {v} (to pull back, especially in disgust, horror or astonishment)	 :: rekylere, spenne tilbake, sprette tilbake, springe tilbake, trekke seg tilbake, gyse tilbake
+recommendation {n}	 :: [Bokmål] anbefaling {c}; [Nynorsk] anbefaling {f}
+recommendation {n} (commendation) SEE: commendation	 ::
+recompense {n} (that which compensates for an injury)	 :: erstatning, vederlag
+recompense {v} (to give compensation)	 :: erstatte, gjengjelde
+reconciliation {n} (Process of matching and comparing figures from accounting records against those presented on a bank statement)	 :: avstemming {m}
+reconnoiter {n} (instance of reconnoitering)	 :: rekognosere
+record {n} (most extreme known value of some achievement)	 :: [Bokmål] rekord {m}; [Nynorsk] rekord {m}
+record player {n} (analogue electronic device for playing gramophone records)	 :: [Bokmål] platespiller {m}, platespeller {m}, grammofon {m}; [Nynorsk] platespelar {m}
+recreation {n} (activity that diverts, amuses or stimulates)	 :: rekreasjon
+recruit {n} (man enlisted for service in the army; a newly enlisted soldier)	 :: [Bokmål] rekrutt {m}; [Nynorsk] rekrutt {m}
+recruit {v}	 :: rekruttere
+rectangle {n} (quadrilateral)	 :: [Bokmål] rektangel; [Nynorsk] rektangel
+rectangular {adj} (having a shape like a rectangle)	 :: [Bokmål] rektangulær; [Nynorsk] rektangulær
+rectangular coordinates {n} (Cartesian coordinates) SEE: Cartesian coordinates	 ::
+recuperate {v} (recover, especially from an illness) SEE: recover	 ::
+recur {v} (to recurse) SEE: recurse	 ::
+recurrence {n} (recourse) SEE: recourse	 ::
+recycling {n} (the practice of sorting and collecting waste materials for new use)	 :: [Bokmål] gjenbruk {m}, resirkulering {m} {f}
+red {adj} (having red as its colour)	 :: rød; [Nynorsk] raud
+red {adj} (left-wing, socialist or communist)	 :: rød
+red {adj} (of hair: orange-brown)	 :: rødlig
+red {n} (colour)	 :: rød
+red beet {n} (beetroot) SEE: beetroot	 ::
+redbreast {n} (American robin) SEE: American robin	 ::
+redbreast {n} (European robin) SEE: European robin	 ::
+red carpet {n} (a strip of red carpet laid for a VIP)	 :: [Bokmål] rød løper (den røde løperen)
+Red Cross {prop} (Red Cross)	 :: Røde Kors
+red cunt hair {n} (small measurement)	 :: kusehår {n}
+red deer {n} (Cervus elaphus)	 :: [Bokmål] hjort {m}; [Nynorsk] hjort {m}
+redeem {v} (to reclaim) SEE: reclaim	 ::
+red-eye {n} (rock bass) SEE: rock bass	 ::
+red fox {n} (Vulpes vulpes)	 :: [Bokmål] rødrev {m}; [Nynorsk] raudrev {m}
+redhaired {adj} (having red hair) SEE: redheaded	 ::
+red herring {n} (misleading clue)	 :: blindspor {n}, feilspor {n}
+red hot {n} (hot dog) SEE: hot dog	 ::
+red-hot {adj} (Very fresh, new, recent and up to date.)	 :: rødglødende
+redirect {n} (redirection) SEE: redirection	 ::
+redirect {n} (substition of an address for another one)	 :: [Bokmål] omadressering {m}
+redirect {v} (substitute an address or pointer to a new location)	 :: [Bokmål] omadressere
+red light {n} (a warning light, especially as a traffic signal)	 :: rødt lys {n}
+red oak {n} (Agkistrodon contortrix) SEE: copperhead	 ::
+red onion {n} (a type of onion with reddish purplish skin)	 :: rødløk {c}
+red panda {n} (Ailurus fulgens)	 :: rød panda, kattebjørn
+red poppy {n} (Papaver rhoeas) SEE: corn poppy	 ::
+Red Sea {prop} (sea between Africa and Arabia)	 :: [Bokmål] Rødehavet; [Nynorsk] Raudehavet
+Red Square {prop} (Moscow square)	 :: Den røde plass; [Nynorsk] Den raude plassen
+red-throated diver {n} (loon)	 :: smålom {c}
+redtwig {n} (Cornus sericea) SEE: red osier dogwood	 ::
+redtwig dogwood {n} (Cornus sericea) SEE: red osier dogwood	 ::
+reduce {v} (to bring down)	 :: redusere
+reduce {v} (to decrease the liquid in food)	 :: redusere
+reduction {n} (amount or rate by which something is reduced)	 :: reduksjon {m}
+redundancy {n} (state of being redundant)	 :: redundans
+redundant {adj} (needlessly wordy)	 :: redundant, overflødig
+redundant {adj} (superfluous)	 :: overflødig
+red wine {n} (red coloured wine)	 :: rødvin {m}
+reed {n} (grass-like plant)	 :: siv {n}
+reed {n} (music: part of mouthpiece)	 :: rør {n}
+reef {n} (reef knot) SEE: reef knot	 ::
+reefer {n} (marijuana) SEE: marijuana	 ::
+reefer {n} (reefer jacket) SEE: reefer jacket	 ::
+reel {v} (to walk shakily or unsteadily)	 :: vakle
+reelect {v} (to elect for a subsequent time)	 :: gjenvelge
+reelection {n} (the act of being elected after already being elected once)	 :: [Bokmål] gjenvalg; [Nynorsk] attval {n}
+refer {v}	 :: henvise
+reference {n} (reference work) SEE: reference work	 ::
+reference work {n} (compendium of information)	 :: [Bokmål] oppslagsverk {n}; [Nynorsk] oppslagsverk {n}
+refined {adj} (showing good taste)	 :: raffinert
+refining {n} (process) SEE: refinement	 ::
+reflect {v} (to bend back from a surface)	 :: [Bokmål] reflektere; [Nynorsk] reflektere
+reflect {v} (to give evidence of someone's or something's character etc.)	 :: [Bokmål] reflektere; [Nynorsk] reflektere
+reflect {v} (to mirror, or show the image of something)	 :: [Bokmål] reflektere, speile; [Nynorsk] reflektere, spegle
+reflect {v} (to think seriously; to ponder or consider)	 :: [Bokmål] reflektere, tenke over; [Nynorsk] reflektere, tenkje over
+reflector {n} (small reflecting disk on a vehicle)	 :: [Bokmål] refleksbrikke {m}
+reflexive {adj} (in grammar)	 :: refleksiv
+reflexive pronoun {n} (a part of speech)	 :: refleksiv pronomen
+reforest {v} (afforest) SEE: afforest	 ::
+reformatory {n} (juvenile institution) SEE: reform school	 ::
+refrain {n} (burden of song)	 :: refreng
+refrain {v} (to abstain (from))	 :: avstå
+refrain {v} (to hold back)	 :: holde tilbake
+refrain {v} (to keep one’s self from action)	 :: avholde seg
+refrigerate {v} (cool down) SEE: cool down	 ::
+refrigerate {v} (freeze) SEE: freeze	 ::
+refrigeration {n} (cooling of the body for therapeutic purposes)	 :: nedkjøling {m} {f}
+refrigeration {n} (process of preserving something by cooling)	 :: kjøling {m} {f}
+refrigeration {n} (process of transferring heat from an object in order to cool it)	 :: kjøling {m} {f}
+refrigerator {n} (appliance that refrigerates food )	 :: kjøleskap {n}
+refuge {n} (place providing safety, protection or shelter)	 :: tilfukt
+refurbish {v} (rebuild or replenish)	 :: pusse opp
+refute {v} (to prove (something) to be false or incorrect)	 :: motbevise
+regard {n} (aspect; detail)	 :: betraktning {c}
+regard {n} (concern for another)	 :: respekt {m}, aktelse {m}
+regards {n} (greeting at the end of a letter)	 :: hilsen
+regidor {n} (alderman) SEE: alderman	 ::
+regime {n} (form of government)	 :: [Bokmål] regime {n}; [Nynorsk] regime {n}
+region {n} (an administrative subdivision)	 :: region
+region {n} (any considerable and connected part of a space or surface)	 :: region
+register {n} (cash register) SEE: cash register	 ::
+regression {n} (an action of regressing, a return to a previous state)	 :: regresjon {m}
+regression {n} (an analytic method to measure the relationship between two variables)	 :: regresjon {m}
+regret {n} (instance of such an emotion)	 :: beklagelse {m}, anger {m}
+regret {v} (feel sorry about some past thing)	 :: [Bokmål] beklage, angre; [Nynorsk] beklaga, beklage, angre
+regret {v} (to feel sorry about anything)	 :: [Bokmål] beklage; [Nynorsk] beklaga, beklage
+regulate {v} (control) SEE: control	 ::
+regulation {n} (law or administrative rule)	 :: regulering {c}
+rehearsal {n} (practicing of performance to test or improve it)	 :: øvelse {m} {f}, øving {m} {f}
+Reichian {adj} (relating to or influenced by the Austrian psychiatrist Wilhelm Reich)	 :: reichiansk
+Reichian {n} (follower of Reich or his methods)	 :: reichianer
+reification {n} (Consideration of an abstract thing as if it were concrete, or of an inanimate object as if it were living)	 :: tingliggjøring
+reign {n} (The exercise of sovereign power)	 :: maktutøvelse {m}
+reign {n} (The period during which a monarch rules)	 :: regjeringstid {m} {f}
+reign {v} (exercise sovereign power)	 :: regjere
+rein {v} (to restrain, control, check) SEE: to restrain, control, check	 ::
+reindeer {n} (Rangifer tarandus)	 :: [Bokmål] reinsdyr {n}, rein {m}; [Nynorsk] reinsdyr {n}, rein {m}
+reinforced concrete {n} (building material)	 :: [Bokmål] armert betong; [Nynorsk] armert betong
+reiterate {v} (to say or do for a second time)	 :: [Bokmål] gjenta; [Nynorsk] gjenta, gjentake
+reiterate {v} (to say or do repeatedly)	 :: [Bokmål] gjenta; [Nynorsk] gjenta, gjentake
+reject {v} (refuse to accept)	 :: avslå, avvise
+rejuvenation {n} (the process of rendering young again)	 :: rejuvenering {f}
+relate {v} (to interact) SEE: interact	 ::
+relate {v} (to narrate) SEE: narrate	 ::
+relation {n} (member of one's family)	 :: [Bokmål] slektning {m}, familiemedlem {m}; [Nynorsk] slektning {m}, familiemedlem {m}
+relation {n} (way in which two things may be associated)	 :: [Bokmål] relasjon {m}; [Nynorsk] relasjon {m}
+relational {adj} (relative) SEE: relative	 ::
+relationship {n} (connection or association)	 :: [Bokmål] forhold {n}; [Nynorsk] tilhøve {n}, samband {n}
+relative {adj} (conditional; depending on something else)	 :: relativ
+relative {n} (someone in the same family; someone connected by blood, marriage, or adoption)	 :: [Bokmål] slektning {m}; [Nynorsk] slektning {m}
+relatively {adv} (somewhat) SEE: somewhat	 ::
+relative pronoun {n} (pronoun that introduces a relative clause)	 :: relativt pronomen
+relativistic {adj} (at, or near the speed of light)	 :: relativistisk
+relativistic {adj} (of, or relating to relativism)	 :: relativistisk
+relativistic {adj} (of, or relating to relativity)	 :: relativistisk
+relativity {n} (the state of being relative)	 :: relativitet
+relax {v} (to make something loose)	 :: slappe av
+relay {n} (athletics discipline)	 :: stafett {m}
+relevancy {n} (relevance) SEE: relevance	 ::
+relevant {adj} (directly related, connected, or pertinent to a topic)	 :: relevant
+reliable {adj} (fit to be relied on)	 :: [Bokmål] pålitelig; [Nynorsk] påliteleg
+reliance {n} (The act of relying on someone or something; trust)	 :: [Bokmål] avhengighet {m} {f}
+reliance {n} (The condition of being reliant or dependent)	 :: [Bokmål] avhengighet {m} {f}
+relief {n} (type of artwork)	 :: relieff {m}
+relief teacher {n} (supply teacher) SEE: supply teacher	 ::
+relieve {v} (military: to free someone from their post)	 :: [Bokmål] avløse, avløyse; [Nynorsk] avløyse
+religion {n} (system of beliefs dealing with soul, deity and/or life after death)	 :: [Bokmål] religion {m}, trosretning {m} {f}; [Nynorsk] religion {m}
+relinquish {v} (to surrender, yield control or possession)	 :: å gi opp
+reluctant {adj} (not wanting to take some action)	 :: [Bokmål] motvillig; [Nynorsk] motvillig, motviljug
+remain {n} (That which is left of a being after its life is gone) SEE: remains	 ::
+remaining {adj} (which remains)	 :: [Bokmål] gjenstående
+remedial {adj} (curative; providing a remedy)	 :: bøtende, helbredende, legende
+remedial {adj} (intended to correct or improve deficient skills)	 :: hjelpe-
+remember {v} (to recall from one's memory)	 :: [Bokmål] huske
+reminder {n} (something that reminds)	 :: påminnelse {m}
+remit {v} (to postpone) SEE: postpone	 ::
+remorse {n} (feeling of regret or sadness for doing wrong or sinning)	 :: anger {m}
+remote {adj} (at a distance)	 :: fjern
+remote {n} (remote control)	 :: fjernkontroll {m}
+remote control {n} (device used to operate an appliance or mechanical toy from a short distance away)	 :: [Bokmål] fjernkontroll {m}; [Nynorsk] fjernkontroll {m}
+remuneration {n} (a payment for work done; wages, salary, emolument)	 :: godtgjøring
+remuneration {n} (something given in exchange for goods or services rendered)	 :: godtgjøring
+ren {n} (a kidney) SEE: kidney	 ::
+renaissance {n} (rebirth or revival)	 :: [Bokmål] renessanse {m}; [Nynorsk] renessanse {m}
+renaissance {n} (Renaissance) SEE: Renaissance	 ::
+Renaissance {prop} (14th century revival)	 :: [Bokmål] renessansen {m}; [Nynorsk] renessansen {m}
+Renaissance {prop} (the period)	 :: [Bokmål] renessansen {m}; [Nynorsk] renessansen {m}
+rename {v} (to give a new name to)	 :: omnavne, gi nytt navn
+Renata {prop} (female given name)	 :: Renate
+Renée {prop} (female given name) SEE: Renata	 ::
+renewal {n} (act of renewing)	 :: [Bokmål] fornyelse {m}
+rennet stomach {n} (abomasum) SEE: abomasum	 ::
+renounce {v} (abandon, forsake an action)	 :: gi avkall, renonsere
+renounce {v} (decline association with)	 :: avsverge, fornekte
+renounce {v} (give up)	 :: forsake, oppgi
+renounce {v} (surrender a right or trust)	 :: frasi, gi avkall, renonsere
+renowned {adj} (famous)	 :: berømt, vidgjeten
+rental car {n} (rented car)	 :: [Bokmål] leiebil {m}
+renunciation {n} (the act of rejecting or renouncing something as invalid)	 :: avvisning {m}
+reoffender {n} (repeat offender) SEE: repeat offender	 ::
+repair {n} (act of repairing something)	 :: reparasjon {m}, reparering {f}
+reparability {n} (repairability) SEE: repairability	 ::
+repechage {n} (heat for competitors who have lost in a previous round)	 :: oppsamlingsheat
+repent {v} (to feel sorrow or regret for what one has done or omitted to do)	 :: [Bokmål] angre; [Nynorsk] angre
+repertoire {n} (list of dramas, operas, pieces, parts, etc., which a company or a person has rehearsed)	 :: [Bokmål] repertoar {n}; [Nynorsk] repertoar {n}
+repertoire {n} (set of skills possessed by a person; collection of items)	 :: [Bokmål] repertoar {n}; [Nynorsk] repertoar {n}
+replace {v} (to substitute)	 :: [Bokmål] erstatte, avløse, avløyse; [Nynorsk] erstatte, erstatta, avløyse
+replevin {v} (replevy) SEE: replevy	 ::
+replicator {n} (technical device)	 :: replikator {m}
+reply {n} (written or spoken response)	 :: svar {n}
+reply {v} (to give a written or spoken response)	 :: svare
+repot {v} (change a plant's pot)	 :: prikle, ompotte
+reprehensible {adj} (blameworthy)	 :: klanderverdig
+reprimand {n} (a severe, formal or official reproof)	 :: refs {m}, reprimande {m}
+reprimand {v} (to reprove in a formal or official way)	 :: refse
+reprise {n} (repetition) SEE: repetition	 ::
+reproach {n} (mild rebuke, or an implied criticism)	 :: [Bokmål] bebreidelse {m}
+reproach {v} (to criticize or rebuke someone)	 :: [Bokmål] bebreide; [Nynorsk] bebreide
+reproduce {v} (to generate offspring)	 :: [Bokmål] reprodusere; [Nynorsk] reprodusere, reprodusera
+reptile {n} (a cold-blooded vertebrate)	 :: [Bokmål] krypdyr {n}, reptil {n} ; [Nynorsk] krypdyr {n}, reptil {n}
+republic {n} (a type of state)	 :: republikk {m}
+republic {n} (one of the kinds of parts constituting Russia)	 :: republikk {m}
+republican {n} (someone who favors a republic)	 :: [Bokmål] republikaner {m}; [Nynorsk] republikanar {m}
+Republican {adj} (republican) SEE: republican	 ::
+Republic of Albania {prop} (Official name of Albania)	 :: Republikken Albania
+Republic of China {prop} (state in East Asia)	 :: Republikken Kina, Taiwan
+Republic of Finland {prop} (official full name of Finland)	 :: Republikken Finland
+Republic of Latvia {prop} (Official name of Latvia)	 :: [Bokmål] Republikken Latvia; [Nynorsk] Republikken Latvia
+Republic of Lithuania {prop} (Official name of Lithuania)	 :: [Bokmål] Republikken Litauen; [Nynorsk] Republikken Litauen
+Republic of the Congo {prop} (country)	 :: Republikken Kongo
+Republic of Turkey {prop} (official name of the country of Turkey)	 :: Republikken Tyrkia
+request {v} (to express the need or desire for)	 :: [Bokmål] anmode
+require {v} (ask) SEE: ask	 ::
+requirement {n} (necessity)	 :: krav
+rescue {n} (liberation) SEE: liberation	 ::
+rescue {n} (rescuee) SEE: rescuee	 ::
+researcher {n} (one who researches)	 :: [Bokmål] forsker {m}
+resemblance {n} (state of resembling)	 :: [Bokmål] likhet {m} {f}
+resemblance {n} (that which resembles)	 :: [Bokmål] likhet {m} {f}
+resemble {v} (compare) SEE: compare	 ::
+resemble {v} (to be like or similar to something else)	 :: likne, minne om
+resentment {n} (anger or displeasure felt out of belief that others have engaged in wrongdoing or mistreatment; indignation.)	 :: [Bokmål] misnøye
+reserve {n} (finance: funds kept on hand)	 :: forråd {n}, reserve {m}, reservefond {n}
+reserve {n} (military: body of troops in the rear of an army)	 :: reserve {m}, reservetropp {m}
+reserve {n}	 :: reservasjon {m}
+reserve {n} (restraint of freedom in words or actions)	 :: reserverthet {m}, tilbakeholdenhet {m}
+reserve {n} (sports: reserve player)	 :: reserve {m}, reservespiller {m}
+reserve {n} (that which is reserved, or kept back, as for future use)	 :: reservasjon {m}
+reserve {n} (the act of reserving, or keeping back; reservation)	 :: bestilling {c}, reservering {c}, reservasjon {m}
+reserve {n} (tract of land reserved, or set apart, for a particular purpose)	 :: reservat {n}
+reserve {v} (to book in advance)	 :: bestille, reservere
+reserve {v} (to keep back; to retain)	 :: holde av, reservere, sette av
+reserve {v} (to keep in store for future or special use)	 :: forbeholde, legge til side
+reserve bank {n} (reserve bank as a central bank) SEE: central bank	 ::
+reserved {adj} (set aside for the use of a particular person or party)	 :: reservert
+reserved {adj} (slow to reveal emotion or opinions)	 :: reservert
+residence {n} (building used as a home)	 :: bolig {m}
+residence {n} (place where one lives)	 :: bosted {n}
+resign {v} (quit a job or position)	 :: gå av, si opp
+resign {v} (to give up)	 :: gi opp, resignere
+resilience {n} (the mental ability to recover quickly from depression, illness or misfortune)	 :: motstandsdyktighet {f}
+resin {n} (secretion of plants)	 :: [Bokmål] kvae {m}, harpiks {m}; [Nynorsk] kvae {f}, kvåe {f}, harpiks {m}
+resin {n} (viscous liquid of plant origin)	 :: [Bokmål] kvae {m}; [Nynorsk] kvae {f}, kvåe {f}
+resinaceous {adj} (resinous) SEE: resinous	 ::
+resist {v} (to withstand effects of something)	 :: motstå
+resistance {n} (act of resisting)	 :: motstand {m}
+resistance {n} (force that tends to oppose motion)	 :: motkraft {m} {f}
+resistance {n} (shortened form of electrical resistance)	 :: motstand {m}, resistans {m}
+resistance {n} (underground organization struggling for liberation)	 :: motstandsbevegelse {m}
+resolution {n} (formal statement adopted by an assembly)	 :: vedtak {n}; [Bokmål] beslutning {m} {f}
+resonance {n} (resonant sound)	 :: [Bokmål] resonans {m}; [Nynorsk] resonans {m}
+resort {v} (to have recourse out of necessity or frustration)	 :: ty til
+resource {n} (something that one uses to achieve an objective)	 :: [Bokmål] ressurs {m}, resurs {m}; [Nynorsk] ressurs {m}, resurs {m}
+respect {n} (admiration for a person or entity because of perceived merit)	 :: respekt
+respectively {adv} (in a relative manner)	 :: henholdsvis
+respiration {n} (breathing)	 :: åndedrett {n}
+respond {v} (to act in return)	 :: [Bokmål] reagere, svare
+responsibility {n} (a duty, obligation or liability for which someone is responsible)	 :: ansvar {n}
+responsibility {n} (the state of being responsible)	 :: ansvar {n}
+responsible {adj} (answerable for an act performed or for its consequences)	 :: ansvarlig
+ressentiment {n} (obsolete: resentment) SEE: resentment	 ::
+rest {n} (relief afforded by sleeping; sleep)	 :: [Bokmål] hvile {m} {f}
+rest {v} (to remain) SEE: remain	 ::
+restart {n} (act of restarting)	 :: omstart
+restart {v} (In computing, to reboot)	 :: start PC'en på nytt, starte PC'en på nytt
+restate {v} (rephrase) SEE: rephrase	 ::
+restaurant {n} (an eating establishment in which diners are served food at their tables)	 :: restaurant {m}
+restless {adj} (unable to be still or quiet)	 :: rastløs
+restlessness {n} (state or condition of being restless)	 :: uro {m} {f}
+rest on one's laurels {v} (to rely on a past success instead of trying to improve oneself further)	 :: hvile på sine laurbær
+restricted {adj} (limited within bounds)	 :: avgrenset, avgrensa, begrenset
+restrictive {adj} (confining; limiting)	 :: [Bokmål] restriktiv
+restructuration {n} (restructuring) SEE: restructuring	 ::
+restructuring {n} (alteration of structure)	 :: restrukturering
+result {n} (fruit, beneficial or tangible effect)	 :: resultat {n}, utfall {n}
+result {n} (that which results)	 :: resultat {n}, utfall {n}
+retail {n} (sale of goods directly to the consumer)	 :: detaljhandel
+retailer {n} (retail sales company or salesman)	 :: [Bokmål] detaljist {m}; [Nynorsk] detaljist {m}
+retain {v} (to keep in possession or use)	 :: få, motta
+retarded {adj} (having mental retardation)	 :: tilbakestående
+retardment {n} (retardation) SEE: retardation	 ::
+retiree {n} (someone who has retired from active working)	 :: pensjonist {m}
+retrieve {n} (retrieval) SEE: retrieval	 ::
+return {n} (answer) SEE: answer	 ::
+Reuben {prop} (first son of Jacob)	 :: Ruben
+Reuben {prop} (male given name)	 :: Ruben
+reunification {n} (the unification of something that was previously divided; used especially of a country)	 :: gjenforeningsdag
+reunion {n} (reunification) SEE: reunification	 ::
+reuse {n} (code re-use in computing)	 :: [Bokmål] gjenbruk {m}
+Reuven {prop} (given name) SEE: Reuben	 ::
+rev {v} (to increase the speed of a motor)	 :: [Bokmål] ruse
+revanchist {n} (avenger) SEE: avenger	 ::
+reveal {v} (to uncover)	 :: avsløre
+reveille {n} (the sounding of a bugle or drum early in the morning to awaken soldiers)	 :: revelje {m}
+revelation {n} (the act of revealing or disclosing)	 :: Åpenbaring
+Revelation {prop} (book of Bible)	 :: [Bokmål] Johannes' åpenbaring; [Nynorsk] Johannes' openberring
+revenant {n} (supernatural being)	 :: gjenganger
+revenge {n} (retaliatory action)	 :: hevn
+revenue {n}	 :: inntekt
+revenue {n} (net revenue) SEE: net revenue	 ::
+reverse dowry {n} (bride price) SEE: bride price	 ::
+review {n} (second or subsequent reading of a text or artifact)	 :: anmeldelse {m}
+Revised Romanization of Korean {prop} (Romanization standard for Korean)	 :: Revidert romanisering av koreansk
+revoke {v} (to cancel or invalidate by withdrawing or reversing)	 :: oppheve, tilbakekalle, annullere
+revolution {n} (political upheaval)	 :: [Bokmål] revolusjon {m}
+revolution {n} (removal and replacement of a government)	 :: [Bokmål] revolusjon {m}
+revolution {n} (turning of an object around an axis)	 :: [Bokmål] rotasjon {m}
+revolutionary {adj} (of or pertaining to a revolution in government)	 :: [Bokmål] revolusjonær; [Nynorsk] revolusjonær
+revolutionary {adj} (something that signifies great change)	 :: [Bokmål] revolusjonær; [Nynorsk] revolusjonær
+revolutionary {n} (A revolutionist; a person who revolts)	 :: [Bokmål] revolusjonær {m}; [Nynorsk] revolusjonær {m}
+reward {v} (recompense) SEE: recompense	 ::
+rewind {v} (wind back) SEE: wind back	 ::
+reword {v} (rephrase) SEE: rephrase	 ::
+rewrite {n} (something that has been written again)	 :: omskrivning {m} {f}
+rewrite {v} (to write again, differently)	 :: omskrive
+rewrite {v} (to write again, without changing)	 :: rekonstruere
+Reykjavik {prop} (Capital of Iceland)	 :: Reykjavík, Reykjavik
+Reykjavík {prop} (Capital of Iceland) SEE: Reykjavik	 ::
+rhenium {n} (chemical element)	 :: rhenium
+rhesus {n} (Macaca mulatta) SEE: rhesus macaque	 ::
+rheumatics {n} (rheumatism) SEE: rheumatism	 ::
+rhinoceros {n} (herbivorous pachyderm with horn(s))	 :: [Bokmål] nesehorn {n}; [Nynorsk] nashorn {n}, nashyrning {m}
+rhizome {n} (a horizontal underground stem of some plants)	 :: jordstengel {m}, rhizom {n}, rotstokk {m}
+Rhône {prop} (Rhone) SEE: Rhone	 ::
+rhodium {n} (chemical element)	 :: [Bokmål] rhodium {n}; [Nynorsk] rhodium {n}
+Rhodope {prop} (Rhodopes) SEE: Rhodopes	 ::
+rhombencephalon {n} (hindbrain) SEE: hindbrain	 ::
+rhombus {n} (A parallelogram having all sides of equal length)	 :: rombe {m}
+rhubarb {n} (any plant of the genus Rheum)	 :: [Bokmål] rabarbra {m}; [Nynorsk] rabarbra {m}
+rhumb {n} (A line which crosses successive meridians at a constant angle) SEE: rhumb line	 ::
+rhyme {n} (rime) SEE: rime	 ::
+rhyme {v} (transitive, to rhyme with)	 :: rime
+rhythm {n} (rhythm section) SEE: rhythm section	 ::
+rhythm {n}	 :: rytme {m}
+rhythm {n} (variation of strong and weak elements of sounds over time)	 :: rytme
+rhythm section {n} (section of a band maintaining the rhythm)	 :: rytmeseksjonen {f}
+ribbon {n} (long, narrow strip of material)	 :: båndet {n}
+rice {n} (plants)	 :: [Bokmål] ris {m}; [Nynorsk] ris {m}
+rice {n} (seeds used as food)	 :: [Bokmål] ris {m}; [Nynorsk] ris {m}
+rich {adj} (having wealth)	 :: [Bokmål] rik; [Nynorsk] rik
+Richard {prop} (male given name)	 :: Rikard {m}, Richard {m}
+rickets {n} (disorder of infancy)	 :: [Bokmål] rakitis {m}, rakitt {m}, engelsk syke {m}, engelsk sjuke {m}; [Nynorsk] rakitt {m}, engelsk sjuke {f} {m}, engelsk sykje {f}
+ricksha {n} (rickshaw) SEE: rickshaw	 ::
+riddle {n} (puzzle)	 :: gåte
+ride {v} (to be transported in a vehicle as a passenger)	 :: ri; [Bokmål] kjøre; [Nynorsk] kjøyre
+ride {v} (to transport oneself by sitting on and directing a horse, bicycle etc.)	 :: [Bokmål] ri, ride; [Nynorsk] ri
+ride height {n} (ground clearance) SEE: ground clearance	 ::
+rider {n} (cyclist) SEE: cyclist	 ::
+rider {n} (driver) SEE: driver	 ::
+rider {n} (one who rides)	 :: [Bokmål] rytter {m}; [Nynorsk] ryttar {m}
+ridge {n} (chain of hills)	 :: rygg {m}, åsrygg {m}
+ridge {n} (chain of mountains)	 :: rygg {m}, åsrygg {m}
+ridge {n} (elevation on ocean bottom)	 :: rygg {m}
+ridge {n} (highest point on a roof)	 :: møne {n}
+ridiculous {adj} (foolish)	 :: latterlig
+rifle {n} (firearm with a rifled barrel)	 :: [Bokmål] rifle {m} {f}; [Nynorsk] rifle {f}
+rift {n} (shallow place in a stream) SEE: ford	 ::
+right {adj} (all right, not requiring assistance) SEE: all right	 ::
+right {adj} ( complying with justice, correct)	 :: riktig, rett
+right {adj} (of direction)	 :: høyre
+right {adj} (straight, not bent)	 :: rett
+right {n} (legal or moral entitlement)	 :: rett, rettighet
+right {n} (right, not left, side)	 :: høyre siden
+right angle {n} (angle of 90 degrees)	 :: rett vinkel {m}
+right-angled triangle {n} (right-angled triangle) SEE: right triangle	 ::
+right now {adv} (at this precise moment)	 :: akkurat nå; [Nynorsk] akkurat no
+right now {adv} (immediately) SEE: immediately	 ::
+right of way {n} (right to proceed first in traffic)	 :: forkjørsrett {m} {c}
+rigid {adj} (fixed)	 :: rigid
+rigid {adj} (rigorous, unbending)	 :: stiv
+rigid {adj} (stiff)	 :: rigid, stiv
+rigid {adj} (uncompromising)	 :: rigid
+rigidness {n} (rigidity) SEE: rigidity	 ::
+Riksmål {n} (a variety of Norwegian)	 :: [Bokmål] riksmål {n}; [Nynorsk] riksmål {n}
+rim {n} (edge around something)	 :: [Bokmål] kant {m}, rand {m} {f}; [Nynorsk] rand {f}, kant {m}
+rim {n} (wheel rim)	 :: [Bokmål] felg {m}; [Nynorsk] felg {m}
+rind {n} (hard outer layer of fruit, cheese)	 :: bark {m}, skorpe {c}, svor {m}
+ring {n} (burner) SEE: burner	 ::
+ring {n}	 :: klang {m}
+ring {n} (place where some sports take place)	 :: ring {m}
+ring {n} (round piece of (precious) metal worn around the finger)	 :: ring {m}
+ring {n} (typography: diacritical mark in the shape of a hollow circle) SEE: kroužek	 ::
+ring {v} (to make, produce sound)	 :: ringe
+ring {v} (to produce the sound of a bell or a similar sound)	 :: ringe
+ring {v} (to telephone someone)	 :: ringe, telefonere
+ring finger {n} (finger between the middle finger and little finger)	 :: ringfinger {m}
+ringmaster {n} (the person who manages the performers in a circus ring)	 :: [Bokmål] sirkusdirektør {m}
+ringneck dove {n} (Streptopelia risoria)	 :: latterdue {f} {m}
+ring spanner {n} (spanner with ring-shaped jaw)	 :: [Bokmål] ringnøkkel {m}
+ringtone {n} (sound made by a telephone when ringing)	 :: ringetone
+rinse {n} (hair dye)	 :: toning {m} {f}
+rinse {n} (the action of rinsing)	 :: rens {m}
+rinse {v} (to remove soap from something using water)	 :: skylle
+rinse {v} (to wash something quickly using water and no soap)	 :: rense
+rip {v} (to fart) SEE: fart	 ::
+rip {v} (to mock) SEE: mock	 ::
+riparian {adj} (of or pertaining to a riverbank)	 :: elverelatert
+ripe {adj} (intoxicated) SEE: intoxicated	 ::
+rip off {v} ((idiom) to charge an exorbitant or unfair rate)	 :: flå
+riptide {n} (rip current) SEE: rip current	 ::
+rise {n} (action of moving upwards)	 :: risa
+rise {n} (pay rise) SEE: pay rise	 ::
+rising star {n} (emerging talent)	 :: [Bokmål] stjerneskudd {n}
+risk {n} (likelihood of a negative outcome)	 :: [Bokmål] risiko {m}, risk {m}; [Nynorsk] risiko {m}, risk {m}
+risk {n} (possible, usually negative, outcome)	 :: [Bokmål] risiko {m}, risk {m}; [Nynorsk] risiko {m}, risk {m}
+risk {n} (potential (conventionally negative) impact of an event)	 :: [Bokmål] risiko {m}, risk {m}; [Nynorsk] risiko {m}, risk {m}
+risqué {adj} (bordering on the indelicate)	 :: [Bokmål] vovet, ekvivokk, dristig
+rite of passage {n} (ceremony to celebrate a transition)	 :: overgangsrite {m}
+river {n}	 :: elv, flod
+river {n} (large stream which drains a landmass)	 :: flod {m}, elv {m} {f}, å {m}
+river horse {n} (hippopotamus) SEE: hippopotamus	 ::
+Rōmaji {prop} (romaji) SEE: romaji	 ::
+roach {n} (Rutilus rutilus)	 :: [Bokmål] mort {m}
+roach {n} (US: cockroach) SEE: cockroach	 ::
+road {n} (a way for travel)	 :: vei {m}, veg {m}
+road game {n} (athletic contest played in the opposing team's turf) SEE: away game	 ::
+roadside thistle {n} (spear thistle) SEE: spear thistle	 ::
+roadside thistle {n} (tall thistle) SEE: tall thistle	 ::
+roadstead {n} (partly-sheltered anchorage outside a harbour)	 :: [Bokmål] red {m}; [Nynorsk] red {m}, rei {f}
+road train {n} (transport concept)	 :: [Bokmål] vogntog {n}; [Nynorsk] vogntog {n}
+roam {v} (wander freely)	 :: [Bokmål] virre rundt
+roar {n} (cry of the lion)	 :: brøl {n}
+roar {n} (long, loud, deep shout)	 :: brøl {n}
+roar {n} (sound of a motorbike or a similar engine)	 :: brøl {n}
+roar {v} (of animals)	 :: brøle
+roastbeef {n} (roast beef) SEE: roast beef	 ::
+robber {n} (one who robs)	 :: [Bokmål] raner {m}; [Nynorsk] ranar {m}
+robbery {n}	 :: ran {n}
+Robert {prop} (given name)	 :: Robert
+robin {n} (Erithacus rubecula)	 :: [Bokmål] rødstrupe; [Nynorsk] raudstrupe
+robin redbreast {n} (redbreast) SEE: redbreast	 ::
+robot {n} (intelligent mechanical being)	 :: robot
+robot {n} (machine to perform complex tasks)	 :: [Bokmål] robot {m}; [Nynorsk] robot {m}
+rock {n} (confectionary made from sugar)	 :: kandissukker {m}
+rock {n} (crystallized lump of crack cocaine)	 :: crack
+rock {n} (distaff) SEE: distaff	 ::
+rock {n} (distinctive composition of minerals)	 :: bergart {m}
+rock {n} (hill or island without vegetation)	 :: klippe {m}
+rock {n} (large stone or boulder)	 :: kampestein {m}
+rock {n} (lump of ice)	 :: isbit {m}
+rock {n} (mass of projecting rock)	 :: klippe {m}
+rock {n} (natural mineral aggregate)	 :: [Bokmål] stein {m}, berg {n}; [Nynorsk] stein {m}. berg {n}
+rock {n} (precious stone or gem)	 :: edelstein {m}
+rock {n} (something strong, stable, and dependable)	 :: klippe {m}
+rock {v} (cause to shake or sway violently)	 :: riste
+rock {v} (disturb the mental or emotional equilibrium)	 :: ryste, sjokkere
+rock {v} (move gently back and forth)	 :: gynge
+rock {v} (sway or tilt violently back and forth)	 :: gynge
+rock band {n} (rock group) SEE: rock group	 ::
+rock dove {n} (Columba livia)	 :: klippedue
+rocket {n} (a projectile firework)	 :: rakett {m}
+rocket {n} (a rocket engine)	 :: rakett {m}
+rocket {n} (a vehicle)	 :: rakett {m}
+rocket {n} (non-guided missile)	 :: rakett {m}
+Rockies {prop} (Rocky Mountains) SEE: Rocky Mountains	 ::
+rocking chair {n} (chair with a curved base which can be gently rocked)	 :: [Bokmål] gyngestol {m}; [Nynorsk] gyngestol {m}
+rocking horse {n} (a child’s toy consisting of a (usually wooden) horse mounted on a rocker or swing)	 :: [Bokmål] gyngehest {m}; [Nynorsk] gyngehest {m}
+rock maple {n} (sugar maple) SEE: sugar maple	 ::
+rock paper scissors {n} (popular child's game)	 :: stein saks papir
+Rocky Mountains {prop} (mountain range)	 :: Rocky Mountains
+rococo {adj} (in the rococo style)	 :: [Bokmål] rokokko-; [Nynorsk] rokokko-
+rococo {n} (style of baroque architecture etc.)	 :: [Bokmål] rokokko {m}; [Nynorsk] rokokko {m}
+rod {n} (hot rod) SEE: hot rod	 ::
+rod {n} (slang: pistol) SEE: pistol	 ::
+rode {n} (The line from the vessel to its anchor)	 :: red
+rodent {n} (mammal of the order Rodentia)	 :: [Bokmål] gnager {m}; [Nynorsk] gnagar {m}
+roe {n} (eggs of fish)	 :: [Bokmål] rogn {m} {f}; [Nynorsk] rogn {f}
+roe {n} (roe deer) SEE: roe deer	 ::
+roe deer {n} (small deer species, Capreolus capreolus)	 :: rådyr {n}
+roentgenium {n} (chemical element)	 :: roentgenium
+Roger {prop} (male given name)	 :: Roar, Roger
+role {n} (character or part)	 :: rolle {m}
+role {n} (the expected behavior of an individual in a society)	 :: rolle {m}
+role {n} (the function or position of something)	 :: rolle {m}
+roleplay {n} (roleplaying game) SEE: roleplaying game	 ::
+roleplaying game {n} (type of game in which the players assume the role of a character)	 :: rollespill {n}; [Nynorsk] rollespel {n}
+roll {v} (to be under the influence of MDMA (ecstasy).)	 :: knipse
+roller {n} (hair roller) SEE: hair roller	 ::
+roller {n} (slang: police) SEE: cop	 ::
+rollercoaster {n} (amusement ride)	 :: [Bokmål] berg-og-dal-bane {m}; [Nynorsk] berg-og-dal-bane {m} {f}
+roller skate {n} (a boot having small wheels)	 :: [Bokmål] rulleskøyte {m} {f}; [Nynorsk] rulleskøyte {f}, rulleskeise {f}
+rolling pin {n} (food preparation utensil)	 :: [Bokmål] kjevle {n}; [Nynorsk] kjevle {n}
+Rom {adj} (Romani) SEE: Romani	 ::
+Rom {n} (a member of the Romani people)	 :: [Bokmål] sigøyner {m}, sigøynerske {f}; [Nynorsk] sigøynar {m}, sigøynerske {f}
+Rom {prop} (language) SEE: Romani	 ::
+Roma {adj} (Romani) SEE: Romani	 ::
+Roma {n} (member of the Roma/Romani people) SEE: Romani	 ::
+Roma {prop} (the Romani macrolanguage) SEE: Romani	 ::
+Roma {prop} (the Romani people)	 :: Romafolket, Romanifolk
+Romaji {prop} (romaji) SEE: romaji	 ::
+Roman {adj} (of or from Rome)	 :: [Bokmål] romersk; [Nynorsk] romersk
+Roman {adj} (of or from the Roman Empire)	 :: [Bokmål] romersk; [Nynorsk] romersk
+Roman {n} (a native or inhabitant of the Roman Empire)	 :: [Bokmål] romer {m}; [Nynorsk] romar {m}
+Roman {n} (a native or resident of Rome)	 :: [Bokmål] romer {m}; [Nynorsk] romar {m}
+Roman alphabet {n} (Latin alphabet) SEE: Latin alphabet	 ::
+Romance language {n} (language descended from Latin)	 :: romanske språk {n}
+Roman Empire {prop} (empire)	 :: Romerriket
+Romani {n} (member of the Roma people) SEE: Rom	 ::
+Romani {prop} (nomadic people) SEE: Roma	 ::
+Romania {prop} (South-Eastern European country)	 :: Romania
+Romanian {adj} (of or relating to Romania, its people, or language)	 :: [Bokmål] rumensk; [Nynorsk] rumensk
+Romanian {n} (native of Romania)	 :: [Bokmål] rumener {m}; [Nynorsk] rumen {m}, rumenar {m}
+Romanian {prop} (official language of Romania)	 :: [Bokmål] rumensk {m}; [Nynorsk] rumensk {m}
+romanise {v} (romanize) SEE: romanize	 ::
+Roman numeral {n} (numeral represented by letters)	 :: [Bokmål] romertall {n}; [Nynorsk] romartal {n}
+Roman numerals {n} (plural of "Roman numeral") SEE: Roman numeral	 ::
+Romans {prop} (book of the Bible)	 :: Paulus' brev til romarane, Romarbrevet
+Romansch {prop} (the Romance language)	 :: retoromansk
+romantic {n} (person who is behaving romantically)	 :: [Bokmål] romantiker {m}; [Nynorsk] romantikar {m}
+romantic {n} (person with romantic character)	 :: [Bokmål] romantiker {m}; [Nynorsk] romantikar {m}
+romanticist {n} (advocate or follower of romanticism)	 :: [Bokmål] romantiker {m}; [Nynorsk] romantikar {m}
+Rome {prop} (city)	 :: Roma
+Romeo {n} (boyfriend) SEE: boyfriend	 ::
+Romeo {prop} (character in Romeo and Juliet)	 :: Romeo {m}
+Romeo and Juliet {prop} (the tragedy)	 :: Romeo og Julie
+Rome wasn't built in a day {proverb} (it takes a long time to create something complicated or impressive)	 :: Rom ble ikke bygget på en dag
+Ronald {prop} (male given name)	 :: Ronald
+rondel {n} (rondeau) SEE: rondeau	 ::
+roof {n} (the cover at the top of a building)	 :: tak {n}
+roofer {n} (craftsman who lays or repairs roofs)	 :: [Bokmål] taktekker {m}; [Nynorsk] taktekkar {m}
+roofie {n} (slang for flunitrazepam)	 :: hypper {m}
+rook {n} (bird)	 :: kornkråke
+rook {n} (chesspiece)	 :: [Bokmål] tårn {n}; [Nynorsk] tårn {n}
+rookie {adj} (amateur) SEE: amateur	 ::
+room {n} (division in a building)	 :: rom {n}, værelse {n}
+room {n} (space)	 :: rom {n}, plass {m}
+roommate {n} (a person with whom one shares a room)	 :: romkamerat {m}
+rooster {n} (male domestic fowl)	 :: hane {m}
+root {n} (arithmetic: square root) SEE: square root	 ::
+root {n} (of a tooth)	 :: [Bokmål] rot {m} {f}; [Nynorsk] rot {f}
+root {n} (part of a hair under the skin)	 :: [Bokmål] rot {m} {f}; [Nynorsk] rot {f}
+root {n} (part of a plant)	 :: [Bokmål] rot {m} {f}; [Nynorsk] rot {f}
+root {n} (primary source)	 :: [Bokmål] rot {m} {f}; [Nynorsk] rot {f}
+root {n} (root vegetable) SEE: root vegetable	 ::
+root vole {n} (tundra vole) SEE: tundra vole	 ::
+rope {n} (thick, strong string)	 :: tau {n}
+ropeway {n} (cableway) SEE: cableway	 ::
+rorqual {n} (whale with long skin folds below mouth)	 :: finnhval {m}
+rory {adj} (dewy) SEE: dewy	 ::
+Rosa {prop} (female given name) SEE: Rose	 ::
+rosary {n} (Catholic prayer beads)	 :: rosenkrans
+rose {n} (colour)	 :: [Bokmål] rosa; [Nynorsk] rosa
+rose {n} (flower)	 :: [Bokmål] rose {m} {f}; [Nynorsk] rose {f}
+rose {n} (shrub)	 :: [Bokmål] rose {m} {f}; [Nynorsk] rose {f}
+rosebay rhododendron {n} (great laurel) SEE: great laurel	 ::
+rosehip {n} (the fruit of a rose plant)	 :: nype
+rosemary {n} (Rosmarinus officianalis)	 :: [Bokmål] rosmarin {m}; [Nynorsk] rosmarin {m}
+Rosetta Stone {prop} (large inscribed stone)	 :: [Bokmål] Rosettastenen; [Nynorsk] Rosettasteinen
+rosette {n} (architectural ornament)	 :: rosett {m}
+rosette {n} (ornamental imitation of a rose)	 :: rosett {m}
+rosette {n} (rose burner) SEE: rose burner	 ::
+rosin {n} (liquid resin) SEE: resin	 ::
+roster {n} (schedule) SEE: schedule	 ::
+Rostov {prop} (Rostov-na-Donu) SEE: Rostov-na-Donu	 ::
+Rostov-on-Don {prop} (synonym of Rostov-na-Donu) SEE: Rostov-na-Donu	 ::
+rotary {n} (traffic circle) SEE: traffic circle	 ::
+rotate {v} (to advance through a sequence; to take turns)	 :: [Bokmål] rotere; [Nynorsk] rotere
+rotate {v} (to spin, turn, or revolve)	 :: [Bokmål] rotere; [Nynorsk] rotere
+rotor {n} (a rotating part of a mechanical device)	 :: rotor {m}
+rotula {n} (kneecap) SEE: kneecap	 ::
+rouge {n} (blush) SEE: blush	 ::
+rough-legged buzzard {n} (Buteo lagopus)	 :: fjellvåk {c}; [Nynorsk] fjellvåk {m}
+roughly {adv} (approximately) SEE: approximately	 ::
+roughy {n} (orange roughy) SEE: orange roughy	 ::
+roulette {n} (game of chance)	 :: [Bokmål] rulett {m}; [Nynorsk] rulett {m}
+roulette wheel {n} (wheel used in the game of roulette)	 :: [Bokmål] ruletthjul {n}; [Nynorsk] ruletthjul {n}
+round {adj} (circular or cylindrical)	 :: rund
+round {adj} (spherical)	 :: rund
+round {adv} (around) SEE: around	 ::
+round {prep} (around) SEE: around	 ::
+roundabout {n} (road junction at which traffic streams circularly around a central island)	 :: [Bokmål] rundkjøring {m} {f}; [Nynorsk] rundkøyring {f}
+roundpole fence {n} (fence)	 :: skigard
+round the clock {adv} (24 hours per day) SEE: around the clock	 ::
+round up {v} ( to collect or gather (something) together)	 :: samle
+roundworm {n} (animal of the phylum Nematoida)	 :: [Bokmål] rundorm {m}; [Nynorsk] rundorm {m}, rundmakk {m}
+route {n} (course or way traveled)	 :: rute {m} {f}
+route {n}	 :: rute {m} {f}
+router {n} (a device that connects local area networks to form a larger internet)	 :: [Bokmål] ruter {m}
+Rovno {prop} (Rivne) SEE: Rivne	 ::
+rowan {n} (Sorbus aucuparia)	 :: [Bokmål] rogn {m} {f}; [Nynorsk] rogn {m} {f}, raun {m}
+rowboat {n} (small boat that is rowed)	 :: robåt {m}
+row house {n} (rowhouse) SEE: rowhouse	 ::
+rowing boat {n} (rowboat) SEE: rowboat	 ::
+Roxana {prop} (the wife of Alexander the Great)	 :: Roxana
+Roxanne {prop} (female given name) SEE: Roxana	 ::
+royal {adj} (majestic) SEE: majestic	 ::
+royal {adj} (of or relating to a monarch or their family)	 :: [Bokmål] kongelig; [Nynorsk] kongeleg
+royal {n} (of mast and sail)	 :: [Bokmål] røyl {m}
+royal family {n} (family of ruling sovereign)	 :: kongefamilie {m}
+Royal Navy {prop} (British navy)	 :: Den kongelige marine
+Roy G. Biv {prop} (mnemonic)	 :: roggbif
+résumé {n} (CV) SEE: curriculum vitae	 ::
+résumé {n} (summary)	 :: [Bokmål] resymé {n}; [Nynorsk] resymé {n}
+rubber {n} (condom)	 :: gummi {m}, kondom {m}
+rubber {n} (eraser)	 :: viskelær {n}
+rubber {n} (pliable material derived from the sap of the rubber tree)	 :: [Bokmål] gummi {m}; [Nynorsk] gummi {m}
+rubber {n} (synthetic materials with the same properties)	 :: kunstgummi {m}
+rubber {n} (tires)	 :: dekk {n}, bilgummi {m}
+rubber {n} (water resistant shoe covers)	 :: kalosj {m}
+rubber band {n} (elastic band) SEE: elastic band	 ::
+rubber duck {n} (toy shaped like a duck)	 :: badeand {m} {f}
+rubberneck {n} (tourist) SEE: tourist	 ::
+rubber stamp {n} (piece of rubber to make an imprint)	 :: stempel
+rubbish {n} (garbage, junk, refuse, waste)	 :: avfall {n}, søppel {n}, boss {n}
+rubbish bin {n} (garbage can) SEE: garbage can	 ::
+rubbish in, rubbish out {proverb} (garbage in, garbage out) SEE: garbage in, garbage out	 ::
+rubeola {n} (measles) SEE: measles	 ::
+rubidium {n} (element with atomic number 37)	 :: rubidium
+ruble {n} (Russian monetary unit)	 :: [Bokmål] rubel
+rub salt in the wound {v} (to make an injury feel worse)	 :: strø salt i såret
+rucksack {n} (a bag carried on the back )	 :: ryggsekk
+rudder {n} (control surface of an aircraft)	 :: ror {n}, haleror {n}, sideror {n}
+rudder {n} (underwater vane used to steer a vessel)	 :: ror {n}
+rudderless {adj} (without a rudder, unsteerable, without guidance)	 :: uten ror
+rude {adj} (bad-mannered)	 :: ubehøvlet, grov, stygg, uforskammet
+rude {adj} (obscene, pornographic, offensive)	 :: grov
+rude {adj} (tough, robust)	 :: grov
+rude {adj} (undeveloped, unskilled, basic)	 :: rå
+Rudolph {prop} (male given name)	 :: Rudolf
+rue {n} (any of various perennial shrubs)	 :: vinrute
+ruff {n} (fish of the genus Gymnocephalus) SEE: ruffe	 ::
+ruff {v} (play a trump card) SEE: trump	 ::
+Ruhnu {prop} (island in the middle of the Gulf of Riga)	 :: Ruhnu
+ruin {n} (the state of being a ruin, destroyed or decayed)	 :: ruin {m}
+rule {n} (regulation)	 :: [Bokmål] regel {m}; [Nynorsk] regel {m}
+rule {n} (straight-edge) SEE: ruler	 ::
+rule {v} (to regulate, be in charge of, make decisions for, reign over)	 :: [Bokmål] styre, regjere; [Nynorsk] styre, regjere
+ruler {n} (measuring or drawing device)	 :: [Bokmål] linjal {m}; [Nynorsk] linjal {m}
+ruler {n} (person who rules or governs)	 :: [Bokmål] hersker {m}, makthaver {m}; [Nynorsk] herskar {m}, makthavar {m}
+rules are made to be broken {proverb} (it is acceptable to break rules)	 :: regler er til for å brytes
+rum {n} (distilled spirit)	 :: [Bokmål] rom {m}; [Nynorsk] rom {m}
+rumba {n} (dance)	 :: rumba
+rumble {n} (low, heavy, continuous sound)	 :: rumling {c}
+rumble {v} (to make a low pitched noise)	 :: rumle
+ruminant {adj} (chewing cud)	 :: drøvtyggende
+ruminant {n} (artiodactyl ungulate mammal which chews cud)	 :: drøvtygger {m}
+ruminate {v} (to chew cud)	 :: drøvtygge, tygge drøv
+ruminate {v} (to meditate)	 :: tygge på
+rummage {v} (to hastily search for)	 :: grovsøke
+rummage {v} (to search something thoroughly and with disregard)	 :: endevende
+rummage {v} (to search something which contains many items)	 :: gjennomsøke
+rumor has it {phrase} (rumour has it) SEE: rumour has it	 ::
+rump {n} (the buttocks)	 :: rumpe {f}
+rumpus {n} (noise and confusion)	 :: rumpus
+run {n} (creek)	 :: Løpe
+run {v} (of a machine, to be operating normally)	 :: gå
+run {v} (to move quickly on two feet)	 :: løpe, springe
+run {v} (to smuggle illegal goods) SEE: smuggle	 ::
+run amok {v} (run amok)	 :: gå amok
+rundown {adj} (run-down) SEE: run-down	 ::
+rune {n} (a letter or character)	 :: rune {f}
+runestone {n} (stone with a runic inscription)	 :: [Bokmål] runestein {m}, runesten {m}; [Nynorsk] runestein {m}
+runner {n} (botany: long stolon)	 :: [Bokmål] utløper {m}; [Nynorsk] utlaupar {m}, utløpar {m}, utløypar {m}
+runner {n} (long, narrow carpet for a high traffic area)	 :: [Bokmål] løper {m}, matte {c}; [Nynorsk] laupar {m}, løpar {m}, løypar {m}, matte {f}
+runner {n} (mechanical part intended for wheels to run on or to slide against another surface)	 :: [Bokmål] løper {m}; [Nynorsk] laupar {m}, løpar {m}, løypar {m}
+runner {n} (somebody who runs, who moves at a fast pace)	 :: [Bokmål] løper {m}; [Nynorsk] laupar {m}, løpar {m}, løypar {m}, springar {m}
+runner {n} (strip of fabric used to decorate a table)	 :: [Bokmål] løper {m}; [Nynorsk] laupar {m}, løpar {m}, løypar {m}
+runner-up {n} (the person who finishes second)	 :: toer {m}
+running dog {n} (lackey) SEE: lackey	 ::
+running text {n} (body of text)	 :: brødtekst
+run of luck {n} (winning streak) SEE: winning streak	 ::
+rush {n} (onslaught) SEE: onslaught	 ::
+rush {n} (plant)	 :: [Bokmål] siv {n}; [Nynorsk] sev {n}, siv {n}
+rush hour {n} (times of day when traffic jams are commonplace, principally due to commuting)	 :: [Bokmål] rushtid
+Russenorsk {prop} (language)	 :: russenorsk, russonorsk
+Russia {prop} (country in Asia and Europe)	 :: Russland
+Russian {adj} (of or pertaining to Russia)	 :: [Bokmål] russisk; [Nynorsk] russisk
+Russian {n} (a person from Russia)	 :: [Bokmål] russer {m}; [Nynorsk] russar {m}
+Russian {prop} (the Russian language)	 :: [Bokmål] russisk; [Nynorsk] russisk
+Russian doll {n} (wooden doll)	 :: matrjosjka
+Russian Federation {prop} (Russia)	 :: Den russiske føderasjon, Den russiske føderasjonen
+Russian roulette {prop} (deadly game with revolver and random spinning)	 :: [Bokmål] russisk rulett {m}; [Nynorsk] russisk rulett {m}
+rust {n} (colour)	 :: [Bokmål] rustrød; [Nynorsk] rustraud
+rust {n} (plant disease)	 :: [Bokmål] rust {m} {f}; [Nynorsk] rust {f}
+rust {n} (result of oxidation)	 :: [Bokmål] rust {m} {f}; [Nynorsk] rust {f}
+rust {v} (to oxidise)	 :: ruste
+rusty {adj} (affected by rust)	 :: [Bokmål] rusten; [Nynorsk] rusten, rusta
+rusty {adj} (lacking recent experience, out of practice)	 :: [Bokmål] rusten; [Nynorsk] rusten
+rutabaga {n} (edible root)	 :: kålrot
+Ruth {prop} (book of the Bible)	 :: Rut
+Ruth {prop} (female given name)	 :: Ruth, Rut
+ruthenium {n} (chemical element)	 :: ruthenium
+rutherfordium {n} (chemical element)	 :: rutherfordium
+ruthless {adj} (without pity or compassion)	 :: hensynsløs, ubarmhjertig
+Ruy Lopez {n} (a common chess opening)	 :: spansk åpning {m}
+Rwanda {prop} (Rwandese Republic)	 :: Rwanda
+Rwandan {adj} (Of, from, or pertaining to Rwanda, the Rwandan people or language)	 :: [Bokmål] rwandisk; [Nynorsk] rwandisk
+Rwandan {n} (A person from Rwanda or of Rwandan descent)	 :: [Bokmål] rwander {m}; [Nynorsk] rwandar {m}, rwandar {m}
+rye {n} (carraway) SEE: carraway	 ::
+rye {n} (rye bread) SEE: rye bread	 ::
+rye {n} (ryegrass) SEE: ryegrass	 ::
+rye {n} (rye whisky) SEE: rye whisky	 ::
+rye {n} (the grass Secale cereale or its grains as food)	 :: [Bokmål] rug {m}; [Nynorsk] rug {m}
+rye bread {n} (type of bread)	 :: [Bokmål] rugbrød {n}; [Nynorsk] rugbrød {n}
+Ryūkyū {prop} (Ryukyu) SEE: Ryukyu	 ::
+Rzeczpospolita {prop} (Poland) SEE: Poland	 ::
+Rzeczpospolita {prop} (Republic of Poland) SEE: Republic of Poland	 ::

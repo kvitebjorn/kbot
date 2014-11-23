@@ -1,0 +1,835 @@
+﻿gabardine {n} (gaberdine (garment)) SEE: gaberdine	 ::
+gable {n} (triangular area of wall)	 :: gavl {m}
+Gabon {prop} (Gabonese Republic)	 :: Gabon
+Gabonese {adj} (Of, from, or pertaining to Gabon or the Gabonese people)	 :: [Bokmål] gabonsk; [Nynorsk] gabonsk
+Gabonese {n} (A person from Gabon or of Gabonese descent)	 :: [Bokmål] gaboner {m}; [Nynorsk] gabonar {m}
+Gabriel {prop} (archangel)	 :: Gabriel
+Gabriel {prop} (male given name)	 :: Gabriel
+gadfly {n} (fly of the family Oestridae) SEE: botfly	 ::
+gadfly {n} (fly of the family Tabanidae) SEE: horsefly	 ::
+gadgie {n} (a watchman) SEE: watchman	 ::
+gadolinium {n} (chemical element)	 :: gadolinium
+Gaea {prop} (earth goddess)	 :: Gaia {f}; [Nynorsk] Gaia {f}
+Gaelic {prop} (Goidelic)	 :: gælisk
+Gaelic {prop} (Scottish Gaelic) SEE: Scottish Gaelic	 ::
+gaffe {n} (a foolish error, especially one made in public)	 :: brøler {m}
+gaga {adj} (crazy)	 :: gal
+Gagauzia {prop} (Autonomous region)	 :: Gagauzia
+gage {v} (gauge) SEE: gauge	 ::
+gage {v} (to measure) SEE: gauge	 ::
+gaggle {v} (cackle) SEE: cackle	 ::
+gai-lan {n} (kailan) SEE: kailan	 ::
+gailan {n} (kailan) SEE: kailan	 ::
+gain {n} (factor by which signal is multiplied)	 :: forsterkning {m} {f}
+gain {n}	 :: vinning {m} , gevinst {m}
+gain {n} (what one gains (profit))	 :: utbytte {n}
+gainsay {v} (to deny; to contradict)	 :: motsi
+gait {n} (manner of walking)	 :: ganglag {n}; [Bokmål] gange {c}
+gala {adj} (festive)	 :: galla {m}
+galactorrhœa {n} (galactorrhea) SEE: galactorrhea	 ::
+galactorrhoea {n} (galactorrhea) SEE: galactorrhea	 ::
+galactose {n} (the monosaccharide)	 :: galaktose
+galah {n} (fool) SEE: fool	 ::
+Galatic {adj} (Galatian) SEE: Galatian	 ::
+galaxy {n} (collection of billions of stars, galactic dust, black holes, etc)	 :: galakse {m}
+galaxy {n} (the Milky Way) SEE: Milky Way	 ::
+gale {n} (meteorology: a very strong wind)	 :: kuling
+gale {n} (Myrica gale)	 :: pors
+gall bladder {n} (pear-shaped organ that stores bile)	 :: [Bokmål] galleblære {m} {f}; [Nynorsk] gallblære {f}, galleblære {f}
+Gallegan {prop} (the Galician language) SEE: Galician	 ::
+galleon {n} (large sailing ship)	 :: gallion
+galley {n} (ship propelled primarily by oars)	 :: galei
+gallfly {n} (gall wasp) SEE: gall wasp	 ::
+galligaskins {n} (shalwar) SEE: shalwar	 ::
+gallium {n} (chemical element)	 :: gallium
+gallop {n} (fastest gait of a horse)	 :: galopp
+gallop {v} (to ride at a galloping pace)	 :: galoppere
+gallows {n} (wooden framework on which persons are put to death by hanging)	 :: galge {m}
+gallows humor {n} (comedy that still manages to be funny in the face of a perfectly hopeless situation)	 :: [Bokmål] galgenhumor {m}; [Nynorsk] galgenhumor {m}
+galvanise {v} (galvanise) SEE: galvanize	 ::
+galvanized {v} (galvanized) SEE: galvanised	 ::
+Gambia {prop} (The Republic of The Gambia)	 :: Gambia
+Gambian {adj} (of Gambia)	 :: [Bokmål] gambisk; [Nynorsk] gambisk
+Gambian {n} (person from Gambia)	 :: [Bokmål] gambier {m}; [Nynorsk] gambiar {m}
+game {adj} (willing to participate)	 :: med
+game {n} (playful activity, amusement, pastime)	 :: spill (a game with a winner), lek (a game without a winner)
+game {v} (to gamble) SEE: gamble	 ::
+game console {n} (video game console) SEE: video game console	 ::
+gameness {n} (courage) SEE: courage	 ::
+game over {phrase} (message that appears on the screen of a computer or video game when all of the player's lives have been lost)	 :: game over
+gamete {n} (reproductive cell)	 :: [Bokmål] kjønnscelle; [Nynorsk] kjønnscelle
+game theory {n} (mathematical study of strategic situations)	 :: spillteori; [Nynorsk] spelteori
+gamma radiation {n} (type of radiation)	 :: [Bokmål] gammastråling {m} {f}; [Nynorsk] gammastråling {f}
+gamma ray {n} (very high frequency electromagnetic radiation)	 :: [Bokmål] gammastråle {m}; [Nynorsk] gammastråle {m}
+gamut {n} (all the colours available to a device)	 :: palett {m}
+Ganda {prop} (Luganda) SEE: Luganda	 ::
+gander {n} (a male goose)	 :: [Bokmål] gasse {m}, hanngås {m} {f}, gåsestegg {m}; [Nynorsk] gasse {m}, hanngås {f}, gåsestegg {m}
+gang bang {n} (gang rape) SEE: gang rape	 ::
+gang bang {n} (orgy) SEE: orgy	 ::
+Ganges {prop} (the sacred river)	 :: Ganges
+gangly {adj} (tall and thin, especially so as to cause physical awkwardness)	 :: hengslete
+gangrene {n} (the necrosis or rotting of flesh)	 :: [Bokmål] koldbrann {m}, gangren {m} {n}; [Nynorsk] kaldbrann {m}, gangren {m} {n}
+gangway {n} (aisle) SEE: aisle	 ::
+gannet {n} (glutton) SEE: glutton	 ::
+gantry {n} (astronautics) SEE: gantry scaffold	 ::
+gaol {v} (imprison, jail) SEE: imprison, jail	 ::
+Gaoxiong {prop} (Kaohsiung) SEE: Kaohsiung	 ::
+gap {n} (hiatus) SEE: hiatus	 ::
+gap {n} (opening made by breaking or parting)	 :: [Bokmål] luke {m} {f}, åpning {m} {f}, mellomrom {n}, lomme {m} {f}, tomrom {n}, gap {n}, spalte {m} {f}
+garage {n} (gas station) SEE: gas station	 ::
+garage {n} (place to store a car, etc.)	 :: [Bokmål] garasje {m}; [Nynorsk] garasje {m}
+garbage {n} (waste material)	 :: avfall {n}, søppel {n}, boss {n}
+garbage can {n} (a receptacle, which serves as a place to discard waste materials.)	 :: søppelbøtte
+garbage man {n} (garbage collector) SEE: garbage collector	 ::
+garden {n} (gardens with public access)	 :: park {m}
+garden {n} (grounds at the front or back of a house)	 :: hage {m}, tomt {m}
+garden {n} (piece of land outside with flowers and plants)	 :: hage {m}, have {m}
+gardener {n} (one who gardens)	 :: gartner
+Garden of Eden {prop} (the place where Adam and Eve first lived, described in the book of Genesis)	 :: [Bokmål] Edens hage; [Nynorsk] Edens hage, hagen i Eden
+garlic {n} (plant)	 :: [Bokmål] hvitløk {m}; [Nynorsk] kvitlauk {m}
+garlic mustard {n} (Alliaria petiolata)	 :: løkurt
+garment {n} (single item of clothing)	 :: plagg {n}, klesplagg {n}
+garçonnière {n} (bachelor pad) SEE: bachelor pad	 ::
+garter {n} (band around leg)	 :: hosebånd {c} (archaic), strømpebånd {c}
+garter belt {n} (suspender belt) SEE: suspender belt	 ::
+gas bladder {n} (internal organ) SEE: swim bladder	 ::
+gas chamber {n} (a sealed chamber in which people are executed with gas)	 :: gasskammer
+gaseous {adj} (relating to, or existing as, gas)	 :: [Bokmål] gassformig; [Nynorsk] gassformig
+gash {n} (vulva) SEE: vulva	 ::
+gasket {n} (mechanical seal)	 :: pakning {m}
+gaskin {n} (trousers) SEE: trousers	 ::
+gasoline {n} (motor fuel)	 :: bensin {m}
+gasp {n} (A draw or drag on a cigarette (or gasper))	 :: drag {n}; [Bokmål] trekk {n}
+gasp {n} (A short, sudden intake of breath)	 :: gisp {n}
+gasp {v} (to breathe laboriously or convulsively)	 :: pese
+gasp {v} (to draw in the breath suddenly)	 :: gispe
+gas pedal {n} (accelerator) SEE: accelerator	 ::
+gas station {n} (a place which sells gasoline to pump directly into a car)	 :: bensinstasjon
+gastric cancer {n} (cancer of the stomach) SEE: stomach cancer	 ::
+gastritis {n} (inflammation of the lining of the stomach)	 :: gastritt
+gastrointestinal tract {n} (digestive tract) SEE: digestive tract	 ::
+gastronome {n} (gourmet) SEE: gourmet	 ::
+gate {n} (door-like structure outside)	 :: port {m}
+gate {n} (doorway, opening, or passage in a fence or wall)	 :: port {m}
+gather {v} (to bring together; to collect)	 :: [Bokmål] samle; [Nynorsk] samle
+gathering {n} (get-together, social function)	 :: [Bokmål] sammenkomst {m}
+Gatling gun {n} (a type of machine gun)	 :: gatlingvåpen
+gauge {n} (a measure; a standard of measure; an instrument to determine dimensions, distance, or capacity; a standard)	 :: [Bokmål] mål {n}; [Nynorsk] mål {n}
+gauge {n} (any instrument for ascertaining or regulating the level, state, dimensions or forms of things; as, a rain gauge; a steam gauge)	 :: [Bokmål] måler {m}; [Nynorsk] målar {m}
+gauge {n} (distance between the rails of a railway)	 :: [Bokmål] sporvidde {m} {f}, sporbredde {m}; [Nynorsk] sporvidd {f}, sporvidde {f}, sporbreidd {f}, sporbreidde {f}
+Gaul {n} (person)	 :: [Bokmål] galler; [Nynorsk] gallar
+Gaul {prop} (region)	 :: Gallia
+Gaulish {adj} (of or pertaining to Gaul)	 :: gallisk
+gauze {n} (cotton fabric used as surgical dressing)	 :: gasbind {n}
+gawp {v} (gawk) SEE: gawk	 ::
+gay {adj} (behaving in a way associated with females)	 :: femi
+gay {adj} (festive, bright, colorful)	 :: morsom, festlig, fargerik
+gay {adj} (happy, joyful and lively)	 :: festlig, glad, livlig
+gay {adj} (homosexual, see also: lesbian)	 :: homoseksuell, homo, homse, soper, [slang] bøg {m}
+gay {adj} (sexually promiscuous) SEE: promiscuous	 ::
+gay {adj} (typical of homosexual appearance)	 :: homo, homsete
+gay {n} (homosexual person, especially male, see also: lesbian)	 :: [Bokmål] homo, gay
+gay bar {n} (tavern or similar nightclub whose primary clientele is homosexuals)	 :: homsebar {m}
+gay marriage {n} (marriage between two people of the same sex)	 :: likekjønnet ekteskap {n}, samkjønnet ekteskap {n}, homofilt ekteskap {n}
+Gaza {prop} (Gaza Strip) SEE: Gaza Strip	 ::
+Gaza Strip {prop} (Gaza Strip)	 :: Gazastripen {m}
+gazehound {n} (sighthound) SEE: sighthound	 ::
+gear {n} (a particular combination or choice of interlocking gears)	 :: [Bokmål] gir {n}; [Nynorsk] gir {n}
+gear {n} (a wheel with grooves)	 :: [Bokmål] tannhjul {n}; [Nynorsk] tannhjul {n}
+gear {n} (equipment or paraphernalia)	 :: [Bokmål] utstyr {n}; [Nynorsk] utstyr {n}
+gear {n} (motor car transmission)	 :: [Bokmål] gir {n}; [Nynorsk] gir {n}
+gearbox {n} (train of gears)	 :: girkasse {m} {f}
+gear stick {n} (gear lever) SEE: gear lever	 ::
+gearstick {n} (gear lever) SEE: gear lever	 ::
+geek {n} (Australian: look) SEE: look	 ::
+gee up {interj} (direction to a horse) SEE: giddyup	 ::
+geez {interj} (An exclamation denoting surprise or frustration)	 :: i jesu navn
+Gehenna {prop} (one of various hells in Abrahamic religions)	 :: Gehenna
+geisha ball {n} (Ben Wa ball) SEE: Ben Wa ball	 ::
+geld {n} (compensation) SEE: compensation	 ::
+geld {n} (money) SEE: money	 ::
+geld {n} (ransom) SEE: ransom	 ::
+geld {n} (tribute) SEE: tribute	 ::
+geld {v} (castrate) SEE: castrate	 ::
+gelding {n} (eunuch) SEE: eunuch	 ::
+gem {n} (obsolete: gemma) SEE: gemma	 ::
+Gemini {n} (Someone with a Gemini star sign)	 :: tvilling
+Gemini {prop} (astrological sign)	 :: [Bokmål] Tvillingene {m-p}; [Nynorsk] Tvilligane {m-p}
+Gemini {prop} (constellation)	 :: [Bokmål] Tvillingene {m-p}; [Nynorsk] Tvilligane {m-p}
+Gemütlichkeit {n} (coziness)	 :: hyggelig
+gendarme {n} (member of the gendarmerie)	 :: Konstabel
+gendarmerie {n} (military body charged with police duties)	 :: gendarmeri
+gender {n} (biological sex of persons or animals)	 :: kjønn {n}
+gender {n} (grammar: division of nouns and pronouns)	 :: kjønn {n}
+gender {v} (engender) SEE: engender	 ::
+genealogist {n} (practitioner of genealogy)	 :: genealog {m}, ættegransker {m}
+general {adj} (involving every part or member, not specific or particular)	 :: allmenn, generell
+general {adj} (not limited in application; applicable to a whole class or category)	 :: generell
+general {adj} (widespread, common)	 :: allminnelig, vanlig
+general {n}	 :: general
+general {n} (military rank)	 :: [Bokmål] general {m}; [Nynorsk] general {m}
+general knowledge {n} (wide body of information that a person acquires from education and from life)	 :: allmenndannelse {m}
+generation {n} (period of around thirty years)	 :: [Bokmål] generasjon {m}; [Nynorsk] generasjon {m}
+generator {n} (apparatus: electrical generator)	 :: generator {m}
+generic {adj} (not having a brand name)	 :: merkelo/s, generisk
+generic {adj} (of, or relating to a genus)	 :: generisk
+generic {adj} (specifying neither masculine nor feminine e.g. salesperson)	 :: kjo/nnsno/ytral
+generic {adj} (very comprehensive)	 :: generisk
+genetic engineering {n} (genetic modification) SEE: genetic modification	 ::
+Geneva Convention {prop} (international treaty)	 :: Genève-konvensjonene
+genitality {n} (genitality)	 :: genitalitet {m}
+genitals {n} (genitalia) SEE: genitalia	 ::
+genitive {n} (inflection pattern)	 :: genitiv {m}
+genitive case {n} (genitive) SEE: genitive	 ::
+genocide {n} (systematic killing of substantial numbers of people)	 :: folkemord
+gentile {adj}	 :: fornem
+gentleman {n} (toilets intended for use by men)	 :: herrer {m-p}, herretoalett {n}
+gentoo penguin {n} (penguin)	 :: bøylepingvin
+gentrification {n} (process of renewal and influx of higher class people)	 :: [Bokmål] gentrifisering {m} {f}; [Nynorsk] gentrifisering {f}
+genuine {adj} (real, authentic)	 :: ekte, genuin
+genu varum {n} (bowleg) SEE: bowleg	 ::
+geochemistry {n} (branch of chemistry)	 :: [Bokmål] geokjemi {m}; [Nynorsk] geokjemi {m}
+geodesy {n} (scientific discipline)	 :: [Bokmål] geodesi {m}; [Nynorsk] geodesi {m}
+geographical {adj} (geographic) SEE: geographic	 ::
+geographic information system {n} (an electronic system)	 :: GIS
+geography {n} (study of physical structure and inhabitants of the Earth)	 :: [Bokmål] geografi {m}; [Nynorsk] geografi {m}
+geological {adj} (geologic) SEE: geologic	 ::
+geologist {n} (person skilled at geology)	 :: [Bokmål] geolog {m}; [Nynorsk] geolog {m}
+geomancy {n} (type of divination)	 :: geomantikk {m}
+geometer moth {n} (geometer moth) SEE: geometrid moth	 ::
+geometrical {adj} (geometric) SEE: geometric	 ::
+geometrid {n} (geometrid moth) SEE: geometrid moth	 ::
+geometrid moth {n} (moth)	 :: [Bokmål] måler {m}; [Nynorsk] målar {m}
+geometry {n} (branch of mathematics)	 :: geometri {f}
+geomorphology {n} (the study of landforms)	 :: geomorfologi {m}
+geophysics {n} (branch of earth science)	 :: [Bokmål] geofysikk {m}; [Nynorsk] geofysikk {m}
+George {prop} (male given name)	 :: Georg, Jørgen
+Georgia {prop} (country)	 :: Georgia
+Georgia {prop} (state of the USA)	 :: Georgia
+Georgian {n} (person from the country of Georgia)	 :: [Bokmål] georgier {m}, grusier {m}; [Nynorsk] georgiar {m}, grusiar {m}
+Georgian {prop} (language of the country Georgia)	 :: [Bokmål] georgisk {m}, grusisk {m}; [Nynorsk] georgisk {m}, grusisk {m}
+ger {n} (yurt) SEE: yurt	 ::
+German {adj} (of or relating to the country of Germany)	 :: [Bokmål] tysk; [Nynorsk] tysk
+German {adj} (of or relating to the German people)	 :: [Bokmål] germansk; [Nynorsk] germansk
+German {n} (member of a Germanic tribe)	 :: [Bokmål] germaner {m}; [Nynorsk] germanar {m}
+German {n} (member of the Germanic ethnic group)	 :: [Bokmål] tysker {m}; [Nynorsk] tyskar {m}
+German {n} (native or inhabitant of Germany; person of German citizenship or nationality)	 :: [Bokmål] tysker {m}; [Nynorsk] tyskar {m}
+German {prop} (the German language)	 :: [Bokmål] tysk {m}; [Nynorsk] tysk {m}
+German Autumn {prop} (set of events in late 1977)	 :: Den tyske høsten
+German Empire {prop} (Germany between 1871 and 1918)	 :: Tyske rike
+Germanic {adj} (having German characteristics)	 :: tysk
+Germanic {adj} (relating to the Germanic peoples)	 :: germansk
+Germanic {adj} (relating to the language or group of languages known as Germanic)	 :: germansk
+germanium {n} (chemical element)	 :: germanium
+germanium tetrahydride {n} (germane) SEE: germane	 ::
+German measles {n} (the disease rubella) SEE: rubella	 ::
+germanomethane {n} (germane) SEE: germane	 ::
+germanophilia {n} (the love of the country, culture or people of Germany)	 :: germanofili {f}
+German Shepherd {n} (Medium sized breed of dog)	 :: schäferhund {m}
+Germany {prop} (country in Central Europe)	 :: Tyskland, Føderale Republikken Tyskland
+germ warfare {n} (the use of harmful organisms as a weapon) SEE: biological warfare	 ::
+Gertrude {prop} (female given name)	 :: Gjertrud
+gerund {n} (verb form functioning as an adverb)	 :: gerundium {n}
+gerund {n} (verb form functioning as a verbal noun)	 :: gerundium {n}
+gerundive {n} (Latin verbal adjective that describes obligation or necessity)	 :: gerundiv
+gestalt {n} (collection of entities that creates a unified concept)	 :: [psychology] gestalt {m}
+gestation {n} (period of time a fetus develops inside mother's body)	 :: svangerskap {n}, graviditet {m}; [Bokmål] drektighet {m} {f} [animals only]
+gestation sac {n} (gestational sac) SEE: gestational sac	 ::
+gesture {n} (act or remark)	 :: [Bokmål] gest {m}; [Nynorsk] gest {m}
+gesture {n} (motion of the limbs or body)	 :: [Bokmål] gest {m}; [Nynorsk] gest {m}
+gesundheit {interj} (said to someone who has just sneezed)	 :: prosit
+get {v} (become)	 :: bli
+get {v} (colloquial: be)	 :: bli
+get {v} (colloquial: understand)	 :: forstå, fatte
+get {v} (obtain)	 :: få tak i, oppnå
+get {v} (receive)	 :: få, motta
+get a move on {v} (hurry up) SEE: hurry up	 ::
+get a word in edgeways {v} (get a word in edgewise) SEE: get a word in edgewise	 ::
+get cold feet {v} (to become nervous or anxious and reconsider a decision about an upcoming event)	 :: få kalde føtter
+get down {v} (bring down (transitive)) SEE: let down	 ::
+get down {v} (come down (intransitive)) SEE: come down	 ::
+get down {v} (go down (intransitive)) SEE: go down	 ::
+get on someone's nerves {v} (annoy or irritate)	 :: gå noen på nervene
+get on with {v} (get along with) SEE: get along with	 ::
+get out of bed on the wrong side {v} (to start the day in a bad mood) SEE: get up on the wrong side of the bed	 ::
+get out of here {interj} (command to leave)	 :: stikk, stikk av, forsvinn, ha deg bort, kom deg bort
+get outta here {interj} (get out of here) SEE: get out of here	 ::
+get over {v} (recover) SEE: recover	 ::
+get rid of {v} (to remove)	 :: bli kvitt
+get-together {n} ((informal) a meeting or gathering; a party or social function)	 :: [Bokmål] sammenkomst {m}
+get to the point {v} (State directly)	 :: komme til poenget
+get up {v} (to rise from one's bed)	 :: stå opp
+get up on the wrong side of the bed {v} (to feel irritable without a particular reason)	 :: stå opp på feil side av sengen
+get well soon {phrase} (indicating hope that the listener recovers)	 :: god bedring
+geyser {n} (boiling spring)	 :: geysir
+g-force {n} (acceleration of a body)	 :: tyngdeakselerasjon
+Ghana {prop} (The Republic of Ghana)	 :: Ghana
+Ghanaian {adj} (of, from, or pertaining to Ghana or the Ghanaian people)	 :: [Bokmål] ghanesisk; [Nynorsk] ghanesisk
+Ghanaian {n} (person from Ghana or of Ghanaian descent)	 :: [Bokmål] ghaneser {m}; [Nynorsk] ghanesar {m}
+Ghanan {adj} (Ghanaian) SEE: Ghanaian	 ::
+Ghanan {n} (Ghanaian) SEE: Ghanaian	 ::
+gharial {n} (gavial) SEE: gavial	 ::
+Ghent {prop} (capital city of the province of East Flanders, Belgium)	 :: Gent; [Nynorsk] Gent
+ghetto blaster {n} (powerful portable stereo system) SEE: boom box	 ::
+ghost {n} (faint shadowy semblance)	 :: spøkelse {n}
+ghost {n} (ghostwriter) SEE: ghostwriter	 ::
+ghost {n} (soul) SEE: soul	 ::
+ghost {n} (spirit appearing after death)	 :: spøkelse {n}, gjenferd, gjenganger, fantom {n}, ånd, dauding, skrømt, gespenster, draug, sjel
+Ghost of Christmas Future {prop} (Ghost of Christmas Yet to Come) SEE: Ghost of Christmas Yet to Come	 ::
+ghost story {n} (A story about ghosts)	 :: spøkelsesfortelling
+ghost town {n} (deserted town)	 :: spøkelsesby
+ghost writer {n} (one who writes on behalf of someone else) SEE: ghostwriter	 ::
+giant panda {n} (mammal)	 :: panda {m}
+gibberish {n} (unintelligible speech or writing)	 :: [Bokmål] kaudervelsk
+gibbous {adj} (humpbacked) SEE: humpbacked	 ::
+Gibraltar {prop} (British overseas territory)	 :: Gibraltar
+Gibraltar {prop} (Strait of Gibraltar) SEE: Strait of Gibraltar	 ::
+gift {n} (A talent or natural ability)	 :: [Bokmål] gave {m} {f}; [Nynorsk] gåve {f}
+gift {n} (Something given to another voluntarily, without charge)	 :: [Bokmål] gave {m} {f}, presang {m}; [Nynorsk] gåve {f}, presang {m}
+gift voucher {n} (voucher given as a present)	 :: [Bokmål] gavekort {n}; [Nynorsk] gåvekort {n}
+giga-watt {n} (gigawatt) SEE: gigawatt	 ::
+giggle {n} (laugh)	 :: fnising {c}, knising {c}
+giggle {v} (laugh)	 :: fnise, knise
+giggles {n} (attack of giggling)	 :: latterkick {n}, lættis {m}
+Gilgamesh {prop} (hero of a Babylonian poem)	 :: Gilgamesj
+Gilgamesh {prop} (king of Uruk)	 :: Gilgamesj
+gill {n} (breathing organ of fish)	 :: [Bokmål] gjelle {m} {f}; [Nynorsk] gjelle {f}
+gill {n} (flesh under or about the chin) SEE: wattle	 ::
+gill {n} (fleshy flap that hangs below the beak of a fowl) SEE: wattle	 ::
+gill cover {n} (operculum) SEE: operculum	 ::
+gilt {n} (a security issued by the Bank of England) SEE: gilt-edged	 ::
+ginger {n} (plant)	 :: ingefær {m}
+ginger {n} (spice)	 :: ingefær
+ginger ale {n} (ginger beer) SEE: ginger beer	 ::
+ginger beer {adj} (queer) SEE: queer	 ::
+ginger beer {n} (queer) SEE: queer	 ::
+gingerbread man {n} (biscuit/cookie in the shape of a person and flavoured with ginger)	 :: pepperkakemann {m}
+gingerly {adv} (gently)	 :: forsiktig, varsomt, sirlig, nennsomt
+gingiva {n} (gum) SEE: gum	 ::
+gingival {adj} (alveolar) SEE: alveolar	 ::
+ginseng {n}	 :: ginseng {m}
+gippo {n} (Egyptian) SEE: Egyptian	 ::
+gippo {n} (Gypsy) SEE: Gypsy	 ::
+giraffe {n} (Mammal)	 :: [Bokmål] sjiraff {m}; [Nynorsk] sjiraff {m}
+girder {n} (main horizontal support in a building)	 :: bærebjelke {m}, drager {m}
+girl {n} (young female)	 :: [Bokmål] jente {m} {f}, pike {m}; [Nynorsk] jente {f}, jenta {f}
+girl band {n} (band consisting of females) SEE: girl group	 ::
+girlfriend {n} (a female friend)	 :: [Bokmål] venninne {m} {f}
+girlfriend {n} (a female partner in a romantic relationship)	 :: [Bokmål] kjæreste {m}
+girth {n} (equipment)	 :: salgjord {m}
+girth {n} (the distance measured around an object)	 :: omkrets {m}
+girya {n} (kettlebell) SEE: kettlebell	 ::
+give {v} (bend slightly when a force is applied)	 :: gi etter
+give {v} (transfer the possession of something to someone else)	 :: gi, overrekke, overlate, skjenke
+give a bad name {v} (to lose respect for something/someone)	 :: gi et dårlig rykte
+give-away shop {n} (shop)	 :: gratis butikk
+give birth {v} (produce new life)	 :: bære, fram, føde
+give me {v} (give me)	 :: kan du være så snill å gi meg, gi meg
+given {n} (condition assumed to be true)	 :: gitt, forutsetning {c}
+given name {n} (name chosen for a child by its parents)	 :: fornavn {n}
+give someone the creeps {v} (to give someone a feeling of uneasiness or mild fright)	 :: gi noen gåsehud
+give what for {v} (scold) SEE: scold	 ::
+gizmo {n} (thingy)	 :: dings {m}, dippedutt {m}, duppeditt {m}
+glacier {n} (a large body of ice which flows under its own mass, usually downhill)	 :: isbre {m}, jøkel {m}
+gladiator {n} (a professional boxer) SEE: boxer	 ::
+gladiator {n} ((in ancient Rome) a person (professional or slave) who entertained the public by engaging in mortal combat with another, or with a wild animal)	 :: [Bokmål] gladiator {m}; [Nynorsk] gladiator {m}
+Glagolitic alphabet {n} (writing system) SEE: Glagolitic	 ::
+glamorous {adj} (Having glamour; stylish)	 :: [Bokmål] glamorøs; [Nynorsk] glamorøs
+glamour {n} (beauty or charm)	 :: [Bokmål] glamour {m}; [Nynorsk] glamour {m}
+glans {n} (goiter) SEE: goitre	 ::
+glans {n} (pessary) SEE: pessary	 ::
+glans {n} (vascular body which forms the apex of the penis)	 :: penishode {n}
+glans clitoridis {n} (clitoral glans) SEE: clitoral glans	 ::
+glans penis {n} (conical vascularized body forming the extremity of the penis)	 :: glanspenis, penishode
+glare {v} (to stare angrily)	 :: [Bokmål] stirre, glo, skule
+Glasgow kiss {n} (headbutt) SEE: headbutt	 ::
+glasnost {n} (a policy of the Soviet Union)	 :: glasnost
+glass {n} (drinking vessel)	 :: [Bokmål] glass {n}; [Nynorsk] glas {n}
+glass {n} (mirror) SEE: mirror	 ::
+glass {n} (substance)	 :: [Bokmål] glass {n}; [Nynorsk] glas {n}
+glass cutter {n} (glazier) SEE: glazier	 ::
+glasses {n} (plural of "glass") SEE: glass	 ::
+glasses {n} (spectacles) SEE: spectacles	 ::
+glass harmonica {n} (a musical instrument)	 :: glassharmonika
+glazier {n} (craftsman who works with glass, fitting windows, etc)	 :: glassmester {m}
+glean {v} (gather information in small amounts, with implied difficulty, bit by bit)	 :: gløtte, titte
+glee {n} (Joy; merriment; mirth; gayety; particularly, the mirth enjoyed at a feast)	 :: glede {m}
+gleeful {adj} (joyful)	 :: skadefro; [Nynorsk] skadeglad
+glib {adj} (having a ready flow of words but lacking thought or understanding)	 :: [Bokmål] glatt, litt for veltalende, rappmunnet, rapptunget
+glibness {n} (the condition of being glib)	 :: [Bokmål] rappmunnethet {m}
+glimmer {n} (a faint light)	 :: skimmer {n}
+glimmer {n} (a faint or remote possibility)	 :: glimt {n}, anelse {m}
+glimmer {n} (a flash of light)	 :: glimt {n}
+glimmer {v} (shine with faint unsteady light)	 :: glimte, skimre, blinke
+globalisation {n}	 :: globalisering
+global warming {n} (increase in the average temperature of the earth's atmosphere to cause climate change)	 :: global oppvarming {c}
+globe {n} (model of Earth)	 :: [Bokmål] globus {m}; [Nynorsk] globus {m}
+globe {n} (the planet Earth)	 :: [Bokmål] jordklode {m}
+globefish {n} (blowfish) SEE: blowfish	 ::
+glockenspiel {n} (musical instrument)	 :: [Bokmål] klokkespill; [Nynorsk] klokkespel
+glogg {n} (Scandinavian version of mulled wine)	 :: gløgg
+glory {n} (great beauty or splendour)	 :: prakt {c}
+glory {n} (honour and valour)	 :: glorie {m}, ære {c}
+glory {n} (optical phenomenon)	 :: glorie {m}
+glory {n} (worship or praise)	 :: pris {m}, ære {c}
+gloss {n} (brief explanatory note or translation of a difficult or complex expression)	 :: glose {m} {f}
+gloss {n} (glossary) SEE: glossary	 ::
+glossary {n} (list of words with their definitions)	 :: glossar {n}
+glossolalia {n} (speaking in tongues)	 :: tungetale
+glossolalia {n} (xenoglossy) SEE: xenoglossy	 ::
+glossy {adj} (having a reflective surface)	 :: glanset
+glove {n} (item of clothing)	 :: vante {m}, hanske {m}
+glove box {n} (glove compartment) SEE: glove compartment	 ::
+glow {v}	 :: gløde
+glower {n} (An angry stare or glare)	 :: olmt blikk {n}
+glucose {n} (simple monosaccharide sugar)	 :: glukose, druesukker
+glue {n} (sticky adhesive substance)	 :: lim {n}
+gluteal cleft {n} (gluteal cleft) SEE: anal cleft	 ::
+gluten {n} (cereal protein)	 :: gluten {n}
+glutton {n} (wolverine) SEE: wolverine	 ::
+gnarly {adj} (gnarled) SEE: gnarled	 ::
+gnash {v} (to grind one's teeth in pain or in anger)	 :: skjære tenner
+gnat {n} (any small insect of the order Diptera)	 :: knott {m}
+gneiss {n} (common and widely-distributed metamorphic rock)	 :: gneis
+gnosis {n} (gnosis)	 :: gnose {m}, gnosis {m}
+Gnostic {adj} (relating to Gnosticism)	 :: gnostisk
+Gnostic {adj} (relating to spiritual knowledge)	 :: gnostisk
+Gnostic {n} (a believer in Gnosticism)	 :: gnostiker {m}
+Gnosticism {n} (Gnosticism)	 :: gnostisisme {m}
+gnotobiont {n} (gnotobiot) SEE: gnotobiot	 ::
+GNP {n} (Gross National Product)	 :: BNP
+gnu {n} (large antelope)	 :: [Bokmål] gnu {m}; [Nynorsk] gnu {m}
+go {n} (board game)	 :: [Bokmål] go
+go {v} (attack) SEE: attack	 ::
+go {v} (change) SEE: change	 ::
+go {v} (die) SEE: die	 ::
+go {v} (extend) SEE: extend	 ::
+go {v} (lead (tend or reach in a certain direction)) SEE: lead	 ::
+go {v} (leave) SEE: leave	 ::
+go {v} (of a machine, to work )	 :: gå, virke, være i gang
+go {v} (of time: elapse, pass) SEE: elapse, pass	 ::
+go {v} (survive) SEE: survive	 ::
+go {v} (to be destroyed )	 :: ødelegges
+go {v} (to belong; to have as its/their proper place )	 :: ligge, høre til
+go {v} (to date )	 :: gå ut med, date, være sammen med
+go {v} (to disappear )	 :: forsvinne, gå over
+go {v} (to fit )	 :: passe
+go {v} (to make (a specified sound) )	 :: si
+go {v} (to move through space (especially from one place to another) )	 :: reise, fare, dra
+go {v} (turn out) SEE: turn out	 ::
+go {v} (urinate, defecate) SEE: pee, poo	 ::
+go {v} (walk) SEE: walk	 ::
+Goa {prop} (state in western India)	 :: Goa
+goal {n} (in many sports, an area into which the players attempt to put an object)	 :: mål, mål {n}
+goal {n} (point(s) scored)	 :: mål
+goal {n} (result one is attempting to achieve)	 :: mål, målsetting {c}, formål {n}, siktemål {n}
+goal {n} ((sport) act of placing the object into the goal)	 :: mål, mål {n}
+goalkeeper {n} (player that protects a goal)	 :: målvakt {m}
+goaltender {n} (player that protects a goal) SEE: goalkeeper	 ::
+goat {n} (animal)	 :: [Bokmål] geit {f} {m}; [Nynorsk] geit {f}
+go away {interj} (dismissal)	 :: forsvinn!; [Nynorsk] forsvinn!
+gobbledygook {n} (Nonsense; meaningless or encrypted language.)	 :: kaudervelsk {m}, galimatias {n}
+goblin {n} (mythical humanoid)	 :: nisse
+goby {n} (gudgeon) SEE: gudgeon	 ::
+go crazy {v} (go nuts) SEE: go nuts	 ::
+god {n} (deity)	 :: gud {m}; [Nynorsk] gud {m}
+god {n} (idol)	 :: gud {m}
+god {n} (person in high position of authority)	 :: gud {m}
+god {v} (deify)	 :: forgude
+god {v} (idolize)	 :: forgude, idolisere
+God {prop} (single deity of monotheism)	 :: Gud {m}, Herre
+God bless you {interj} (said to somebody who has sneezed)	 :: prosit
+goddamned well {adv} (damn well) SEE: damn well	 ::
+goddess {n} (female deity)	 :: [Bokmål] gudinne {m} {f}; [Nynorsk] gudinne {f}
+godfather {n} (man present at the christening of a baby who promises to help raise the child in a Christian manner)	 :: gudfar
+God-fearing {adj} (following the precepts of a religious practice and respects and reveres god and his authority)	 :: [Bokmål] gudfryktig
+God knows {phrase} (Only known to God; only known to the gods)	 :: gudene vet
+godless {adj} (not acknowledging any deity or god; without belief in any deity or god)	 :: gudløs
+go Dutch {v} (split the cost)	 :: spleise
+goer {n} (foot) SEE: foot	 ::
+go figure {phrase} (expression of perplexity or surprise)	 :: skulle du ha sett, rare greier {m-p}, det hadde jeg ikke trodd, forklar
+goggle {n} (a pair of protective eyeglasses) SEE: goggles	 ::
+go halfsies {v} (to share by splitting in half) SEE: go halves	 ::
+go in {v} (enter) SEE: enter	 ::
+goitre {n} (enlargement of the neck)	 :: [Bokmål] struma {m}; [Nynorsk] struma {m}
+goji berry {n} (wolfberry) SEE: wolfberry	 ::
+gold {n} (anything or anyone considered to be very valuable)	 :: gull {n}
+gold {n} (coin)	 :: gullmynt {m}
+gold {n} (colour)	 :: gull {n}
+gold {n} (element)	 :: gull {n}; [Nynorsk] gull
+gold {n} (gold medal)	 :: gull {n} gullmedalje {m}
+gold coin {n} (a coin made of gold)	 :: [Bokmål] gullmynt {m}; [Nynorsk] gullmynt {m}
+golden {adj} (advantageous or very favourable)	 :: gyllen
+golden {adj} (having a colour or other richness suggestive of gold)	 :: gyllen
+golden {adj} (made of, or relating to, gold)	 :: gyllen
+golden {adj} (marked by prosperity, creativity, etc.)	 :: gyllen
+golden-crested wren {n} (goldcrest) SEE: goldcrest	 ::
+golden eagle {n} (large bird of prey)	 :: kongeørn
+goldeneye {n} (duck)	 :: kvinand
+golden jackal {n} (Canis aureus)	 :: [Bokmål] gullsjakal
+golden plover {n} (Pluvialis apricaria)	 :: [Nynorsk] heilo {f}
+golden plover {n} (Pluvialis dominic) SEE: American golden plover	 ::
+goldfish {n} (fish)	 :: [Bokmål] gullfisk {m}; [Nynorsk] gullfisk {m}
+gold mine {n} (mine for gold)	 :: gullgruve {m}
+golf {n} (ball game)	 :: [Bokmål] golf {m}; [Nynorsk] golf {m}
+golf club {n} (a club or organization)	 :: [Bokmål] golfklubb {m}; [Nynorsk] golfklubb {m}
+golf club {n} (the implement)	 :: [Bokmål] golfkølle {m} {f}; [Nynorsk] golfkølle {f}
+golf course {n} (the land where one plays golf)	 :: [Bokmål] golfbane {m}; [Nynorsk] golfbane {m} {f}
+golfer {n} (someone who plays golf)	 :: [Bokmål] golfer {m}, golfspiller {m}, golfspeller {m}; [Nynorsk] golfar {m}, golfspelar {m}
+Golodomor {prop} (Holodomor) SEE: Holodomor	 ::
+go mad {v} (to become insane) SEE: go nuts	 ::
+gonadotropin {n} (gonadotrophin) SEE: gonadotrophin	 ::
+gondola {n} (boat)	 :: gondol
+Gondwanaland {prop} (Gondwana) SEE: Gondwana	 ::
+gong {n} (percussion instrument)	 :: gong {m}
+gongfu {n} (kung fu) SEE: kung fu	 ::
+gonorrhea {n} (STD)	 :: gonoré
+good {adj} (acting in the interest of good; ethical good intentions)	 :: god, godt
+good {adj} (healthful)	 :: sunn
+good {adj} (of food, edible; not stale or rotten)	 :: god, godt
+good {adj} (of food, having a particularly pleasant taste)	 :: god, godt
+good {adj} (of people, competent or talented)	 :: god, flink
+good {adj} (pleasant; enjoyable)	 :: god
+good {adj} (useful for a particular purpose (it’s a good watch))	 :: god, godt
+goodbye {interj} (farewell)	 :: adjø, farvel, avskjed, hadet bra, hadet, ses, snakkes, hei [telephone]
+good day {phrase} (greeting between sunrise and sunset)	 :: god dag
+good-den {interj} (good evening) SEE: good evening	 ::
+good evening {n} (greeting said in the evening)	 :: [Bokmål] god kveld, god aften; [Nynorsk] god kveld
+good for nothing {adj} (good-for-nothing) SEE: good-for-nothing	 ::
+Good Friday {prop} (The Friday before Easter Sunday believed by Christians to be the day on which Christ was crucified)	 :: langfredag {c}
+good luck {interj} (wish of fortune or encouragement)	 :: lykke til
+good morning {interj} (when seeing someone for the first time in the morning)	 :: [Bokmål] god morgen, morn; [Nynorsk] god morgon, morn
+good night {phrase} (a farewell)	 :: god natt
+goods train {n} (train used for transportation of goods)	 :: [Bokmål] godstog {n}; [Nynorsk] godstog {n}
+good things come to those who wait {proverb} (patience is a virtue)	 :: den som venter på noe stort, venter aldri for lenge
+goodwill {n} (favorably disposed attitude toward someone or something)	 :: [Bokmål] velvilje {m}, tillit {m} {f}; [Nynorsk] velvilje {m}, tillit {m} {f}
+goodwill {n} (value of a business entity not directly attributable to its tangible assets and liabilities)	 :: [Bokmål] goodwill {m}; [Nynorsk] goodwill {m}
+google {n} (search using any comprehensive search engine)	 :: nettsøk {n}
+google {v} (to search for on the Internet)	 :: google, googla (depending on slang/dialect)
+googlebomb {v} (To spam a web page with links or words to gain a high Google PageRank)	 :: googlebombe
+googol {num} (1 followed by 100 zeros)	 :: googol; [Bokmål] googol; [Nynorsk] googol
+googolplex {num} (ten to the power of a googol)	 :: googolplex
+goose {n} (a grazing waterfowl of the family Anatidae)	 :: [Bokmål] gås {m} {f}; [Nynorsk] gås {f}
+gooseberry {n} (fruit)	 :: stikkelsbær {n}
+goose bump {n} (raised skin caused by cold, excitement, or fear)	 :: gåsehud
+goosebump {n} (goose pimple) SEE: goose pimple	 ::
+goose flesh {n} (goose pimple) SEE: goose pimple	 ::
+goose pimple {n} (bumps on the skin)	 :: gåsehud
+goose skin {n} (goose pimple) SEE: goose pimple	 ::
+goose-step {n} (a style of marching)	 :: hanemarsj {m}
+goose-step {v} (to march with a goose-step)	 :: gå i hanemarsj
+gopher {n} (a small burrowing rodent)	 :: jordekorn {n}
+Gorbachev {prop} (Russian surname)	 :: [Bokmål] Gorbatsjov
+Gordian knot {n} (intricate problem)	 :: gordisk knute {m}
+Gordian knot {n} (mythical knot)	 :: gordisk knute {m}
+gorgeous {adj} (very beautiful)	 :: smellvakker
+gorilla {n} (ape)	 :: gorilla {m}
+Gorlovka {prop} (Horlivka) SEE: Horlivka	 ::
+goshawk {n} (bird of prey)	 :: hønsehauk
+gospel {n} (gospel music) SEE: gospel music	 ::
+gossip {n} (idle talk)	 :: sladder {n}
+gossip {v} (to talk about someone else's private or personal business)	 :: sladre, slarve
+Gothenburg {prop} (city on the west coast of Sweden)	 :: Gøteborg
+go through {v} (to undergo, suffer, experience)	 :: [Bokmål] gjennomgå; [Nynorsk] gjennomgå
+go to hell {v} (interjection)	 :: dra til helvete
+go to sleep {v} (fall asleep) SEE: fall asleep	 ::
+go to the bathroom {v} (go to the toilet) SEE: go to the toilet	 ::
+go to the dogs {v} (informal: to decline or deteriorate)	 :: [Bokmål] gå i hundene; [Nynorsk] gå i hundane
+go to work {v} (commute) SEE: commute	 ::
+go to work {v} (work) SEE: work	 ::
+gourmet {n} (gourmet; a person who appreciates good food)	 :: [Bokmål] feinschmecker {m}, matskjønner {m}, gastronom {m}, gourmet {m}; [Nynorsk] finsmakar {m}, matskjønar {m}, gastronom {m}, gourmet {m}
+goutweed {n} (ground-elder)	 :: skvallerkål {c}
+government {n} (body with the power to make and/or enforce laws)	 :: [Bokmål] regjering {m} {f}; [Nynorsk] regjering {f}
+go wild {v} (knock yourself out) SEE: knock yourself out	 ::
+grace {n} (free and undeserved favour, especially of God)	 :: [Bokmål] nåde
+grace {n} (relief period for a debtor)	 :: betalingsutsettelse {m}
+grace {n} (short prayer before or after a meal)	 :: bordbønn {m}
+gradation {n} (apophony) SEE: apophony	 ::
+grade {n} (mathematics: gradian) SEE: gradian	 ::
+grade crossing {n} (level crossing) SEE: level crossing	 ::
+grade school {n} (elementary or primary school) SEE: primary school	 ::
+graduate student {n} (university student working on a master's or Ph.D.) SEE: postgraduate	 ::
+graft {n} (small shoot or scion)	 :: [Bokmål] pode {m}; [Nynorsk] pode {m}
+graft {v} (to insert a graft in another tree)	 :: [Bokmål] pode; [Nynorsk] pode, pote
+graft {v} (to insert scions)	 :: [Bokmål] pode; [Nynorsk] pode, pote
+grafting {n} (act, art, or process of inserting grafts)	 :: [Bokmål] poding {m} {f}; [Nynorsk] poding {f}
+Graham biscuit {n} (bread made of unbolted wheat flour) SEE: Graham bread	 ::
+grammar {n} (book describing grammar)	 :: [Bokmål] grammatikk {m}; [Nynorsk] grammatikk {m}
+grammar {n} (rules for speaking and writing a language)	 :: grammatikk
+grammary {n} (grammar) SEE: grammar	 ::
+grammatical alternation {n} (Verner alternation) SEE: Verner alternation	 ::
+grammatischer Wechsel {n} (Verner alternation) SEE: Verner alternation	 ::
+grampus {n} (hellbender salamander) SEE: hellbender	 ::
+grampus {n} (killer whale) SEE: orca	 ::
+grand {adj} (Standing in the second or some more remote degree of parentage or descent)	 :: beste-
+grandaunt {n} (the aunt of one’s parent; a great-aunt)	 :: grandtante
+grandchild {n} (child of someone’s child)	 :: [Bokmål] barnebarn {n}; [Nynorsk] barnebarn {n}
+granddaughter {n} (daughter of someone’s child)	 :: sønnedatter [son's daughter], datterdatter [daughter's daughter]
+grande dame {n} (doyenne) SEE: doyenne	 ::
+grandfather {n} (grandfather (from either side))	 :: morfar (mother's father), farfar (father's father); [Bokmål] bestefar {m}; [Nynorsk] bestefar {m}
+grandmaster {n} (Grandmaster) SEE: Grandmaster	 ::
+grandmother {n} (mother of someone's parent)	 :: bestemor, mormor {m} {f} [maternal], farmor {m} {f} [paternal]
+grandparent {n} (parent of one's parent)	 :: besteforelder {m}
+grand slam {n} ((bridge) the winning of all the tricks during the play of one hand)	 :: storeslem
+grand slam {n} ((sports) the winning of all the major or specified events)	 :: storeslem
+grandson {n} (son of one's child)	 :: sønnesønn [son's son], dattersønn [daughter's son]
+granduncle {n} (great-uncle) SEE: great-uncle	 ::
+granite {n} (type of rock)	 :: [Bokmål] granitt {m}; [Nynorsk] granitt {m}
+granitic {adj} (of, pertaining to, or containing granite)	 :: [Bokmål] granittisk; [Nynorsk] granittisk
+grant {n} (A transfer of property by deed or writing)	 :: overføring {m} {f}
+grant {n} (The act of granting; a bestowing or conferring; concession; allowance; permission)	 :: tildeling {m} {f}
+grant {n} (The thing or property granted; a gift; a boon)	 :: tildeling {m} {f}, donasjon {m}
+grant {n} (The yielding or admission of something in dispute)	 :: innrømmelse {m}
+grant {v} (To admit as true what is not yet satisfactorily proved; to yield belief to; to allow; to yield; to concede)	 :: innrømme
+grant {v} (To bestow or confer, with or without compensation, particularly in answer to prayer or request)	 :: innvilge
+grant {v} (To give over)	 :: tildele, overgi
+grape {n} (fruit)	 :: drue {m} {f}
+grape {n} (vine)	 :: vindrue {m} {f}
+grapevine {n} (rumor) SEE: rumor	 ::
+grapevine {n} (the plant on which grapes grow)	 :: [Bokmål] vinranke {m}; [Nynorsk] vinranke {f}
+graphic {adj} (drawn, pictorial)	 :: grafisk
+graphic {adj} (vivid, descriptive)	 :: [Bokmål] billedlig
+graphical user interface {n} (type of user interface)	 :: grafisk brukergrensesnitt
+graphing paper {n} (graph paper) SEE: graph paper	 ::
+graphite {n} (form of carbon)	 :: [Bokmål] grafitt {m}; [Nynorsk] grafitt {m}
+grapnel {n} (grappling iron) SEE: grappling iron	 ::
+grappa {n} (Italian grape-based spirit)	 :: grappa
+grasp {v} (to understand)	 :: begripe
+grass {n} (ground cover plant)	 :: [Bokmål] gress {n}, gras {n}; [Nynorsk] gras {n}
+grass {n} (marijuana)	 :: [Bokmål] gress {n}, gras {n}
+grasshopper {n} (an insect of the order Orthoptera)	 :: gresshoppe {f}
+grass snake {n} (Natrix natrix)	 :: buorm
+grate {v} (shred)	 :: rive, raspe
+grateful {adj} (showing gratitude)	 :: takknemlig
+gratefulness {n} (the state of being grateful)	 :: takknemlighet
+grater {n} (A tool with which one grates)	 :: rivjern
+graticule {n} (reticle) SEE: reticle	 ::
+gratification {n} (act of gratifying, or pleasing)	 :: glede, tilfredsstille
+gratis {adj} (free, without charge)	 :: gratis
+gratulate {v} (congratulate) SEE: congratulate	 ::
+grave {n} (excavation for burial)	 :: [Bokmål] grav {m} {f}; [Nynorsk] grav {f}
+grave accent {n} (grave accent)	 :: grav aksent {c}
+gravel {n} (kidney stone) SEE: kidney stone	 ::
+gravel {n} (small fragments of rock)	 :: grus {m}, pukk {m}
+graveyard {n} (tract of land in which the dead are buried)	 :: kirkegård {m}, gravlund, leggplass
+graveyard shift {n} (night shift) SEE: night shift	 ::
+gravy {n} (sauce)	 :: saus {m}
+gray {adj} (having a color somewhere between white and black, as the ash of an ember)	 :: grå
+gray {n} (colour)	 :: grå
+grayling {n} (Thymallus thymallus)	 :: harr {m}
+gray tape {n} (duct tape) SEE: duct tape	 ::
+graze {v} (to eat grass from a pasture)	 :: beite, gresse, gå på gress
+grease {n} (animal fat)	 :: fett, smøre
+great {adj} (important) SEE: important	 ::
+great auk {n} (Pinguinus impennis)	 :: geirfugl {m}
+great-aunt {n} (sister of one’s grandparent, aunt of one’s parent)	 :: grandtante
+greatbrain {n} (cerebrum) SEE: cerebrum	 ::
+Great Britain {prop} (the country, see also: United Kingdom)	 :: Storbritannia
+Great Britain {prop} (the island)	 :: Storbritannia
+greater galago {n} (primate of the genus Otolemur) SEE: thick-tailed bushbaby	 ::
+Greater London {prop} (City of London, Westminster and 31 other London boroughs)	 :: Stor-London
+greatest common divisor {n} (largest positive integer or polynomial)	 :: største felles faktor, største felles nevner
+great-grandchild {n} (The son or daughter of one's grandchild)	 :: [Bokmål] oldebarn {n}; [Nynorsk] oldebarn {n}
+great-granddaughter {n} (the daughter of someone's grandchild)	 :: oldedatter {f}
+great-grandfather {n} (father of grandparent)	 :: [Bokmål] oldefar {m}; [Nynorsk] oldefar {m}
+great-grandmother {n} (mother of one's grandparent)	 :: [Bokmål] oldemor {m} {f}; [Nynorsk] oldemor {f}
+great-grandparent {n} (parent of a grandparent)	 :: [Bokmål] oldeforelder {m}; [Nynorsk] oldeforelder {m}
+great-grandson {n} (son of a grandchild)	 :: oldesønn {m}
+great-great-grandfather {n} (The father of someone's great-grandparent)	 :: [Bokmål] tippoldefar {m}; [Nynorsk] tippoldefar {m}
+great-great-grandmother {n} (The mother of someone’s great-grandparent)	 :: [Bokmål] tippoldemor {m} {f}; [Nynorsk] tippoldemor {f}
+great minds think alike {proverb} (used to emphasize two people reaching the same conclusion)	 :: store hoder tenker likt
+great northern diver {n} (large member of the diver family, Gavia immer)	 :: islom
+great northern loon {n} (great northern diver) SEE: great northern diver	 ::
+Great Pyramid at Giza {prop} (Great Pyramid of Giza) SEE: Great Pyramid of Giza	 ::
+Great Pyramid of Giza {prop} (the largest and most famous of the Egyptian pyramids)	 :: Kheopspyramiden
+great skua {n} (Great Skua)	 :: storjo {c}
+great spotted woodpecker {n} (Bird)	 :: flaggspett
+great tit {n} (Bird)	 :: kjøttmeis {c}, talgmeis {c}, talgokse {m}
+Great Wall of China {prop} (Chinese fortification)	 :: den kinesiske mur {m}
+great white shark {n} (Carcharodon carcharias)	 :: [Bokmål] hvithai {m}; [Nynorsk] kvithai {m}
+Greece {prop} (Country in Southeastern Europe)	 :: Hellas, Grekenland
+greed {n} (selfish desire for more than is needed)	 :: grådighet {m} {f}
+greedy {adj} (having greed; consumed by selfish desires)	 :: [Bokmål] grådig; [Nynorsk] grådig, grådug
+Greek {n} (inhabitant, etc., of Greece)	 :: [Bokmål] greker {m}; [Nynorsk] grekar {m}
+Greek {n} (nonsense talk or writing; gibberish)	 :: [Bokmål] gresk {m}; [Nynorsk] gresk {m}
+Greek {prop} (language of the Greek people)	 :: gresk, hellenesk
+Greek Orthodox Church {prop} (Greek Orthodox Church)	 :: Gresk ortodokse kirke
+green {adj} (having green as its colour)	 :: grønn
+green {n} (bowling green) SEE: bowling green	 ::
+green {n} (putting green) SEE: putting green	 ::
+greengrocery {n} (shop) SEE: greengrocer's	 ::
+greenhouse {n} (building in which plants are grown more quickly than outside)	 :: drivhus {n}
+Greenland {prop} (A large self-governing island in North America)	 :: [Bokmål] Grønland; [Nynorsk] Grønland
+Greenlandic {adj} (of, from, or pertaining to Greenland, its people or language)	 :: [Bokmål] grønlandsk; [Nynorsk] grønlandsk
+Greenlandic {prop} (language)	 :: [Bokmål] grønlandsk {m}; [Nynorsk] grønlandsk {m}
+Greenlandish {adj} (of, from, or pertaining to Greenland, its people or language)	 :: [Bokmål] grønlandsk; [Nynorsk] grønlandsk
+Greenlandish {prop} (language)	 :: [Bokmål] grønlandsk {m}; [Nynorsk] grønlandsk {m}
+Greenland shark {n} (Somniosus microcephalus)	 :: [Bokmål] håkjerring {m} {f}
+green light {n} (green traffic light)	 :: [Bokmål] grønt lys {n}
+green tea {n} (drink)	 :: grønn te
+green turtle {n} (green sea turtle) SEE: green sea turtle	 ::
+green woodpecker {n} (Picus viridis)	 :: grønnspett
+greeting {n} (acknowledgement of a persons presence or arrival)	 :: hilsen; [Nynorsk] helsing
+Gregorian calendar {prop} (calendar used in the western world)	 :: gregoriansk kalender {m}
+Grenada {prop} (Caribbean country)	 :: Grenada
+grenade {n} (pomegranate) SEE: pomegranate	 ::
+Grenadian {adj} (pertaining to Grenada)	 :: [Bokmål] grenadisk; [Nynorsk] grenadisk
+Grenadian {n} (A person from Grenada)	 :: [Bokmål] grenadier {m}; [Nynorsk] grenadiar {m}
+Gretel {prop} (character in the fairy tale Hansel and Gretel)	 :: Grete
+grey {adj} (gray) SEE: gray	 ::
+grey {n} (gray) SEE: gray	 ::
+grey {v} (gray) SEE: gray	 ::
+grey crow {n} (hooded crow) SEE: hooded crow	 ::
+grey-haired {adj} (having grey hair)	 :: [Bokmål] gråhåret, gråhåra; [Nynorsk] gråhåra, gråhærd
+grey heron {n} (the Old World wading bird Ardea cinerea of the heron family)	 :: gråhegre
+greylag {n} (large European goose) SEE: greylag goose	 ::
+greylag goose {n} (Anser anser)	 :: grågås
+grid {n} (rectangular array of squares or rectangles of equal size)	 :: rutenett {n}
+gridlock {n} (on a smaller scale)	 :: [Bokmål] kø {m}, kork {m}
+gridlock {n} (traffic congestion)	 :: [Bokmål] trafikkork {m}, kork {m}
+grief {n} (sadness)	 :: sorg
+grievance {n} (complaint)	 :: klage, klagemål
+griffin {n} (mythical beast having the body of a lion and the wings and head of an eagle)	 :: griff {m}
+griffon {n} (legendary creature) SEE: griffin	 ::
+griffon vulture {n} (Gyps fulvus)	 :: gåsegribb
+grift {n} (con game) SEE: con game	 ::
+grill {n} (barbecue)	 :: grill {m}
+grill {n} (rack, grid)	 :: grill {m}
+grill {n} (vehicle front cover)	 :: grill {m}
+grill {v} (cook food)	 :: grille
+grill {v} (interrogate)	 :: grille
+grimace {n} (a distortion of the countenance)	 :: grimase {m}
+grimace {v} (to make grimaces)	 :: gjøre grimase, lage grimase
+Grim Reaper {prop} (personification of Death)	 :: [Bokmål] mannen med ljåen {m}; [Nynorsk] mannen med ljåen {m}
+grind {v}	 :: male
+grind {v} (to make smaller by breaking with a device)	 :: raspe, rive, male, kverne
+grind {v} (to remove material by rubbing with an abrasive surface)	 :: raspe, skrape
+grinder {n} (sandwich) SEE: sub	 ::
+grinder {n} (tool)	 :: jeskel
+grindstone {n} (wheel for grinding)	 :: slipestein {m}
+grippe {n} (flu) SEE: flu	 ::
+grizzly {n} (grizzly bear) SEE: grizzly bear	 ::
+groan {n}	 :: stønn {n}
+groan {v} (to make a groan)	 :: stønne
+grocer {n} (person selling foodstuffs and household items)	 :: kjøpmann {m}, grosserer {m} (gammelnorsk)
+grocery {n} (shop or store that sells groceries)	 :: dagligvarebutikk {m}, storsenter, landhandel {m}
+grocery store {n} (grocery) SEE: grocery	 ::
+groined vault {n} (structure created by intersection of vaults)	 :: krysshvelv {n}
+Groningen {prop} (city)	 :: Groningen
+Groningen {prop} (province)	 :: Groningen
+groom {n} (man about to be married)	 :: [Bokmål] brudgom {m}; [Nynorsk] brudgom {m}
+groove fricative {n} (phonetics: hissing sound) SEE: sibilant	 ::
+gross {adj} (disgusting)	 :: ekkel
+gross domestic product {n} (economic production of a particular territory)	 :: brutto nasjonalprodukt (abbreviation BNP)
+grotesque {adj} (distorted and unnatural in shape or size; abnormal and hideous)	 :: grotesk
+ground {n} (terrain) SEE: terrain	 ::
+ground {v} (to run aground) SEE: run aground	 ::
+ground beef {n} (meat)	 :: [Bokmål] karbonadedeig {m} [under 5 percent fat], kjøttdeig {m} [under 14 percent fat, not necessarily cattle]
+ground clearance {n} (distance)	 :: [Bokmål] bakkeklaring {m} {f}
+ground-effect machine {n} (hovercraft) SEE: hovercraft	 ::
+ground power {n} (ground forces) SEE: ground forces	 ::
+ground shark {n} (Greenland shark) SEE: Greenland shark	 ::
+groundwater {n} (Water existing beneath the earth's surface in underground streams and aquifers)	 :: [Bokmål] grunnvann {n}, grunnvatn {n}; [Nynorsk] grunnvatn {n}
+group {n} (number of things or persons being in some relation to each other)	 :: [Bokmål] gruppe {m} {f}; [Nynorsk] gruppe {f}
+groupetto {n} (gruppetto) SEE: gruppetto	 ::
+grouping {n} (a collection of things or people)	 :: gruppering {m} {f}
+group theoretician {n} (group theorist) SEE: group theorist	 ::
+grouse {n} (any of various game birds of the family Tetraonidae)	 :: skogshøns {p}
+grout {n} (coarse meal)	 :: (sediments) bunnfall {n}, (malt) gryn {n}, grøpp {n}
+grout {n} (mortar used between tiles)	 :: injiseringsmørtel {m}, sementvelling {m}
+grove {n} (orchard) SEE: orchard	 ::
+growth {n} (act of growing)	 :: vekst
+growth {n} (increase in size)	 :: vekst {m}
+grow up {v} (to mature and become an adult)	 :: vokse opp, bli voksen
+grudge {n} (deep seated animosity)	 :: [Bokmål] nag
+grudging {adj} (unwilling or with reluctance)	 :: [Bokmål] motvillig
+grudgingly {adv} (in a manner expressing resentment or lack of desire)	 :: [Bokmål] motvillig
+grue {v} (shudder) SEE: shudder	 ::
+gruesome {adj} (repellently frightful and shocking; horrific or ghastly)	 :: grusom
+grumpy {adj} (unhappy and/or irritable)	 :: gretten
+gruntle {v} (grunt) SEE: grunt	 ::
+G-string {n} (a scant piece of underwear or lingerie)	 :: [Bokmål] g-streng {m}; [Nynorsk] g-streng {m}
+Guadalcanal {prop} (Pacific island)	 :: Guadalcanal
+guarantee {n} (anything that assures a certain outcome)	 :: garanti {m}; garanti {m}
+guarantee {n} (person who gives such a guarantee)	 :: garantist {m}
+guarantee {n} (written declaration)	 :: garanti {m}
+guarantee {v} (to assume responsibility for a debt)	 :: kausjonere
+guarantee {v} (to assure that something will get done right)	 :: garantere
+guard {n} (person who or thing that protects something)	 :: [Bokmål] vakt {m} {f}; [Nynorsk] vakt {f}
+guardian angel {n} (spirit)	 :: [Bokmål] skytsengel {m}; [Nynorsk] skytsengel {m}
+guardrail {n} (rail placed alongside a dangerous place)	 :: gelender {n}, rekkverk {n}
+Guatemala {prop} (country in Central America)	 :: Guatemala
+Guatemalan {adj} (of, from, or pertaining to Guatemala or its people)	 :: [Bokmål] guatemalansk; [Nynorsk] guatemalansk
+Guatemalan {n} (person)	 :: [Bokmål] guatamalaner {m}; [Nynorsk] guatemalan {m}, guatemalanar {m}
+guava {n} (fruit)	 :: guava
+Guernsey {n} (island)	 :: Guernsey
+guerrilla {n} (guerrilla war)	 :: [Bokmål] geriljakrig {m}; [Nynorsk] geriljakrig {m}
+guess {n} (prediction about the outcome of something)	 :: gjetning {m} {f}
+guess {v} (to reach an unqualified conclusion)	 :: gjette, gissa; [Nynorsk] gjete
+guest book {n} (ledger for visitors to leave comments about an establishment)	 :: gjestebok
+guest book {n} (website feature functioning like a physical guest book)	 :: gjestebok
+guesthouse {n} (boarding house) SEE: boarding house	 ::
+guide dog {n} (dog that is trained to be of assistance to a blind person)	 :: [Bokmål] førerhund {m}; [Nynorsk] førarhund {m}
+guideline {n} (non-specific rule or principle)	 :: retningslinje
+guild {n} (association of tradespeople)	 :: laug
+guilder {n} (gilder) SEE: gilder	 ::
+guillemet {n} (A guillemet)	 :: [Bokmål] sjevron {m}; [Nynorsk] sjevron {m}
+guilt {n} (responsibility for wrongdoing)	 :: skyld
+guinea {n} (bird of the family Numididae) SEE: guinea fowl	 ::
+Guinea {prop} (Republic of Guinea)	 :: Guinea
+Guinea-Bissau {prop} (Republic of Guinea-Bissau)	 :: Guinea-Bissau
+guinea fowl {n} (bird)	 :: perlehøne
+Guinean {adj} (from Guinea)	 :: [Bokmål] guineaner {m}; [Nynorsk] guineanar {m}
+Guinean {n} (someone from Guinea or of Guinean descent)	 :: [Bokmål] guineansk; [Nynorsk] guineansk
+guinea pig {n} (experimental subject)	 :: prøvekanin {m}, forsøkskanin {m}
+guinea pig {n} (rodent)	 :: marsvin {n}
+guitar {n} (musical instrument)	 :: [Bokmål] gitar {m}; [Nynorsk] gitar {m}
+gulch {n} (act of gulping) SEE: gulp	 ::
+gulch {n} (glutton) SEE: glutton	 ::
+gulf {n} (geography)	 :: [Bokmål] golf {m}; [Nynorsk] golf {m}
+Gulf of Finland {prop} (arm of the Baltic Sea)	 :: Finskebukta
+Gulf of Riga {prop} (inland body of water that is part of the Baltic Sea in eastern Europe and is near Latvia and Estonia)	 :: Rigabukten
+gull {n} (seabird)	 :: [Bokmål] måke {m} {f}, måse {m}; [Nynorsk] måke {m} {f}, måse {m}
+gullet {n} (cytopharynx) SEE: cytopharynx	 ::
+gullet {n} (the throat or esophagus)	 :: spiserør {n}
+gullible {adj} (easily deceived or duped, naïve)	 :: [Bokmål] godtroende, lettlurt, naiv; [Nynorsk] godtruande, lettlurt, naiv
+gum {n} (chewing gum) SEE: chewing gum	 ::
+gumboot {n} (gumboot)	 :: [Bokmål] gummistøvel {m}; [Nynorsk] gummistøvel {m}
+gummi {n} (gelatinous candy) SEE: gummy	 ::
+gun {n} (a less portable, long weapon)	 :: [Bokmål] gevær {n}; [Nynorsk] gevær {n}
+gun {n} (a very portable, short weapon, for hand use)	 :: [Bokmål] håndvåpen {n}; [Nynorsk] håndvåpen {n}
+gun {n} ((military) A cannon with relatively long barrel, operating with relatively low angle of fire, and having a high muzzle velocity)	 :: [Bokmål] kanon {m}; [Nynorsk] kanon {m}
+gun {n}	 :: skytevåpen {n}, kanon {m}, gevær {n}, pistol {m}
+gun {v} (shoot someone or something)	 :: [Bokmål] skyte; [Nynorsk] skyte, skjote
+gunboat {n} (small armed vessel)	 :: kanonbåt {c}
+gun cotton {n} (nitrocellulose) SEE: nitrocellulose	 ::
+gunfighter {n} (gunslinger) SEE: gunslinger	 ::
+gunfire {n} (gunshots)	 :: [Bokmål] geværild {m}; [Nynorsk] geværeld {m}
+gunnel {n} (gunwale) SEE: gunwale	 ::
+gunpowder {n} (explosive mixture)	 :: [Bokmål] krutt {n}; [Nynorsk] krut {n}
+Gunter {prop} (male given name)	 :: Gunnar
+Guoyu {prop} (Mandarin) SEE: Mandarin	 ::
+gurgle {v} (to make such a sound)	 :: gurgle
+Gustav {prop} (given name)	 :: Gustav
+Gustave {prop} (Gustav) SEE: Gustav	 ::
+gutter {n} (ditch along the side of road)	 :: grøft {m} {f}
+gutter {n} (duct or channel beneath the eaves)	 :: takrenne {m} {f}
+gutter {v} (to cut or form into small longitudinal hollows) SEE: channel	 ::
+Guyana {prop} (country)	 :: Guyana
+guyline {n} (guy) SEE: guy	 ::
+gym {n} (short form of gymnasium) SEE: gymnasium	 ::
+gymnasium {n} (place for indoor sports)	 :: gymsal {m}, sportshall {m}
+gymnastics {n} (a sport)	 :: gymnastikk
+gynaecologist {n} (specialist in diseases of the female reproductive system)	 :: gynekolog
+gynecologist {n} (gynaecologist) SEE: gynaecologist	 ::
+gypsum {n} (mineral)	 :: [Bokmål] gips {m}; [Nynorsk] gips {m}
+gypsy {n} (any itinerant person, or any person suspected of making a living from dishonest practices or theft)	 :: sigøyner {m}, sigøynerske {f}
+gypsy {n} (member of the Rom people) SEE: Gypsy	 ::
+gypsy {n} (member of the Rom people) SEE: Rom	 ::
+Gypsy {adj} (of or belonging to the Roma people) SEE: Romani	 ::
+Gypsy {n} (a member of the Romani people) SEE: Rom	 ::
+Gypsy {n} (one of the stateless people)	 :: [Bokmål] sigøyner {m}, sigøynerske {f}; [Nynorsk] sigøynar {m}, sigøynerske {f}
+Gypsy {prop} (the language of the Romani people) SEE: Romani	 ::
+gyrfalcon {n} (falcon) SEE: falcon	 ::
+gyrfalcon {n} (Falco rusticolus)	 :: jaktfalk {m}
+gyro {n} (gyroscope) SEE: gyroscope	 ::

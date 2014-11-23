@@ -1,0 +1,1077 @@
+﻿fabric {n} (framework underlying a structure)	 :: [Bokmål] byggesten {m}, struktur {m}
+fabric {n} (material made of fibers)	 :: [Bokmål] tøy {n}, stoff {n}
+fabric {n}	 :: tekstil
+fabric softener {n} (a chemical agent used to prevent static cling and make fabric softer)	 :: [Bokmål] tøymykner {m}
+fabulous {adj} (very good; wonderful)	 :: fabelaktig
+facade {n} (façade) SEE: façade	 ::
+face {n} (facial expression)	 :: mine {m}
+face {n} (of a polyhedron)	 :: flate {m}, side {m}
+face {n} (part of head)	 :: ansikt {n}, fjes {n}; [Nynorsk] andlet {n}
+face {n} (public image)	 :: anseelse {m}
+face {n} (slang: the mouth)	 :: kjeft {m}
+face {n} (surface, especially a front or outer one)	 :: side {m}
+{prop} (a social-networking website)	 :: , fjesbok {f}
+face to face {adv} (in person)	 :: [Bokmål] ansikt til ansikt, under fire øyne
+face-to-face {adv} (face to face) SEE: face to face	 ::
+face value {n} (the stated value or amount)	 :: [Bokmål] pålydende verdi {m}, valør {m}; [Nynorsk] pålydande verdi {m}, valør {m}
+facilitate {v} (to make easy or easier)	 :: [Bokmål] gjøre lettere, forenkle; [Nynorsk] gjere lettare, forenkle, forenkla
+facsimile {v} (fax) SEE: fax	 ::
+fact {n} (an honest observation)	 :: faktum {n}
+factor {n} (influence)	 :: faktor {m}, årsak {m}
+factor {n} (integral part)	 :: faktor {m}
+factor {n} (mathematical sense)	 :: faktor {m}
+factor {v} (to find all factors of a number)	 :: faktorisere
+factorise {v} (to create a list of factors)	 :: [Bokmål] faktorisere
+factorise {v} (to divide an expression into a listing of items)	 :: [Bokmål] faktorisere
+factory {n} (manufacturing place)	 :: fabrikk {m}
+faculty {n} (ability, skill, or power)	 :: [Bokmål] evne {m} {f}; [Nynorsk] evne {f}
+faculty {n} (division of a university)	 :: fakultet {n}
+fad {n} (phenomenon)	 :: trend {m}
+fade {v} (to become faded)	 :: [Bokmål] svekkes [reflexive], forgå, falme
+fag-end {n} (cigarette butt) SEE: butt	 ::
+faggot {n} (male homosexual) SEE: fag	 ::
+fail {v} (be negligent)	 :: svikte
+fail {v} (be unsuccessful)	 :: mislykkes
+fail {v} (cease to operate)	 :: feile
+fail {v} (not achieve a goal)	 :: mislykkes
+failure {n} (state of condition opposite success)	 :: fiasko {m}, misære {m}
+failure {n} (termination of the ability of an item to perform its required function)	 :: svikt {m}
+faint {v} (to lose consciousness)	 :: besvime, svime av
+fairheaded {adj} (blond) SEE: blond	 ::
+fairy {n} (mythical being)	 :: fe
+fairy floss {n} (fairy floss) SEE: candy floss	 ::
+fairy ring {n} (ring of fungi)	 :: heksering {m}
+fairy tale {n} (a folktale)	 :: eventyr {n}
+faith {n} (feeling that something is true)	 :: tro {m}
+faithful {adj} (consistent with reality)	 :: tro
+faithful {adj} (having faith)	 :: troende
+faithful {adj} (loyal; adhering firmly to person or cause)	 :: trofast
+faithful {adj} (reliable; worthy of trust)	 :: etterrettelig
+falcon {n} (bird of the genus Falco)	 :: [Bokmål] falk {m}; [Nynorsk] falk {m}
+Falkland Islands {prop} (overseas territory of the UK in the South Atlantic)	 :: Falklandsøyene
+fall {n} (act of moving in gas or vacuum under the effect of gravity from a point to a lower point)	 :: fall {n}
+fall {n} (season) SEE: autumn	 ::
+fall {v} (move to a lower position under the effect of gravity)	 :: falle
+fall {v} (prostrate oneself)	 :: kaste seg
+fallacy {n} (false argument)	 :: [Bokmål] tankefeil {m}
+falling star {n} (shooting star) SEE: shooting star	 ::
+fall in love {v} (to come to have feelings of love)	 :: forelske
+fallow {adj} (of land, left unseeded)	 :: [Bokmål] brakk; [Nynorsk] brakk
+fallow deer {n} (Dama dama, a ruminant mammal)	 :: dåhjort, dådyr
+false acacia {n} (black locust) SEE: black locust	 ::
+false alder {n} (American winterberry) SEE: American winterberry	 ::
+false friend {n} (a word in one language that looks like a word in another language but has a different meaning)	 :: falsk venn
+false negative {n} (statistics: type II error) SEE: type II error	 ::
+falter {v} (To stammer) SEE: stammer	 ::
+family {adj} ((slang) homosexual)	 :: skeiv
+family {n} (immediate family, e.g. parents and their children)	 :: familie {m}
+family doctor {n} (practitioner of family medicine) SEE: general practitioner	 ::
+family name {n} (surname) SEE: surname	 ::
+famine {n} (extreme shortage of food in a region)	 :: [Bokmål] hungersnød {m} {f}; [Nynorsk] hungersnaud {f}, hungersnød {f}
+famous {adj} (well known)	 :: berømt
+fan {n} (admirer)	 :: fan {m}; [Bokmål] tilhenger {m}; [Nynorsk] tilhengjar {m}
+fan {n} (electrical device)	 :: vifte
+fan {n} (hand-held device)	 :: vifte
+fanatic {n} (one who is zealously enthusiastic)	 :: [Bokmål] fanatiker {m}; [Nynorsk] fanatikar {m}
+fanny {n} (buttocks) SEE: ass or bum	 ::
+fanny {n} (Sexual intercourse with a woman) SEE: pussy	 ::
+fanny {n} (vulva or vagina) SEE: pussy	 ::
+fanny pack {n} (pouch)	 :: rumpetaske {m} {f}
+fantasise {v} (fantasize) SEE: fantasize	 ::
+fantasize {v} (intransitive: to indulge in fantasy)	 :: fantasere
+fantastic {adj} (incredibly wonderful)	 :: fantastisk
+fantastical {adj} (fanciful) SEE: fanciful	 ::
+fantastical {adj} (fantastic) SEE: fantastic	 ::
+Fantizi {prop} (Traditional Chinese) SEE: Traditional Chinese	 ::
+faqir {n} (fakir) SEE: fakir	 ::
+far {adj} (remote in space)	 :: langt borte, fjern
+far {adj} (remote in time)	 :: fjern
+far {adv} (context: with a comparative) SEE: very much	 ::
+far {adv} (distant in space, time, or degree)	 :: langt
+far {adv} (to or from a great distance, time, or degree)	 :: langt
+far {n} (spelt) SEE: spelt	 ::
+fardingbag {n} (rumen) SEE: rumen	 ::
+fare {n} (money paid for a transport ticket)	 :: billettpris {m}
+Far East {prop} (East and Southeast Asia)	 :: Det fjerne østen; [Nynorsk] Det fjerne Austen
+fare dodger {n} (a person who deliberately avoids payment for public transport)	 :: [Bokmål] blindpassasjer ["blind passenger"]
+farm {n} (a place where agricultural activities take place)	 :: gård {m}, bondegård {m}; [Nynorsk] gard
+farm {v} (to grow a particular crop)	 :: dyrke
+farmer {n} (person who works the land or who keeps livestock)	 :: bonde {m}, gårdbruker {m}
+farming {n} (agriculture) SEE: agriculture	 ::
+farm worker {n} (person who works on, but does not own, a farm)	 :: [Bokmål] gårdsarbeider; [Nynorsk] gardsarbeidar
+Faroe Islands {prop} (group of islands between Scotland and Iceland)	 :: Færøyene; [Nynorsk] Færøyane {f-p}
+Faroese {adj} (pertaing to the Faroese language, people or Faroe Islands)	 :: [Bokmål] færøysk; [Nynorsk] færøysk
+Faroese {n} (person from the Faroe Islands)	 :: [Bokmål] færøying {m}; [Nynorsk] færøying {m}
+Faroese {prop} (language)	 :: [Bokmål] færøysk {m}; [Nynorsk] færøysk {m}
+Faroish {adj} (pertaing to the Faroish language, people or Faroe Islands)	 :: [Bokmål] færøysk; [Nynorsk] færøysk
+Faroish {n} (person from the Faroe Islands)	 :: [Bokmål] færøying {m}; [Nynorsk] færøying {m}
+Faroish {prop} (language)	 :: [Bokmål] færøysk {m}; [Nynorsk] færøysk {m}
+farrier {n} (person who trims and shoes horses' hooves)	 :: [Bokmål] hovslager {m}; [Nynorsk] hovslagar {m}
+farrow {n} (litter of piglets)	 :: [Bokmål] kull {n}, kull grisunger {n}; [Nynorsk] kull {n}, kull grisungar {n}
+farrow {v} (give birth to (a litter of piglets))	 :: [Bokmål] grise, få grisunger; [Nynorsk] grise, få grisungar
+Farsi {prop} (Persian language) SEE: Persian	 ::
+fart {n} (an emission of flatulent gases)	 :: fis {m}, fjert {m}, propp {m}, promp {m}, vind {m}
+fart {v} (to emit flatulent gases)	 :: fise, fjerte, proppe, prompe, slippe en vind
+fascia {n} (dashboard) SEE: dashboard	 ::
+fascination {n} (the act of fascinating, bewitching, or enchanting; enchantment; witchcraft)	 :: fascinasjon, forheksing, fortrylling
+fascination {n} (the state or condition of being fascinated)	 :: fascinert {f}, forhekset, fortryllet
+fascism {n} (extreme totalitarian political regime)	 :: fasisme {m}, fascisme {m}
+fascist {adj} (of or relating to fascism)	 :: [Bokmål] fascistisk, fasistisk; [Nynorsk] fascistisk, fasistisk
+fascist {adj} (supporting the principles of fascism)	 :: [Bokmål] fascistisk, fasistisk; [Nynorsk] fascistisk, fasistisk
+fashion {n} (current (constantly changing) trend, favored for frivolous rather than practical, logical, or intellectual reasons)	 :: mote {m}
+fashion {n} (popular trends)	 :: mote {m}
+fashion-conscious {adj} (interested in the latest fashions)	 :: [Bokmål] motebevisst; [Nynorsk] motebevisst
+fast {adj} (ahead of the correct time or schedule)	 :: før, for tidlig
+fast {adj} (capable of moving with great speed)	 :: rask, kjapp
+fast {adj} (firmly or securely fixed in place)	 :: fast
+fast {adj} (of a dye: not running or fading)	 :: fargeekte
+fast {adj} (of photographic film: more sensitive to light than average)	 :: rask
+fast {adj} (of sleep: deep or sound)	 :: dyp
+fast {adv} (in a firm or secure manner)	 :: fast
+fast {adv} (of sleeping: deeply or soundly)	 :: dypt
+fast {adv} (with great speed)	 :: raskt, kjapt, hurtig
+fast {n} (fasting) SEE: fasting	 ::
+fast {n} (train that only calls at some stations) SEE: express	 ::
+fast {v} (to abstain from or eat very little food)	 :: faste
+fasten {v} (to attach or connect in a secure manner)	 :: [Bokmål] feste; [Nynorsk] feste
+fast-forward {v} (fast forward) SEE: fast forward	 ::
+fasting {n} (act or practice of abstaining from or eating very little food)	 :: faste {m}
+fasting {n} (period of time when one abstains from or eats very little food)	 :: faste {m}
+fat {adj} (carrying a larger than normal amount of fat on one's body)	 :: feit, korpulent
+fat {n} (specialized animal tissue)	 :: [Bokmål] fett {n}; [Nynorsk] feitt {n}
+fat {n} (vat) SEE: vat	 ::
+fatal {adj} (causing death)	 :: fatal
+fatal {adj} (foreboding death)	 :: skjebnesvanger, fatal
+fatal {adj} (proceeding from fate)	 :: skjebnebestemt
+Fata Morgana {n} (fata morgana) SEE: fata morgana	 ::
+fat dormouse {n} (edible dormouse) SEE: edible dormouse	 ::
+fate {n} (destiny)	 :: [Bokmål] skjebne {m}; [Nynorsk] skjebne {m}
+fate {n} (inevitable events)	 :: [Bokmål] skjebne {m}; [Nynorsk] skjebne {m}
+fate {n} (that which predetermines events)	 :: [Bokmål] skjebne {m}; [Nynorsk] skjebne {m}
+father {n} (male parent)	 :: far, pappa, fader
+fatherland {n} (fatherland)	 :: fedreland {n}
+fathom {n} (measure of length)	 :: favn
+Fatimite {n} (Fatimid) SEE: Fatimid	 ::
+fatty acid {n} (acid)	 :: [Bokmål] fettsyre {m} {f}; [Nynorsk] feittsyre {f}
+fatware {n} (bloatware) SEE: bloatware	 ::
+faucet {n} (tap) SEE: tap	 ::
+fault {n} (geological fracture through rock)	 :: forkastning {m} {f}
+fault {n} (mistake, e.g., of a person)	 :: skyld {m} {f}
+faun {n} (a mythical creature)	 :: faun {m}
+favid coral {n} (brain coral) SEE: brain coral	 ::
+favorable {adj} (auspicious) SEE: favourable	 ::
+favorable {adj} (opportune) SEE: favourable	 ::
+favorable {adj} (pleasing) SEE: favourable	 ::
+favorable {adj} (useful) SEE: favourable	 ::
+favorite {adj} (preferred)	 :: favoritt, yndlings
+favour {n} (favor) SEE: favor	 ::
+favour {v} (favor) SEE: favor	 ::
+favourite {adj} (favorite) SEE: favorite	 ::
+f-bomb {n} (euphemism for "fuck") SEE: f-word	 ::
+fealty {n} (fidelity to one's lord)	 :: troskap {m}
+fealty {n}	 :: troskapsed {m}
+fear {n} (uncountable: emotion caused by actual or perceived danger or threat)	 :: [Bokmål] frykt {f}
+fearmonger {n} (alarmist) SEE: alarmist	 ::
+feast {n} (meal)	 :: etegilde {n}
+feather {n} (branching, hair-like structure that grows on the bodies of birds)	 :: [Bokmål] fjær {m} {f}; [Nynorsk] fjør
+February {prop} (second month of the Gregorian calendar)	 :: februar; [Nynorsk] februar
+fecal matter {n} (feces)	 :: fekalia {p}
+feces {n} (digested waste material discharged from the bowels)	 :: avføring
+feckless {adj} (lacking purpose)	 :: hjelpeløs, initiativløs
+feckless {adj} (without skill, ineffective)	 :: hjelpeløs, udugelig, ubehjelpelig
+federation {n} (array of nations or states)	 :: føderasjon
+fee {n} (monetary payment charged for professional services)	 :: [Bokmål] avgift {m}, gebyr {n}
+feeble {adj} (deficient in physical strength)	 :: svak, blek
+feeble {adj} (wanting force, vigor or efficiency in action or expression)	 :: svak, blek
+feed {n} (encapsulated online content that you can subscribe to with a feed reader)	 :: mating {m}
+feed {v} (to eat, see also: eat)	 :: leve av
+feed {v} (to give food to eat)	 :: mate; [Bokmål] fôre
+feed {v} (to give to a machine for processing)	 :: mate
+feeder {n} (baseball:pitcher) SEE: pitcher	 ::
+feel {n} (mental impression)	 :: [Bokmål] følelse {m}
+feel {n} (quality)	 :: [Bokmål] berøring {m}
+feel {v} (copulative: to seem)	 :: føle
+feel {v} (intransitive: to search by touching)	 :: kjenne etter, føle
+feel {v} (transitive: to experience an emotion or other mental state about)	 :: føle
+feel {v} (transitive: to sense by touch)	 :: føle, kjenne
+feel {v} (transitive: to think or believe)	 :: føle
+feeling {adj} (emotionally sensitive)	 :: følsom
+feeling {n} (emotion)	 :: [Bokmål] følelse {m}; [Nynorsk] følelse {m}
+feeling {n} (in plural: emotional attraction or desire)	 :: [Bokmål] følelser {p}; [Nynorsk] følelsar {p}
+feeling {n} (in plural: emotional state or well-being)	 :: [Bokmål] følelser {p}; [Nynorsk] følelsar {p}
+feeling {n} (intuition)	 :: [Bokmål] følelse {m}; [Nynorsk] følelse {m}
+feeling {n} (sensation)	 :: [Bokmål] følelse {m}; [Nynorsk] følelse {m}
+feet {n} (foot) SEE: foot	 ::
+feign {v} (to make a false copy)	 :: simulere, spille
+felicitate {v} (congratulate) SEE: congratulate	 ::
+felicitation {n} (congratulation) SEE: congratulation	 ::
+felicity {n} (happiness) SEE: happiness	 ::
+feline {n} (cat) SEE: cat	 ::
+Felix {prop} (male given name)	 :: Felix
+fell {n} (animal hide)	 :: fell {m}
+fell {n} (rocky ridge)	 :: fjell {n}
+fellowship {n} (Company of people that shares the same interest or aim)	 :: [Bokmål] fellesskap
+felt {n} (cloth made of matted fibres of wool)	 :: filt {m}
+felt {n} (hat made of felt)	 :: filthatt {m}
+felt-tip pen {n} (pen that holds ink conveyed to a writing surface by a felt nib)	 :: tusj {m}, tusjpenn {m}
+female {adj} (belonging to the sex with larger, fertilizable gametes)	 :: [Bokmål] kvinnelig, hunn-
+female {adj} (having an internal socket)	 :: hunn-
+female {n} (one of the feminine sex or gender)	 :: kvinne
+female genital cutting {n} (female genital mutilation) SEE: female genital mutilation	 ::
+femidom {n} (female condom) SEE: female condom	 ::
+feminine {adj} (of the feminine grammatical gender distinction)	 :: hunkjønn
+feminism {n} (the social theory or political movement)	 :: [Bokmål] feminisme {m}; [Nynorsk] feminisme {m}
+feminist {adj} (relating to or in accordance with feminism)	 :: [Bokmål] feministisk; [Nynorsk] feministisk
+feminist {n} (advocate of feminism; person who believes in bringing about the equality of men and women)	 :: [Bokmål] feminist {m}; [Nynorsk] feminist {m}
+feminist {n} (member of a feminist political movement)	 :: [Bokmål] feminist {m}; [Nynorsk] feminist {m}
+femur {n}	 :: lårbein {n}
+fence {n} (barrier)	 :: [Bokmål] gjerde {n}; [Nynorsk] gjerde {n}
+fennec fox {n} (fox) SEE: fennec	 ::
+fenugreek {n} (spice)	 :: bukkehornkløver
+feral pigeon {n} (pigeon adapted to city life)	 :: [Bokmål] tamdue {f}
+Ferdinand {prop} (male given name)	 :: Ferdinand
+fermion {n} (a particle with totally antisymmetric composite quantum states)	 :: [Bokmål] fermion {n}; [Nynorsk] fermion {n}
+fermium {n} (chemical element)	 :: fermium
+ferret {n} (the mammal Mustela putorius furo)	 :: frett
+ferrier {n} (ferryman) SEE: ferryman	 ::
+Ferris wheel {n} (ride at a fair consisting of large wheel)	 :: pariserhjul {n}
+ferrous {adj} (of or containing iron)	 :: jern-, jernholdig
+ferry {n} (boat)	 :: [Bokmål] ferge {m} {f}, ferje {m} {f}; [Nynorsk] ferje {f}
+fertile {adj} ((biology) capable of reproducing)	 :: [Bokmål] fruktbar; [Nynorsk] fruktbar
+fertile {adj} ((of land etc) capable of growing abundant crops)	 :: [Bokmål] fruktbar; [Nynorsk] fruktbar
+fertilizer {n} (a chemical compound created to have the same effect.)	 :: [Bokmål] kunstgjødsel {m} {f}; [Nynorsk] kunstgjødsel {f}
+fertilizer {n} (a natural substance that is used to make the ground more suitable for growing plants)	 :: [Bokmål] gjødsel {m} {f}; [Nynorsk] gjødsel {f}
+fervour {n} (fervor) SEE: fervor	 ::
+fescue {n} (stick, etc., used chiefly to point out letters to children) SEE: pointer	 ::
+fess up {v} (confess) SEE: confess	 ::
+festival {n} (celebration)	 :: [Bokmål] festival {m}; [Nynorsk] festival {m}
+fetch {v} (To obtain as price or equivalent; to sell for)	 :: [Bokmål] innbringe
+fetch {v} (To retrieve; to bear towards; to get)	 :: hente
+fetus {n} (fetus)	 :: foster {n}
+feud {n} (A state of long-standing mutual hostility)	 :: feide {m}
+feudalistic {adj} (of feudalism) SEE: feudal	 ::
+fever {n} (higher than normal body temperature)	 :: feber {m}
+fever {n} (state of excitement (of a person or people))	 :: feber {m}
+fever {n} (usually in combination: any of various diseases)	 :: feber {m}
+fever bush {n} (American winterberry) SEE: American winterberry	 ::
+few {determiner} (indefinite, usually small number)	 :: få, noen
+few {determiner} (small number)	 :: få
+fewer {determiner} (comparative of few; a smaller number)	 :: færre
+fiasco {n} (ludicrous or humiliating situation)	 :: fiasko {m}
+fib {n} (a more or less inconsequential lie)	 :: [Bokmål] hvit løgn {m} {f}; [Nynorsk] kvit løgn {f}, kvit lygn {f}
+fiber {n} (fibre) SEE: fibre	 ::
+fiberglass {n} (fibreglass) SEE: fibreglass	 ::
+fiberise {v} (fiberize) SEE: fiberize	 ::
+fibre {n} (dietary fibre) SEE: dietary fibre	 ::
+fibre {n} (single elongated piece of material)	 :: [Bokmål] fiber {m}; [Nynorsk] fiber {m}
+fibreise {v} (fiberize) SEE: fiberize	 ::
+fibreize {v} (fiberize) SEE: fiberize	 ::
+fibre optic {adj} (relating to fibre optics)	 :: [Bokmål] fiberoptisk
+fibrise {v} (fiberize) SEE: fiberize	 ::
+fibrize {v} (fiberize) SEE: fiberize	 ::
+fibula {n} (calf bone) SEE: calf bone	 ::
+fiction {n} (literary type)	 :: fiksjon {m}
+fictitious {adj} (invented)	 :: fiktivt
+fictive {adj} (fictional, fanciful or invented)	 :: fiktiv
+fiddle {n} (instrument)	 :: fele {m} {f}
+fidget {v} (to move around nervously)	 :: sprelle
+field {n} (course of study or domain of knowledge or practice)	 :: fagfelt {n}, felt {n}
+field {n} (geology: region containing a particular mineral)	 :: felt {n}
+field {n} (in mathematics)	 :: kropp {m}
+field {n} (land area free of woodland, cities, and towns; open country)	 :: [Bokmål] felt {n}
+field {n} (physics: region affected by a particular force)	 :: felt {n}
+field {n} (sports: area reserved for playing a game)	 :: bane {m}
+field {n} (wide, open space used to grow crops or to hold farm animals)	 :: åker {m} [for crops]
+field hospital {n} (medical unit)	 :: lasarett
+field marshal {n} (miliary rank)	 :: feltmarskalk
+fiendish {adj} (sinister, evil)	 :: djevelsk
+fierce {adj} (extremely violent, severe, ferocious or savage)	 :: voldsom
+fifteen {num} (cardinal number)	 :: femten
+fifteenth {adj} (ordinal form of number fifteen)	 :: femtende
+fifth {adj} (Ordinal form of the number 5)	 :: femte (abbreviation 5.)
+fifth {n} (fifth gear) SEE: fifth gear	 ::
+fifth {n} (one of five equal parts of a whole)	 :: [Bokmål] femdel {m}, femtedel {m}; [Nynorsk] femdel {m}, femtedel {m}
+Fifth {prop} (Fifth Amendment) SEE: Fifth Amendment	 ::
+fiftieth {adj} (the ordinal form of the number fifty)	 :: femtinde
+fifty {num} (cardinal number)	 :: femti
+fifty-five {num} (cardinal number)	 :: førtifem
+fifty-four {num} (cardinal number)	 :: førtifire
+fig {n} (fruit)	 :: [Bokmål] fiken {m}; [Nynorsk] fiken {m}
+fig {n} (tree or shrub)	 :: fikentre {n}
+fight {n} (battle)	 :: slag
+fight {n} (conflict of will, strife)	 :: kamp
+fight {n} (martial arts match)	 :: kamp
+fight {n} (occasion of fighting)	 :: slåsskamp
+fight {n} (physical confrontation)	 :: slåsskamp
+fight {n} (will or ability to fight)	 :: stridslyst
+fight {v} (to conduct or engage in)	 :: slåss
+fight {v} (to contend in physical conflict)	 :: slåss, kjempe
+fight {v} (to counteract)	 :: bekjempe
+fight {v} (to engage in combat)	 :: slåss
+fight {v} (to strive for)	 :: kjempe for
+fighter {n} (boxer) SEE: boxer	 ::
+fighter plane {n} (military aircraft)	 :: jagerfly
+fight fire with fire {v} (idiomatic)	 :: bekjempe ild med ild
+figure {n} (dance figure) SEE: dance figure	 ::
+figure {n} (figure of speech) SEE: figure of speech	 ::
+figure out {v} (come to understand)	 :: [Bokmål] finne ut
+figure out {v} (to calculate) SEE: calculate	 ::
+figure skating {n} (sport where people perform spins, jumps and other moves on skates)	 :: kunstløp
+Fiji {prop} (Republic of the Fiji Islands)	 :: Fiji
+Fijian {adj} (of, or relating to, Fiji, its people, or its language)	 :: [Bokmål] fijiansk; [Nynorsk] fijiansk
+Fijian {n} (a person from Fiji or of Fijian descent)	 :: [Bokmål] fijianer {m}; [Nynorsk] fijian {m}, fijianar {m}
+Fijian {prop} (language )	 :: [Bokmål] fijiansk {m}; [Nynorsk] fijiansk {m}
+file {n} (collection of papers)	 :: arkiv {n}
+file {n} (computer terminology)	 :: fil {m} {f}
+file {v} (to archive)	 :: arkivere
+file {v} (to commit papers)	 :: arkivere
+file {v} (to make a formal request)	 :: inngi; [Bokmål] fremme
+file {v} (to store computer data)	 :: lagre
+file cabinet {n} (piece of office furniture) SEE: filing cabinet	 ::
+file extension {n} (string of characters)	 :: [Bokmål] filetternavn {n}, filendelse {m}, filnavnsuffiks {n}; [Nynorsk] filetternavn {n}, filending {f}, filnavnsuffiks {n}
+file size {n} (length of a file)	 :: [Bokmål] filstørrelse {m}
+filial {adj} (pertaining to a son or daughter)	 :: [Bokmål] sønnlig, datterlig; [Nynorsk] barnleg
+filibuster {n} (freebooter)	 :: fribytter {m}
+filibuster {n} (long speech given in order to delay progress or the making of a decision)	 :: filibuster {m}
+Filipino {adj} (Of or pertaining to the Philippines or its people)	 :: [Bokmål] filippinsk; [Nynorsk] filippinsk
+Filipino {n} (native or inhabitant of the Philippines)	 :: [Bokmål] filippiner {m}; [Nynorsk] filippinar {m}
+Filipino {prop} (One of two national languages of the Philippines)	 :: [Bokmål] filippinsk {m}; [Nynorsk] filippinsk {m}
+fill {n} (archeology: fill soil) SEE: fill soil	 ::
+fill in {v} (fill out) SEE: fill out	 ::
+fill in {v} (fill) SEE: fill	 ::
+filling station {n} (gas station) SEE: gas station	 ::
+film {n} (motion picture)	 :: [Bokmål] film {m}; [Nynorsk] film {m}
+film {n} (photographic film)	 :: [Bokmål] film {m}; [Nynorsk] film {m}
+film {n} (thin layer)	 :: [Bokmål] film {m}; [Nynorsk] film {m}
+film director {n} (person)	 :: [Bokmål] filmregissør
+film star {n} (movie star) SEE: movie star	 ::
+filter {n} (device for separating impurities from a fluid or other substance)	 :: filter {n}
+filth {n} (dirt)	 :: skitt {m}
+filthiness {n} (dirtiness) SEE: dirtiness	 ::
+filthy {adj} (covered with filth; very dirty)	 :: møkkete
+filthy {adj} (obscene or offensive)	 :: slibrig
+fin {n} (aircraft component)	 :: finne {m}
+fin {n} (appendage of a cetacean or other marine animal)	 :: finne {m}
+fin {n} (appendage of a fish)	 :: finne {m}
+fin {n} (device used by divers)	 :: svømmeføtter, finner
+fin {n} (hairstyle)	 :: hanekam
+finale {n} (grand end of something)	 :: finale
+final straw {n} (last straw) SEE: last straw	 ::
+financing {n} (funding) SEE: funding	 ::
+finback {n} (fin whale) SEE: fin whale	 ::
+find {n} (act of finding)	 :: funn {n}
+find {n} (anything found)	 :: funn {n}
+find {v} (decide that)	 :: finne
+find {v} (determine, judge)	 :: finne
+find {v} (discover) SEE: discover	 ::
+find {v} (encounter, locate, discover)	 :: finne
+find {v} (point out)	 :: finne
+finders keepers {proverb} (whoever finds something is allowed to keep it)	 :: [Bokmål] finner'n er vinner'n (finneren er vinneren); [Nynorsk] finnaren er vinnaren
+fine {adj} (being acceptable, adequate, passable, or satisfactory)	 :: fin, bra
+fine {adj} (good-looking, attractive)	 :: fin, pen
+fine {adj} (made up of particularly small pieces)	 :: fin
+fine {adj} (of superior quality)	 :: flott
+fine {adj} (of weather: sunny and not raining)	 :: fint
+fine {adv} (expression of agreement)	 :: fint, bra
+fine {n} (payment for breaking the law)	 :: bot {m}
+fine {v} (to issue a fine as punishment)	 :: bøtelegge, ilegge bot
+finery {n} (fineness) SEE: fineness	 ::
+finger {n} (extremity of the hand)	 :: finger {m}
+fingernail {n} (covering near the tip of finger)	 :: [Bokmål] fingernegl {m}
+fingerprint {n}	 :: fingeravtrykk {n}
+fingerprint {n} (the pattern of ridges on the tips of the fingers)	 :: fingeravtrykk {n}
+fingerprint {n} (the patterns left on surfaces where fingertips have touched)	 :: [Bokmål] fingeravtrykk {n}; [Nynorsk] fingeravtrykk {n}
+finish {n} (end)	 :: avslutning {m} {f}, slutt {m}
+finish {n} (finish line) SEE: finish line	 ::
+finish {n} (protective coating)	 :: toppstrøk {n}, finish {m}
+finish {v} (to come to an end)	 :: avslutte
+finish {v} (to complete)	 :: fullføre, avslutte
+finishing move {n} (final blow)	 :: nådestøt {n}, nådeskudd {n}
+finish off {v} (to kill) SEE: kill	 ::
+finite {adj} (having an end or limit)	 :: endelig, avsluttet
+finiteness {n} (the state of being finite)	 :: endelighet
+Finland {prop} (Nordic country)	 :: Finland
+Finn {n} (person from Finland)	 :: [Bokmål] finlender {m}, finlending {m}, finne {m}; [Nynorsk] finlendar {m}, finlending {m}, finne {m}
+Finnic {adj} (Finnish) SEE: Finnish	 ::
+Finnish {adj} (of Finland)	 :: [Bokmål] finsk, finlandsk; [Nynorsk] finsk, finlandsk
+Finnish {adj} (of the Finnish language)	 :: [Bokmål] finsk; [Nynorsk] finsk
+Finnish {prop} (language)	 :: [Bokmål] finsk {m}; [Nynorsk] finsk {m}
+Finno-Ugric {adj} (of or relating to Finno-Ugric)	 :: [Bokmål] finsk-ugrisk; [Nynorsk] finsk-ugrisk
+fin whale {n} (Balaenoptera physalus)	 :: finnhval {m}
+Fiordland penguin {n} (Penguin)	 :: skogpingvin
+fir {n} (conifer of the genus Abies)	 :: edelgran; [Nynorsk] edelgran
+fire {n} (alchemy: one of the four basic elements)	 :: [Bokmål] ild {m}; [Nynorsk] eld {m}
+fire {n} (heater or stove)	 :: [Bokmål] ovn {m}; [Nynorsk] omn {m}
+fire {n} (India and Japan: one of the five basic elements)	 :: [Bokmål] ild {m}; [Nynorsk] eld {m}
+fire {n} (in-flight bullets)	 :: [Bokmål] ild {m}; [Nynorsk] eld {m}
+fire {n} (occurrence of fire in a certain place)	 :: brann {m}
+fire {n} (oxidation reaction)	 :: [Bokmål] ild {m}; [Nynorsk] eld {m}
+fire {n} (something that has produced or is capable of producing this chemical reaction)	 :: bål {n} [campfire]
+fire {n} (the elements of a fire)	 :: fyr {m}
+fire {v} (intransitive: to shoot)	 :: fyre
+fire {v} (physiology: to cause action potential in a cell)	 :: fyre
+fire {v} (to heat pottery, etc.)	 :: brenne
+fire {v} (to set on fire) SEE: set on fire	 ::
+fire {v} (to terminate the employment of)	 :: gi sparken, sparke, avskjedige
+fire {v} (transitive: to shoot)	 :: avfyre
+fire alarm {n} (device which warns people of a possible fire)	 :: brannalarm {m}
+fire alarm {n} (response to a fire by the fire department)	 :: brannutrykning {c}
+fire alarm {n} (sound or other warning made by a fire alarm)	 :: brannalarm {m}
+firearm {n} (personal weapon)	 :: [Bokmål] skytevåpen {n}; [Nynorsk] skytevåpen {n}, skjotevåpen {n}
+firebrand {n} (torch or other burning stick)	 :: fakkel {m}
+fire brick {n} (brick) SEE: firebrick	 ::
+fire brigade {n} (group within a corporation or industrial site)	 :: brannvern {n}
+fire brigade {n} (organization for preventing and putting out fires)	 :: brannvesen {n}
+fire company {n} (an organization whose purpose is to extinguish fires)	 :: brannvesen {n}
+firecracker {n} (a firework)	 :: kinaputt {m}
+fire department {n} (fire department)	 :: brannvesen {n}
+fire engine {n} (fire truck)	 :: brannbil {m}
+fire extinguisher {n} (fire extinguisher)	 :: slokkingsapparat {n}
+firefighter {n} (a person who puts out fires)	 :: brannkonstabel {m}, brannmann {m}
+firefly {n} (Lampyridae)	 :: ildflue {f}
+firehose {n} (thick, high-pressure hose)	 :: brannslange {m}
+fire house {n} (fire station) SEE: fire station	 ::
+firehouse {n} (fire station) SEE: fire station	 ::
+fireman {n} (male skilled in fighting fire)	 :: brannmann {m}
+fireman {n} (man who keeps the fire going underneath a steam boiler)	 :: fyrbøter {m}
+fireman {n} (someone skilled in fighting fire) SEE: firefighter	 ::
+fireplace {n} (an open hearth for holding a fire)	 :: grue {c}, ; [Bokmål] ildsted {n}
+fire station {n} (building for firefighters)	 :: brannstasjon {m}
+fire truck {n} (fire truck in general) SEE: fire engine	 ::
+firewood {n} (wood intended to be burned, typically for heat)	 :: ved {m}
+firework {n} (exploding device)	 :: fyrverkeri
+firm {v} (Australian, betting: to shorten) SEE: shorten	 ::
+first {adj} (numeral first)	 :: først
+first {n} (baseball: first base) SEE: first base	 ::
+first {n} (first gear) SEE: first gear	 ::
+first aid {n} (basic care)	 :: [Bokmål] førstehjelp {m} {f}; [Nynorsk] førstehjelp {f}
+first come, first served {proverb} (people will be dealt with in the order they arrive)	 :: [Bokmål] den som kommer først til mølla, får først malt
+first cousin {n} (cousin) SEE: cousin	 ::
+first cousin once removed {n} (child of a first cousin)	 :: fetterbarn {n} (child of male first cousin), kusinebarn {n} (child of female first cousin)
+first-degree murder {n} (premeditated murder)	 :: overlagt drap
+first light {n} (dawn) SEE: dawn	 ::
+first name {n} (name chosen by parents)	 :: fornavn {n}
+First Nation {adj} (of or pertaining to First Nations) SEE: First Nations	 ::
+first person {n} (the form of a pronoun verb used when the subject of a sentence is making the statement)	 :: første person {m}
+First World War {prop} (World War I) SEE: World War I	 ::
+fiscal stamp {n} (revenue stamp) SEE: revenue stamp	 ::
+fish {n} (vertebrate animal)	 :: fisk {m}
+fish {v} (intransitive: to try to catch fish)	 :: fiske
+fish and chips {n} (chips) SEE: chips	 ::
+fishbone {n} (bone of a fish)	 :: fiskebein {n}
+fisher cat {n} (Martes pennanti) SEE: fisher	 ::
+fisherman {n} (person catching fish)	 :: [Bokmål] fisker {m}; [Nynorsk] fiskar {m}
+fish finger {n} (stick of processed fish)	 :: fiskepinne
+fishhook {n} (barbed hook for fishing)	 :: [Bokmål] angel, fiskekrok; [Nynorsk] ongul, ongel
+fishing {n} (act or sport of catching fish)	 :: fisking {m} {f}
+fishing {n} (business of catching fish)	 :: fisking {m} {f}
+fishing boat {n} (boat)	 :: [Bokmål] fiskebåt {m}; [Nynorsk] fiskebåt {m}
+fishing hook {n} (fishhook) SEE: fishhook	 ::
+fishing rod {n} (rod used for angling)	 :: [Bokmål] fiskestang
+fish ladder {n} (structure to facilitate migration of fish)	 :: laksetrapp {m} {f}
+fishline {n} (fishing line) SEE: fishing line	 ::
+fishmonger {n} (archaic: a pimp)	 :: hallik {m}
+fishmonger {n} (fishmonger's) SEE: fishmonger's	 ::
+fishmonger {n} (person who sells fish)	 :: [Bokmål] fiskehandler {m}; [Nynorsk] fiskehandlar {m}
+fishmonger's {n} (shop that sells fish)	 :: fiskebutikk {m}, fiskehandel {m}
+fish stick {n} (rectangular morsel of processed fish) SEE: fish finger	 ::
+fishway {n} (fish ladder) SEE: fish ladder	 ::
+fishwife {n} (a woman who sells or works with fish)	 :: fiskerkone {m} {f}
+fishy {n} (little fish)	 :: [Bokmål] småfisk
+fission {n} (process of splitting an atom)	 :: fisjonere, spalte
+fission {n} (process whereby one item splits to become two)	 :: spalting
+fist {n} (clenched hand)	 :: neve {m}, knyttneve {m}
+fit {adj} (good-looking (female))	 :: deilig
+fit {v} (adjust) SEE: adjust	 ::
+fit {v} (make ready) SEE: prepare	 ::
+fit {v} (to conform to in size and shape)	 :: [Bokmål] passe; [Nynorsk] passe
+fit {v} (to have right size and cut, as of clothing)	 :: [Bokmål] passe; [Nynorsk] passe
+fit {v} (to tailor)	 :: [Bokmål] passe; [Nynorsk] passe
+fitness {n} (cultivation of an attractive and healthy physique)	 :: [Bokmål] egnethet, [dialectal] eignahet {f} {m}
+five {n} (digit)	 :: [Bokmål] femtall {n}
+five {n} (five-dollar bill)	 :: [Bokmål] femmer {m} [also used for the Norwegian 5-krone coin]
+five {n} (five-minute rest)	 :: [Bokmål] femminutter {m}
+five {num} (five )	 :: fem
+five hundred {num} (cardinal number 500)	 :: fem hundre
+five thousand {num} (5000)	 :: fem tusen
+fix {n} (a difficult situation or dilemma)	 :: dilemma {n}, knipe {c}
+fix {n} (an instance of fixing)	 :: reparasjon {m}
+fix {n} (a single dose of an addictive drug)	 :: skudd {n}, fix {m}
+fix {v}	 :: [Nynorsk] fikse, reparere
+fix {v} (to attach; to affix; to hold in place)	 :: feste
+fix {v} (to make a contest, vote, or gamble unfair)	 :: fikse
+fix {v} (to map (a point or subset) to itself)	 :: fiksere
+fix {v} (to mend or repair)	 :: [Bokmål] reparere, fikse, bøte, vøle; [Nynorsk] bøta/bøte, fiksa/fikse, reparera/reparere, vøla/vøle
+fix {v} (to prepare)	 :: ordne
+fix {v} (to render an animal infertile)	 :: gjelde
+fixed {adj} (stationary) SEE: stationary	 ::
+fizz {n} (carbonated beverage) SEE: soda	 ::
+fjeld {n} (Rocky, barren plateau)	 :: høyfjell {n}
+fjord {n} (long, deep inlet)	 :: fjord {m}
+flag {n} (abbreviation for capture the flag) SEE: capture the flag	 ::
+flag {n}	 :: flagg
+flag {n} (piece of cloth or often its representation)	 :: flagg {n}
+flagellum {n} (whip) SEE: whip	 ::
+flagpole {n} (a tall pole up which one or more flags may be raised and flown)	 :: [Bokmål] flaggstang {m} {f}; [Nynorsk] flaggstong {f}
+flagship {n} (ship occupied by the fleet's commander)	 :: flaggskip {n}
+flagstaff {n} (flagpole) SEE: flagpole	 ::
+flame out {v} (flare up) SEE: flare up	 ::
+flamethrower {n} (device that projects a flame)	 :: flammekaster {m}
+flamingo {n} (bird)	 :: flamingo {m}
+flammable {adj} (capable of burning)	 :: brennbar
+Flanders {prop}	 :: Flandern
+flaneur {n} (one who wanders aimlessly)	 :: flanør {m}
+flange {n} (rib or rim for strengthening)	 :: flens {m}
+flange {n} (slang:vulva) SEE: vulva	 ::
+flannel {n} (washcloth) SEE: washcloth	 ::
+flapjack {n} (pancake) SEE: pancake	 ::
+flash point {n} (figuratively; a hotspot)	 :: brennpunkt {n}, kritisk punkt
+flash point {n} (the lowest temperature at which a liquid can form an ignitable mixture)	 :: antennelsestemperatur {m}, flammepunkt {n}
+flashpoint {n} (figuratively; a hotspot)	 :: brennpunkt {n}, kritisk punkt
+flashpoint {n} (the lowest temperature at which a liquid can form an ignitable mixture)	 :: antennelsestemperatur {m}, flammepunkt {n}
+flat {adj} (having no variations in altitude)	 :: flat
+flat {adj} (lowered by one semitone)	 :: -es
+flat {adj} (of a tyre: deflated)	 :: flat
+flat {adj} (unable to generate power)	 :: dødt {n}
+flat {adj} (uninteresting)	 :: dødt {n}
+flat {adj} (with its carbon dioxide having come out of solution)	 :: doven
+flat {adj} (without variations in pitch)	 :: monoton
+flat {n} (apartment) SEE: apartment	 ::
+flat {n} (palm of the hand) SEE: palm	 ::
+flat as a pancake {adj} (extremely flat)	 :: [Bokmål] flat som en pannekake; [Nynorsk] flat som ei pannekake
+flat-chested {adj} (having small breasts)	 :: [Bokmål] flatbrystet, flatbrysta; [Nynorsk] flatbrysta
+flat feet {n} (physical condition of the feet) SEE: flatfoot	 ::
+flatfish {n} (fish)	 :: flatfisk {m}, flyndrefisk {m}
+flatfooted {adj} (having flat feet) SEE: flat-footed	 ::
+flatfooted {adj} (unprepared) SEE: flat-footed	 ::
+flatmate {n} (a person with whom one shares a flat)	 :: samboer {m}
+flatter {v} (to compliment someone)	 :: [Bokmål] smigre; [Nynorsk] smigre
+flatuency {n} (flatulence) SEE: flatulence	 ::
+flavour {n} (the quality produced by the sensation of taste)	 :: smak
+flax {n} (plant)	 :: lin
+flax {n} (plant native to New Zealand) SEE: phormium	 ::
+flea {n} (parasitic insect)	 :: loppe {f}
+flea market {n} (an outdoor market selling inexpensive antiques, curios)	 :: loppemarked {n}
+flechette {n} (lawn darts) SEE: lawn darts	 ::
+fleck {n} (flake) SEE: flake	 ::
+fleck {n} (lock) SEE: lock	 ::
+fleck {n} (small spot)	 :: flekk {m}
+flee {v} (to run away; to escape)	 :: [Bokmål] flykte, rømme; [Nynorsk] flykte, rømme
+fleet {n} (a group of vessels)	 :: [Bokmål] flåte {m}; [Nynorsk] flote {m}, flåte {m}
+fleeting {adj} (passing quickly)	 :: [Bokmål] flyktig; [Nynorsk] flyktig
+Flemish {adj} (of or relating to Flanders)	 :: [Bokmål] flamsk; [Nynorsk] flamsk
+flense {v} (To strip the blubber or skin from, as from a whale, seal, etc)	 :: [Bokmål] flense; [Nynorsk] flense
+flexible {adj} (easily bent without breaking)	 :: fleksibel
+flick {n} (cinema) SEE: cinema	 ::
+flick {n} (film) SEE: film	 ::
+flight deck {n} (aircraft cockpit) SEE: cockpit	 ::
+fling {n} (short sexual relationship)	 :: [Bokmål] eventyr {n}, affære {m}
+flint {n} (hard fine-grained quartz which generates sparks when struck)	 :: flint
+flippant {adj} (lacking respect)	 :: eplekjekk, flåset, flåsete
+float {n} (buoyant device)	 :: [angling float] dupp {m}
+floating-point number {n} (computing)	 :: flyttall {n}
+floating-point number {n} (number of the form a x bc)	 :: flyttall {n}
+floating wood tile {n} (laminate flooring) SEE: laminate flooring	 ::
+flock {v} (to congregate)	 :: flokke
+flog {v} (to defeat) SEE: defeat	 ::
+flog {v} (to sell) SEE: sell	 ::
+flog {v} (to steal) SEE: steal	 ::
+flood {n} (overflow of water)	 :: [Bokmål] flom; [Nynorsk] flaum
+flood {v} (to overflow)	 :: oversvømme
+floodlight {n} (powerful artificial illumination with a broad beam)	 :: [Bokmål] flomlys {n}
+floodlit {adj} (lit by floodlights)	 :: [Bokmål] flombelyst
+floor {n} (lower part of a room)	 :: gulv {n}
+floor {n} (storey) SEE: storey	 ::
+floorboard {v} (any of the long boards laid over joists to make a floor)	 :: golvplanke {m}, gulvplanke {m}
+flophouse {n} (cheap hotel) SEE: doss-house	 ::
+Flora {prop} (the goddess of flowers)	 :: Flora
+floss {n} (a thread, used to clean the area between the teeth)	 :: [Bokmål] tanntråd {m}; [Nynorsk] tanntråd {m}
+flounce {v} (to make spastic motions) SEE: flounder	 ::
+flounder {n} (any flatfish)	 :: flyndre {c}
+flounder {n} (Platichthys flesus)	 :: skrubbe {c}
+flour {n} (ground cereal grains)	 :: mjøl; [Bokmål] mel
+flow {n} (the movement of a fluid)	 :: flom {m}, strøm {m}
+flow {n} (the rising movement of the tide)	 :: flo {f} {m}
+flow {v} (to move as a fluid)	 :: flomme, strømme, fløda, fløyma
+flower {n} (reproductive structure in angiosperms)	 :: [Bokmål] blomst {m}; [Nynorsk] blom {m}, blome {m}, blomster {m}
+flowerbed {n} (place where flowers are grown)	 :: [Bokmål] blomsterbed {n}; [Nynorsk] blomsterbed {n}, blomebed {n}
+flower girl {n} (florist) SEE: florist	 ::
+flu {n} (common cold) SEE: common cold	 ::
+fluctuate {v} (to vary irregularly; to swing)	 :: svinge, fluktuere
+fluent {adj} (able to speak a language accurately and confidently)	 :: flytende
+fluid {adj} (in a state of flux; subject to change)	 :: [Bokmål] flytende; [Nynorsk] flytande
+fluid {adj} (moving smoothly)	 :: [Bokmål] flytende; [Nynorsk] flytande
+fluid {adj} (of or relating to fluid)	 :: [Bokmål] flytende; [Nynorsk] flytande
+fluid {n} (any state of matter which can flow)	 :: [Bokmål] væske {m} {f}; [Nynorsk] væske {f}
+fluorescent lamp {n} (a gas-discharge lamp)	 :: lysrør {n}, lysstoffrør {n}
+fluorine {n} (chemical element)	 :: [Bokmål] fluor {m} {n}; [Nynorsk] fluor {m} {n}
+flush {adj} (smooth, even, aligned; not sticking out)	 :: nettopp
+flush {adj} (wealthy or well off)	 :: rik
+flute {n} (woodwind instrument)	 :: [Bokmål] fløyte {m} {f}; [Nynorsk] fløyte {f}
+fluted {adj} (drunk) SEE: drunk	 ::
+flutist {n} (flute player) SEE: flautist	 ::
+flutter {v} (to flap or wave quickly)	 :: blafre
+flutter {v} (to flap the wings without flying)	 :: flakse
+flux {n} (A chemical agent for cleaning metal prior to soldering or welding)	 :: Fluks {m}
+flux {n} (The rate of transfer of energy (electric flux, magnetic flux))	 :: Fluks {m}
+fly {n} (fishing lure)	 :: [Bokmål] flue {f} {m}; [Nynorsk] fluge {f}
+fly {n} (fly ball) SEE: fly ball	 ::
+fly {n} (insect of the family Muscidae)	 :: [Bokmål] flue {f} {m}; [Nynorsk] fluge {f}
+fly {n} (insect of the order Diptera)	 :: [Bokmål] toving {f} {m}, tovinge {m}; [Nynorsk] toveng {m}
+fly {n} (piece of canvas that covers the opening of a tent)	 :: gylf {m}
+fly {n} (strip that hides the opening of trousers/pants or underpants)	 :: glidelås {m}, gylf {m}
+fly {v} (to flee)	 :: fly
+fly {v} (to travel through air)	 :: [Bokmål] fly, flyge; [Nynorsk] fly, flyge
+flying buttress {n} (buttress that stands apart from the structure that it supports)	 :: strebebue {m}
+flying fox {n} (bat of the family Pteropodidae) SEE: megabat	 ::
+flying saucer {n} (disc-shaped unidentified flying object)	 :: flygende tallerken
+Flying Spaghetti Monster {prop} (spaghetti deity)	 :: Flygende spaghettimonster
+fly on the wall {n} (quiet, non-participating or unseen observer)	 :: [Bokmål] flue på veggen; [Nynorsk] fluge på veggen
+flystrike {n} (myiasis) SEE: myiasis	 ::
+flywheel {n} (a rotating mass used to maintain the speed of a machine within certain limits while the machine receives or releases energy at a varying rate)	 :: [Bokmål] svinghjul {n}
+foal {n} (young (male or female) horse)	 :: føll {n}, fole {m}
+fob {n} (chain or ribbon)	 :: [Bokmål] urkjede {m}
+fob {n} (little pocket near waistline) SEE: watch pocket	 ::
+foe {n} (enemy) SEE: enemy	 ::
+foehn {n} (warm dry wind blowing down the northern sides of the Alps)	 :: [Bokmål] føn {m}, fønvind {m}; [Nynorsk] føn {m}, fønvind {m}
+foetus {n} (fetus) SEE: fetus	 ::
+fog {n} (cloud that forms at a low altitude and obscures vision)	 :: tåke {m} {f}, skodde {m} {f}
+fog {n} (mist or film clouding a surface)	 :: dugg {m}
+fog {n} (photography: blur on a developed photographic image)	 :: uskarphet {m}
+fog {n} (Scottish: moss) SEE: moss	 ::
+fog {n} (state of mind characterized by lethargy and confusion)	 :: uklarhet {m}
+fog {v} (to become obscured in condensation or water)	 :: dugge
+fog {v} (to cover with or as if with fog)	 :: dugge
+fog {v} (to make confusing or obscure)	 :: tåkelegge
+foie gras {n} (fattened liver of geese or ducks)	 :: gåselever {m}
+foil {n} (shortened form of aerofoil/airfoil) SEE: aerofoil	 ::
+foil {n} (shortened form of hydrofoil) SEE: hydrofoil	 ::
+folder {n} (container of computer files)	 :: mappe {m}
+foley {n} (a foley artist) SEE: foley artist	 ::
+foliage {n} (the leaves of plants)	 :: bladverk {n}, løvverk {n}
+folk {n} (inhabitants of a region)	 :: folk {n}, befolkning {m} {f}
+folk music {n} (music originating from a specific region)	 :: [Bokmål] folkemusikk {m}; [Nynorsk] folkemusikk {m}
+follow {v} (to go or come after in physical space)	 :: følge
+following {adj} (next in sequence or time)	 :: [Bokmål] følgende
+following {adj} (to be specified)	 :: [Bokmål] følgende
+fond {adj} (be fond of, like) SEE: like	 ::
+food {n} (any substance consumed by living organisms to sustain life)	 :: mat {m}, føde {m} {f}, næring {m} {f}
+food poisoning {n} (any food-borne disease)	 :: [Bokmål] matforgiftning {m} {f}; [Nynorsk] matforgifting {f}
+fool {n} (person who entertained a sovereign)	 :: narr {m}
+fool {n} (person with poor judgement or little intelligence)	 :: tosk {m}, dust {m}, tulling {m}
+fool {v} (to trick; to make a fool of someone)	 :: narre, lure
+foolish {adj} (lacking good sense or judgement; unwise)	 :: [Bokmål] tåpelig, dum
+foolscap {n} (fool's cap) SEE: fool's cap	 ::
+foot {n} (part of animal’s body )	 :: pote labb
+foot {n} (part of human body )	 :: [Bokmål] fot {m}; [Nynorsk] fot {m}
+foot {n} (unit of measure )	 :: [Bokmål] fot {m}; [Nynorsk] fot {m}
+foot {v} (kick)	 :: sparke
+foot {v} (pay)	 :: betale
+footage {n} (amount of film that has been used)	 :: filmmateriale {n}
+foot-and-mouth disease {n} (foot-and-mouth disease)	 :: munn- og klovsyke
+football {n} (ball)	 :: fotball
+football {n} (British game)	 :: fotball
+football {n} (practise of any of these games)	 :: fotball
+football {n} (US game)	 :: amerikansk fotball
+footballer {n} (one who plays football)	 :: [Bokmål] fotballspiller {m}, fotballspeller {m}; [Nynorsk] fotballspelar {m}
+football player {n} (footballer) SEE: footballer	 ::
+footbridge {n} (bridge for pedestrians)	 :: [Bokmål] gangbro {m} {f}, gangbru {m} {f}; [Nynorsk] gangbru {f}
+foothills {n} (plural of foothill) SEE: foothill	 ::
+foot locker {n} (footlocker) SEE: footlocker	 ::
+footman {n} (A soldier who marches and fights on foot) SEE: foot soldier	 ::
+footnote {n} (comment at the bottom of a printed page)	 :: [Bokmål] fotnote {m}; [Nynorsk] fotnote {m}
+footpath {n} (path for pedestrians)	 :: [Bokmål] gangsti {m}, (pavement) fortau {n}; [Nynorsk] gangstig {m}, gangsti {m}, (pavement) fortau {n}
+footstool {n} (a low stool)	 :: krakk {m}
+foppery {n} (stupidity) SEE: stupidity	 ::
+for {conj} (because)	 :: for, fordi
+for {prep} (because of)	 :: for
+for {prep} (directed at, intended to belong to)	 :: til
+for {prep} (supporting)	 :: for
+for {prep} (towards)	 :: mot, for
+forbid {v} (to disallow)	 :: forby
+force {n} (ability to attack, control, or constrain)	 :: styrke {m}
+force {n} (anything that is able to make a big change in person or thing)	 :: kraft {m} {f}
+force {n} (group that aims to attack, control, or constrain)	 :: styrke {m}
+force {n} (law: unlawful violence or lawful compulsion)	 :: tvang
+force {n} (physical quantity that denotes ability to accelerate a body)	 :: kraft {m} {f}
+force {n} (waterfall) SEE: waterfall	 ::
+force {v} (cause to occur, overcoming resistance)	 :: påtvinge
+force {v} (compel (someone to do something))	 :: tvinge
+ford {n} (crossing)	 :: vadeplass {m}, vadested {n}
+ford {v} (to cross a stream)	 :: vade
+forecast {v} (estimate future conditions)	 :: forutsi, predikere
+forecastle {n} (nautical: raised part of the upper deck at bow)	 :: ruff {m}
+forefinger {n} (first finger next to the thumb)	 :: [Bokmål] pekefinger {m}; [Nynorsk] peikefinger {m}
+foregoing {adj} (occurring before or in front of something else)	 :: foregående, forrige
+forehead {n} (part of face above eyebrows)	 :: [Bokmål] panne {m} {f}; [Nynorsk] panne {f}
+foreign {adj} (from a different country)	 :: utenlandsk
+foreign body {n} (unwanted intruding object)	 :: [Bokmål] fremmedlegeme {n}
+foreigner {n} (person in a foreign land)	 :: utlending {m}
+foreign exchange {n} (foreign currency) SEE: foreign currency	 ::
+foreign language {n} (any language other than that spoken by the people of a specific place)	 :: [Bokmål] fremmedspråk {n}
+foreign minister {n} (cabinet official)	 :: [Bokmål] utenriksminister {m}; [Nynorsk] utanriksminister {m}
+foreland {n} (headland) SEE: headland	 ::
+forelock {n} (part of a hairstyle) SEE: bangs	 ::
+foreman {n} (leader of a work crew)	 :: [Bokmål] formann {m}
+foreman {n} (member of a jury)	 :: [Bokmål] juryformann {m}
+forename {n} (a name that precedes surname)	 :: fornavn {n}
+forenoon {n} (the time period between dawn and noon)	 :: [Bokmål] formiddag {m}; [Nynorsk] formiddag {m}
+foresee {v} (to anticipate)	 :: forutse
+foreseen {v} (past participle of foresee)	 :: forutsett
+foreskin {n} (fold of skin) SEE: prepuce	 ::
+forest {n} (dense collection of trees)	 :: skog {m}
+forester {n} (moth) SEE: zygaenid	 ::
+foretell {v} (to predict the future)	 :: forutsi
+foretop {n} (forelock of a horse) SEE: forelock	 ::
+for ever {adv} (forever) SEE: forever	 ::
+for example {adv} (as an example)	 :: for eksempel; [Nynorsk] til dømes
+forge {n} (furnace or hearth)	 :: [Bokmål] esse {m}; [Nynorsk] esse {f}
+forge {n} (workshop)	 :: [Bokmål] smie {m} {f}; [Nynorsk] smie {f}
+forge {v} (to shape a metal)	 :: [Bokmål] smi; [Nynorsk] smi
+forgery {n} (invention) SEE: invention	 ::
+forget {v} (to cease remembering)	 :: [Bokmål] glemme, glømme; [Nynorsk] gløyma
+forget {v} (to lose remembrance of)	 :: [Bokmål] glemme, glømme; [Nynorsk] gløyma
+forgetfulness {n} (failure to bear in mind)	 :: [Bokmål] forglemmelse {m}
+forgetfulness {n} (loss of remembrance)	 :: [Bokmål] glemsomhet {m} {f}
+forgetfulness {n} (proneness to let slip from the mind)	 :: [Bokmål] glemsomhet {m} {f}
+forget-me-not {n} (plant of the genus Myosotis)	 :: [Bokmål] forglemmegei {m}; [Nynorsk] minneblom {m}, forgløymmegei {m}
+forgive {v} (transitive, to pardon)	 :: tilgi, forlate
+for God's sake {interj} (Exclamation of surprise, impatience, etc)	 :: for Guds skyld, Gudskjelov
+for instance {adv} (as an example) SEE: for example	 ::
+fork {n} (eating utensil)	 :: [Bokmål] gaffel {m}; [Nynorsk] gaffel {m}
+fork {n} (forklift) SEE: forklift	 ::
+fork {n} (gallows) SEE: gallows	 ::
+fork {n} (intersection)	 :: [Bokmål] forgrening {m} {f}, forgreining {m} {f}; [Nynorsk] forgreining {f}
+fork {n} (point where a waterway splits)	 :: [Bokmål] forgreining {m} {f}, forgrening {m} {f}; [Nynorsk] forgreining {f}
+fork {n} (pronged tool)	 :: [Bokmål] gaffel {m}; [Nynorsk] gaffel {m}
+fork {n} (tuning fork) SEE: tuning fork	 ::
+fork {n} (UK: crotch) SEE: crotch	 ::
+forklift {n} (small industrial vehicle)	 :: [Bokmål] gaffeltruck {m}, truck {m}; [Nynorsk] gaffeltruck {m}, truck {m}
+form {n} (level of pre-collegiate education) SEE: grade	 ::
+formal {n} (formalin) SEE: formalin	 ::
+formaldehyde {n}	 :: formaldehyd
+formalistic {adj} (formalist) SEE: formalist	 ::
+formation {n} (military: arrangement of moving troops, ships, or aircraft)	 :: formasjon {m}
+formic acid {n} (methanoic acid)	 :: maursyre {f}
+formidable {adj} (causing fear, dread, awe or admiration as a result of size, strength, or some other impressive quality)	 :: formidabel
+formidable {adj} (difficult to defeat or overcome)	 :: formidabel
+Formosa Strait {prop} (Taiwan Strait) SEE: Taiwan Strait	 ::
+formula {n} (in chemistry)	 :: [Bokmål] formel {m}; [Nynorsk] formel {m}
+formula {n} (in mathematics)	 :: [Bokmål] formel {m}; [Nynorsk] formel {m}
+forsake {v} (to abandon)	 :: forlate
+for sale {adv} (being offered for purchase)	 :: [Bokmål] til salgs
+forthcoming {adj} (approaching)	 :: kommende
+forthcoming {adj} (available)	 :: innkommende
+forthcoming {adj} (considerate)	 :: imøtekommende
+forthcomingness {n} (the state or quality of being forthcoming (considerate))	 :: imøtekommenhet {c}
+fortieth {adj} (ordinal form of forty)	 :: førtinde
+fortnight {adv} (period of two weeks)	 :: [Bokmål] to uker {p}, fjorten dager {p}; [Nynorsk] to veker {p}, fjorten dagar {p}, fjortendagar {p}
+fortress {n} (fortified place)	 :: [Bokmål] festning {f} {m}; [Nynorsk] festning {m} {f}
+fortunate {adj}	 :: heldig
+fortune favors the bold {proverb} (luck favors the adventurous)	 :: [Bokmål] lykken står den kjekke bi
+forty {num} (the cardinal number occurring after thirty-nine)	 :: førti
+fortysomething {n} (person in his forties)	 :: i førtiåra, i førtiårene
+forum {n} (form of discussion)	 :: forum {n}, fora {p}
+forum {n} (gathering for the purpose of discussion)	 :: forum, fora {p}
+forum {n} (Internet message board)	 :: forum {n}, fora {p}
+forum {n} (place for discussion)	 :: forum {n}, fora {p}
+forward {adj} (at the front)	 :: fremre
+forward {adj} (expected in the future)	 :: framtidig
+forward {adj} (without customary restraint)	 :: direkte
+forward {adv} (in the usual direction of travel)	 :: framover
+forward {adv} (into the future)	 :: framover, heretter
+forward {adv} (towards the front)	 :: framover
+forward {n} (centre or winger in ice hockey)	 :: forward {m}
+forward {n} (front part of a vessel)	 :: baug {m}
+forward {n} (player nearest to the opposing soccer team)	 :: spiss {m}
+forward {n} (small forward or power forward position)	 :: forward {m}
+forward {v} (send (something received) to a third party)	 :: [Bokmål] videresende; [Nynorsk] vidaresende
+fossil {n} (The mineralized remains of an animal or plant)	 :: [Bokmål] fossil {m} {n}; [Nynorsk] fossil {n}
+foster child {n} (a child in foster care)	 :: fosterbarn {n}, pleiebarn {n}
+fosterling {n} (foster child) SEE: foster child	 ::
+found {v} (melt) SEE: melt	 ::
+found {v} (to begin building)	 :: grunnlegge
+found {v} (to start organization)	 :: grunnlegge
+foundation {n} (endowed institution or charity)	 :: [Bokmål] stiftelse {m}; [Nynorsk] stiftelse {m}, stifting {f}
+foundation {n} (lowest and supporting part or member of a wall)	 :: grunnmur
+foundation {n} (that upon which anything is founded)	 :: Fundament
+foundation stone {n} (stone laid during construction)	 :: [Bokmål] grunnstein {m}; [Nynorsk] grunnstein {m}
+founder {n} (one who founds, establishes, and erects; one who lays a foundation; an author)	 :: [Bokmål] grunnlegger {m}; [Nynorsk] grunnleggar {m}, grunnleggjar {m}
+fount {n} (drinking device for animals) SEE: waterer	 ::
+fountain {n} (artificial water feature)	 :: springvann; [Bokmål] fontene {m}; [Nynorsk] fontene {f}
+fountain {n} (spring) SEE: spring	 ::
+fountain of youth {n} (anything reputed to have the power to restore health and vitality)	 :: ungdomskilde {m}
+fountain pen {n} (pen containing a reservoir of ink)	 :: [Bokmål] fyllepenn {m}; [Nynorsk] fyllepenn {m}
+four {num} (the cardinal number 4)	 :: fire
+four by two {n} (Jew) SEE: Jew	 ::
+four-eyes {n} (person who wears spectacles)	 :: brilleslange {m}
+fourhorn sculpin {n} (a species of fish)	 :: [Bokmål] hornulke; [Nynorsk] hornulke
+four-poster {n} (four-poster bed)	 :: [Bokmål] himmelseng {m} {f}; [Nynorsk] himmelseng {f}
+four-stroke engine {n} (an engine in which the pistons perform four strokes per engine cycle)	 :: firetaktsmotor
+fourteen {num} (cardinal number)	 :: fjorten
+fourth {adj} (fourth)	 :: fjärde
+fourth {n} (fourth gear) SEE: fourth gear	 ::
+fourth {n} (quarter) SEE: quarter	 ::
+four-wheeler {n} (vehicle with four wheels)	 :: firehjulsvogn {c}
+fowl {n} (bird) SEE: bird	 ::
+fox {n} (fox terrier) SEE: fox terrier	 ::
+fox {n} (Vulpes vulpes)	 :: rev {m}
+foxberry {n} (plant and berry Vaccinium vitis-idaea) SEE: lingonberry	 ::
+foxglove {n} (plant of the genus Digitalis)	 :: [Bokmål] revebjelle {c}; [Nynorsk] revebjølle {f}
+fracking {n} (hydraulic fracturing) SEE: hydraulic fracturing	 ::
+fractal {adj} (having the form of a fractal)	 :: fraktal
+fractal {n} (figure irregular at all scales)	 :: fraktal {m}
+fractal {n} (self-similar geometric figure)	 :: fraktal {m}
+fraction {n} (arithmetic: ratio)	 :: brøk {m}, fraksjon {m}
+fraction {n} (part of a whole)	 :: andel {m}, brøkdel {m}, brøk {m}; fraksjon {m}
+fragment {n} (portion or segment of an object)	 :: [Bokmål] fragment {n}; [Nynorsk] fragment {n}
+frame {n} (piece of photographic film containing an image)	 :: frame {m}, ramme {m}
+frame {n} (rigid, generally rectangular mounting)	 :: ramme {m} {f}
+frame {n} (structural elements of a building or other constructed object)	 :: bjelkelag {n}, rammeverk {n}, armatur {m}
+frame {n} (structure of a person's body)	 :: beingrind {m} {f}
+frame {v} (add a decorative border to a picture)	 :: innramme
+France {prop} (country)	 :: Frankrike (Franske Republikk, Republikken Frankrike)
+franchiser {n} (franchisor) SEE: franchisor	 ::
+Francis {prop} (male given name)	 :: Frans
+francium {n} (chemical element)	 :: francium
+frank {adj} (bluntly honest)	 :: frank
+Frank {n} (one of the Franks)	 :: [Bokmål] franker {m}; [Nynorsk] frankar {m}
+Frank {prop} (male given name)	 :: Frank
+frankenword {n} (portmanteau word) SEE: portmanteau word	 ::
+frankly {adv} (in a frank, open or (too) honest manner)	 :: [Bokmål] beint fram; [Nynorsk] beintfram
+frankly {adv} ((speech act) In truth, to tell the truth)	 :: [Bokmål] ærlig talt, oppriktig talt; [Nynorsk] ærleg talt
+fraud {n} (an act of deception)	 :: bedrageri {n}, svindel {m}
+fraud {v} (defraud) SEE: defraud	 ::
+fraught {adj} (charged or accompanied with)	 :: full
+fray {v} (to wear out)	 :: rakne
+fray {v} (unravel)	 :: rakne
+freaking {adj} (an intensifier) SEE: fricking	 ::
+freckle {n} (small pigmentation spot on the skin)	 :: [Bokmål] fregne {m} {f}; [Nynorsk] frekne {f}
+Frederick {prop} (male given name)	 :: Fredrik
+free {adj} (mathematics: unconstrained)	 :: fri
+free {adj} (not imprisoned)	 :: fri
+free {adj} (not in use)	 :: ledig
+free {adj} (obtainable without payment)	 :: gratis
+free {adj} (software: with very few limitations on distribution or improvement)	 :: fri
+free {adj} (unconstrained)	 :: fri, løs
+free {adj} (unobstructed)	 :: åpen, fri
+free {adj} (without)	 :: fri, uten
+free {adj} (without obligations)	 :: fri, ledig
+free {adv} (without needing to pay)	 :: gratis
+free {v} (make free)	 :: frigjøre, frigi, befri, løslate
+freebooter {n} (A pirate, or person who pillages and plunders)	 :: fribytter {m}
+freedom {n}	 :: frihet
+freedom {n} (not being imprisoned or enslaved)	 :: fridom; [Bokmål] frihet
+freedom of movement {n} (the right of a citizen to travel within a state, and to leave and return to that state)	 :: bevegelsesfrihet {m}
+freedom of speech {n} (right to speak without fear of harm)	 :: ytringsfrihet {m} {f}; [Nynorsk] ytringsfridom
+freedom to roam {n} (right to access public or privately owned land)	 :: allemannsretten
+free kick {n} (kick played without interference of opposition)	 :: [Bokmål] frispark {n}; [Nynorsk] frispark {n}
+freelance {v}	 :: frilans
+freelancer {n} (who freelances)	 :: frilanser
+freemason {n} (freemason) SEE: Freemason	 ::
+Freemason {n} (member of the Free and Accepted Masons)	 :: [Bokmål] frimurer {m}; [Nynorsk] frimurar {m}
+free sheet {n} (freesheet) SEE: freesheet	 ::
+free software {n} (free of charge software) SEE: freeware	 ::
+free-standing {adj} (free-standing) SEE: freestanding	 ::
+freestanding {adj} (standing or set apart)	 :: [Bokmål] frittstående; [Nynorsk] frittståande
+free trade {n} (trade free from government interference)	 :: [Bokmål] frihandel {m}; [Nynorsk] frihandel {m}
+freeware {n} (free software)	 :: gratisprogram {n}
+freeze {v} (become motionless)	 :: fryse
+freeze {v} (become solid due to low temperature)	 :: fryse
+freeze {v} (lower something's temperature to freezing point)	 :: fryse
+freezer {n} (part of a refrigerator)	 :: fryser
+freezer {n} (stand-alone appliance)	 :: dypfryser
+freezing {adj} (frosty) SEE: frosty	 ::
+freezing point {n} (temperature)	 :: [Bokmål] frysepunkt {n}; [Nynorsk] frysepunkt {n}
+Freiburg {prop} (a German city)	 :: Freiburg
+freight {v} (to transport goods)	 :: frakte
+freight car {n} (railway car) SEE: goods wagon	 ::
+freighter {n} (vessel used to carry freight) SEE: cargo ship	 ::
+freight train {n} (train used for transportation of freight) SEE: goods train	 ::
+French {adj} (of or relating to France)	 :: [Bokmål] fransk; [Nynorsk] fransk
+French {adj} (of or relating to the French language)	 :: [Bokmål] fransk; [Nynorsk] fransk
+French {adj} (of or relating to the French people)	 :: [Bokmål] fransk; [Nynorsk] fransk
+French {n} (people of France, collectively)	 :: franskmenn {m-p}
+French {prop}	 :: [Nynorsk] fransk språk
+French {prop} (Romance language spoken in France)	 :: [Bokmål] fransk {m}; [Nynorsk] fransk {m}
+french fries {n} (deep fried strips of potato)	 :: pommes frites {m}
+French letter {n} (condom) SEE: condom	 ::
+Frenchman {n} (man of French birth or nationality)	 :: [Bokmål] franskmann {m}; [Nynorsk] franskmann {m}
+French Polynesia {prop} (Overseas territory of France)	 :: [Bokmål] Fransk Polynesia; [Nynorsk] Fransk Polynesia
+French press {n} (cafetière) SEE: cafetière	 ::
+French Riviera {n} (French Riviera)	 :: Rivieraen
+French toast {n} (food prepared by dipping bread into egg batter and frying)	 :: arme riddere {m-p}
+frenetic {adj} (fast, frantic, harried, or frenzied)	 :: frenetisk
+Freo {prop} (Fremantle) SEE: Fremantle	 ::
+frequency {n} (number of occurrences divided by time)	 :: frekvens {m}
+frequency {n} (property of occurring often rather than infrequently)	 :: hyppighet {m}
+frequency {n} (rate of occurrence of anything)	 :: hyppighet {m}
+frequent {adj} (done or occurring often)	 :: hyppig
+fresh {adj}	 :: frisk
+fresh {adj} (new or clean)	 :: fersk
+fresh water {n} (water with little salt)	 :: [Bokmål] ferskvann {n}
+Fresnel lamp {n} (Fresnel lantern) SEE: Fresnel lantern	 ::
+fret {n} (one of the pieces of metal/wood/plastic across the neck of a guitar)	 :: bånd {n}
+fret {v} (to worry or be anxious)	 :: fortvile
+Freudian {adj} (relating to or influenced by Sigmund Freud)	 :: freudiansk
+Freudian {adj} (susceptible to analysis in terms of unconscious thoughts or desires)	 :: freudiansk
+Freudian {n} (a follower of Sigmund Freud)	 :: freudianer {m}
+Freya {prop} (female given name)	 :: Frøya
+Freya {prop} (Norse goddess of love)	 :: Frøya
+fricassee {n} (meat or poultry cut into small pieces, stewed or fried and served in its own gravy)	 :: frikassé {m}
+friction {n} (A force that resists the relative motion or tendency to such motion of two bodies in contact)	 :: [Bokmål] friksjon {m}; [Nynorsk] friksjon {m}
+friction {n} (The rubbing of one object or surface against another)	 :: [Bokmål] friksjon {m}; [Nynorsk] friksjon {m}
+Friday {n} (day of the week)	 :: fredag
+fridge {n} (refrigerator) SEE: refrigerator	 ::
+fried egg {n} (egg that has been shallow fried)	 :: speilegg {n}
+friend {n} (person whose company one enjoys)	 :: venn {m}, venninne {f}
+friend {v} (befriend) SEE: befriend	 ::
+friendliness {n} (the quality of being friendly)	 :: vennlighet
+friendly {n} ((sports) game)	 :: vennskapskamp
+friendly {n}	 :: vennlig, sympatisk
+friendly match {n} (exhibition match)	 :: [Bokmål] vennskapskamp {m}; [Nynorsk] vennskapskamp {m}
+friendship {n} ((countable) friendly relationship)	 :: [Bokmål] vennskap {n}; [Nynorsk] venskap {m} {n}, vennskap {m} {n}
+friendship {n} ((uncountable) condition of being friends)	 :: [Bokmål] vennskap {n}; [Nynorsk] venskap {m} {n}, vennskap {m} {n}
+friend with benefits {n} (friend with whom one has a casual sexual relationship)	 :: pulevenn {m}, knullekompis {m}
+Friesland {prop} (province of the Netherlands)	 :: Frisland {n}
+frigate {n} (A 19th c. type of warship)	 :: [Bokmål] fregatt {m}; [Nynorsk] fregatt {m}
+frigate {n} (A modern type of warship)	 :: [Bokmål] fregatt {m}; [Nynorsk] fregatt {m}
+frigate {n} (An obsolete type of sailing warship)	 :: [Bokmål] fregatt {m}; [Nynorsk] fregatt {m}
+frigging {adj} (an intensifier) SEE: fricking	 ::
+Frisbee {n} (a disk thrown for recreation)	 :: frisbee
+Frisian {prop} (the West Frisian language) SEE: West Frisian	 ::
+frivolous {adj} (silly; especially at an inappropriate time or in an inappropriate manner)	 :: frivol
+Frodo {prop} (male given name)	 :: Frode
+frog {n} (amphibian)	 :: frosk {m}
+from {prep} (with the origin, starting point or initial reference of or at)	 :: fra
+from {prep} (with the separation, exclusion or differentiation of)	 :: fra; mot when used as protection from someone/something
+from {prep} (with the source or provenance of or at)	 :: fra
+from time to time {adv} (occasionally)	 :: [Bokmål] fra tid til annen, nå og da, av og til; [Nynorsk] frå tid til annan, nå og då, av og til
+front {adj} (phonetics: of a vowel pronounced near the tip of the tongue) SEE: front vowel	 ::
+front {n} (facing side)	 :: front {m}, forside {m}
+front {n} (main entrance side)	 :: front {m}, fasade {m}
+front {n} (meteorology: interface between airmasses)	 :: front {m}
+front {n} (military: area or line of conflict)	 :: front {m}
+front crawl {n} (freestyle) SEE: freestyle	 ::
+frontispiece {n} (title page) SEE: title page	 ::
+front page {n} (initially visible page of a publication)	 :: [Bokmål] forside {m} {f}; [Nynorsk] forside {f}
+front room {n} (living room) SEE: living room	 ::
+frosh {n} (frog) SEE: frog	 ::
+frost {n} (cold weather that would cause frost)	 :: [Bokmål] frost {m}, kulde {m}; [Nynorsk] frost {m}
+frost {n} (cover of minute ice crystals)	 :: [Bokmål] rim {n}, frost {m}; [Nynorsk] frost {m}
+frounce {v} (to crease, wrinkle) SEE: frown	 ::
+frounce {v} (to curl) SEE: curl	 ::
+frown at {v} (to disapprove of) SEE: frown upon	 ::
+frozen shoulder {n} (adhesive capsulitis) SEE: adhesive capsulitis	 ::
+fructose {n} (monosaccharide ketose sugar)	 :: fruktose, fruktsukker
+frugal {adj} (economical, avoiding waste, thrifty)	 :: sparsommelig, måteholden, frugal
+fruit {n} (figuratively: positive end result or reward of labour or effort)	 :: [Bokmål] frukt {m} {f}; [Nynorsk] frukt {f}
+fruit {n} (food)	 :: [Bokmål] frukt {m} {f}; [Nynorsk] frukt {f}
+fruit {n} (part of plant)	 :: [Bokmål] frukt {m} {f}; [Nynorsk] frukt {f}
+fruit bat {n} (bat of the family Pteropodidae) SEE: megabat	 ::
+fruitful {adj} (productive, yielding benefits)	 :: [Bokmål] fruktbar; [Nynorsk] fruktbar
+fruitmonger {n} (fruiterer) SEE: fruiterer	 ::
+fruitseller {n} (fruiterer) SEE: fruiterer	 ::
+frying pan {n} (long-handled, shallow pan used for frying food)	 :: [Bokmål] stekepanne {m} {f}, steikepanne {m} {f}; [Nynorsk] steikepanne {f}, steikjepanne {f}
+fuchsia {n} (colour)	 :: fuksia
+fuck {interj} (fuck!)	 :: faen!, helvete!
+fuck {n} (an act of sexual intercourse)	 :: knull {n}, ligg {n}, nummer {n}
+fuck {v} (to have sexual intercourse-obscene or vulgar)	 :: pule, knulle, jokke
+fuckable {adj} (sexually attractive)	 :: pulbar
+fuck and chuck {phrase} (hit it and quit it) SEE: hit it and quit it	 ::
+fucked {adj} (very drunk)	 :: drita, dritings
+fucking {adj} (as an intensifier)	 :: jævla
+fucking {adj} (offensive or worthless)	 :: forpult
+fucking {n} (an act of sexual intercourse)	 :: knull {n}
+fuck off {interj} (go away!)	 :: dra til helvete!, drit og dra!
+fuck off {v} (go to hell, disappear, screw oneself)	 :: dra til helvete
+fuck you {phrase} (fuck you)	 :: faen ta deg, føkk deg
+fuck-you lizard {n} (tokay gecko) SEE: tokay gecko	 ::
+fuel {n}	 :: brensel {n} ; brennstoff {n} ; drivstoff {n}
+fuel {n} (substance consumed to provide energy)	 :: drivstoff
+fugitive {adj} (elusive or difficult to retain)	 :: diffus
+fugitive {adj} (fleeing or running away)	 :: flyktig
+fugitive {adj} (transient, fleeting or ephemeral)	 :: diffus
+fugitive {n} (a person who is fleeing or escaping from something)	 :: rømling {m}
+fugu {n} (blowfish) SEE: blowfish	 ::
+fulcrum {n} (support about which a lever pivots)	 :: dreiepunkt {n}, dreiningspunkt {n}, hvilepunkt {n}, omdreiningspunkt {n}
+full {adj} (complete)	 :: fullstendig, komplett
+full {adj} (containing the maximum possible amount)	 :: full
+full {adj} (of a garment: ample, wide)	 :: vid
+full {adj} (satisfied, in relation to eating)	 :: mett
+full {adj} (total, entire)	 :: hel
+full {n} (phase of the moon) SEE: full moon	 ::
+full {v} (to baptise) SEE: baptise	 ::
+full moon {n} (phase of moon when in opposition to sun)	 :: [Bokmål] fullmåne {m}; [Nynorsk] fullmåne {m}
+full-scale {adj} (of the same size) SEE: life-size	 ::
+full throttle {n} (a maximum setting on an engine or motor control)	 :: full gass, fullt pådrag, fullt gasspådrag, bånn gass, bånn pinne, klampen i bånn
+full-time {adj} (Involving a full amount of time spent on some activity)	 :: heltids
+full-time {adv} (Spending a full amount of time)	 :: heltid
+fulminic acid {n} (HCNO)	 :: knallsyre {m} {f}
+fun {n} (enjoyment or amusement)	 :: moro
+fun {n} (playful, often noisy, activity)	 :: moro
+funambulist {n} (tightrope walker) SEE: tightrope walker	 ::
+function {n} (biology: physiological activity of an organ or body part)	 :: funksjon {m}
+function {n} (computing: routine that returns a result)	 :: funksjon {m}
+function {n} (mathematics: single-valued relation)	 :: funksjon {m}
+function {n} (official or social occasion)	 :: tilstelling {m}, tilstelning {m}
+function {n} (professional or official position)	 :: post {m}, stilling {m}
+function {n} (relation where one thing is dependent on another)	 :: funksjon {m}
+function {n} (what something does or is used for)	 :: funksjon {m}
+functional {adj} (utilitarian) SEE: utilitarian	 ::
+functionalism {n} (architecture: doctrine that the function of something should be reflected in its design)	 :: [Bokmål] funksjonalisme {m}; [Nynorsk] funksjonalisme {m}
+functionalist {adj} (relating to functionalism)	 :: [Bokmål] funksjonalistisk; [Nynorsk] funksjonalistisk
+functioning {adj} (functional) SEE: functional	 ::
+functor {n} (computing: function word) SEE: function object	 ::
+functor {n} (grammar: function word) SEE: function word	 ::
+fundamental {n} (a leading or primary principle, rule, law, or article)	 :: fundamental
+fundamental particle {n} (elementary particle) SEE: elementary particle	 ::
+funding {n} (money provided as funds)	 :: finansiering {m}
+funeral {adj} (relating to the ceremony)	 :: begravelses-
+funeral {n} (ceremony to honour of a deceased person)	 :: begravelse {m}, jordfestelse {m}
+funeral director {n} (undertaker) SEE: undertaker	 ::
+fungous {adj} (of or pertaining to a fungus) SEE: fungal	 ::
+fungus {n} (any member of the kingdom Fungi)	 :: sopp
+funky {adj} (offbeat, unconventional) SEE: offbeat	 ::
+funnel {n} (utensil used to guide poured liquids)	 :: trakt
+funnel chanterelle {n} (]]Cantharellus tubaeformis]])	 :: [Bokmål] traktkantarell {m}
+funny {adj} (amusing; comical)	 :: artig; [Bokmål] morsom, gøy; [Nynorsk] morosam
+funny {adj} (strange; unusual)	 :: rar, merkelig
+funny farm {n} (informal term for lunatic asylum) SEE: madhouse	 ::
+furbelow {n} (ruffle) SEE: ruffle	 ::
+fur farm {n} (farm where fur-bearing animals are raised)	 :: [Bokmål] pelsdyrfarm {m}; [Nynorsk] pelsdyrfarm {m}
+furious {adj} (rushing with impetuosity)	 :: med voldsom kraft
+furious {adj} (transported with passion or fury)	 :: rasende, olm
+furnace {n} (device for heating: oven) SEE: device for heating: oven	 ::
+furnish {v} (to provide with furniture)	 :: innrede, møblere
+furnished {adj} (supplied with furniture)	 :: møblert
+furniture {n} (an item, or items, (usually) in a room)	 :: [Bokmål] møbel {p}, møbler {p}; [Nynorsk] møbel {p}, møblar {p}
+furore {n} (uproar)	 :: furore
+furrow {v} (wrinkle) SEE: to wrinkle	 ::
+fursuit {n} (animal outfit)	 :: [Bokmål] ‬: fursuit
+furthermore {adv} (In addition; besides; what's more; used to denote additional information)	 :: dessuten, i tillegg
+furuncle {n} (boil) SEE: boil	 ::
+fuse {n} (cord)	 :: lunte {c}
+fuse {n} (device igniting charge)	 :: tennsats {m}, fenghette {c}
+fuse {n} (device preventing overloading of a circuit)	 :: sikring {c}
+fuselage {n} (main body of aerospace vehicle)	 :: [Bokmål] flykropp {m}; [Nynorsk] flykropp {m}
+fusion {n} (merging of elements into a union)	 :: [Bokmål] fusjon {m}; [Nynorsk] fusjon {m}
+fusion {n} (nuclear reaction in which nuclei combine)	 :: sammensmelting; [Bokmål] fusjon {m}; [Nynorsk] fusjon {m}
+fusspot {n} (person who makes a fuss) SEE: fussbudget	 ::
+future {adj} (Having to do with or occurring in the future)	 :: framtidig
+future {n} (future tense) SEE: future tense	 ::
+future {n} (something that will happen in moments yet to come)	 :: framtid {m} {f}
+future {n} (the time ahead)	 :: framtid {m} {f}
+futures {n} (futures contract) SEE: futures contract	 ::
+future tense {n} (time form of a verb)	 :: futurum {n}
+futurism {n} (art movement)	 :: futurisme {m}
+futurism {n} (study of possible futures) SEE: futurology	 ::
+futurist {n} (one who studies and predicts possible futures) SEE: futurologist	 ::
+fuzz {n} (cop) SEE: cop	 ::
+fuzz {n} (police) SEE: police	 ::
+fuzzy {adj} (Covered with fuzz or a large number of tiny loose fibres like a carpet or many stuffed animals)	 :: [Bokmål] lodden, ullen; [Nynorsk] loden, ullen
+fuzzy {adj} (Not clear; unfocused)	 :: [Bokmål] uklar; [Nynorsk] uklar, uklår
+fuzzy {adj} (Vague or imprecise)	 :: [Bokmål] ullen, uklar; [Nynorsk] ullen, uklar, uklår
+fuzzy melon {n} (fuzzy melon fruit) SEE: winter melon	 ::
+fuzzy melon {n} (vine) SEE: winter melon	 ::
+fylfot {n} (swastika) SEE: swastika	 ::

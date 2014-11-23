@@ -1,0 +1,2119 @@
+﻿ca {adv} (abbreviation of circa) SEE: ca.	 ::
+cabbage {n} (plant)	 :: hodekål, kål {m}
+cabin {n} (a compartment on land)	 :: hytte {f}
+cabin {n} (a private room on a ship)	 :: lugar {m}
+cabin {n} (the interior of a boat)	 :: kabin {m}; [Bokmål] kahytt {m} {f}; [Nynorsk] kahytt {f}, kahytte {f}
+cabin {n} (the passenger area of an airplane)	 :: kabin {m}
+cable {n} (assembly of wires for electricity)	 :: [Bokmål] kabel {m}; [Nynorsk] kabel {m}
+cable {n} (large wire, rope)	 :: [Bokmål] kabel {m}; [Nynorsk] kabel {m}
+cable car {n} (cable car, a hanging carriage)	 :: taubane, togbane
+Cabo Verde {prop} (Cape Verde) SEE: Cape Verde	 ::
+cabriolet {n}	 :: kabriolet {c}
+cacao {n} (cacao tree)	 :: kakaotre
+cachalot {n} (sperm whale) SEE: sperm whale	 ::
+cacophonous {adj} (containing or consisting of unpleasant sounds)	 :: [Bokmål] kakofonisk; [Nynorsk] kakofonisk
+cactus {n} (member of the Cactaceae)	 :: [Bokmål] kaktus {m}; [Nynorsk] kaktus {m}
+caddie {n} (alternative form of cadie) SEE: cadie	 ::
+cadet {n} (a student at a military school who is training to be an officer)	 :: kadett
+cadmium {n} (chemical element)	 :: [Bokmål] kadmium {n}; [Nynorsk] kadmium {n}
+cadre {n} (core of managing group)	 :: kader {m}
+cadre {n} (skeleton upon which regiment is formed)	 :: kader {m}
+Caesarism {n} (autocracy)	 :: cæsarisme
+Caesarism {n} (democratic dictatorship)	 :: cæsarisme
+caesium {n} (a metallic chemical element)	 :: [Bokmål] cesium {n}; [Nynorsk] cesium {n}
+café {n} (coffee shop)	 :: kafé {m}, café {m}
+cafe {n} (café) SEE: café	 ::
+caffeine {n} (alkaloid found naturally in tea and coffee plants)	 :: [Bokmål] koffein {m} {n}; [Nynorsk] koffein {m} {n}
+cagey {adj}	 :: avvisende, unnvikende
+caiman {n} (alligator relative)	 :: kaiman
+cairn {n} (landmark)	 :: varde {f}, røys {f}
+cairn {n} (monument)	 :: [Bokmål] gravrøys {m} {f}; [Nynorsk] gravrøys {f}
+cairn {n} (terrier) SEE: cairn terrier	 ::
+cairn terrier {n} (breed of terrier)	 :: [Bokmål] cairnterrier {m}, cairn {m}
+Cairo {prop} (capital of Egypt)	 :: Kairo
+caisson {n} (architecture: coffer) SEE: coffer	 ::
+caisson disease {n} (decompression sickness) SEE: decompression sickness	 ::
+caixin {n} (choy sum) SEE: choy sum	 ::
+cake {n} (a block of solid material)	 :: stykke {m}
+cake {n} (a sweet dessert)	 :: kake {m}
+cake {n} (a trivially easy task or responsibility) SEE: piece of cake	 ::
+cakery {n} (cake shop) SEE: patisserie	 ::
+Calabrese {adj} (of, from, or pertaining to Calabria) SEE: Calabrian	 ::
+Calabrese {n} (elliptically: the Calabrese horse) SEE: Calabrese horse	 ::
+Calabrese {n} (Nero d’Avola wine grape) SEE: Nero d’Avola	 ::
+Calabrese {n} (Sangiovese wine grape) SEE: Sangiovese	 ::
+calamari {n} (as food)	 :: akkar
+calamari {n} (as mollusk) SEE: squid	 ::
+calamity {n} (event resulting in great loss)	 :: kalamitet {m}
+calcium {n} (chemical element of atomic number 20)	 :: [Bokmål] kalsium {n}; [Nynorsk] kalsium {n}
+calculator {n} (electronic device that performs mathematical calculations)	 :: [Bokmål] kalkulator {m}; [Nynorsk] kalkulator {m}
+calculus {n} (differential calculus and integral calculus considered as a single subject)	 :: matematikk {m}
+calculus {n} (formal mathematical system)	 :: beregning {m} {f}
+Calcutta {prop} (current name of the city) SEE: Kolkata	 ::
+Caleb {prop} (biblical character)	 :: Kaleb
+calendar {n} (list of planned events)	 :: [Bokmål] kalender {m}; [Nynorsk] kalender {m}
+calendar {n} (means to determine the date)	 :: [Bokmål] kalender {m}; [Nynorsk] kalender {m}
+calendar {n} (system by which time is divided)	 :: [Bokmål] kalender {m}; [Nynorsk] kalender {m}
+calendrical {adj} (of, pertaining to, or used by a calendar system)	 :: [Bokmål] kalendarisk {m} {f} {n}; [Nynorsk] kalendarisk {m} {f} {n}
+calf {n} (anatomy: back of the leg below the knee)	 :: legg {m}
+calf {n} (chunk of ice broken off of a larger glacier, ice shelf, or iceberg)	 :: [Bokmål] kalv {m}; [Nynorsk] kalv {m}
+calf {n} (small island beside another one)	 :: [Bokmål] kalv {m}; [Nynorsk] kalv {m}
+calf {n} (young cow or bull)	 :: [Bokmål] kalv {m}; [Nynorsk] kalv {m}
+calf {n} (young elephant, seal or whale (also used of some other animals))	 :: [Bokmål] kalv {m}; [Nynorsk] kalv {m}
+Cali {prop} (California) SEE: California	 ::
+californium {n} (chemical element)	 :: californium
+caliginousness {n} (state or quality of being caliginous) SEE: caliginosity	 ::
+caliper {n} (calipers) SEE: calipers	 ::
+calipers {n} (device used to measure thickness between two surfaces)	 :: skyvelære {m} {f}
+caliph {n} (political leader of the Muslim world)	 :: kalif
+call {v} (to request, summon, or beckon)	 :: kalle
+call an ambulance {phrase} (call an ambulance)	 :: ring etter ambulanse
+call a spade a spade {v} (to speak the truth)	 :: kalle en spade for en spade
+calling card {n} (printed card identifying the bearer) SEE: business card	 ::
+calling name {n} (nickname) SEE: nickname	 ::
+call sign {n} (broadcasting)	 :: kallesignal
+callsign {n} (call sign) SEE: call sign	 ::
+calm {adj} (free from anger and anxiety)	 :: [Bokmål] rolig; [Nynorsk] roleg
+calm {adj} (free of noise and disturbance)	 :: [Bokmål] rolig, fredelig; [Nynorsk] roleg, fredeleg
+calm {v} (to become calm)	 :: roe seg
+calm {v} (to make calm)	 :: [Bokmål] roe, berolige; [Nynorsk] roe
+calm before the storm {n} (peace before a disturbance)	 :: stille før stormen
+calque {n} (word formed by word-for-word translation of a word in another language)	 :: [Bokmål] oversettingslån {n}; [Nynorsk] omsetjingslån {n}
+calumny {n} (falsification to discredit another)	 :: baktalelse {m}, baktaling {c}, baksnakk {n}, baksnakking {c}
+calx {n} (calcium oxide) SEE: calcium oxide	 ::
+cam {n} (camera) SEE: camera	 ::
+camaraderie {n} (close friendship in a group of friends)	 :: [Bokmål] kameraderi {n}
+Cambodia {prop} (country in Southeast Asia)	 :: Kambodsja
+Cambodian {adj} (of, from, or pertaining to Cambodia, the Cambodian people, or the Khmer language)	 :: [Bokmål] kambodsjansk; [Nynorsk] kambodsjansk, kampuchansk, kampucheansk
+Cambodian {n} (a person from Cambodia or of Cambodian descent)	 :: [Bokmål] kambodsjaner {m}; [Nynorsk] kambodsjan {m}, kambodsjanar {m}, kampuchean {m}, kampucheanar {m}
+Cambodian {prop} (the language of the Cambodian people)	 :: [Bokmål] khmer {m}; [Nynorsk] khmer {m}
+cambric {n} (finely-woven fabric) SEE: batiste	 ::
+camel {n} (beast of burden)	 :: [Bokmål] kamel {m}; [Nynorsk] kamel {m}
+camelopard {n} (giraffe) SEE: giraffe	 ::
+camera {n} (moving pictures)	 :: kamera {n}, videokamera {n}, fotoapparat {n}
+camera {n} (still pictures)	 :: [Bokmål] kamera {n}; [Nynorsk] kamera {n}
+Cameroonian {adj} (pertaining to Cameroon)	 :: [Bokmål] kamerunsk; [Nynorsk] kamerunsk
+Cameroonian {n} (person from Cameroon)	 :: [Bokmål] kameruner {m}; [Nynorsk] kamerunar {m}
+Camilla {prop} (female given name)	 :: Camilla, Kamilla
+camomile {n} (plant)	 :: kamomille
+camouflage {n}	 :: kamuflasje {m}
+camp {n} (summer camp) SEE: summer camp	 ::
+campaign {n} (series of operations undertaken to achieve a set goal)	 :: [Bokmål] kampanje {m}; [Nynorsk] kampanje {m}
+campaign group {n} (advocacy group) SEE: advocacy group	 ::
+campfire {n} (fire at a campground)	 :: bål {n}, leirbål {n} (campfire)
+camshaft {n} (a shaft fitted with cams)	 :: [Bokmål] kamaksel {m} {f}
+can {n} (a container used to carry and dispense water for plants)	 :: kanne {c}
+can {n} (a more or less cylindrical vessel for liquids)	 :: boks {m}, kanne {c}
+can {n} (a tin-plate canister)	 :: boks {m}, hermetikkboks {m}
+can {n} (buttocks)	 :: rompe {c}, bak {m}
+can {n} (toilet)	 :: toalett {n}, do {m} (-skål)
+can {v} (may)	 :: kunne
+can {v} (to be able)	 :: kunne
+Canaan Dog {n} (Canaan Dog)	 :: [Bokmål] Kanaan-hund {m}
+Canada {prop} (Country in North America)	 :: Canada; [Nynorsk] Canada
+Canada goose {n} (Branta canadensis)	 :: Kanadagås
+Canada thistle {n} (corn thistle) SEE: corn thistle	 ::
+Canadian {adj} (of or pertaining to a Canadian, Canadians)	 :: [Bokmål] canadisk; [Nynorsk] canadisk, kanadisk, canadisk
+Canadian {adj} (of or pertaining to Canada)	 :: [Bokmål] canadisk, kanadisk; [Nynorsk] canadisk, kanadisk
+Canadian {n} (person from Canada)	 :: [Bokmål] canadier {m}, kanadier {m}; [Nynorsk] canadiar {m}, kanadiar {m}
+Canadian {prop} (Canadian English)	 :: [Bokmål] canadisk engelsk {m}, kanadisk engelsk {m}; [Nynorsk] canadisk engelsk {m}, kanadisk engelsk {m}
+canal {n} (artificial waterway)	 :: [Bokmål] kanal {m}; [Nynorsk] kanal {m}
+canard {n} (false or misleading report or story)	 :: [Bokmål] avisand {m} {f}, and {m} {f}; [Nynorsk] avisand {f}, and {f}
+canard {n} (winglike structure)	 :: [Bokmål] canardvinge {m}
+canary {n} (bird from Canary Islands)	 :: kanarifugl
+canary {n} (colour)	 :: kanarigul
+cancel {v} (cross out)	 :: [Bokmål] stryke
+cancelled {adj} (No longer planned or scheduled)	 :: [Bokmål] avlyst
+cancer {n} (disease of uncontrolled cellular proliferation)	 :: cancer {m}; [Bokmål] kreft {m}; [Nynorsk] kreft {m}
+Cancer {n} (Someone with a Cancer star sign)	 :: kreps
+Cancer {prop} (astrological sign)	 :: Krepsen {m}
+Cancer {prop} (constellation)	 :: Krepsen {m}
+cancerogenic {adj} (carcinogenic) SEE: carcinogenic	 ::
+candid {adj} (impartial and free from prejudice)	 :: fordomsfri, upartisk
+candid {adj} (not posed or rehearsed)	 :: oppriktig
+candid {adj} (straightforward, open and sincere)	 :: oppriktig
+candidate {n} (person running in an election)	 :: kandidat
+candidateship {n} (candidacy) SEE: candidacy	 ::
+candidly {adv} (frankly) SEE: frankly	 ::
+candle {n} (a light source)	 :: lys
+candy {n} (confection) SEE: confectionery	 ::
+candy {n} (piece of candy)	 :: godteri {n-p}
+candy store {n} (sweetshop) SEE: sweetshop	 ::
+cane {n} (sugar cane) SEE: sugar cane	 ::
+cane {n} (walking stick) SEE: walking stick	 ::
+cane sugar {n} (sugar from the sugarcane plant)	 :: rørsukker {n}
+canine {n} (canine tooth) SEE: canine tooth	 ::
+canine tooth {n} (tooth)	 :: hoggtann {m}
+Canis Minor {prop} (small winter constellation of the northern sky)	 :: [Bokmål] Den lille hund; [Nynorsk] Vesle hund
+canister {n} (container)	 :: boks {m}
+canister {n} (cylindrical metal receptacle)	 :: boks {m}
+canna {v} (cannot) SEE: cannot	 ::
+cannabis {n} (marijuana) SEE: marijuana	 ::
+cannabis {n} (plant)	 :: hamp
+cannibal {n} (an organism which eats others of its own species)	 :: kannibal {m}
+canning {n} (preserving process)	 :: hermetisering
+cannon {n} (artillery piece)	 :: [Bokmål] kanon {m}
+cannon {n} (bone of horse's leg) SEE: cannon bone	 ::
+cannot {v} (cannot, see also: can, see also: not)	 :: ikke kunne
+canny {adj} (frugal, thrifty) SEE: frugal	 ::
+canny {adj} (pleasant, nice) SEE: pleasant	 ::
+canoe {n} (small long and narrow boat)	 :: kano {m}
+canoe birch {n} (Betula papyrifera) SEE: paper birch	 ::
+canoer {n} (one who travels by canoe) SEE: canoeist	 ::
+canon {n} (fandom: The works considered factual or official)	 :: kanon {m}
+canon {n} (group of literary works)	 :: kanon {m}
+canon {n} (piece of music)	 :: kanon {m}
+canonic {adj} (canonical) SEE: canonical	 ::
+can-opener {n} (can opener) SEE: can opener	 ::
+canopy {n} (highest foliage and branches of a forest)	 :: kronetak {n}
+can't {contraction} (cannot) SEE: cannot	 ::
+canteen {n} (small cafeteria or snack bar)	 :: kantine {m} {f}
+canter {n} (gait)	 :: galopp {m}
+canter {n} (ride)	 :: galopp {m}
+canter {v} (to gait)	 :: galoppere
+cantopop {n} (Cantonese pop music)	 :: cantopop
+can't wait {v} (look forward) SEE: look forward	 ::
+Canute {prop} (Male given name)	 :: Knut
+canyon {n} (a valley cut in rock by a river)	 :: canyon
+caoshu {n} (grass script) SEE: grass script	 ::
+cap {n} (head covering)	 :: skyggelue
+capacity {n} (capability; the ability to perform some task)	 :: [Bokmål] kapasitet {m}; [Nynorsk] kapasitet {m}
+capacity {n} (the ability to hold, receive or absorb)	 :: [Bokmål] kapasitet {m}; [Nynorsk] kapasitet {m}
+capacity {n} (the maximum that can be produced)	 :: [Bokmål] kapasitet {m}; [Nynorsk] kapasitet {m}
+capacity utilization {n} (capacity utilization) SEE: capacity utilization rate	 ::
+cape {n} (garment)	 :: cape {m}
+cape {n} (headland)	 :: kapp {n}
+cape gooseberry {n} (plant)	 :: ananaskirsebær
+caper {n} (capercaillie) SEE: capercaillie	 ::
+caper {n} (crime) SEE: crime	 ::
+caper {n} (Dutch vessel) SEE: privateer	 ::
+caper {n} (pickled bud of Capparis spinosa)	 :: kapers {p}
+capercaillie {n} (Tetrao urogallus)	 :: storfugl, tiur [male], røy [female]
+Cape Verde {prop} (country in Western Africa)	 :: Kapp Verde (Republikken Kapp Verde)
+Cape Verdean {adj} (of, from, or pertaining to Cape Verde, its people or their language)	 :: [Bokmål] kappverdisk; [Nynorsk] kappverdisk
+Cape Verdean {n} (a person from Cape Verde or of Cape Verdean descent)	 :: [Bokmål] kappverder {m}; [Nynorsk] kappverdar {m}
+capias {n} (arrest warrant) SEE: arrest warrant	 ::
+capital {n} (capital city) SEE: capital city	 ::
+capital city {n} (city designated as seat of government)	 :: [Bokmål] hovedstad {m}; [Nynorsk] hovudstad {m}
+capitalism {n} (socio-economic system based on private property rights)	 :: [Bokmål] kapitalisme {m}; [Nynorsk] kapitalisme {m}
+capital punishment {n} (punishment by death)	 :: [Bokmål] dødsstraff {m}; [Nynorsk] dødsstraff {f}
+capitate {n} (capitate bone) SEE: capitate bone	 ::
+capitation {n} (poll tax) SEE: poll tax	 ::
+capitol {n} (the building in Washington, D.C.) SEE: Capitol	 ::
+Capitol Hill {prop} (Congress) SEE: Congress	 ::
+capon {n} (a cockerel which has been gelded and fattened for the table)	 :: kapun
+Cappadocian {prop} (Cappadocian Greek) SEE: Cappadocian Greek	 ::
+capricious {adj} (Impulsive and unpredictable; determined by chance, impulse, or whim)	 :: uberegnelig, uforutsigbar
+Capricorn {prop} (astrological sign)	 :: Steinbukken {m}
+Capricorn {prop} (constellation) SEE: Capricornus	 ::
+Capricornus {prop} (astrological sign) SEE: Capricorn	 ::
+Capricornus {prop} (constellation)	 :: Steinbukken {m}
+capsicum spray {n} (pepper spray) SEE: pepper spray	 ::
+capsize {v} ((intransitive) to overturn)	 :: kantre; [Bokmål] kollseile; [Nynorsk] kollsegle
+Caps Lock {n} (capslock) SEE: capslock	 ::
+capsule {n} (weasel) SEE: weasel	 ::
+captain {n} (An air force officer with a rank between the most senior grade of lieutenant and major)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+captain {n} (An army officer with a rank between the most senior grade of lieutenant and major)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+captain {n} (A naval officer with a rank between commander and commodore or rear admiral)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+captain {n} (One of the athletes on a sports team designated to make decisions)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+captain {n} (The person lawfully in command of an airliner)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+captain {n} (The person lawfully in command of a sea-going vessel)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+caption {n} (capture) SEE: capture	 ::
+captivity {n} (captives) SEE: captive	 ::
+capuchin {n} (capuchin monkey) SEE: capuchin monkey	 ::
+car {n} (automobile, a vehicle steered by a driver)	 :: [Bokmål] bil {m}; [Nynorsk] bil {m}
+car {n} (passenger-carrying unit in a subway or elevated train, whether powered or not)	 :: vogn {m}
+car {n} (railway car, railroad carriage) SEE: carriage	 ::
+Caracalla {prop} (emperor)	 :: Caracalla
+carambola {n} (fruit) SEE: star fruit	 ::
+caramel {n} (confection)	 :: karamell
+caravan {n} ((UK, Australian English) a furnished vehicle towed behind a car, etc., and used as a dwelling when stationary)	 :: [Bokmål] campingvogn {m} {f}; [Nynorsk] campingvogn {f}
+caravanserai {n} (an inn having a central courtyard where caravans can rest)	 :: karavaneserai
+caraway {n} (plant)	 :: kummin, karve
+caraway {n} (seed/fruit)	 :: kummin, karve
+carbohydrate {n} (organic compounds; sugar, starch or cellulose)	 :: kullhydrat {n}, kolhydrat {n}; [Bokmål] karbohydrat {n}; [Nynorsk] karbohydrat {n}
+carbon {n} (chemical element)	 :: karbon {n}; [Nynorsk] karbon
+carbon {n} (ecology: carbon dioxide, in the context of global warming)	 :: kulldioksid {m}, kullsyre {f}
+carbon {n} (impure carbon (e.g., coal, charcoal))	 :: kull {n}
+carbon {n} (informal: a sheet of carbon paper)	 :: blåpapir {n}
+carbon {n} (informal: carbon copy)	 :: blåkopi {m}
+carbonated {adj} (containing dissolved carbon dioxide gas (under pressure))	 :: kullsyret, brusende
+carbon fibre {n} (carbon fiber) SEE: carbon fiber	 ::
+carboxylic {adj} (of, or relating to the carboxyl functional group)	 :: karboksyl-
+carboxylic acid {n} (organic compound containing a carboxyl functional group)	 :: [Bokmål] karboksylsyre {m} {f}; [Nynorsk] karboksylsyre {f}
+carboy {n} (demijohn) SEE: demijohn	 ::
+carburetor {n} (a device in an internal combustion engine)	 :: forgasser {m}
+carburettor {n} (motor car part) SEE: carburetor	 ::
+carburize {v} (carbonize) SEE: carbonize	 ::
+carcass {n} (dead animal)	 :: [Bokmål] kadaver {n}, skrott {m}
+carcass {n} (dead human) SEE: corpse	 ::
+card {n} (card game) SEE: card game	 ::
+card {n} (flat, normally rectangular piece of stiff paper, plastic etc.)	 :: kort {n}
+card {n} (playing card) SEE: playing card	 ::
+cardamom {n} (plant)	 :: [Bokmål] kardemomme {n}; [Nynorsk] kardemomme {m}
+cardamom {n} (spice)	 :: [Bokmål] kardemomme {n}; [Nynorsk] kardemomme {m}
+cardboard {n} (material resembling heavy paper)	 :: papp {m}
+card game {n} (any of very many games played with playing cards)	 :: [Bokmål] kortspill {n}, kortspell {n}; [Nynorsk] kortspel {n}
+cardinal {n} (cardinal numeral) SEE: cardinal numeral	 ::
+cardinal {n} (official in Catholic Church)	 :: [Bokmål] kardinal {m}; [Nynorsk] kardinal {m}
+cardinal direction {n} (principal compass direction) SEE: cardinal point	 ::
+cardinality {n} (in set theory)	 :: kardinalitet
+cardinalship {n} (office of a cardinal) SEE: cardinalate	 ::
+card key {n} (keycard) SEE: keycard	 ::
+cards {n} (card game) SEE: card game	 ::
+cardshark {n} (cardsharp) SEE: cardsharp	 ::
+care {n} (treatment of those in need)	 :: pleie {f}
+care {n} (worry)	 :: forsiktighet {m}, nennsomhet {m}
+careen {v} (to heave a ship down on one side so as to expose the other)	 :: kjølhale
+careen {v} (to sway violently from side to side or lurch)	 :: slingre, skrense
+careen {v} (to tilt on one side)	 :: krenge
+careen {v} (to tilt or lean while in motion)	 :: skjene
+career {n} (an individual’s work and life roles over their lifespan)	 :: [Bokmål] karriere {m}; [Nynorsk] karriere {m}
+career {n} (one's calling in life; a person's occupation)	 :: [Bokmål] karriere {m}; [Nynorsk] karriere {m}
+career criminal {n} (a person who makes a living illegally by committing crimes)	 :: yrkeskriminell {m}
+carefree {adj} (worry free, light hearted, etc.)	 :: ubekymret, sorgløs, bekymringsløs, ubekymra
+care-giver {n} (carer) SEE: carer	 ::
+care home {n} (place of residence for people with significant deficiencies) SEE: nursing home	 ::
+Caribbean English {n} (broad term for sum of all Caribbean dialects of English)	 :: [Bokmål] karibisk engelsk
+carillonneur {n} (person who plays the carillon) SEE: carillonist	 ::
+caring {adj} (kind, sensitive, empathetic)	 :: omsorgsfull
+Carl {prop} (male given names cognate to Carl) SEE: Charles	 ::
+carnation {n} (flower)	 :: nelikk {c}
+carnival {n} (festive occasion marked by parades)	 :: karneval; [Bokmål] karneval {n}; [Nynorsk] karneval {n}
+carnivore {n} (meat-eating animal)	 :: [Bokmål] kjøtteter {m}; [Nynorsk] kjøtetar {m}
+carnivorous {adj} (Insectivorous)	 :: kjøttetende
+carob {n} (tree)	 :: johannesbrødtre {n}
+Caroline {prop} (female given name)	 :: Karoline
+Carolinian {adj} (Carolingian) SEE: Carolingian	 ::
+caron {n} (háček diacritic) SEE: háček	 ::
+carousel {n} (merry-go-round) SEE: merry-go-round	 ::
+carp {n} (Any of various freshwater fish of the family Cyprinidae)	 :: karpe {c}
+carpal bone {n} (carpal) SEE: carpal	 ::
+carpale {n} (bone of the carpus) SEE: carpal	 ::
+car park {n} (car park) SEE: parking lot	 ::
+carp bream {n} (Abramis brama)	 :: brasme {m} {f}
+carpe diem {proverb} (seize the day)	 :: grip dagen
+carpenter {n} (carpentry person)	 :: [Bokmål] tømrer {m}, tømmermann {m}; [Nynorsk] tømrer {m}, tømmermann {m}
+carpet shark {n} (ferret) SEE: ferret	 ::
+carriage {n} (railroad car)	 :: vogn {m}
+carrion {n} (dead flesh; carcasses)	 :: åtsel {n}, kadaver {n}
+carrot {n} (orange root vegetable)	 :: gulrot {c}
+carry {n} (a manner of transporting or lifting something)	 :: [Bokmål] tak {n}, løft {n}
+carry {v} (in an addition)	 :: [Bokmål] overføre
+carry {v} (to adopt; take over or stand in)	 :: [Bokmål] overta
+carry {v} (to stock or supply)	 :: [Bokmål] føre, ha
+carry {v} (to transmit or travel)	 :: [Bokmål] bære
+carry {v} (to transport by lifting)	 :: [Bokmål] bære
+carsick {adj} (feeling nauseated due to riding in a vehicle)	 :: bilsyk
+carte de visite {n} (business card) SEE: business card	 ::
+carte de visite {n} (visiting card) SEE: visiting card	 ::
+Cartesian {adj} (of or pertaining to coordinates based on orthogonal axes)	 :: kartesisk
+Cartesian coordinates {n} (coordinates of a point)	 :: [Bokmål] kartesiske koordinater; [Nynorsk] kartesiske koordinatar
+Carthage {prop} (ancient city in North Africa)	 :: Karthago
+Carthaginian {adj} (of or pertaining to Carthage )	 :: kartagisk, punisk
+Carthaginian {n} (person from Carthage)	 :: [Bokmål] kartager, puner {m}; [Nynorsk] kartagar, punar {m}
+cartilage {n} (dense connective tissue)	 :: brusk {m}
+cartographic {adj} (of or pertaining to the making of maps)	 :: kartografisk
+cartographical {adj} (cartographic) SEE: cartographic	 ::
+cartography {n} (The creation of charts and maps)	 :: kartografi {m}
+carvel {n} (sea blubber) SEE: sea blubber	 ::
+carving knife {n} (a large knife)	 :: forskjærskniv {m}
+case {n} (box containing a number of identical items of manufacture)	 :: kiste
+case dependent {adj} (case sensitive) SEE: case sensitive	 ::
+casein {n} (proteid substance)	 :: [Bokmål] kasein {n}; [Nynorsk] kasein {n}
+case law {n} (system of laws established on judicial precedent) SEE: common law	 ::
+casement {n} (casemate) SEE: casemate	 ::
+casement {n} (casement window) SEE: casement window	 ::
+caseworker {n} (social worker) SEE: social worker	 ::
+cash {n} (money in the form of notes/bills and coins)	 :: kontanter {p}, penger {p}
+cash dispenser {n} (automated teller machine) SEE: automated teller machine	 ::
+cashew {n} (cashew nut) SEE: cashew nut	 ::
+cash in {v} (to die) SEE: die	 ::
+cash machine {n} (automated teller machine) SEE: automated teller machine	 ::
+cashpoint {n} (automated teller machine) SEE: automated teller machine	 ::
+cash register {n} (machine)	 :: kasseapparat {n}
+casino {n} (a public building or room for entertainment, especially gambling)	 :: [Bokmål] kasino {n}; [Nynorsk] kasino {n}
+casket {n} (coffin) SEE: coffin	 ::
+Caspar {prop} (male given name)	 :: Kasper
+Caspar {prop} (one of the Magi)	 :: Kaspar
+Caspian roach {n} (Rutilus caspicus) SEE: vobla	 ::
+Caspian Sea {prop} (landlocked sea)	 :: Kaspihavet {n}
+cassette {n} (small flat case containing magnetic tape)	 :: [Bokmål] kassett {m}; [Nynorsk] kassett {m}
+cast {n} (medicine: supportive and immobilising device)	 :: gips {m}
+cast {v} (to make by pouring into a mould)	 :: [Bokmål] støpe, støype; [Nynorsk] støype
+cast {v} (to throw forcefully)	 :: kaste
+castanets {n} (a percussion instrument) SEE: castanet	 ::
+caste {n} (hereditary social class)	 :: kaste {m}
+caster sugar {n} (fine granulated sugar)	 :: [Bokmål] finmalt sukker {n}
+cast iron {n} (hard, brittle alloy of iron, carbon, silicon)	 :: [Bokmål] støpejern {n}, støypejern {n}; [Nynorsk] støypejarn {n}, støypejern
+castle {n} (chess piece) SEE: rook	 ::
+castle {n} (fortified building)	 :: borg
+castle in the air {n} (idea that is unlikely to be ever realized)	 :: [Bokmål] luftslott {n}; [Nynorsk] luftslott {n}
+castor {n} (a pivoting roller) SEE: caster	 ::
+castor {n} (container for sprinkling) SEE: caster	 ::
+castrate {v} (remove the testicles of)	 :: [however usually colloquially about human males, e.g. sex offenders] gjelle
+casual {adj} (happening by chance)	 :: tilfeldig
+casuistics {n} (casuistry) SEE: casuistry	 ::
+cat {n} (cat-o'-nine-tails) SEE: cat-o'-nine-tails	 ::
+cat {n} (domestic species)	 :: huskatt {m}, katt {m}, katte {f}
+cat {n} (member of the family Felidae)	 :: kattedyr {n}, katt {m}
+cat {n} (spiteful woman) SEE: bitch	 ::
+cat {n} (type of boat) SEE: catboat	 ::
+cat {n} (type of fish) SEE: catfish	 ::
+cat {v} (raise anchor to cathead)	 :: katte
+catachresis {n} (misuse of a word)	 :: katakrese {m}
+catacomb {n} (underground system of tunnels and chambers with recesses for graves)	 :: katakombe
+Catalan {prop} (The language of Catalonia)	 :: katalansk
+Catalonia {prop} (autonomous community in Spain)	 :: Catalonia {f}
+Catalonian {adj} (Catalan) SEE: Catalan	 ::
+Catalonian {n} (Catalan) SEE: Catalan	 ::
+catalyst {n} (catalytic converter) SEE: catalytic converter	 ::
+catalytic converter {n} (a chamber which oxidises carbon dioxide from exhaust gases)	 :: [Bokmål] katalysator {m}
+cataplasm {n} (A poultice or plaster)	 :: grøtomslag {n}
+catapult {n} (slingshot) SEE: slingshot	 ::
+catastrophe {n} (any large and disastrous event of great significance)	 :: [Bokmål] katastrofe {m}; [Nynorsk] katastrofe {m}
+catastrophe {n} (disaster beyond expectations)	 :: [Bokmål] katastrofe {m}; [Nynorsk] katastrofe {m}
+catch {n} (that which is captured or caught )	 :: [Bokmål] fangst {m}; [Nynorsk] fangst {m}
+catch a cold {v} (to suffer from cold)	 :: bli forkjølt
+catch fire {v} (become engulfed with flames)	 :: antenne, ta fyr
+catchment {n} (Any structure or land feature which catches and holds water)	 :: nedslagsdistrikt {n}
+catchy {adj} (instantly appealing and memorable)	 :: catchy; [Bokmål] fengende
+catechism {n} (book summarizing the principles of Christianity)	 :: [Bokmål] katekisme {m} {f}; [Nynorsk] katekisme {f}
+categorize {v} (to assign a category)	 :: [Bokmål] kategorisere; [Nynorsk] kategorisere
+category {n} (group)	 :: [Bokmål] kategori {m}; [Nynorsk] kategori {m}
+caterpillar {n} (larva of a butterfly)	 :: larve {m}
+catfish {n} (type of fish)	 :: malle {m}
+cat-flap {n} (cat flap) SEE: cat flap	 ::
+cathedral {n} (principal church of a bishop's diocese)	 :: [Bokmål] katedral {m}, domkirke {m} {f}; [Nynorsk] katedral {m}, domkyrkje {f}
+Catherine {prop} (female given name)	 :: Katarina
+catheter {n} (small tube inserted into a body cavity)	 :: kateter {n}; [Bokmål] kateter {n}; [Nynorsk] kateter {n}
+Catholic {n} (member of a Catholic church)	 :: [Bokmål] katolikk {m}; [Nynorsk] katolikk {m}
+Catholicism {n} (faiths, practices and doctrines of a Catholic Church)	 :: [Bokmål] katolisisme {m}; [Nynorsk] katolisisme {m}
+catholicity {n} (Catholicism) SEE: Catholicism	 ::
+catkin {n} (botany: a type of inflorescence)	 :: [Bokmål] rakle {m}; [Nynorsk] rakle {m}
+catmint {n} (catnip) SEE: catnip	 ::
+catnap {n} (a brief, light sleep)	 :: høneblund
+cat-o'-nine-tails {n} (whip)	 :: nihalet katt {m}, katt {m}
+cattle {n} (certain other livestock)	 :: buskap
+cattle {n} (domesticated bovine animals)	 :: krøtter, storfe, kveg
+catty {adj} (spiteful)	 :: spydig
+catwalk {n} (narrow elevated stage on which models parade)	 :: catwalk {m}
+Caucasian {adj} (pertaining to the Caucasus region or people)	 :: [Bokmål] kaukasisk; [Nynorsk] kaukasisk
+Caucasus {prop} (geographic region)	 :: Kaukasia
+caucus {n} (a meeting, especially a preliminary meeting, of persons belonging to a party)	 :: nominasjonsmøte
+cauldron {n} (large bowl-shaped pot)	 :: kjele {m}
+cauliflower {n}	 :: blomkål
+caulk {n} (caulking) SEE: caulking	 ::
+caulk {v} (to seal joints with caulk)	 :: fuge
+cause {n}	 :: årsak {m}, grunn {m}
+cause {v} (to set off an event or action)	 :: [Bokmål] forårsake; [Nynorsk] forårsake
+caustic {n} (caustic soda) SEE: caustic soda	 ::
+cauterize {v} (burn tissue)	 :: kauterisere
+caution {n} (careful attention, prudence)	 :: [Bokmål] forsiktighet {m} {f}, varsomhet {m} {f}, aktpågivenhet {m} {f}
+caution {n} (precept or warning against evil or danger)	 :: [Bokmål] advarsel {m}
+caution {n} (security; guaranty; bail)	 :: [Bokmål] kausjon {m}
+caution {v} (to warn)	 :: [Bokmål] advare, fraråde
+cave {n} (large, naturally occurring cavity formed underground)	 :: [Bokmål] hule {m} {f}, hole {m} {f}, grotte {m} {f}; [Nynorsk] hòle {f}, grotte {f}
+cave bear {n} (Ursus spelaeus)	 :: [Bokmål] hulebjørn {m}; [Nynorsk] hulebjørn {m}
+cave in {v} (to collapse inward or downward)	 :: [Bokmål] gi etter, kollapse, bryte sammen, knele
+cave in {v} (to relent, comply, lose willpower, etc.)	 :: [Bokmål] gi opp, kapitulere, resignere
+caviar {n} (red caviar) SEE: ikra	 ::
+caviar {n} (roe of the sturgeon or other large fish (black caviar))	 :: [Bokmål] kaviar {m}; [Nynorsk] kaviar {m}
+cavy {n} (guinea pig) SEE: guinea pig	 ::
+CD player {n} (CD player)	 :: [Bokmål] CD-spiller {m}, CD-speller {m}, cd-spiller {m}, cd-speller {m}; [Nynorsk] CD-spelar {m}, cd-spelar {m}
+ceasefire {n} (in warfare, an agreed end to hostilities for a specific purpose)	 :: våpenhvile
+Cecilia {prop} (female given name)	 :: Cecilie
+cedar {n} (coniferous tree in genus Cedrus)	 :: seder; [Nynorsk] seder
+ceil {n} (ceiling) SEE: ceiling	 ::
+ceiling {n} (smallest integer)	 :: tak {n}
+ceiling {n} (upper limit of room)	 :: tak {n}
+celebrate {v}	 :: feire
+celebration {n} (formal performance of a solemn rite)	 :: [Bokmål] feiring {m} {f}; [Nynorsk] feiring {f}
+celebration {n} (social gathering for entertainment and fun)	 :: [Bokmål] feiring {m} {f}; [Nynorsk] feiring {f}
+celerity {n} (speed)	 :: seleritet
+celery {n} (herb)	 :: selleri
+celestial {adj} (relating to heaven (religious))	 :: himmelsk
+celestial body {n} (natural object beyond Earth's atmosphere)	 :: [Bokmål] himmellegeme {n}
+celestial stem {n} (heavenly stem) SEE: heavenly stem	 ::
+celibacy {n} (abstaining from sexual relations)	 :: sølibat {n}
+celibacy {n} (state of being unmarried)	 :: sølibat {n}
+Celine {prop} (female given name)	 :: Celine
+cellar {n} (underground space)	 :: [Bokmål] kjeller {m}; [Nynorsk] kjellar {m}
+cello {n} (musical instrument)	 :: cello; [Nynorsk] cello
+cell phone {n} (portable, wireless telephone capable of changing antenna connections during travel)	 :: mobiltelefon
+cellular {n} (cell phone) SEE: cell phone	 ::
+cellulose {n} (the polysaccharide cellulose)	 :: [Bokmål] cellulose {m}, sellulose {m}; [Nynorsk] cellulose {m}, sellulose {m}
+cellulose nitrate {n} (nitrocellulose) SEE: nitrocellulose	 ::
+Celtic {adj} (of the Celts; of the style of the Celts)	 :: keltiske
+cembalo {n} (cembalo) SEE: harpsichord	 ::
+cemetery {n} (a place where the dead are buried) SEE: graveyard	 ::
+cenotaph {n} (monument to honor the dead whose bodies lie elsewhere)	 :: kenotaf {m}
+census {n} (official count of members of a population)	 :: [Bokmål] folketelling {m} {f}; [Nynorsk] folketeljing {f}
+centaur {n} (mythical half-man, half-horse)	 :: [Bokmål] kentaur {m}; [Nynorsk] kentaur {m}
+Centaur {n}	 :: kentaur {m}
+centenary {n} (centennial) SEE: centennial	 ::
+centenier {n} (centurion) SEE: centurion	 ::
+centennial {n} (100th anniversary)	 :: hundreårsdag
+center {n} (place where a function or activity occurs)	 :: midtpunkt {n}, sentrum {n}
+center {n} (point equidistant from all points on the perimeter of a circle)	 :: sentrum {n}, midtpunkt {n}
+center {n} (point equidistant from all points on the surface of a sphere)	 :: sentrum {n}, midtpunkt {n}
+center {n} (point on a line midway between the ends)	 :: midt {c}, midtpunkt {n}
+centilitre {n} (1/100 of a litre)	 :: [Bokmål] centiliter {m}; [Nynorsk] centiliter {m}
+centimetre {n} (one-hundredth of a metre)	 :: [Bokmål] centimeter {m}; [Nynorsk] centimeter {m}
+centipede {n} (a segmented arthropod of class Chilopoda)	 :: skolopender {m}
+Central African {adj} (Of, from, or pertaining to Central Africa or the Central African people)	 :: [Bokmål] sentralafrikansk; [Nynorsk] sentralafrikansk
+Central African {n} (A person from Central Africa or of Central African descent)	 :: [Bokmål] sentralafrikaner {m}; [Nynorsk] sentralafrikan {m}, sentralafrikanar {m}
+Central African Republic {prop} (country in Central Africa)	 :: Den sentralafrikanske republikk
+Central Asia {prop} (smaller area of Central Asia)	 :: Sentral-Asia
+central heating {n} (heating system)	 :: [Bokmål] sentralvarme {m}; [Nynorsk] sentralvarme {m}
+centralise {v} (centralize) SEE: centralize	 ::
+central vacuum {n} (built-in vacuum cleaner)	 :: [Bokmål] sentralstøvsuger {m}
+centrifugal force {n} (a force)	 :: [Bokmål] sentrifugalkraft {m} {f}; [Nynorsk] sentrifugalkraft {f}
+centrifuge {n} (device for separation of substances)	 :: sentrifuge {m}
+ceramic {n} (material)	 :: [Bokmål] keramikk {m}
+Cerberus {prop} (mythological three-headed dog)	 :: Kerberos {m}
+cereal {n} (breakfast cereal) SEE: breakfast cereal	 ::
+cerebellum {n} (part of the hindbrain in vertebrates)	 :: [Bokmål] lillehjerne; [Nynorsk] veslehjerne
+cerebral {adj} (of, or relating to the brain)	 :: cerebral
+cerebral {adj} (retroflex) SEE: retroflex	 ::
+cerement {n} (cerecloth) SEE: cerecloth	 ::
+cerium {n} (chemical element)	 :: cerium
+certain {adj} (sure, positive, not doubting)	 :: sikker, viss
+certain {determiner} (having been determined but unspecified)	 :: viss {m} {f}, visst {n}, visse {p}, enkelte
+certificate {n} (a document containing a certified statement)	 :: [Bokmål] sertifikat {n}; [Nynorsk] sertifikat {n}
+cerumen {n} (earwax) SEE: earwax	 ::
+cervical collar {n} (neck brace) SEE: neck brace	 ::
+cervix {n} (neck) SEE: neck	 ::
+cesarean section {n} (Caesarean section) SEE: Caesarean section	 ::
+c'est la vie {phrase} (such is life) SEE: such is life	 ::
+cetology {n} (whalelore) SEE: whalelore	 ::
+Ceylon {prop} (Sri Lanka) SEE: Sri Lanka	 ::
+cf {abbr} (compare)	 :: jf.
+cha-cha-cha {n} (cha-cha) SEE: cha-cha	 ::
+Chad {prop} (country in central Africa)	 :: Tsjad
+Chadian {adj} (pertaining to Chad)	 :: [Bokmål] tsjadisk; [Nynorsk] tsjadisk
+Chadian {n} (person from Chad)	 :: [Bokmål] tjsader {m}; [Nynorsk] tsjadar {m}
+chador {n} (a loose robe worn by Muslim women)	 :: chador
+chaffinch {n} (bird)	 :: bokfink
+chai {n} (spiced black tea) SEE: masala chai	 ::
+chain {n} (number of atoms in a series, which combine to form a molecule)	 :: kjede {m}
+chain {n} (series of interconnected rings or links)	 :: kjede {n}, kjetting {m}, lenke {m} {f}
+chain {n} (series of interconnected things)	 :: rekke {m} {f}
+chain {n} (series of stores or businesses with the same brand name)	 :: kjede {m}
+chain mail {n} (Armor)	 :: ringbrynje {c}
+chainplate {n} (plate on the side of a sailing ship)	 :: røstjern
+chain reaction {n} (nuclear reaction in which particles produced by the fission of one atom trigger fissions of other atoms)	 :: [Bokmål] kjedereaksjon {m}; [Nynorsk] kjedereaksjon {m}
+chain reaction {n} (series of events)	 :: [Bokmål] kjedereaksjon {m}; [Nynorsk] kjedereaksjon {m}
+chainsaw {n} (saw with a power-driven chain)	 :: [Bokmål] motorsag {m} {f}; [Nynorsk] motorsag {f}
+chain-smoker {n} (person who chain-smokes)	 :: [Bokmål] kjederøyker {m}, kjederøker {m}
+chair {n} (chairperson)	 :: leder {m}, formann {m}
+chair {n} (furniture)	 :: [Bokmål] stol {m}; [Nynorsk] stol {m}
+chairman {n} (head of a corporate or governmental board)	 :: [Bokmål] styreformann {m} {f}
+chairman {n} (person presiding over a meeting)	 :: styreformann, møteleder
+chairperson {n} (a person who presides over a meeting, a board)	 :: styreformann, møteleder
+chaise longue {n} (chair)	 :: sjeselong
+chai tea {n} (masala chai) SEE: masala chai	 ::
+chalk {n} (a piece of chalk used for drawing and on a blackboard)	 :: [Bokmål] kritt {n}
+chalk {n} (tailor's chalk) SEE: tailor's chalk	 ::
+challenge {n} (difficult task)	 :: utfordring {m}
+chamber {n} (bedroom)	 :: rom {n}, kammer {n} [obsolete]
+chamber {n} (enclosed space)	 :: kammer {n}
+chamber {n} (legislative body)	 :: kammer {n}
+chamber {n} (part of a firearm holding the round before firing)	 :: kammer {n}
+chameleon {n} (reptile)	 :: [Bokmål] kameleon {m}; [Nynorsk] kameleon {m}
+chamois {n} (goat)	 :: gemse
+chamois leather {n} (suede leather) SEE: suede	 ::
+champian {n} (agriculture: common land) SEE: common land	 ::
+champian {n} (battlefield) SEE: battlefield	 ::
+champian {n} (field of inquiry or study) SEE: field	 ::
+champian {n} (flat expanse of land) SEE: plain	 ::
+champian {n} (level open countryside) SEE: plain	 ::
+champian {n} (species of landscape) SEE: plain	 ::
+chance {n} (an opportunity or possibility)	 :: sjanse {m}, mulighet {m}
+chance {n} (probability of something happening)	 :: sjanse {m}, sannsynlighet {m}
+chance {n} (random occurrence)	 :: mulighet, tilfeldigheter {m-p}
+chancel {n} (space around the altar in a church)	 :: kor {n}
+chancellor {n} (Chancellor of the Exchequer) SEE: Chancellor of the Exchequer	 ::
+chancellor {n} (head of parliamentary government in some German speaking countries)	 :: [Bokmål] kansler
+chancellor {n} (important notary; person in charge of some area of government)	 :: kansler
+chandelier {n} (branched, often ornate, lighting fixture suspended from the ceiling)	 :: [Bokmål] lysekrone {m} {f}; [Nynorsk] ljosekrone {f}, lysekrone {f}
+change {n} (money given back)	 :: [Bokmål] veksel {m}; [Nynorsk] veksel {m}
+change {n} (small denominations of money given in exchange for a larger denomination)	 :: [Bokmål] veksel {m}; [Nynorsk] veksel {m}
+change {n} (the process of becoming different)	 :: [Bokmål] endring {m} {f}; [Nynorsk] endring {f}
+change {v} (to become something different)	 :: [Bokmål] gjøre om, endre; [Nynorsk] gjere om, gjøre om, endre
+change {v} (to make something into something different)	 :: [Bokmål] gjøre om, endre; [Nynorsk] gjere om, gjøre om, endre
+change {v} (to replace)	 :: [Bokmål] erstatte, bytte ut; [Nynorsk] erstatte
+change {v} (to replace one's own clothing)	 :: [Bokmål] skifte; [Nynorsk] skifte
+change {v} (to transfer to another vehicle)	 :: [Bokmål] bytte
+change one's mind {v} (to decide differently than one had decided before)	 :: [Bokmål] skifte mening, endre oppfatning, ombestemme seg
+Chang Jiang {prop} (Yangtze) SEE: Yangtze	 ::
+channel {n} (broadcasting: specific radio frequency or band of frequencies)	 :: [Bokmål] kanal {m}; [Nynorsk] kanal {m}
+channel {n} (broadcasting: specific radio frequency or band of frequencies used for transmitting television)	 :: [Bokmål] kanal {m}; [Nynorsk] kanal {m}
+channel {n} (narrow body of water between two land masses)	 :: [Bokmål] kanal {m}; [Nynorsk] kanal {m}
+channel {n} (natural or man-made deeper course through shallow body of water)	 :: kanal {m}
+channel {n} (navigable part of a river)	 :: kanal {m}
+channel {n} (physical confine of a river or slough)	 :: kanal {m}
+Channel Tunnel {prop} (man-made tunnel)	 :: Kanaltunnelen
+chanoyu {n} (tea ceremony) SEE: tea ceremony	 ::
+chanterelle {n} (Cantharellus cibarius)	 :: kantarell
+chaos theory {n} (chaos theory)	 :: kaosteori
+chapel {n} (place of worship)	 :: kapell
+character {n} (being in a story)	 :: karakter
+character {n} (symbol for a sound or a word)	 :: tegn
+characteristic function {n} (function equal to one on elements of a given set) SEE: indicator function	 ::
+charade {n} (party game) SEE: charades	 ::
+chard {n}	 :: bladbete {c}
+charge {n} (accusation)	 :: beskyldning {c}, søksmål {n}
+charge {n} (amount of money levied for a service)	 :: pris {m}
+charge {n} (electric charge)	 :: ladning {c}
+charge {n} (ground attack)	 :: angrep {n}
+charge {n} (instruction)	 :: ordre {m}
+charge {n} (load or burden)	 :: byrde {m}
+charge {v} (to assign a duty to)	 :: gi oppgave
+charge {v} (to formally accuse of a crime)	 :: saksøke
+charge {v} (to place a burden upon, to assign a duty)	 :: belaste, bebyrde
+chargon {n} (holon) SEE: holon	 ::
+charisma {n} (personal charm or magnetism)	 :: [Bokmål] karisma {m}
+charity stripe {n} (free-throw line) SEE: free-throw line	 ::
+charivari {n} (cacaphonous noise, hubbub) SEE: cacaphony	 ::
+charlady {n} (woman who cleans houses and offices) SEE: charwoman	 ::
+charlatanism {n} (charlatanry) SEE: charlatanry	 ::
+Charles {prop} (given name)	 :: Karl
+Charles' Wain {prop} (bright circumpolar asterism of the northern sky, said to resemble a wagon)	 :: Karlsvognen
+charley horse {n} (a muscle cramp, usually in the thigh or leg)	 :: [Bokmål] lårhøne {f}
+Charlotte {prop} (female given name)	 :: Charlotte
+charming {adj} (pleasant, charismatic)	 :: sjarmerende
+chart {n} (diagram) SEE: diagram	 ::
+chart {n} (graph) SEE: graph	 ::
+chart {n} (map) SEE: map	 ::
+chart {n} (table) SEE: table	 ::
+chary {adj} (cautious, wary, shy, ungenerous)	 :: forsiktig, varsom
+chase {n} (action of the verb "to chase")	 :: jakt, forfølgelse
+chase {n} (hunt) SEE: hunt	 ::
+chase {v} (to decorate (metal) by engraving or embossing)	 :: drive, punsle, siselere
+chase {v} (to hunt) SEE: hunt	 ::
+chase {v} (to pursue, to follow at speed)	 :: løpe, jage etter, forfølge
+chaste {adj} (austere) SEE: austere	 ::
+chaste {adj} (celibate) SEE: celibate	 ::
+chaste {adj} (innocent) SEE: innocent	 ::
+chaste {adj} (modest) SEE: modest	 ::
+chasten {v} (discipline) SEE: discipline	 ::
+chasten {v} (purify) SEE: purify	 ::
+chastity {n} (abstaining from sexual intercourse outside of marriage)	 :: kyskhet {m}
+chat {n} (conversation to stop an argument or settle situations)	 :: prat {m}
+chat {n} (exchange of text or voice messages in real time)	 :: chat {m}
+chat {n} (informal conversation)	 :: prat {m}; [Bokmål] samtale {m}; [Nynorsk] samtale {m} {f}
+chat {v} (exchange messages in real time)	 :: chatte
+chaulk {n} (chalk) SEE: chalk	 ::
+chaulk {v} (chalk) SEE: chalk	 ::
+chauvinist {adj} (chauvinistic) SEE: chauvinistic	 ::
+chavender {n} (chub) SEE: chub	 ::
+cheap {adj} (low in price)	 :: [Bokmål] billig
+cheat {n} (someone who is dishonest or cheats)	 :: juksepave
+cheat {v} (being unfaithful)	 :: være utro, bedra
+cheat {v} (manage to avoid something)	 :: unngå, snyte, lure
+cheat {v} (violate rules to gain advantage)	 :: jukse, fuske
+cheater {n} (cheat) SEE: cheat	 ::
+Chechen {prop} (Language)	 :: tsjetsjensk
+Chechnya {prop} (federal subject of Russia)	 :: [Bokmål] Tsjetsjenia
+check {n} (a control, limit or stop)	 :: kontroll {m}
+check {n} (an inspection or examination)	 :: kontroll {m}
+check {n} (cheque) SEE: cheque	 ::
+check {n} (chess: when the king is directly threatened by an enemy piece)	 :: sjakk {m}
+check {v} (to inspect, examine)	 :: kontrollere, sjekke
+check {v} (to mark with a checkmark)	 :: krysse av, avkrysse
+check {v} (to verify or compare with a source of information)	 :: kryssjekke
+checkbook {n} (chequebook) SEE: chequebook	 ::
+checkers {n} (draughts) SEE: draughts	 ::
+checking account {n} (current account) SEE: current account	 ::
+checkmark {n} (mark to indicate agreement, correctness or acknowledgement) SEE: tick	 ::
+checkmate {interj} (said when making the conclusive move in chess)	 :: sjakkmatt
+checkmate {n} (conclusive victory in a game of chess)	 :: [Bokmål] sjakkmatt; [Nynorsk] sjakkmatt
+checksum {n} (number serving to detect error)	 :: sjekksum {m}
+Cheddar {prop} (Cheddar cheese) SEE: Cheddar cheese	 ::
+Cheddar cheese {n} (cheese)	 :: Cheddarost
+cheek {n} (part of face)	 :: [Bokmål] kinn
+cheer {n} (A cry of "hurrah", "hurray", "yeah", or some other word expressing joy)	 :: heiarop {n}
+cheer {v} (To shout a cheer or cheers)	 :: heie
+cheers {interj} (toast when drinking)	 :: skål
+cheese {n} (countable: any particular variety of cheese)	 :: [Bokmål] ost {m}; [Nynorsk] ost {m}
+cheese {n} (dairy product)	 :: [Bokmål] ost {m}; [Nynorsk] ost {m}
+cheese slicer {n} (instrument for slicing cheese)	 :: ostehøvel {m}
+cheetah {n} (Acinonyx jubatus)	 :: gepard {m}
+chemical {adj} (relating to chemistry)	 :: [Bokmål] kjemisk; [Nynorsk] kjemisk
+chemical {n}	 :: kjemikal {n}, kjemikalie {m}, kjemikalium {n}
+chemical energy {n} (net potential energy)	 :: kjemisk energi
+chemist {n} (person working in chemistry)	 :: [Bokmål] kjemiker {m}; [Nynorsk] kjemikar {m}
+chemist {n} (pharmacist) SEE: pharmacist	 ::
+chemist {n} (pharmacy) SEE: pharmacy	 ::
+chemistry {n} (branch of natural science)	 :: kjemi
+chemistry {n}	 :: kjemi {m}
+chemist's {n} (pharmacy) SEE: pharmacy	 ::
+cheongsam {n} (qipao) SEE: qipao	 ::
+Chernigov {prop} (Chernihiv) SEE: Chernihiv	 ::
+Chernobyl {n} (city in Ukraine)	 :: Tsjernobyl; [Nynorsk] Tsjernobyl
+Chernovtsy {prop} (Chernivtsi) SEE: Chernivtsi	 ::
+cherry {n} (color)	 :: kirsebær
+cherry {n} (fruit)	 :: kirsebær {n}, [sweet cherry] morell {m}
+cherry {n} (tree)	 :: kirsebærtre {n}
+cherry {n} (wood)	 :: kirsebærtre {n}
+cherub {n} (winged creature represented in the Bible as attending on God)	 :: [Bokmål] kjerub {m}; [Nynorsk] kjerub {m}
+chervil {n} (spice)	 :: [Bokmål] kjørvel {m}
+chess {n} (two-player board game)	 :: sjakk {m}
+chessboard {n} (square board used in the game of chess)	 :: [Bokmål] sjakkbrett {n}; [Nynorsk] sjakkbrett {n}
+chessman {n} (chess piece) SEE: chess piece	 ::
+chesspiece {n} (chessman) SEE: chess piece	 ::
+chest {n} (chest of drawers)	 :: kommode {m}
+chest {n} (coffin) SEE: coffin	 ::
+chest {n} (strong box)	 :: kiste {m} {f}
+chest {n} (thorax)	 :: brystkasse {m} {f}
+chest {n} (treasury)	 :: kasse {m} {f}
+chest cavity {n} (thoracic cavity) SEE: thoracic cavity	 ::
+chestnut {n} (chestnut tree) SEE: chestnut tree	 ::
+chestnut {n} (nut of the chestnut tree)	 :: [Bokmål] kastanje {m}; [Nynorsk] kastanje {m}
+chestnut {n} (reddish-brown colour)	 :: kastanje
+chestnut tree {n} (A tree that bears chestnuts)	 :: [Bokmål] kastanje {m}; [Nynorsk] kastanje {m}
+chevin {n} (chub) SEE: chub	 ::
+chevon {n} (goatmeat) SEE: goatmeat	 ::
+chevron {n} (diacritical mark) SEE: háček	 ::
+chevron {n} (guillemet) SEE: guillemet	 ::
+chew the fat {v} (chat idly or generally waste time talking) SEE: shoot the breeze	 ::
+chi {n} (qi) SEE: qi	 ::
+chiaroscuro {n} (artistic technique)	 :: chiaroscuro {m}, kjellerlys {n}
+chick {n} (young bird)	 :: fugleunge {m}
+chick {n} (young chicken)	 :: kylling {m}
+chick {n} (young woman)	 :: (depending on age of speaker) +40 yrs: rype; 20 - 40 yrs: dame; <20: spa kæbe (used widely in inner east Oslo, derived from urdu)
+chicken {n} (bird)	 :: [Bokmål] høne {m} {f}, kylling {m}; [Nynorsk] høne {f}, kylling {m}, kjukling {m}
+chicken {n} (coward)	 :: feiging {m}
+chicken {n} (meat)	 :: kylling {m}
+chicken {n} (young, attractive, slim man) SEE: twink	 ::
+chicken coop {n} (small building for poultry) SEE: henhouse	 ::
+chickenpox {n} (childhood disease)	 :: [Bokmål] vannkopper {p}
+chicory {n} (Cichorium endivia) SEE: endive	 ::
+chicory {n} (Cichorium intybus)	 :: sikori
+chiefly {adv} (mainly)	 :: [Bokmål] hovedsakelig, primært, for det meste
+chief of state {n} (the titular head of a nation) SEE: head of state	 ::
+child {n} (a female or male child, a daughter or son)	 :: [Bokmål] barn {n}; [Nynorsk] barn {n}
+child {n} (a minor)	 :: barn {n} mindreårig {m}
+child {n} ((computing) object which has a subservient or derivative role relative to another object)	 :: barn {n}
+childhood {n} (the state of being a child)	 :: [Bokmål] barndom {m}; [Nynorsk] barndom {m}
+childhood {n} (time when one is a child)	 :: [Bokmål] barndom {m}; [Nynorsk] barndom {m}
+childish {adj} (behaving immaturely)	 :: barnslig
+child language {n} (the language spoken by a child that doesn't have full control over it yet)	 :: barnespråk {n}
+child neglect {n} (form of child abuse)	 :: [Bokmål] omsorgssvikt {m} {f}
+child porn {n} (child pornography) SEE: child pornography	 ::
+child prodigy {n} (wunderkind) SEE: wunderkind	 ::
+child prostitution {n} (use of a child for sexual activities for profit)	 :: barneprostitusjon {m}
+children's home {n} (a public institution for the care and protection of children whose parents have died or can no longer care for them, see also: orphanage)	 :: [Bokmål] barnehjem {n}
+child's play {n} (something particularly simple or easy)	 :: [Bokmål] barnemat {m}; [Nynorsk] barnemat {m}
+chile {n} (chili) SEE: chili	 ::
+Chile {prop} (country in South America)	 :: Chile
+Chilean {adj} (pertaining to a Chilean person or Chileans)	 :: [Bokmål] chilensk; [Nynorsk] chilensk
+Chilean {adj} (pertaining to Chile)	 :: [Bokmål] chilensk; [Nynorsk] chilensk
+Chilean {n} (person from Chile)	 :: [Bokmål] chilener {m}; [Nynorsk] chilen {m}, chilenar {m}
+chili {n} (chili con carne) SEE: chili con carne	 ::
+chili pepper {n} (fruit)	 :: [Bokmål] chilipepper {m}, chili {m}; [Nynorsk] chilipepar {m}, chili {m}
+chill {v} (to become cold)	 :: kjølne
+chill {v} (to lower the temperature of something; to cool)	 :: avkjøle
+chill {v} (to relax, lie back)	 :: chille [slang]
+chilli {n} (chili) SEE: chili	 ::
+chimney {n} (UK: smokestack of a steam locomotive)	 :: skorstein {m}
+chimney {n} (vertical tube or hollow column; a flue)	 :: pipe {f}, skorstein {m}
+chin {n} (bottom of a face)	 :: hake
+china {n} (Cockney rhyming slang: mate) SEE: mate	 ::
+china {n} (porcelain)	 :: [Bokmål] porselen {n}; [Nynorsk] porselen {n}
+China {prop} (country in east Asia)	 :: Kina
+China {prop} (region corresponding to the People's Republic of China and Taiwan)	 :: Kina
+Chinaman {n} (a Chinese person)	 :: kinamann {m}
+chinchilla {n} (rodent)	 :: chincilla {m}
+Chinese {adj} (relating to China)	 :: [Bokmål] kinesisk; [Nynorsk] kinesisk
+Chinese {n} (Chinese food or meal)	 :: kinamat kinesisk
+Chinese {n} (person born in China)	 :: [Bokmål] kineser {m}
+Chinese {n} (the people of China)	 :: [Bokmål] kinesere {p}
+Chinese {prop} (Any language spoken in China, see also: Literary Chinese, see also: Mandarin, see also: Cantonese, see also: Wu, see also: Min Nan)	 :: kinesisk {m}; [Bokmål] kinesisk {m}; [Nynorsk] kinesisk {m}
+Chinese {prop} (Mandarin) SEE: Mandarin	 ::
+Chinese {prop} (Writing system of Chinese)	 :: [Bokmål] kinesisk {m}; [Nynorsk] kinesisk {m}
+Chinese cabbage {n} (bok choy) SEE: bok choy	 ::
+Chinese cabbage {n} (napa cabbage) SEE: napa cabbage	 ::
+Chinese desert cat {n} (Chinese mountain cat) SEE: Chinese mountain cat	 ::
+Chinese grapefruit {n} (pomelo) SEE: pomelo	 ::
+Chinese lantern {n} (bladder cherry) SEE: bladder cherry	 ::
+Chinese parsley {n} (coriander) SEE: coriander	 ::
+Chinese red {adj} (vermilion) SEE: vermilion	 ::
+chinkapin {n} (shrub in the genus Castanopsis) SEE: chinquapin	 ::
+chin-up {n} (an exercise done for strengthening the arms and back) SEE: pull-up	 ::
+chip {n} (fried strip of potato, french fry)	 :: potetgull
+chirality {n} (handedness in chemistry, physic and mathematics)	 :: [Bokmål] kiralitet {m}; [Nynorsk] kiralitet {m}
+chirology {n} (chirology) SEE: palm reading	 ::
+chiropractor {n} (chiropractor)	 :: [Bokmål] kiropraktor {m}; [Nynorsk] kiropraktor {m}
+chiru {n} (Tibetan antelope) SEE: Tibetan antelope	 ::
+chisel {n} (tool consisting of a slim oblong block of metal)	 :: meisel
+chisel {v} (to cheat) SEE: cheat	 ::
+Chisinau {prop} (The capital city and a municipality of Moldova)	 :: Chișinău
+chit-chat {n} (gossip; mindless banter)	 :: babbel
+Chittagong {prop} (Chittagong District) SEE: Chittagong District	 ::
+Chittagong {prop} (Chittagong Division) SEE: Chittagong Division	 ::
+chive {n} (chives: herb)	 :: gressløk
+chive {n} (plant)	 :: gressløk
+chlamydia {n} (sexually transmitted disease)	 :: klamydia
+chloride {n} (any salt of hydrochloric acid)	 :: [Bokmål] klorid {n}; [Nynorsk] klorid {n}
+chlorine {n} (chemical element)	 :: [Bokmål] klor {n}; [Nynorsk] klor {n}
+chlorophyll {n} (green pigment)	 :: [Bokmål] bladgrønt, klorofyll {n}; [Nynorsk] bladgrønt, klorofyll {n}
+chocolate {adj} (colour)	 :: sjokoladebrun
+chocolate {n} (colour)	 :: sjokoladebrun {m}
+chocolate {n} (food made from ground roasted cocoa beans)	 :: sjokolade {m}
+chocolate {n} (small piece of confectionery made from chocolate)	 :: konfekt {m}
+chocolate bar {n} (bar of chocolate) SEE: bar of chocolate	 ::
+chocolate cake {n} (cake containing chocolate)	 :: [Bokmål] sjokoladekake {m} {f}; [Nynorsk] sjokoladekake {f}
+chocolate milk {n} (A milk drink flavored with chocolate)	 :: sjokolademelk
+choice {n} (option or decision)	 :: valg
+choir {n} (part of a church for choir assembly)	 :: kor {c}
+choir {n} (singing group)	 :: kor {n}
+choke {n} (constriction at a shotgun barrel)	 :: redusert
+choke {n} (type of hold in wrestling etc.)	 :: kvelertak
+cholera {n} (infectious disease)	 :: [Bokmål] kolera {m}; [Nynorsk] kolera {m}
+choose {v} (to pick)	 :: [Bokmål] velge
+choose {v}	 :: velge, utvelge, beslutte
+chopper {n} (axe/ax) SEE: axe	 ::
+chopping board {n} (a sturdy board, upon which one chops and prepares food)	 :: fjøl {f}, skjærefjøl {f}; [Bokmål] fjel {m}, skjærefjel {m}
+chopstick {n} (single eating utensil)	 :: spisepinne {m}
+chord {n} (combination of three or more notes )	 :: akkord, note, noter
+chore {n} (a difficult, unpleasant, or routine task)	 :: hverdagsrutine {m}, plikt {m}
+choreographic {adj} (balletic) SEE: balletic	 ::
+choreographist {n} (choreographist) SEE: choreographer	 ::
+choreography {n} (art)	 :: [Bokmål] koreografi {m}; [Nynorsk] koreografi {m}
+choreography {n} (notation)	 :: [Bokmål] koreografi {m}; [Nynorsk] koreografi {m}
+choreography {n} (representation)	 :: [Bokmål] koreografi {m}; [Nynorsk] koreografi {m}
+chortle {n} (joyful, somewhat muffled laugh)	 :: humring {c}, klukklatter {m}, snøfting {c}
+chortle {v} (to laugh with a chortle or chortles)	 :: humre, klukkle, snøfte
+Christ {prop} (title for Jesus of Nazareth)	 :: Kristus {m}
+Christadelphian {adj} (pertaining to the Christadelphians)	 :: kristadelfiansk {m}
+Christadelphian {n} (a member of a certain nontrinitarian Christian denomination)	 :: kristadelfianer {m}
+Christian {n} (member of the Christian religion)	 :: [Bokmål] kristen {m}
+Christian {prop} (male given name)	 :: Kristian
+Christiana {prop} (a female given name)	 :: Kristiane
+Christianity {n} (monotheistic religion)	 :: kristendom
+Christian name {n} (any forename) SEE: forename	 ::
+Christina {prop} (female given name)	 :: Kristine {f}
+Christine {prop} (female name) SEE: Christina	 ::
+Christmas {n} (Christian holiday)	 :: jul {c}
+Christmas card {n} (greeting card that celebrates Christmas)	 :: julekort
+Christmas Day {n} (the 25th of December)	 :: første juledag {m}
+Christmas Eve {prop} (day before Christmas Day)	 :: julaften {m}
+Christmas Eve {prop} (evening before Christmas Day)	 :: julaften {m}
+Christmas Island {prop} (Kiritimati) SEE: Kiritimati	 ::
+Christmas lights {n} (Christmas lights)	 :: julelys {n}
+Christmas seal {n} (charity label in form of a cinderella stamp)	 :: julemerke
+Christmas season {n} (Advent) SEE: Advent	 ::
+Christmassy {adj} (resembling or having feelings of Christmas)	 :: julete, julaktig
+Christmas tree {n} (a tree used during the Christmas holiday season)	 :: juletre {n}
+Christopher {prop} (a male given name)	 :: Kristoffer
+chromium {n} (chemical element)	 :: krom
+chromium-plate {v} (chrome) SEE: chrome	 ::
+chromosome {n} (structure in the cell nucleus)	 :: [Bokmål] kromosom {n}; [Nynorsk] kromosom {n}
+chronograph {n} (chronogram) SEE: chronogram	 ::
+chronologic {adj} (chronological) SEE: chronological	 ::
+chronology {n}	 :: kronologi {m}
+chronophagous {adj} (time-consuming) SEE: time-consuming	 ::
+chrysanthemum {n} (flower)	 :: krysantemum
+chubby {adj} (of a person, somewhat fat)	 :: [Bokmål] lubben {m} {f}
+chuck {n} (meat from the shoulder of a cow)	 :: [Bokmål] høyrygg {m}
+chuck {n} (mechanical device)	 :: chuck {m}
+chuckle {n} (a quiet laugh)	 :: klukklatter {m}
+chuckle {v} (to laugh quietly or inwardly)	 :: klukkle, småle, sitte og more seg
+chuckle {v} (to make the sound of chicken)	 :: klukke
+chuck steak {n} (meat)	 :: [Bokmål] høyrygg {m}
+chumminess {n} (state of being chummy) SEE: folksiness	 ::
+chunk {n} (a part of something)	 :: [Bokmål] bit {m}
+chunk {n} (a representative of substance)	 :: [Bokmål] klump {m}
+Chunnel {prop} (Channel Tunnel) SEE: Channel Tunnel	 ::
+church {n} (house of worship)	 :: [Bokmål] kirke {m} {f}; [Nynorsk] kyrkje {f}
+church bell {n} (bell of a church)	 :: [Bokmål] kirkeklokke {m} {f}; [Nynorsk] kyrkjeklokke {f}
+Church of Jesus Christ of Latter-day Saints {prop} (major denomination of the Latter Day Saint movement)	 :: Jesu Kristi Kirke av Siste Dagers Hellige {m}
+church service {n} (communal worship)	 :: [Bokmål] gudsteneste; [Nynorsk] gudstjeneste
+churlish {adj} (of or pertaining to a serf)	 :: bondsk
+churlish {adj} (rude or surly)	 :: gretten
+ciao {interj} (goodbye) SEE: goodbye	 ::
+ciao {interj} (hello) SEE: hello	 ::
+Ciceronical {adj} (obsolete: Ciceronian) SEE: Ciceronian	 ::
+cider {n} (alcoholic beverage)	 :: [Bokmål] sider {m}; [Nynorsk] sider {m}
+cider {n} (soft drink) SEE: soft drink	 ::
+cigar {n} (tobacco)	 :: [Bokmål] sigar {m}; [Nynorsk] sigar {m}
+cigarette {n} (cigarette)	 :: sigarett {m}
+cigarette lighter {n} (lighter) SEE: lighter	 ::
+cinder {n} (ember) SEE: ember	 ::
+Cinderella {prop} (fairy tale)	 :: Askepott
+Cinderella {prop} (main character in this fairy tale)	 :: Askepott
+cinema {n} (a film/movie theatre)	 :: [Bokmål] kino {m}; [Nynorsk] kino {m}
+cinematic {adj} (relating to kinematics) SEE: kinematic	 ::
+cinereous vulture {n} (Eurasian black vulture) SEE: Eurasian black vulture	 ::
+cinnabar {n} (color)	 :: sinober {m}
+cinnabar {n} (mineral)	 :: sinober {m}
+cinnamon {n} (Cinnamomum verum)	 :: kaneltre {n}
+cinnamon {n} (colour)	 :: kanelfarge {m}
+cinnamon {n} (spice)	 :: kanel
+cinquefoil {n} (potentilla) SEE: potentilla	 ::
+circle {n} (two-dimensional outline geometric figure)	 :: sirkel
+circles {n} (darkening bagginess of skin under eyes)	 :: poser under øynene
+circle segment {n} (circular arc) SEE: circular arc	 ::
+circuit {n} (electric current path)	 :: kretsløp {n}
+circuit breaker {n} (electrical switch)	 :: effektbryter {m}
+circular {adj} (circular definition) SEE: circular definition	 ::
+circular argument {n} (a type of argument)	 :: [Bokmål] sirkelargument {n}
+circular saw {n} (a power saw with a circular cutting blade)	 :: [Bokmål] sirkelsag {m} {f}; [Nynorsk] sirkelsag {f}
+circumambient {adj} (surrounding) SEE: surrounding	 ::
+circumference {n} (length of such line)	 :: omkrets {m}
+circumference {n} (line that bounds a circle or other two-dimensional object)	 :: omkrets {m}
+circumflex {n} (circumflex accent)	 :: cirkumfleks {m}, sirkumfleks {m}
+circumscription {n} (electoral district) SEE: electoral district	 ::
+circumspect {adj} (carefully aware of all circumstances)	 :: omstendelig
+circumstance {n} (that which attends, or relates to, or in some way affects, a fact or event)	 :: [Bokmål] omstendighet {m} {f}; [Nynorsk] omstende {n}
+circus {n} (company that travels)	 :: [Bokmål] sirkus {n}; [Nynorsk] sirkus {n}
+cire perdue {n} (lost wax) SEE: lost wax	 ::
+cirque {n} (curved depression in a mountainside)	 :: [Bokmål] botn {m}; [Nynorsk] botn {m}
+cistern {n} (cisterna) SEE: cisterna	 ::
+cistern {n} (flush toilet's container)	 :: [Bokmål] sisterne {m} {f}, cisterne {m} {f}; [Nynorsk] sisterne {f}, cisterne {f}
+cistern {n} (reservoir for holding water)	 :: [Bokmål] sisterne {m} {f}, cisterne {m} {f}; [Nynorsk] sisterne {f}, cisterne {f}
+citation needed {phrase} (A portion of a wiki needs to be validated by a source.)	 :: [Bokmål] trenger referanse; [Nynorsk] treng kjelde
+cite {v} (quote) SEE: quote	 ::
+citizen {n} (legal member of a state)	 :: borger
+citizen journalism {n} (reporting by amateurs on the scene of an event)	 :: borgerjournalistikk
+citizenship {n} (state of being a citizen)	 :: [Bokmål] borgerskap, statsborgerskap
+citric acid {n} (2-hydroxy-1,2,3-propanetricarboxylic acid, C6H8O7)	 :: [Bokmål] sitronsyre {m} {f}; [Nynorsk] sitronsyre {f}
+citron {n} (fruit)	 :: sukatsitron
+city {n} (central business district) SEE: central business district	 ::
+city {n} (downtown) SEE: downtown	 ::
+city {n} (large settlement)	 :: by {m}
+city hall {n} (the building that houses a city government)	 :: rådhus {n}
+civet coffee {n} (coffee made from eaten berries) SEE: kopi luwak	 ::
+civil disobedience {n} (active and non-violent refusal to obey)	 :: sivil ulydighet
+civilian {n} (non-military person)	 :: [Bokmål] sivilist {m}; [Nynorsk] sivilist {m}
+civilization {n} (organized culture)	 :: sivilisasjon {m}
+civilization {prop}	 :: kulturen {f}
+civilization {prop} (people of the world considered to have a high standard of behavior)	 :: sivilisasjon {m}
+civilize {v} (civilise) SEE: civilise	 ::
+civil law {n} (body of law dealing with private relations)	 :: privatrecht
+civil war {n} (war between factions within a single country)	 :: [Bokmål] borgerkrig {m}; [Nynorsk] borgarkrig {m}
+Civil War {prop} (civil war) SEE: civil war	 ::
+civvies {n} (mufti (dress)) SEE: mufti	 ::
+Claire {prop} (female given name) SEE: Clara	 ::
+clairvoyance {n} (the power to perceive objects that are not accessible to the senses)	 :: klarsynthet
+clam {n} (mollusc, see also: mollusc, see also: oyster, see also: mussel)	 :: musling, blåskjell
+clamber {v} (to climb with difficulty or haphazardly)	 :: kravle
+clap {n} (gonorrhea)	 :: dryppert
+clapboard {n} (clapperboard) SEE: clapperboard	 ::
+clapper board {n} (clapperboard) SEE: clapperboard	 ::
+clapperboard {n} (device used in film)	 :: klapper
+Clara {prop} (female given name)	 :: Klara
+clarinet {n} (woodwind musical instrument)	 :: klarinett {m}
+clarinetist {n} (musician)	 :: klarinettist {m}
+class {n} (admirable behavior; elegance)	 :: klasse {m} {f}
+class {n} (category of seats in an airplane, train or other means of mass transportation)	 :: klasse {m} {f}
+class {n} (classification below Phylum and above Order)	 :: klasse {m} {f}
+class {n} (division of society into classes)	 :: klasse {m} {f}
+class {n} (group, collection, category or set sharing characteristics or attributes)	 :: klasse {m} {f}
+class {n} (group of students in a regularly scheduled meeting with a teacher)	 :: klasse {m} {f}
+class {n} (group of students who commenced or completed their education during a particular year)	 :: kull {n}, årskull {n}
+class {n} ((mathematics) collection of sets definable by a shared property)	 :: klasse {m} {f}
+class {n} ((programming, object-oriented) set of objects possibly differing in state but not behavior)	 :: klasse {m} {f}
+class {n} (series of classes covering a single subject)	 :: kurs {n}
+class {n} (social grouping, based on job, wealth, etc.)	 :: klasse {m} {f}
+classification {n} (act of forming into classes)	 :: klassifikasjon
+classified {n} (classified advertisement) SEE: classified advertisement	 ::
+classified ad {n} (classified advertisement) SEE: classified advertisement	 ::
+classroom {n} (room in a school)	 :: klasserom {n}
+class struggle {n} (struggle between classes)	 :: klassekamp {m}
+claustrophobia {n} (fear of closed, tight places)	 :: [Bokmål] klaustrofobi {m}; [Nynorsk] klaustrofobi {m}
+claustrophobic {adj} (Suffering from claustrophobia)	 :: [Bokmål] klaustrofobisk; [Nynorsk] klaustrofobisk
+clavis {n} (glossary) SEE: glossary	 ::
+claw {n}	 :: kloa
+claw hammer {n} (hammer with 2 prongs)	 :: klohammer
+clay {n} (mineral substance)	 :: [Bokmål] leire {m} {f}; [Nynorsk] leire {f}
+clay pigeon {n} (target in sport shooting)	 :: [Bokmål] leirdue {m} {f}, (clay pigeon shooting) leirdueskyting {m} {f}; [Nynorsk] leirdue {f}, (clay pigeon shooting) leirdueskyting {f}
+clean {adj} (empty) SEE: empty	 ::
+clean {v} ((transitive) to remove dirt from a place or object)	 :: gjøre rent
+cleanser {n} (detergent) SEE: detergent	 ::
+clear {adj} (bright, not obscured)	 :: klar, ren
+clear {adj} (distinct) SEE: distinct	 ::
+clear {adj} (free of ambiguity or doubt)	 :: klar
+clear {adj} (free of guilt or suspicion)	 :: ren
+clear {adj} (free of obstacles)	 :: klar
+clear {adj} (meteorology: less than 1/8 obscured by clouds)	 :: klar, skyfri
+clear {adj} (possessing little or no perceptible stimuli)	 :: fri
+clear {adj} (transparent in colour)	 :: klar, gjennomsiktig
+clear {adj} (without a thickening ingredient)	 :: klar
+clear {adj} (without clouds)	 :: klar
+clear one's throat {v} (forcibly expulsing air from one's lungs)	 :: kremte
+cleave {v} (transitive to split or sever)	 :: kløyve
+cleaver {n} (a squarish knife used for hacking)	 :: [Bokmål] kjøttøks {m} {f}; [Nynorsk] kjøttøks {f}
+clef {n} (musical symbol)	 :: nøkkel
+cleft lip {n} (harelip) SEE: harelip	 ::
+clench {v} (to squeeze)	 :: [Bokmål] knyte, knytte
+clever {adj} (mentally quick or sharp)	 :: klok, begavet, intelligent, skarpsindig, smart
+cleverness {n} (being clever, mentally sharp)	 :: [Bokmål] dyktighet {c}
+cliché {n} (overused phrase or expression)	 :: klisjé {n}
+cliche {n} (cliché) SEE: cliché	 ::
+client service {n} (customer service) SEE: customer service	 ::
+climate {n} (context in general of a particular political, moral etc. situation)	 :: [Bokmål] klima {n}; [Nynorsk] klima {n}
+climate {n} (long-term atmospheric conditions)	 :: [Bokmål] klima {n}; [Nynorsk] klima {n}
+climate change {n} (changes in the Earth's climate)	 :: [Bokmål] klimaendring {m}; [Nynorsk] klimaendring {m}
+climatology {n} (science)	 :: klimatologi {c}
+climax {n} (orgasm)	 :: klimaks {n}
+climax {n} (point of greatest intensity or force)	 :: klimaks {n}
+climb {v} (of plants: to grow upwards by clinging to something)	 :: [Bokmål] klatre; [Nynorsk] klatre
+climb {v} (to ascend, to go up)	 :: [Bokmål] klatre; [Nynorsk] klatre
+climb {v} (to mount, to move upwards on)	 :: [Bokmål] klatre; [Nynorsk] klatre
+climb {v} (to move by using the hands and feet)	 :: [Bokmål] klatre; [Nynorsk] klatre
+climb {v} (to practice the sport of climbing)	 :: [Bokmål] klatre; [Nynorsk] klatre
+climber {n} (one who climbs)	 :: [Bokmål] klatrer {m}; [Nynorsk] klatrar {m}
+cling {v} (hold tightly)	 :: klenge
+clinic {n} (medical facility)	 :: [Bokmål] klinikk {m}; [Nynorsk] klinikk {m}
+clinical examination {n} (physical examination) SEE: physical examination	 ::
+clinical psychology {n} (Branch of psychology)	 :: klinisk psykologi
+clinker {n} (fetters) SEE: fetter	 ::
+clitorectomy {n} (clitoridectomy) SEE: clitoridectomy	 ::
+clitorial {adj} (clitoral) SEE: clitoral	 ::
+clitorially {adv} (clitorally) SEE: clitorally	 ::
+clitoris {n} (elongated erectile organ)	 :: klitoris {m}
+cloak {n} (cape)	 :: kappe {f}
+cloakroom {n} (toilet) SEE: toilet	 ::
+clobber {v} ((computing) To overwrite or override, often unintentionally.)	 :: slette
+clock {n} (instrument to measure or keep track of time)	 :: [Bokmål] klokke {m} {f}; [Nynorsk] klokke {f}
+clock {v} (measure the duration of)	 :: ta tiden på
+clockwise {adv} (in a circular fashion in the same direction as the hands of an analogue clock)	 :: medurs
+clockwisely {adv} (clockwise) SEE: clockwise#Adverb	 ::
+clockwork {n} (mechanism powered by coiled spring to drive mechanical device)	 :: urverk {n}
+cloister vault {n} (structure created by intersection of vaults)	 :: klosterhvelv {n}
+close {adj} (at a little distance)	 :: nær
+close {v} (move (a door))	 :: lukke, stenge
+close {v} (put an end to)	 :: avslutte
+close, but no cigar {phrase} (that's almost correct, but not quite)	 :: nesten skyter ingen mann av hesten
+closed {adj} (not open)	 :: lukket
+closely {adv}	 :: nær
+closet {n} (toilet) SEE: toilet	 ::
+cloth {n} (a piece of cloth)	 :: stoff {n}
+clothes {n} (apparel)	 :: bekledning {f}; [Bokmål] klær {p}
+clothes-brush {n} (a brush for brushing clothes)	 :: [Bokmål] klesbørste {m}; [Nynorsk] klebørste {m}, kledebørste {m}, klesbørste {m}
+clothesbrush {n} (a brush for brushing clothes with)	 :: [Bokmål] klesbørste {m}; [Nynorsk] klebørste {m}, kledebørste {m}, klesbørste {m}
+clothes maiden {n} (rack for drying clothes) SEE: clotheshorse	 ::
+clothes peg {n} (an object used to attach wet laundry to a clothesline)	 :: klesklype
+clothespin {n} (a clip or fastener) SEE: clothes peg	 ::
+clothes tree {n} (pole with pegs)	 :: [Bokmål] stumtjener {m}; [Nynorsk] stumtenar {m}
+clothestree {n} (clothes tree) SEE: clothes tree	 ::
+clothing {n} (clothes)	 :: [Bokmål] klær {p}, klesplagg {n}, tøy {n}; [Nynorsk] klede {p}
+cloud {n} (anything which makes things foggy or gloomy)	 :: [Bokmål] sky {m} {f}; [Nynorsk] sky {f}
+cloud {n} (group of objects suspended above the ground or flying)	 :: [Bokmål] sky {m} {f}; [Nynorsk] sky {f}
+cloud {n} (mass of dust, steam or smoke)	 :: [Bokmål] sky {m} {f}, støvsky {m} {f} (mass of dust); [Nynorsk] sky {f}, støvsky {f} (mass of dust)
+cloud {n} (the Internet)	 :: [Bokmål] sky {m} {f}, cloud {m}; [Nynorsk] sky {f}, cloud {m}
+cloud {n} (visible mass of water droplets suspended in the air)	 :: [Bokmål] sky {m} {f}; [Nynorsk] sky {f}
+cloud {v} (to become foggy or gloomy, to become obscured from sight)	 :: skye, overskye, formørke, fordunkle
+cloud {v} (to make obscure (e.g. to cloud the issue))	 :: fordunkle
+cloudberry {n} (fruit)	 :: [Nynorsk] molte; [Bokmål] multe, multebær
+cloudberry {n} (species)	 :: [Bokmål] multe {f}; [Nynorsk] molte {f}
+cloudburst {n} (sudden heavy rainstorm)	 :: styrtregn {n}
+clove {n} (constitutive bulb of garlic)	 :: fedd {n}
+clove {n} (spice)	 :: Nellikspiker {m}
+cloven {adj} (split or divided)	 :: kløyvd
+clove pink {n} (carnation) SEE: carnation	 ::
+clover {n} (plant in genus Trifolium)	 :: kløver
+cloverleaf {n} (cloverleaf interchange) SEE: cloverleaf interchange	 ::
+clown {n} (performance artist working in a circus)	 :: klovn {m}
+club {n} (association of members)	 :: [Bokmål] klubb {m}; [Nynorsk] klubb {m}
+club {n} (hitting implement)	 :: kølle {f}
+club {n} (nightclub)	 :: nattklubb {m}
+club {n} (playing card symbol, ♣)	 :: kløver {m}
+club {n} (weapon)	 :: klubbe {f}
+clubs {n} (plural of club) SEE: club	 ::
+clumsy {adj}	 :: klønet
+clunky {adj} (ungainly and awkward to use)	 :: [Bokmål] prakket, tungvint, upraktisk
+clutch {n} (A device to interrupt power transmission)	 :: clutch {m}, kløtsj {m}, kobling {m}
+clutch {n} (The pedal in a car that disengages power transmission)	 :: clutchpedal {m}, kløtsjpedal {m}, koblingspedal {m}
+c'mere {contraction} (come) SEE: come	 ::
+c'mere {contraction} (here) SEE: here	 ::
+coach {n} (railroad car drawn by a locomotive)	 :: vogn {m} {f}
+coach {n} (trainer)	 :: trener {m}
+coachman {n} (one who drives a coach)	 :: kusk {m}
+coadjutor {n} (assistant) SEE: assistant	 ::
+coagulate {v} (become congealed)	 :: koagulere
+coagulation {n} (process of forming clots from blood)	 :: [Bokmål] hemostase {m}, koagulasjon {m}, koagulering {m}; [Nynorsk] hemostase {m}, koagulasjon {m}, koagulering {f}
+coagulation {n} (similar solidification)	 :: [Bokmål] koagulasjon {m}, koagulering {m}; [Nynorsk] koagulasjon {m}, koagulering {f}
+coal {n} (uncountable: carbon rock)	 :: [Bokmål] kull {n}, kol {n}; [Nynorsk] kol {n}
+coalmine {n} (coal mine) SEE: coal mine	 ::
+coarse {adj} (not refined)	 :: [Bokmål] grov; [Nynorsk] grov
+coarse {adj} (of inferior quality)	 :: [Bokmål] grov; [Nynorsk] grov
+coast {n} (edge of land meeting ocean, sea, gulf, bay)	 :: kyst, strand
+coaster {n} (roller coaster) SEE: roller coaster	 ::
+coastline {n} (the shape of a coast)	 :: [Bokmål] kystlinje {m} {f}; [Nynorsk] kystline {f}, kystlinje {f}
+coat {n} (outer garment covering the upper torso and arms)	 :: frakk {m}
+coat hanger {n} (device used to hang up coats, shirts, etc)	 :: [Bokmål] kleshenger {m}; [Nynorsk] kledehengjar {m}, klehengjar {m}, kleshengjar {m}
+coat of arms {n} (a hereditary design depicted on an escutcheon)	 :: [Bokmål] våpen {n}; [Nynorsk] våpen {n}
+coat-rack {n} (coat rack) SEE: coat rack	 ::
+coatrack {n} (coat rack) SEE: coat rack	 ::
+coat stand {n} (pole with pegs)	 :: stumtjener {m}
+coat-stand {n} (coat stand) SEE: coat stand	 ::
+coatstand {n} (coat stand) SEE: coat stand	 ::
+coax {v} (manipulate carefully into position)	 :: lirke
+coax {v} (persuade gradually)	 :: [Bokmål] lokke
+cob {n} (bread roll) SEE: bread roll	 ::
+cob {n} (cobnut) SEE: cobnut	 ::
+cob {n} (corncob) SEE: corncob	 ::
+cob {n} (gull) SEE: gull	 ::
+cobalt {n} (chemical element)	 :: [Bokmål] kobolt {m} {n}; [Nynorsk] kobolt {m}
+cobalt blue {adj} (colour)	 :: [Bokmål] koboltblå; [Nynorsk] koboltblå
+cobalt blue {n} (colour)	 :: [Bokmål] koboltblått {n}; [Nynorsk] koboltblått {n}
+cobble {n} (cobblestone) SEE: cobblestone	 ::
+cobblestone {n} (a rounded stone)	 :: brostein {m}
+cobweb {n} (a spider’s web) SEE: spiderweb	 ::
+Coca-Cola {n} (Coke) SEE: Coke	 ::
+Coca-Cola {prop} (particular carbonated soft drink)	 :: Coca-Cola
+cocaine {n} (the narcotic)	 :: kokain {m} {n}
+cochlea {n} (the complex, spirally coiled, tapered cavity of the inner ear)	 :: sneglehuset
+cock {n} (male chicken or other gallinaceous bird)	 :: hane {m}
+cock {n} (slang: penis) SEE: dick	 ::
+cock {n} (valve or tap for controlling flow of liquid) SEE: stopcock	 ::
+cock-a-doodle-doo {interj} (The cry of the rooster)	 :: kykkeliky; [Nynorsk] kukelululu
+cockchafer {n} (beetle of genus Melolontha)	 :: oldenborre
+cockle {n} (corncockle) SEE: corncockle	 ::
+cockle {n}	 :: hjerteskjell {n}
+cockle {n} (wrinkle) SEE: wrinkle	 ::
+cock pump {n} (penis pump) SEE: penis pump	 ::
+cockroach {n} (type of insect)	 :: [Bokmål] kakerlakk {m}; [Nynorsk] kakerlakk {m}
+cockscomb {n} (Rhinanthus minor) SEE: yellow rattle	 ::
+cocksucker {n} (a fellator)	 :: [Bokmål] kuksuger {m}
+cockteaser {n} (cocktease) SEE: cocktease	 ::
+cocoa bean {n} (seed of the cocoa plant)	 :: kakaobønne {c}
+coconut {n} (coconut palm) SEE: coconut palm	 ::
+coconut {n} (fruit of coco palm)	 :: kokosnøtt {f} {m}
+coconut milk {n} (the liquid from inside the seed of the coconut)	 :: [Bokmål] kokosmelk {f} {m}, kokosmjølk {f}; [Nynorsk] kokosmjølk {f}
+cod {n} (marine fish of the family Gadidae)	 :: torsk {m}
+code {n} (machine code) SEE: machine code	 ::
+code {n} (source code) SEE: source code	 ::
+codebook {n} (computing: lookup table) SEE: lookup table	 ::
+codfish {n} (cod) SEE: cod	 ::
+coding {n} (encoding) SEE: encoding	 ::
+coercion {n} (actual or threatened force for the purpose of compelling action by another person)	 :: tvang
+coetaneous {adj} (contemporary) SEE: contemporary	 ::
+coffee {n} (beverage)	 :: [Bokmål] kaffe; [Nynorsk] kaffi
+coffee bean {n} (The seed of a tropical plant of the genus Coffea)	 :: [Bokmål] kaffebønne {c}; [Nynorsk] kaffibønne {c}
+coffee break {n} (a rest period during the business day providing the opportunity to drink coffee)	 :: kaffepause {m}
+coffee cup {n} (cup for coffee)	 :: [Bokmål] kaffekopp {m}; [Nynorsk] kaffikopp {m}
+coffeehouse {n} (café) SEE: café	 ::
+coffee plunger {n} (cafetière) SEE: cafetière	 ::
+coffee shop {n} (café) SEE: café	 ::
+coffer {n} (cofferdam) SEE: cofferdam	 ::
+coffin {n} (box for the dead)	 :: kiste {m} {f}, gravkiste {m} {f}
+cogener {n} (congener) SEE: congener	 ::
+cogitable {adj} (conceivable) SEE: conceivable	 ::
+cognac {n} (type of brandy)	 :: konjakk
+cognitive psychology {n} (branch of psychology)	 :: kognitiv psykologi
+cog wheel {n} (gear wheel) SEE: gear wheel	 ::
+cogwheel {n} (gear wheel) SEE: gear wheel	 ::
+cohabitant {n} (person who cohabits with another)	 :: [Bokmål] samboer {m}, sambuer {m}; [Nynorsk] sambuar {m}
+cohabitation {n} (act of living together)	 :: [Bokmål] samboerskap {n}
+cohabitation {n} (intimate relationship)	 :: [Bokmål] samboerskap {n}
+coherent {adj} (of waves having the same direction, wavelength and phase)	 :: [Bokmål] koherent; [Nynorsk] koherent
+coherent {adj} (sticking together)	 :: [Bokmål] koherent; [Nynorsk] koherent
+cohort {n} (abettor) SEE: abettor	 ::
+cohort {n} (accomplice) SEE: accomplice	 ::
+cohort {n} (associate) SEE: associate	 ::
+cohort {n} (colleague) SEE: colleague	 ::
+coiffure {n} (hairstyle) SEE: hairstyle	 ::
+coin {n} ((currency) A piece of currency)	 :: mynt {m}
+coincidence {n} (coincidence point) SEE: coincidence point	 ::
+coincidence {n} (state of events appearing to be connected when they are not)	 :: [Bokmål] sammentreff {n}, sammenfall {n}; [Nynorsk] samantreff {m} {n}, samanfall
+coitus interruptus {n} (sexual intercourse interrupted by withdrawal of the penis)	 :: hoppe av i svingen
+coke {n} (coal product)	 :: koks {m}
+coke {n} (Coke) SEE: Coke	 ::
+Coke {n} (informal: any cola-flavored drink)	 :: cola {m}
+colander {n} (a bowl-shaped kitchen utensil with holes in it used for draining food such as pasta)	 :: dørslag {n}
+cold {adj} (having a low temperature)	 :: kald
+cold {adj} (of a person)	 :: kald
+cold {adj} (of the weather)	 :: kaldt
+cold {adj} (unfriendly)	 :: kald
+cold {adj} (unprepared)	 :: kald
+cold {n} (illness)	 :: [Bokmål] forkjølelse {m}; [Nynorsk] forkjøling {f}
+cold {n} (low temperature)	 :: kulde {m}
+cold-blooded {adj} (having an unregulated body temperature; ectothermic)	 :: kaldblodig
+cold-blooded {adj} (lacking emotion or compunction)	 :: kaldblodig
+cold war {n} (a period of hostile relations)	 :: kald krig {n}
+Cold War {prop} (a period of history from 1945-1991)	 :: Den kalde krigen
+cole {n} (cabbage) SEE: cabbage	 ::
+coleopterology {n} (scientific study of beetles)	 :: [Bokmål] koleopterologi {m}; [Nynorsk] koleopterologi {m}
+cole slaw {n} (salad based on shredded cabbage) SEE: coleslaw	 ::
+collaborate {v} (to cooperate treasonably)	 :: samarbeide (med fienden), kollaborere
+collaborate {v} (to work together on a piece of work)	 :: samarbeide
+collaboration {n} (act of collaborating)	 :: samarbeid
+collage {n} (picture made by sticking other pictures onto a surface)	 :: kollasj {m}, collage {m}
+collapsible {adj} (that can be collapsed)	 :: sammenleggbar
+collar {v} (to arrest) SEE: arrest	 ::
+collarbone {n} (clavicle) SEE: clavicle	 ::
+collared dove {n} (collared dove)	 :: tyrkerdue
+colleague {n} (fellow member of a profession)	 :: [Bokmål] kollega {m}; [Nynorsk] kollega {m}
+collection {n} (multiple related objects)	 :: [Bokmål] samling {m} {f}, [new clothes] kolleksjon {m}; [Nynorsk] samling {f}, [new clothes] kolleksjon {m}
+collection {n} (set of items)	 :: [Bokmål] samling {m} {f}; [Nynorsk] samling {f}
+collector {n} (person or thing that collects)	 :: [Bokmål] samler {m}; [Nynorsk] samlar {m}
+college {n} (politics: electoral college) SEE: electoral college	 ::
+collision {n} (instance of colliding)	 :: [Bokmål] kollisjon {m}; [Nynorsk] kollisjon {m}
+Colombia {prop} (country in South America)	 :: Colombia
+Colombian {adj} (pertaining to Colombia)	 :: [Bokmål] colombiansk, kolombiansk; [Nynorsk] colombiansk, kolombiansk
+Colombian {n} (A person from Colombia)	 :: [Bokmål] colombianer {m}, kolombianer {m}; [Nynorsk] colombian {m}, colombianar {m}, kolombian {m}, kolombianar {m}
+Colombian necktie {n} (violent and intimidating method of execution)	 :: Colombiansk slips
+colon {n} (digestive system)	 :: endetarm {m}
+colon {n} (punctuation mark)	 :: kolon {n}
+colonel {n} (commissioned office in the armed services)	 :: oberst {m}
+colonialism {n} (colonial domination policy)	 :: kolonialisme
+colonoscopic {adj} (coloscopic) SEE: coloscopic	 ::
+colony {n} (group of organisms)	 :: [Bokmål] koloni {m}; [Nynorsk] koloni {m}
+colony {n} (region or governmental unit)	 :: [Bokmål] koloni {m}; [Nynorsk] koloni {m}
+colophony {n} (rosin) SEE: rosin	 ::
+color {n} (any of the standard dark tinctures used in a coat of arms)	 :: farge {m}
+color {n} (hue as opposed to achromatic colours)	 :: farge {m}, fargetone {m}, kulør {m}
+color {n} (human skin tone, especially as an indicator of race or ethnicity)	 :: hudfarge {m}
+color {n} (interest, especially in a selective area)	 :: koloritt {m}
+color {n} (particular set of the visible spectrum)	 :: farge {m}
+color {n} (spectral composition of visible light)	 :: farge {m}
+color {n} (standard or banner (colours))	 :: fane {m}
+color {v} (affect without completely changing)	 :: farge
+color {v} (become red through increased blood flow)	 :: rødme
+color {v} (draw using crayons)	 :: fargelegge, male
+color {v} (give something color)	 :: farge
+color blind {adj} (unable to distinguish between two or more primary colors)	 :: fargeblind
+color blindness {n} (condition in which the ability to see colors is impaired)	 :: fargeblindhet {m}
+colorful {adj} (possessing prominent and varied colors)	 :: fargerik
+colostrum {n} (a form of milk)	 :: råmelk; [Nynorsk] råmjølk
+colour {adj} (colour) SEE: color	 ::
+colour {n} (colour) SEE: color	 ::
+colour {v} (colour) SEE: color	 ::
+colposcope {n} (a form of endoscope)	 :: kolposkop
+colt {n} (young male horse)	 :: hingstføll {n}
+coltsfoot {n} (Tussilago farfara)	 :: hestehov
+column {n} (a vertical body of text)	 :: [Bokmål] spalte {m}; [Nynorsk] spalt {f}
+column {n} (upright supporting member)	 :: søyle {m}
+Coma Berenices {prop} (small dim summer constellation of the northern sky)	 :: Berenikes hår
+comb {n} (structure of cells made by bees) SEE: honeycomb	 ::
+comb {n} (toothed implement for grooming the hair)	 :: kam
+combat {n} (a battle; a fight; a struggle for victory)	 :: slagsmål
+combination {n} (act of combining)	 :: [Bokmål] kombinasjon {m}; [Nynorsk] kombinasjon {m}
+combination {n} (sequence of numbers or letters for a combination lock)	 :: [Bokmål] kombinasjon {m}; [Nynorsk] kombinasjon {m}
+combine {n} (combination) SEE: combination	 ::
+combine {n} (combine harvester) SEE: combine harvester	 ::
+combine harvester {n} (combine)	 :: [Bokmål] skurtresker
+combover {n} (A manner of combing hair to conceal a bald spot)	 :: [Bokmål] hentesveis {m}; [Nynorsk] hentesveis {m}
+combustion {n} (process wherein a fuel is combined with oxygen)	 :: [Bokmål] forbrenning {m} {f}; [Nynorsk] forbrenning {f}
+combustion {n} (similar process where two chemicals are combined)	 :: [Bokmål] forbrenning {m} {f}; [Nynorsk] forbrenning {f}
+combustion {n} (the act or process of burning)	 :: [Bokmål] forbrenning {m} {f}; [Nynorsk] forbrenning {f}
+come {v} (to arrive, to appear)	 :: ankomme, komme
+come {v} (to move from further away to nearer to)	 :: komme
+come {v} (to orgasm)	 :: komme
+come back {v} ((intransitive) To return to a place)	 :: returnere, komme tilbake
+comeback {n} (return to fame etc.)	 :: [Bokmål] comeback {m} {n}; [Nynorsk] comeback {n}
+comedian {n} (entertainer)	 :: [Bokmål] komiker {m}
+comedy {n} (dramatic work that is light and humorous or satirical in tone)	 :: [Bokmål] komedie {m}; [Nynorsk] komedie {m}
+comedy duo {n} (comic pairing) SEE: double act	 ::
+come in {v} (enter) SEE: enter	 ::
+come on {n} (come-on) SEE: come-on	 ::
+come out {v} (to come out of the closet) SEE: come out of the closet	 ::
+come out of the closet {v} (to tell others about a secret belief or preference)	 :: komme ut av skapet
+comet {n} (a celestial body, generally with a tail)	 :: [Bokmål] komet {m}; [Nynorsk] komet {m}
+come to mind {v} (spring to mind) SEE: spring to mind	 ::
+come to nought {v} (come to nothing) SEE: come to nothing	 ::
+come upon {v} (to come across; to discover)	 :: komme over
+comeuppance {n} (an outcome which is justly deserved)	 :: lønn som fortjent
+comfort {n}	 :: bekvemmelighet
+comfort {v} (console) SEE: console	 ::
+comics {n} (artistic medium)	 :: tegneserier {m}
+coming out {v} (self-disclosure of sexual orientation) SEE: coming out of the closet	 ::
+Comintern {prop} (international association of Communist parties)	 :: Komintern
+comitative case {n} (case used to denote companionship)	 :: komitativ
+commence {v} (To begin, start)	 :: begynne, påbegynne
+comment {n} (spoken remark)	 :: kommentar {m}
+comment {v} (to remark)	 :: kommentere
+commercial {n} (advertisement in a common media format)	 :: reklame {m}, annonse {m}
+commercialization {n} (the act of commercializing)	 :: [Bokmål] kommersialisering {m} {f}; [Nynorsk] kommersialisering {f}
+commie {n} (communist) SEE: communist	 ::
+commiserate {v} (to feel or express compassion or sympathy)	 :: kondolere
+commit {v} (to pledge or bind; to compromise, expose, or endanger)	 :: [Bokmål] forplikte; [Nynorsk] binde
+commitment {n} (act of being locked away)	 :: [Bokmål] tvangsinnleggelse {m}, tvangsinnlegging {c} (in a mental hospital); [Nynorsk] tvangsinnlegging {f} (in a mental hospital)
+commitment {n} (act or instance of committing, putting in charge, keeping, or trust)	 :: [Bokmål] overlatelse {m}; [Nynorsk] overlating {f}
+commitment {n} (being bound emotionally/intellectually to course of action or to others)	 :: engasjement {n}
+commitment {n} (promise or agreement to do something in the future)	 :: [Bokmål] forpliktelse {m}; [Nynorsk] forplikting {f}
+commitment {n} (state of being pledged or engaged)	 :: [Bokmål] forpliktelse {m}; [Nynorsk] forplikting {f}
+commitment {n} (trait of sincerity and focused purpose)	 :: [Bokmål] engasjement {n}, forpliktelse {m}; [Nynorsk] engasjement {n}, forplikting {f}
+commit suicide {v} (to kill oneself)	 :: begå selvmord
+committee {n} (group of persons convened for the accomplishment of some specific purpose)	 :: [Bokmål] komité {m}; [Nynorsk] komité {m}
+commo {n} (commie) SEE: commie	 ::
+commo {n} (communication) SEE: communication	 ::
+commo {n} (communist) SEE: communist	 ::
+common {adj} (found in large numbers or in a large quantity)	 :: vanlig
+common {adj} (grammar: of the gender resulting from the coalescence of the masculine and feminine genders)	 :: felleskjønn {n}
+common {adj} (ordinary)	 :: vanlig
+common {adj} (usual)	 :: vanlig
+common alder {n} (black alder) SEE: black alder	 ::
+commonality {n} (common people) SEE: commonalty	 ::
+common bullfinch {n} (Eurasian bullfinch) SEE: Eurasian bullfinch	 ::
+common chickweed {n} (herb)	 :: vassarve {c}
+common eider {n} (sea duck)	 :: ærfugl {m}
+Common Germanic {prop} (Proto-Germanic) SEE: Proto-Germanic	 ::
+common gull {n} (Larus canus)	 :: fiskemåke; [Nynorsk] fiskemåse
+common kestrel {n} (small falcon)	 :: tårnfalk
+common land {n} (land free for anybody to graze their animals on)	 :: [Bokmål] allmenning {m}; [Nynorsk] allmenning {m}
+common law {n} (law developed by judges)	 :: common law
+common law {n}	 :: rettspraksis {m}
+common loon {n} (great northern diver) SEE: great northern diver	 ::
+common minnow {n} (a widespread species of minnow)	 :: ørekyte {m} {f}
+common noun {n} (Not a particular object like a proper noun. Is in a large group with the others of its kind.)	 :: appellativ, fellesnavn, samnamn
+common reed {n} (type of reed grass)	 :: [Bokmål] takrør {n}; [Nynorsk] takrør {f} {n}, takrøyr {f} {n}
+common sense {n} (ordinary understanding)	 :: [Bokmål] sunn fornuft {m}; [Nynorsk] sunn fornuft {f}
+common shrew {n} (Sorex araneus)	 :: [Bokmål] krattspissmus {c}, vanlig spissmus {c}; [Nynorsk] krattspissmus, vanleg spissmus
+common snipe {n} (the species Gallinago gallinago)	 :: enkeltbekkasin {m}
+common time {n} (4/4) SEE: 4/4	 ::
+Commonwealth {prop} (Commonwealth of Australia) SEE: Commonwealth of Australia	 ::
+Commonwealth {prop} (Commonwealth of Nations) SEE: Commonwealth of Nations	 ::
+Commonwealth of Independent States {prop} (successor to the Soviet Union)	 :: [Bokmål] Samveldet av uavhengige stater {n}, SUS {n}; [Nynorsk] Samveldet av uavhengige statar {n}, SUS {n}
+common whitefish {n} (Coregonus lavaretus)	 :: sik {c}
+communication {n} (a message)	 :: kommunikasjon {m}
+communication {n} (body of data exchange)	 :: kommunikasjon {m}
+communication {n} (concept of information exchange)	 :: kommunikasjon {m}
+communication {n} (instance of data transfer)	 :: kommunikasjon {m}
+communication {n} (potential for information exchange)	 :: kommunikasjon {m}
+communism {n} (philosophy)	 :: kommunisme {m}
+communism {n} (society)	 :: kommunisme {m}
+communist {n} (person who follows a communist philosophy)	 :: kommunist {m}
+Communist {adj} (communist) SEE: communist	 ::
+Communist {n} (communist) SEE: communist	 ::
+community {n} (group of people sharing a common understanding)	 :: samfunn {n}
+Comoran {adj} (Comorian) SEE: Comorian	 ::
+Comoran {n} (Comorian) SEE: Comorian	 ::
+Comorian {adj} (pertaining to the Comoros)	 :: [Bokmål] komorisk; [Nynorsk] komorisk
+Comorian {n} (person)	 :: [Bokmål] komorer {m}; [Nynorsk] komorar {m}
+Comorian {prop} (language)	 :: [Bokmål] komorisk {m}; [Nynorsk] komorisk {m}
+Comoros {prop} (country in Eastern Africa)	 :: [Bokmål] Komorene; [Nynorsk] Komorane
+compact disk {n} (CD) SEE: compact disc	 ::
+company {n} (in legal context, a corporation)	 :: [Bokmål] selskap; [Nynorsk] selskap
+comparable {adj} (able to be compared)	 :: sammenlignbar, komparabel
+comparable {adj} (similar) SEE: similar	 ::
+comparative {adj} (of or relating to comparison)	 :: komparativ
+comparative {n} (word in comparative form)	 :: komparativ
+comparison {n} (act of comparing or the state of being compared)	 :: sammenligning
+compartment {n} (chamber)	 :: kupé {m}
+compass {n} (navigational compass)	 :: kompass {c}
+compass {n} (pair of compasses) SEE: pair of compasses	 ::
+compatible {adj} (capable of easy interaction)	 :: [Bokmål] kompatibel; [Nynorsk] kompatibel
+compel {v} (force, constrain or coerce)	 :: tvinge
+compensate {v} (to make up for; to do something in place of something else; to correct or fill)	 :: kompensere
+compensate {v} (to pay someone in exchange for work done or some other consideration)	 :: kompensere
+compersion {n} (...)	 :: kompersjon
+competency {n} (ability to perform some task)	 :: kompetanse {m}
+competency {n}	 :: kompetanse
+compilation {n} (that which is compiled)	 :: samling {m}
+compilator {n} (compiler) SEE: compiler	 ::
+complaint {n} (a grievance, problem, difficulty, or concern; the act of complaining)	 :: klage {m} {f}, innvending {m} {f}
+compleat {adj} (complete) SEE: complete	 ::
+compleat {v} (complete) SEE: complete	 ::
+complete {v} (to finish)	 :: [Bokmål] fullføre, gjøre ferdig; [Nynorsk] fullføre, gjere ferdig
+complex {n} (problem) SEE: problem	 ::
+complexity {n} (That which is complex; intricacy; complication)	 :: floke {m} {f}, forvikling {m}
+complex number {n} (number of the form a + bi)	 :: [Bokmål] komplekst tall {n}; [Nynorsk] komplekst tal {n}
+compliancy {n} (state of being compliant) SEE: compliance	 ::
+complicated {adj} (difficult or convoluted)	 :: komplisert
+compliment {v} (to pay a compliment; to express a favorable opinion)	 :: komplimentere, gi kompliment
+component {n} (smaller, self-contained part of larger entity)	 :: [Bokmål] komponent {m}; [Nynorsk] komponent {m}
+composer {n} (one who composes music)	 :: [Bokmål] komponist {m}; [Nynorsk] komponist {m}
+composite {adj} (made up of multiple components; compound or complex)	 :: sammensatt, kompositt
+composite number {n} (number that is the product of at least two numbers other than itself and 1)	 :: [Bokmål] sammensatt tall {n}; [Nynorsk] samansett tal {n}
+compost {n} (decayed remains of organic matter)	 :: kompost {m}
+compost {v} (to produce compost)	 :: kompostere
+compound {n} (linguistics: word formed by combining other words) SEE: compound word	 ::
+comprehend {v} (to cover)	 :: dekke
+comprehend {v} (to understand)	 :: fatte, forstå
+comprehensible {adj} (able to be comprehended)	 :: forståelig, begripelig
+comprehension {n} (thorough understanding)	 :: forståelse {m}
+comprehensive {adj} (broadly or completely covering)	 :: grundig, omfattende
+compress {v} (to abridge) SEE: abridge	 ::
+compressor {n} (device that produces pressure)	 :: kompressor {m}
+compressor {n} (device that squeezes)	 :: presse {m} {f}
+compromise {n} (settlement of differences by arbitration or by consent reached by mutual concessions)	 :: [Bokmål] kompromiss {n}; [Nynorsk] kompromiss {n}
+compulsory {adj}	 :: obligatorisk
+compunction {n} (a pricking of conscience)	 :: samvittighetsnag {n}, snev av dårlig samvittighet {n}
+compute {v} (to make sense) SEE: make sense	 ::
+computer {n} (a programmable device)	 :: [Bokmål] datamaskin {m}; [Nynorsk] datamaskin {m} {f}
+computer language {n} (programming language)	 :: programmeringsspråk {n}
+computer program {n} (software)	 :: [Bokmål] dataprogram {n}; [Nynorsk] dataprogram {n}
+computer science {n} (study of computers and their architecture)	 :: Informatikk
+computer simulation {n} (computer model)	 :: [Bokmål] datasimulering {m} {f}; [Nynorsk] datasimulering {f}
+computer virus {n} (a program)	 :: [Bokmål] datavirus {n}, virus {n}; [Nynorsk] datavirus {n}, virus {n}
+computing {n} (calculation) SEE: calculation	 ::
+comrade {n} (title used by a Communist regime)	 :: kamerat
+comrade in arms {n} (brother-in-arms) SEE: brother-in-arms	 ::
+con- {prefix} (to add a notion similar to those conveyed by with, together, or joint)	 :: kon-
+concatenate {v} (computing: to join two strings together)	 :: konkatenere
+conceal {v} (to hide something)	 :: gjemme, skjule, fortie, gøyme, dekke over
+concede {v}	 :: innrømme
+concede {v} ((sports) to have a point scored against)	 :: [Bokmål] slippe inn
+concede {v} (to admit to be true)	 :: [Bokmål] innrømme, medgi, erkjenne
+concede {v} (to grant, as a right or privilege)	 :: [Bokmål] innrømme, bevilge, godtgjøre
+concede {v} (to yield or suffer; to surrender)	 :: [Bokmål] gi opp, innrømme
+concentration camp {n} (camp where large numbers of persons are detained)	 :: konsentrasjonsleir {m}
+concept {n} (something understood and retained in the mind)	 :: begrep, omgrep
+conception {n} (initiation of an embryonic animal life)	 :: unnfangelse {f}
+conceptualize {v} (conceptualise) SEE: conceptualise	 ::
+concern {n} (business, firm or enterprise; a company)	 :: konsern {n}, selskap {n}
+concern {n} (that which affects one's welfare or happiness)	 :: bekymring {c}
+concern {n} (The expression of solicitude, anxiety, or compassion toward a thing or person)	 :: bekymring {c}, uro {c}
+concern {v} (to be of importance to)	 :: angå
+concert {n} (a musical entertainment in which several voices or instruments take part)	 :: [Bokmål] konsert {m}; [Nynorsk] konsert {m}
+conclusion {n} (decision, judgment)	 :: [Bokmål] konklusjon {m}; [Nynorsk] konklusjon {m}
+conclusive {adj} (decisive)	 :: avgjort, avklart
+conclusive {adj} (pertaining to a conclusion)	 :: avgjort, avklart
+concordance {n} (alphabetical index)	 :: konkordans {m}
+concrete {n} (building material)	 :: [Bokmål] betong {m}; [Nynorsk] betong {m}
+concrete mixer {n} (cement mixer) SEE: cement mixer	 ::
+concreteness {n} (the result of being concrete)	 :: [Bokmål] konkrethet {m} {f}
+concreteness {n} (the state of being concrete)	 :: [Bokmål] konkrethet {m} {f}
+concubine {n} (mistress) SEE: mistress	 ::
+concubine {n} (slave-girl) SEE: slave-girl	 ::
+concur {v} (To meet in the same point)	 :: Å få endene til å møtes
+concur {v} (To unite or agree)	 :: være enige om
+condensation {n} (physics, the conversion of a gas to a liquid)	 :: [Bokmål] kondensasjon {m}; [Nynorsk] kondensasjon {m}
+condensation {n} (the act or process of condensing)	 :: [Bokmål] kondensasjon {m}; [Nynorsk] kondensasjon {m}
+condenser {n} (capacitor) SEE: capacitor	 ::
+condescendence {n} (condescension) SEE: condescension	 ::
+condescending {adj} (assuming a tone of superiority or a patronizing attitude)	 :: nedlatende
+condition {n} (state of an object)	 :: tilstand {m}
+conditional mood {n} (contingent upon something else)	 :: kondisjonalis
+conditional sentence {n} (probation) SEE: probation	 ::
+conditioned response {n} (conditioned reflex) SEE: conditioned reflex	 ::
+conditioner {n} (hair conditioner) SEE: hair conditioner	 ::
+condolence {n} (sympathy when someone has died)	 :: kondolanser
+condolence card {n} (sympathy card) SEE: sympathy card	 ::
+condom {n} (flexible sleeve worn on the penis)	 :: kondom {m} {n}, [slang] gummi {m} {n}
+condominium {n} (building in which each unit is owned by an individual, but the grounds is owned jointly)	 :: [Bokmål] boligsameie {n}; [Nynorsk] bustadsameige {n}
+condominium {n} (unit or apartment in such a complex)	 :: [Bokmål] selveierleilighet {m} {f}, sjøleierleilighet {m} {f}; [Nynorsk] sjølveigarhusvære {n}, sjølveigarleilegheit {f}
+conduction {n} (conveying of heat or electricity through material)	 :: ledning {c}, konduksjon {m}
+conductor {n} (person who conducts an orchestra, choir or other music ensemble)	 :: [Bokmål] dirigent {m}; [Nynorsk] dirigent {m}
+conductor {n} (person who takes tickets on public transportation)	 :: konduktør {m}
+conductor {n} (something which can transmit electricity, heat, light or sound)	 :: [Bokmål] leder {m}; [Nynorsk] leiar {m}
+cone {n} (fruit of conifers)	 :: kongle, kjegle
+cone {n} (ice-cream cone) SEE: ice cream cone	 ::
+cone {n} (traffic cone) SEE: traffic cone	 ::
+cone of shame {n} (Elizabethan collar) SEE: Elizabethan collar	 ::
+confabulate {v} (to fabricate memories in order to fill gaps in one's memory)	 :: konfabulere
+confectioner's {n} (sweetshop) SEE: sweetshop	 ::
+confectioners sugar {n} (powdered sugar) SEE: powdered sugar	 ::
+confectioners' sugar {n} (powdered sugar) SEE: powdered sugar	 ::
+confectionery {n} (shop where confectionery is sold) SEE: sweetshop	 ::
+confederation {n} (union or alliance of states)	 :: konføderasjon {m}
+conference call {n} (telephone conference) SEE: telephone conference	 ::
+confess {v} (to admit to the truth)	 :: [Bokmål] tilstå; [Nynorsk] tilstå
+confessedly {adv} (admittedly) SEE: admittedly	 ::
+confession {n} (open admittance of having done something)	 :: [Bokmål] tilståelse {m}
+confetti {n} (small pieces of colored paper generally thrown about at festive occasions)	 :: [Bokmål] konfetti {m}; [Nynorsk] konfetti {m}
+confidence game {n} (swindle) SEE: con game	 ::
+confidence interval {n} (a particular kind of interval estimate of a population parameter)	 :: konfidensintervall {n}
+confidence trick {n} (con game) SEE: con game	 ::
+confident {adj} (self-confident) SEE: self-confident	 ::
+configure {v} (to set up or arrange something)	 :: konfigurere
+confine {v} (arrest) SEE: arrest	 ::
+confine {v} (detain) SEE: detain	 ::
+confine {v} (imprison) SEE: imprison	 ::
+confine {v} (incarcerate) SEE: incarcerate	 ::
+confine {v} (lock up) SEE: lock up	 ::
+confirm {v} (to assure)	 :: [Bokmål] bekfrefte, forsikre om, forsikre om; [Nynorsk] bekrefte
+confirm {v} (to confer the confirmation)	 :: bekrefte; [Bokmål] konfirmere; [Nynorsk] konfirmere
+confirm {v} (to strengthen)	 :: [Bokmål] bekrefte, stadfeste; [Nynorsk] bekrefte, stadfeste
+conflict {n} (clash or disagreement)	 :: [Bokmål] konflikt {m}; [Nynorsk] konflikt {m}
+confluence {n} (convergence or combination)	 :: konfluens {m}
+conformity {n} (state of things being similar, or identical)	 :: konformitet {m}, overenstemmelse; [Bokmål] likhet {c}, ensartethet {c}
+confound {v} (to confuse)	 :: forvirre
+confounded {adj} (confused)	 :: konfus; [Bokmål] forvirret
+Confucianist {n} (Confucian) SEE: Confucian	 ::
+confuse {v} (to embarrass)	 :: [Bokmål] bringe noen i forlegenhet {m} {f}
+confuse {v} (to mistake one thing for another)	 :: forveksle
+confuse {v} (to mix thoroughly)	 :: blande
+confuse {v} (to mix up; to puzzle; to bewilder)	 :: forvirre
+confuse {v} (to rout) SEE: rout	 ::
+confused {adj} (chaotic, jumbled or muddled)	 :: [Bokmål] forvirret, forfjamset
+confusing {adj} (difficult to understand)	 :: [Bokmål] forvirrende
+congeal {v} (to change from a liquid to solid state)	 :: stivne
+congeal {v} (to coagulate, make curdled or semi-solid as gel or jelly)	 :: koagulere
+congenital disorder {n} (birth defect) SEE: birth defect	 ::
+Congo-Brazzaville {prop} (Congo) SEE: Congo	 ::
+Congo-Kinshasa {prop} (Congo) SEE: Congo	 ::
+Congolese {adj} (people or language of Democratic Republic of Congo)	 :: [Bokmål] kongolesisk; [Nynorsk] kongolesisk
+Congolese {adj} (people or language of Republic of Congo)	 :: [Bokmål] brazzavillekongolesisk; [Nynorsk] brazzavillekongolesisk
+Congolese {n} (person from Democratic Republic of Congo)	 :: [Bokmål] kongoleser {m}; [Nynorsk] kongolesar {m}
+Congolese {n} (person from either of the Congos)	 :: kongolesisk; [Bokmål] kongoleser {m}; [Nynorsk] kongolesar {m}
+Congolese {n} (person from Republic of Congo)	 :: [Bokmål] brazzavillekongoleser {m}; [Nynorsk] brazzavillekongoleser {m}
+congratulations {interj} (expressing approbation)	 :: gratulerer, gratulasjoner {m-p}
+congregation {n}	 :: menighet
+congregation {n} (Roman Congreation) SEE: Roman Congreation	 ::
+congress {n}	 :: kongress {m}
+congress {n} (sexual intercourse) SEE: sexual intercourse	 ::
+congruous {adj} (harmonious) SEE: harmonious	 ::
+conical {adj} (cone-shaped)	 :: [Bokmål] konisk; [Nynorsk] konisk
+conical {adj} (of or relating to a cone)	 :: [Bokmål] konisk; [Nynorsk] konisk
+conical flask {n} (Erlenmeyer flask) SEE: Erlenmeyer flask	 ::
+conifer {n} (plant)	 :: bartre {n}
+conium {n} (Conium) SEE: poison hemlock	 ::
+conjecture {n} (statement likely to be true based on available evidence, but which has not been formally proven)	 :: [Bokmål] konjektur {m}; [Nynorsk] konjektur {m}
+conjecture {n} (unproven statement; guess)	 :: [Bokmål] gjetning {c}, gjetting {c}, gjettverk {n}, antakelse {m}, formodning {c}; [Nynorsk] gjetting {f}, gissing {f}
+conjoin {v} (to join marry)	 :: forene
+conjoin {v} (to join together)	 :: forene
+conjointly {adv} (in a conjoint manner)	 :: i fellesskap
+conjugate {n} (math: complex conjugate) SEE: complex conjugate	 ::
+conjunction {n} (act of joining or being joined)	 :: [Bokmål] sammensetning {m}
+conjunction {n} (grammar: word used to join words or phrases)	 :: konjunksjon {m}, bindeord {n}
+conjunction {n} (logic: proposition resulting from the combination of two or more propositions using the and operator)	 :: [Bokmål] konjunksjon {m}
+conjunctiva {n} (membrane)	 :: [Bokmål] konjunktiva {m}; [Nynorsk] konjunktiva {m}
+conjunctive mood {n} (subjunctive mood) SEE: subjunctive mood	 ::
+conjurer {n} (one who conjures)	 :: [Bokmål] tryllekunstner {m}; [Nynorsk] tryllekunstnar {m}
+conk {n} (conch) SEE: conch	 ::
+conk {n} (slang: a nose) SEE: schnozzle	 ::
+conlang {n} (constructed language) SEE: constructed language	 ::
+conlanger {n} (one who creates constructed languages)	 :: [Bokmål] språkforfatter {m}
+connective tissue {n} (type of tissue)	 :: støttevev
+connexion {n} (connection) SEE: connection	 ::
+conniption {n} (fit of anger or panic)	 :: fnatt {n}, raserianfall {n}
+conniption {n} (fit of laughing)	 :: latterkrampe {f}, lattis/lættis {m} (slang)
+connotation {n} (suggested or implied meaning)	 :: konnotasjon {m}
+consanguinity {n} (a blood relationship)	 :: konsangvinitet {m}
+conscious {adj}	 :: bevisst
+consecrate {v} (to declare, or otherwise make something holy)	 :: konsekrere
+consecution {n} (sequel) SEE: sequel	 ::
+consecution {n} (sequence) SEE: sequence	 ::
+consecution {n} (succession) SEE: succession	 ::
+consequently {adv} (subsequently) SEE: subsequently	 ::
+consider {v} (assign some quality to)	 :: vurdere
+consider {v} (look at attentively)	 :: betrakte
+consider {v} (think about seriously)	 :: vurdere
+consider {v} (think of doing)	 :: vurdere
+consistency {n} (degree of viscosity of something)	 :: [Bokmål] konsistens {m}; [Nynorsk] konsistens {m}
+consistency {n} (logic: state of a system of axioms)	 :: konsistens
+consistency {n} (reliability or uniformity; the quality of being consistent)	 :: konsistens
+consistently {adv} (constantly) SEE: constantly	 ::
+consortium {n} (association or combination of businesses)	 :: konsortium {n}
+conspicuous {adj} (noticeable or attracting attention, especially if unattractive)	 :: [Bokmål] iøynefallende
+conspicuous {adj} (obvious or easy to notice)	 :: påfallende
+conspiracy {n} (act of working in secret to obtain some goal)	 :: konspirasjon
+conspiracy theory {n} (hypothetical speculation)	 :: [Bokmål] konspirasjonsteori {m}; [Nynorsk] konspirasjonsteori {m}
+Constantine {prop} (male given name)	 :: Konstantin
+Constantinople {prop} (Constantinople)	 :: Konstantinopel
+constellation {n} (formation of stars perceived as figure)	 :: [Bokmål] konstellasjon {m}; [Nynorsk] konstellasjon {m}
+constituency {n} (district represented by one or more elected officials, see also: electoral district)	 :: valgkrets
+constituency {n} (voters within such a district) SEE: electorate	 ::
+constituent {adj} (being a part, or component of a whole)	 :: [Bokmål] konstituerende; [Nynorsk] konstituerande
+constitution {n} (formal or informal system of primary principles and laws regulating a government or other institutions)	 :: grunnlov {m}
+constitution {n} (general health of a person)	 :: helse {m}
+constitution {n}	 :: grunnlov {m}
+constitution {n} (legal document describing such a formal system)	 :: grunnlov {m}
+constrain {v} (to force; to compel; to oblige)	 :: begrense
+constraint {n} (mathematics: condition to a solution)	 :: [Bokmål] beskrankning {m} {f}
+constraint {n} (something that constrains)	 :: [Bokmål] begrensning {m} {f}
+construe {v} (to translate) SEE: translate	 ::
+consulate {n} (the residency of a consul)	 :: konsulat {n}
+consume {v} (to eat)	 :: fortære
+consume {v} (to use)	 :: forbruke, bruke opp
+consumption {n} (pulmonary tuberculosis) SEE: pulmonary tuberculosis	 ::
+contact {v} (establish communication with)	 :: kontakte
+contact lens {n} (thin lens placed directly on the eye)	 :: [Bokmål] kontaktlinse {m} {f}; [Nynorsk] kontaktlinse {f}
+contacts {n} (contact lenses) SEE: contact lens	 ::
+contacts {n} (Plural form of contact) SEE: contact	 ::
+contagion {n} (infection) SEE: infection	 ::
+contagious {adj}	 :: smittefarlig
+container {n} (a very large, typically metal, box used for transporting goods)	 :: [Bokmål] container {m}, konteiner {m}; [Nynorsk] container {m}, konteinar {m}
+contemplate {v} (think about something in a concentrated manner)	 :: vurdere
+contemporary {adj} (from the same time period)	 :: samtidig
+content {adj} (satisfied)	 :: fornøyd, tilfreds
+content {n} (subject matter)	 :: [Bokmål] innhold {n}; [Nynorsk] innhald {n}
+content {n} (that which is contained)	 :: [Bokmål] innhold {n}; [Nynorsk] innhald {n}
+contentious {adj} (marked by controversy)	 :: omstridt / kontroversiell
+contents {n} (table of contents) SEE: table of contents	 ::
+contents {n} (that which is contained)	 :: [Bokmål] innhold {n}; [Nynorsk] innhald {n}
+contest {n} (combat) SEE: combat	 ::
+contest {n} (competition)	 :: konkurranse {m}
+contest {n} (controversy)	 :: debatt {m}, diskusjon {m}
+contested {adj} (controversial) SEE: controversial	 ::
+context {n} (circumstances or settings)	 :: sammenheng {m}, kontekst {m}
+context {n} (text in which a word appears)	 :: sammenheng {m}, kontekst {m}
+contiguous {adj} (adjacent, neighboring)	 :: [Bokmål] nærliggende; [Nynorsk] nærliggande, nærliggjande
+contiguous {adj} (connected, touching, abutting)	 :: [Bokmål] tilstøtende
+contiguous {adj} (connecting without a break)	 :: sammenhengende; [Bokmål] sammenhengende; [Nynorsk] samanhengande
+continent {adj} (exercising continence)	 :: kontinent
+continent {n} (each of main land-masses on earth's surface)	 :: kontinent {n}
+continental drift {n} (continental drift)	 :: kontinentaldrift
+continental quilt {n} (duvet) SEE: duvet	 ::
+continental shelf {n} (the area of sea around a land mass)	 :: kontinentalsokkel {m}
+contingence {n} (contingency) SEE: contingency	 ::
+continual {adj}	 :: kontinuerlig
+continue {v} (transitive: proceed)	 :: [Bokmål] fortsette
+continuity {n} (lack of interruption)	 :: [Bokmål] kontinuitet {m}; [Nynorsk] kontinuitet {m}
+contrabass {n} (double bass) SEE: double bass	 ::
+contraception {n} (use of a device or procedure)	 :: prevensjon {f}
+contract {n} (agreement that is legally binding)	 :: kontrakt {m}
+contract {v} (intransitive: draw together; shorten; lessen)	 :: sammentrekke, forminske
+contraction {n} (painful shortening of the uterine muscles)	 :: sammentrekning
+contraction {n} (phonetics: loss of sounds from within a word) SEE: syncope	 ::
+contraction {n} (reversible reduction in size)	 :: kontraksjon, forminskning
+contraction {n} (shortening of a muscle when it is used)	 :: kontraksjon, sammentrekning
+contraction {n} (word with omitted letters replaced by an apostrophe)	 :: sammentrekning
+contract killer {n} (person who kills for money) SEE: hitman	 ::
+contradict {v} (deny the truth of (a statement or statements))	 :: [Bokmål] motsi; [Nynorsk] motseie, motseia
+contradict {v} (deny the truth of statements made by (a person))	 :: [Bokmål] motsi; [Nynorsk] motseie, motseia
+contradictory {adj} (that contradicts something)	 :: motsigende
+contradistinction {n} (distinction by contrast)	 :: kontradistinksjon {m}
+contrariwise {adv} (on the other hand) SEE: on the other hand	 ::
+contrary to {prep} (despite) SEE: despite	 ::
+contretemps {n} (an unforeseen or embarrassing event)	 :: [Bokmål] strek i regningen {m}, uhell {n}; [Nynorsk] strek i regninga {m} or {n}, uhell {n}
+contribute {v} (to give something, that is or becomes part of a larger whole)	 :: bidra
+contribution {n} (an amount of money given toward something)	 :: [Bokmål] bidrag {n}; [Nynorsk] bidrag {n}
+contribution {n} (something given or offered that adds to a larger whole)	 :: [Bokmål] bidrag {n}; [Nynorsk] bidrag {n}
+contributor {n} (a benefactor; someone who gives to charity or some cause)	 :: [Bokmål] bidragsyter {m}; [Nynorsk] bidragsytar {m}
+contributor {n} (a person or thing instrumental in the creation or growth of something)	 :: [Bokmål] bidragsyter {m}; [Nynorsk] bidragsytar {m}
+contributor {n} (a person who backs, supports or champions a cause, activity or institution)	 :: [Bokmål] bidragsyter {m}; [Nynorsk] bidragsytar {m}
+contributor {n} (a person who contributes articles to a newspaper, magazine etc)	 :: [Bokmål] bidragsyter {m}; [Nynorsk] bidragsytar {m}
+control {v} (to exercise influence over; to suggest or dictate the behavior of)	 :: kontrollere
+controversial {adj} (arousing controversy)	 :: kontroversiell
+convection {n} (transmission of heat by the circulation of currents)	 :: konveksjon {m}, omrøring {m}
+convection {n} (vertical movement of heat and moisture)	 :: konveksjon {m}, omrøring {m}
+convenience {n}	 :: bekvemmelighet
+convenient {adj} (of or pertaining to convenience; simple; easy; expedient)	 :: praktisk
+convention {n} (convening) SEE: convening	 ::
+conventional war {n} (conventional warfare) SEE: conventional warfare	 ::
+conversation {n} (talking)	 :: [Bokmål] samtale {m}, konversasjon {m}; [Nynorsk] samtale {m} {f}, konversasjon {m}
+convertible {n} (car whose roof can be removed or folded)	 :: [Bokmål] kabriolet {m}; [Nynorsk] kabriolet {m}
+convey {v} (to communicate)	 :: formidle
+convey {v} (to transfer legal rights)	 :: overføre
+conviction {n} (firmly held belief)	 :: overbevisning
+convince {v} (to make someone believe, or feel sure about something)	 :: [Bokmål] overbevise
+cook {n} (a person who prepares food for a living)	 :: [Bokmål] kokk {m}, (female) kokke {m} {f}; [Nynorsk] kokk {m}, (female) kokke {f}
+cook {v} (to prepare food)	 :: [Bokmål] lage mat
+cook {v} (to prepare (food) for eating)	 :: [Bokmål] lage mat
+cookbook {n} (book of cooking recipes)	 :: [Bokmål] kokebok {m} {f}; [Nynorsk] kokebok {f}
+cooker {n} (An appliance or utensil for cooking food)	 :: [Bokmål] komfyr {m}; [Nynorsk] komfyr {m}
+cooker hood {n} (kitchen device) SEE: extractor hood	 ::
+cookie {n} (HTTP cookie) SEE: HTTP cookie	 ::
+cookie {n} (magic cookie) SEE: magic cookie	 ::
+Cook Islands {prop} (self-governing country in Oceania)	 :: Cookøyene
+cool {adj} (colloquial: all right, acceptable)	 :: grei, ok
+cool {adj} (colloquial: being considered as "popular" by others)	 :: cool, populær
+cool {adj} (colloquial: in fashion)	 :: stilig, cool, kul
+cool {adj} (colloquial: not upset)	 :: rolig, behersket
+cool {adj} (colloquial: of a person, knowing what to do and how to behave in any situation)	 :: rolig, behersket
+cool {adj} (having a slightly low temperature)	 :: kjølig, sval
+cool {adj} (not showing emotion, calm)	 :: kald, rolig, behersket
+cool {adj} (unenthusiastic, lukewarm, skeptical)	 :: kald, behersket, reservert
+cool {v} (cool down) SEE: cool down	 ::
+cool {v} (to become less intense, e.g. less amicable)	 :: hardne
+cool down {v} (to become cooler (temperature)	 :: kjøle
+cooling {n} (refrigeration)	 :: kjøling {c}
+cooling tower {n} (tower-shaped building in which warm water is cooled by evaporation)	 :: kjøletårn {n}
+cooper {n} (craftsman)	 :: bøkker {m}
+cooperate {v} (to work together)	 :: samarbeide
+cooperative {adj} (ready to work with another)	 :: [Bokmål] samarbeidsvillig {m}
+coordinate system {n} (method of representing points in a space)	 :: koordinatsystem {n}
+coordinate term {n} ((semantics) a term which shares a hypernym with another)	 :: koordinatterm {m}
+coordination {n} (the act of coordinating, making different people or things work together for a goal or effect)	 :: [Bokmål] koordinasjon {m}; [Nynorsk] koordinasjon {m}
+cootchie-cootchie-coo {interj} (said when tickling)	 :: dikke-dikke
+cootie {n} (louse) SEE: louse	 ::
+cooze {n} (vagina)	 :: kuse
+cop {n} (police officer)	 :: purk {m}
+Copenhagen {prop} (capital of Denmark)	 :: København
+Copenhagen {prop} (former county in Denmark)	 :: København
+copper {n} (chemical element)	 :: [Bokmål] kobber {n}, kopper {n}; [Nynorsk] kopar {m}
+copperas {n} (iron(II) sulfate) SEE: iron(II) sulfate	 ::
+copra {n} (dried kernel of coconut)	 :: kopra {m}
+copse {n} (thicket of small trees or shrubs)	 :: skogholt {n}
+copy {n}	 :: kopi {m}
+copy {v} (imitate)	 :: kopiere
+copy {v} (produce something identical)	 :: kopiere
+copy {v} (radio term)	 :: motta
+copybook {n} (student's exercise book) SEE: exercise book	 ::
+copy edit {v} (prepare material for publishing)	 :: gjøre korrektur, redigere
+coquet {v} (act as a flirt or coquet)	 :: kokettere
+coquettish {adj} (as a young, flirting girl; flirtatious)	 :: kokett
+coralberry {n} (American winterberry) SEE: American winterberry	 ::
+coralberry {n} (Ardisia crenata) SEE: spiceberry	 ::
+coral island {n} (coral island)	 :: [Bokmål] koralløy {f} {m} ; [Nynorsk] koralløy {f}
+cord {n} (length of twisted strands)	 :: tau {n}
+cord {n} (wires surrounded by a coating, used to supply electricity)	 :: ledning {m} {f}
+cords {n} (corduroys) SEE: corduroys	 ::
+core {n} (assemblage) SEE: assemblage	 ::
+core {n} (center or inner part)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+core {n} (central part of fruit, containing the kernels or seeds)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+core {n} (cylindrical sample)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+core {n} (heart of a thing)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+core {n} (most important part of a thing)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+co-religionary {n} (a fellow follower of one's religion) SEE: co-religionist	 ::
+coriander {n} (Coriandrum sativum plant)	 :: koriander
+cork {n} (angling float)	 :: dupp {m}
+cork {n} (bark of the cork oak)	 :: [Bokmål] kork {m}; [Nynorsk] kork {m}
+cork {n} (bottle stopper)	 :: [Bokmål] kork {m}; [Nynorsk] kork {m}
+cork {n} (cork oak) SEE: cork oak	 ::
+corkscrew {n} (implement for opening bottles sealed by a cork)	 :: [Bokmål] korketrekker {m}; [Nynorsk] korketrekkjar {m}
+cormorant {n} (seabird)	 :: storskarv
+corn {n} (maize) SEE: maize	 ::
+corn {n} (the fruits of a cereal crop)	 :: korn {n}
+cornea {n} (layer forming the front of the eye)	 :: hornhinne {n}
+Cornelius {prop} (male given name)	 :: Kornelius
+corner {n} (area in the angle between converging lines or walls)	 :: [Bokmål] hjørne
+corner {n} (corner kick) SEE: corner kick	 ::
+corner {n} (point where two converging lines meet) SEE: angle	 ::
+corner kick {n} (in soccer)	 :: corner, hjørnespark
+cornetto {n} (cornett) SEE: cornett	 ::
+cornigerous {adj} (horned) SEE: horned	 ::
+Cornish {prop} (Language)	 :: kornisk
+corny {adj} (excessively sentimental)	 :: kårny
+Corona Borealis {prop} (a constellation)	 :: [Bokmål] Den nordlige krone ; [Nynorsk] Nordlege krone
+corporal {adj} (corporeal) SEE: corporeal	 ::
+corpse {n} (dead body)	 :: lik {n}
+corpus {n} (body) SEE: body	 ::
+corpus {n} (linguistics: collection of writings)	 :: korpus {m}
+correspondent {adj} (corresponding) SEE: corresponding	 ::
+corrida {n} (bullfight) SEE: bullfight	 ::
+corridor {n} (narrow hall or passage)	 :: korridor {m}
+corrigible {adj} (able to be corrected) SEE: correctable	 ::
+corrugated iron {n} (building material)	 :: bølgeblikk; [Nynorsk] bølgjeblekk
+corruptedly {adv} (corruptly) SEE: corruptly	 ::
+corruption {n} (act of corrupting)	 :: korrupsjon
+corset {n} (woman's garment)	 :: [Bokmål] korsett {n}; [Nynorsk] korsett {n}
+cortex {n} (outer layer of an internal organ or body structure)	 :: [Bokmål] bark {m}; [Nynorsk] bork {m}
+corvette {n} (modern warship)	 :: korvett
+cos {conj} (because) SEE: because	 ::
+cosigner {n} (cosignatory) SEE: cosignatory	 ::
+cosine {n} (trigonometric function)	 :: cosinus {m}
+cosmopolite {n} (painted lady) SEE: painted lady	 ::
+cosmos {n} (the universe)	 :: kosmos {n}
+cost {n} (amount of money, time, etc.)	 :: [Bokmål] kostnad {m}; [Nynorsk] kostnad {m}
+cost {n} (negative consequence or loss)	 :: [Bokmål] kostnad {m}; [Nynorsk] kostnad {m}
+cost {v} (to incur a charge, a price)	 :: [Bokmål] koste; [Nynorsk] koste
+Costa Rica {prop} (country)	 :: Costa Rica
+Costa Rican {adj} (pertaining to Costa Rica)	 :: [Bokmål] costaricansk, kostarikansk; [Nynorsk] costaricansk, kostarikansk
+Costa Rican {n} (person from Costa Rica)	 :: [Bokmål] costaricaner {m}, kostarikaner {m}; [Nynorsk] costarican {m}, costaricanar {m}, kostarikan {m}, kostarikanar {m}
+cosy {adj} (affording comfort and warmth)	 :: [Bokmål] koselig; [Nynorsk] koseleg
+cot {n} (bed for children)	 :: barneseng, sprinkelseng
+cot {n} (folding bed) SEE: camp bed	 ::
+cotangent {n} (trigonometric function)	 :: cotangens {m}
+cottage cheese {n} (a cheese curd product)	 :: kvarg {c}
+cotton {n} (fabric)	 :: [Bokmål] bomull {m} {f}; [Nynorsk] bomull {f}
+cotton {n} (fiber)	 :: [Bokmål] bomull {m} {f}; [Nynorsk] bomull {f}
+cotton {n} (plant)	 :: [Bokmål] bomullsplante {m} {f}; [Nynorsk] bomullsplante {m} {f}
+cotton {v} (get on with) SEE: get on with	 ::
+cotton candy {n} (cotton candy) SEE: candy floss	 ::
+couch {n} (furniture for seating)	 :: [Bokmål] sofa {m}; [Nynorsk] sofa {m}
+couch potato {n} (person who spends a lot of time sitting or lying down, often watching television and eating snacks)	 :: sofagris {m}
+council {n} (committee that leads or governs)	 :: [Bokmål] råd {n}; [Nynorsk] råd {n}
+count {n} (ruler of a county (m))	 :: greve {m}
+count {v} (to enumerate or determine number)	 :: [Bokmål] telle; [Nynorsk] telja
+Count Branicki's mouse {n} (pacarana) SEE: pacarana	 ::
+counter {n} (grammar: class of word) SEE: measure word	 ::
+counter {n} (internet: hit counter) SEE: hit counter	 ::
+counter-attack {n} (an attack made in response to an attack by the opponents)	 :: motangrep {n}
+counterbalance {n} (force or influence balancing an opposite one)	 :: [Bokmål] motvekt {m} {f}; [Nynorsk] motvekt {f}
+counterbalance {n} (weight balancing an opposite one)	 :: [Bokmål] motvekt {m} {f}; [Nynorsk] motvekt {f}
+counterclockwise {adj} (anticlockwise) SEE: anticlockwise	 ::
+counterclockwisely {adv} (counterclockwise) SEE: anticlockwise#Adverb	 ::
+counterfeit {n} (counterfeiter) SEE: counterfeiter	 ::
+counterpane {n} ( coverlet) SEE: coverlet	 ::
+counterpane {n} (topmost covering of a bed) SEE: bedspread	 ::
+counterproposition {n} (counterproposal) SEE: counterproposal	 ::
+counterweight {n} (heavy mass reducing the amount of work which must be done to effect the raising and lowering of something)	 :: [Bokmål] motvekt {m} {f}; [Nynorsk] motvekt {f}
+countess {n} (wife of a count or earl)	 :: grevinne {m}
+countless {adj} (too many to count, innumerable)	 :: talløs, utallig
+country {adj} (of, from or pertaining to the countryside (adjective))	 :: landsens
+country {n} (country music)	 :: [Bokmål] country; [Nynorsk] country
+country {n} (nation state)	 :: [Bokmål] land {n}; [Nynorsk] land {n}
+country {n} (region of land)	 :: [Bokmål] land {n}; [Nynorsk] land {n}
+country {n} (the country, rural area, as opposed to the town or city)	 :: [Bokmål] land {n}, landsbygd {m} {f}; [Nynorsk] land {n}, landsbygd {f}
+countryman {n} (country dweller)	 :: landsmann {m}
+countryman {n} (somebody from a certain country)	 :: landsmann {m}
+countryman {n} (somebody from one's own country)	 :: landsmann {m}
+countryside {n} (a rural area, or the rural part of a larger area)	 :: [Bokmål] landsbygd {m} {f}, provins {m}
+countryside {n} (a rural landscape)	 :: [Bokmål] land {n} [usually definite singular only («landet»)]
+county {n} (administrative region of various countries)	 :: fylke
+coup {n} (coup d'état) SEE: coup d'état	 ::
+coup de grâce {n} (final blow)	 :: nådestøt {n}, nådeskudd {n}
+coup d'état {n} (sudden overthrow of a government)	 :: statskupp
+coupling {n} (sexual intercourse) SEE: sexual intercourse	 ::
+courage {n}	 :: mot {n}
+courage {n} (quality of a confident character)	 :: [Bokmål] mot {n}, tapperhet {m}
+Courish {adj} (of, from, or pertaining to Courland) SEE: Curonian	 ::
+Courland {prop} (region in western Latvia)	 :: Kurland
+Courlandish {adj} (of, from, or pertaining to Courland) SEE: Curonian	 ::
+course {n} (direction of movement of a vessel)	 :: [Bokmål] kurs {m}; [Nynorsk] kurs {m}
+course {n} (intended passage for ship)	 :: [Bokmål] kurs {m}; [Nynorsk] kurs {m}
+course {n} (itinerary of a race)	 :: rute {f}
+course {n}	 :: kurs {c}
+course {n} (onward movement)	 :: kurs, retning
+course {n} (part of a meal)	 :: rett {m}
+course {n} (path taken by a waterway)	 :: løp {n}
+course {n} (period of learning)	 :: [Bokmål] kurs {n}; [Nynorsk] kurs {n}
+course {n} (row of bricks)	 :: skift {n}
+course {n} (trajectory of a ball etc.)	 :: bane {m}, kurs {m}
+court {n} (collective body of persons composing the retinue of a sovereign or person high in authority)	 :: hoff {n}
+court {n} (hall, chamber, or place, where justice is administered)	 :: [Bokmål] domstol {m}; [Nynorsk] domstol {m}
+court {n} (tribunal established for the administration of justice)	 :: domstol {c}
+court of last resort {n} (final court of appeal) SEE: supreme court	 ::
+court of law {n} (court presided over by a judge)	 :: [Bokmål] domstol {m}; [Nynorsk] domstol {m}
+courtroom {n} (room where a judge presides)	 :: [Bokmål] rettssal {m}; [Nynorsk] rettssal {m}
+courtyard {n} (unroofed walled area)	 :: gårdsplass
+cousin {n} (nephew or niece of a parent)	 :: fetter {m} [male], kusine {f} [female], søskenbarn {n} [both]
+couturier {n} (fashion house) SEE: fashion house	 ::
+coven {n} (formal group or assembly of witches)	 :: hekseforsamling {c}, heksemøte {n}, heksesabbat {m}
+cover {n} (music: rerecording of a previously recorded song) SEE: cover version	 ::
+cover {v} (to conceal or protect)	 :: [Bokmål] dekke
+coveralls {n} (coverall) SEE: coverall	 ::
+cover charge {n} (amount of money to be paid for entering a bar or restaurant)	 :: inngangspenger {m-p}, entré {m}
+covering letter {n} (cover letter) SEE: cover letter	 ::
+coversine {n} (coversed sine) SEE: coversed sine	 ::
+cover song {n} (cover version) SEE: cover version	 ::
+covertly {adv} (secretly) SEE: secretly	 ::
+covet {v} (to wish for with eagerness)	 :: attrå
+covetous {adj} (Inordinately desirous; excessively eager to obtain and possess (especially money); avaricious)	 :: gjerrig
+cow {n} (any domestic bovine regardless of sex or age)	 :: ku {f}
+cow {n} (female domesticated ox or other bovine)	 :: [Bokmål] ku {f} {m}; [Nynorsk] ku {f}
+cow {n}	 :: ku {f}
+cow {v} (to intimidate)	 :: kue, underkue
+coward {n} (a person who lacks courage)	 :: [Bokmål] feiging {m}, reddhare {m}; [Nynorsk] feiging {m}, reddhare {m}
+cowardice {n} (the lack of courage)	 :: [Bokmål] feighet {m} {f}; [Nynorsk] feigskap {m}
+cowardly {adj} (showing cowardice)	 :: [Bokmål] feig; [Nynorsk] feig
+cowardly {adv} (in the manner of a coward)	 :: [Bokmål] feig; [Nynorsk] feig
+cowberry {n} (shrub and berry Vaccinium vitis-idaea) SEE: lingonberry	 ::
+cower {v} (to crouch in fear)	 :: krympe seg
+cowl {n} (A monk's hood)	 :: [Bokmål] kutte {c}, munkekutte {c}; [Nynorsk] kutte {f}, munkekutte {f}
+cowl {n} (metal protective covering)	 :: cowling {m}, motordeksel {n}
+cow parsley {n} (a weedy biennial umbellifer)	 :: [Bokmål] hundekjeks
+cowper {n} (cooper) SEE: cooper	 ::
+Cowper's fluid {n} (pre-ejaculate) SEE: pre-ejaculate	 ::
+cowrie {n} (cowry) SEE: cowry	 ::
+cozy {adj} (affording comfort and warmth)	 :: [Bokmål] koselig, hyggelig; [Nynorsk] koseleg
+C-pop {n} (cantopop) SEE: cantopop	 ::
+C-pop {n} (mandopop) SEE: mandopop	 ::
+crab {n} (crustacean)	 :: [Bokmål] krabbe {m} {f}; [Nynorsk] krabbe {m} {f}
+crab louse {n} (insect)	 :: flatlus {f}
+crack {n} (attempt at something) SEE: try	 ::
+cracker {n} (firecracker) SEE: firecracker	 ::
+crack of dawn {n} (sunrise) SEE: sunrise	 ::
+craftiness {n} (skill in deception, slyness)	 :: [Bokmål] forslagenhet {m} {f}, listighet {m} {f}, sluhet {m} {f}
+craggy {adj} (characterized by rugged etc. features)	 :: forrevet, klippefull
+cramp {n} (clamp for carpentry or masonry)	 :: krampe {m}
+cramp {n} (painful contraction of a muscle)	 :: [Bokmål] krampe {m}; [Nynorsk] krampe {m}
+cranberry {n} (berry)	 :: tranebær {n}
+crane {n} (bird)	 :: trane {m} {f}
+crane {n} (machinery)	 :: kran {f}
+cranial orbit {n} (eye socket) SEE: eye socket	 ::
+cranium {n} (skull) SEE: skull	 ::
+crank {n} (methamphetamine) SEE: methamphetamine	 ::
+crankset {n}	 :: krank {m}
+crape {n} (crepe) SEE: crepe	 ::
+crapulent {adj} (of or pertaining to crapulence) SEE: crapulous	 ::
+crass {adj} (coarse; crude; not refined or sensible)	 :: krasse
+crate {n} (box or basket)	 :: [Bokmål] kasse {m} {f}; [Nynorsk] kasse {f}
+crater {n} (astronomy: hemispherical pit)	 :: krater {n}
+crater {n} (geology: opening of a volcano)	 :: krater {n}
+crater {n} (pit left by an explosion)	 :: krater {n}
+Crater {prop} (a constellation)	 :: Begeret
+crawdad {n} (crayfish) SEE: crayfish	 ::
+crawfish {n} (crayfish) SEE: crayfish	 ::
+crawl {v} (to move along the ground)	 :: krype
+crawler {n} (sycophant) SEE: sycophant	 ::
+craze {v} (to break into pieces; to crush; to grind to powder) SEE: crase	 ::
+crazy {adj}	 :: gal, galen, gæren, sinnsyk, sprø, vanvittig
+crazy {n} (an insane or eccentric person)	 :: galning {m}, gærning {m}
+crèche {n} (Nativity Scene) SEE: Nativity Scene	 ::
+cream {adj} (colour)	 :: fløte farget
+cream {n} (colour)	 :: kremfarge
+cream {n} (oily part of milk)	 :: fløte
+cream {n} (product to apply to the skin)	 :: krem
+cream {n} (the best part)	 :: krem {m}
+creamer {n} (separator) SEE: separator	 ::
+cream of wheat {n} (semolina pudding) SEE: semolina pudding	 ::
+crease {n} (mark made by folding)	 :: fold {m}
+create {adj} (created) SEE: created	 ::
+create {v} (to put into existence)	 :: skape
+creationary {adj} (of or relating to creation)	 :: [Bokmål] kreasjonær; [Nynorsk] kreasjonær
+creationistic {adj} (of or pertaining to creationism)	 :: [Bokmål] kreasjonistisk; [Nynorsk] kreasjonistisk
+creative {adj} (having the ability to create)	 :: skapende
+creative {adj} (original, expressive, and imaginative)	 :: oppfinnsom, kreativ
+creative {n}	 :: kreativ
+creator {n} (one who creates)	 :: skaper {m}
+creature {n} (living being)	 :: skapning {c}
+credit {v} (to add to an account)	 :: kreditere
+credit card {n} (plastic card, with a magnetic strip)	 :: kredittkort {n}, bankkort {n}
+credulous {adj} (excessively ready to believe things)	 :: [Bokmål] godtroende
+Cree {prop} (Algonquian language spoken by this people)	 :: cree
+creed {n} (reading or statement of belief that summarizes the faith it represents)	 :: trosbekjennelse {m}
+creed {n} (that which is believed)	 :: tro {m}
+creed {v} (believe)	 :: tro
+creek {n} (stream of water)	 :: bekk, liten elv
+creep {v} (to move slowly with the abdomen close to the ground) SEE: crawl	 ::
+creeper {n} (treecreeper) SEE: treecreeper	 ::
+creeping thistle {n} (corn thistle) SEE: corn thistle	 ::
+cremate {v} (incinerate a body)	 :: [Bokmål] kremere; [Nynorsk] kremere, kremera
+cremation {n} (burning)	 :: [Bokmål] kremasjon {m}; [Nynorsk] kremasjon {m}
+crematorium {n} (place where dead bodies are cremated)	 :: [Bokmål] krematorium {n}; [Nynorsk] krematorium {n}
+crematory {n} (crematorium) SEE: crematorium	 ::
+creme de la creme {n} (crème de la crème) SEE: crème de la crème	 ::
+crescent {n} (figure of the moon)	 :: månesigd {m}
+crescent moon {n} (the moon as it appears in its first or last quarter)	 :: månesigd {m}, halvmåne {m}
+Creutzfeldt-Jakob disease {n} (Creutzfeldt-Jakob disease)	 :: Creutzfeldt-Jakobs sykdom {c}
+crevasse {n} (a crack or fissure in a glacier or snow field)	 :: bre {m}, isbre {m}
+crew {n} (group of people working on common task)	 :: [Bokmål] arbeidsgruppe {m} {f}, stab {m}
+crew {n}	 :: mannskap
+crew {n} (non-officer nautical personnel)	 :: [Bokmål] (including officers) besetning {m} {f}; [Nynorsk] (including officers) besetning {m} {f}
+crew cut {n} (a haircut)	 :: hockeysveis {m}
+crib {n} (a child's bed) SEE: cot	 ::
+crib {n} (Nativity Scene) SEE: Nativity Scene	 ::
+crib note {n} (concealed reminder) SEE: cheat sheet	 ::
+cricket {n} (game)	 :: cricket {m}
+crime {n} (act violating the law)	 :: [Bokmål] forbrytelse
+crime {n} (practice or habit of committing crimes)	 :: kriminalitet {m}
+Crimea {prop} (peninsula, see also: Crimean peninsula)	 :: Krim
+Crimean {prop} (Crimean peninsula) SEE: Crimean peninsula	 ::
+Crimean {prop} (Crimea) SEE: Crimea	 ::
+crime scene {n} (location of a crime)	 :: åsted
+criminal {n} (person guilty of a crime, breaking the law)	 :: [Bokmål] kriminell, forbryter {m}; [Nynorsk] forbrytar {m}
+criminal offence {n} (crime) SEE: crime	 ::
+crimson {v} (blush) SEE: blush	 ::
+crimson tide {n} (menstruation) SEE: menstruation	 ::
+crimson tide {n} (red tide) SEE: red tide	 ::
+cripple {adj} (Crippled)	 :: krøpling
+crisis {n}	 :: krise
+crisis {n} (unstable situation in political, social, economic or military affairs)	 :: [Bokmål] krise
+criterion {n} (standard for comparison and judgment)	 :: kriterium {m}
+criticise {v} (to evaluate)	 :: kritisere
+criticise {v} (to find fault)	 :: [Bokmål] kritisere
+criticize {v} (to evaluate) SEE: criticise	 ::
+criticize {v} (to find fault) SEE: criticise	 ::
+crème de la crème {n} (best of the best)	 :: crème de la crème, kremen av kremen, der oppe
+Croatia {prop} (Country in Europe)	 :: Kroatia
+Croatian {adj} (of or pertaining to Croatia)	 :: [Bokmål] kroatisk; [Nynorsk] kroatisk
+Croatian {n} (person of Croatia)	 :: [Bokmål] kroat {m}; [Nynorsk] kroat {m}
+Croatian {prop} (the standardized variety of Serbo-Croatian)	 :: [Bokmål] kroatisk {m}; [Nynorsk] kroatisk {m}
+Croatian Sheepdog {n} (Croatian Sheepdog)	 :: [Bokmål] kroatisk gjeterhund {m}
+crockery {n} (plates, dishes and other eating and serving tableware)	 :: servise {n}
+crocodile {n} (reptile)	 :: [Bokmål] krokodille {m} {f}; [Nynorsk] krokodille {m} {f}
+crocodile clip {n} (alligator clip) SEE: alligator clip	 ::
+crocodile tears {n} (display of tears that is forced or false)	 :: krokodilletårer {m-p}
+crocodile tears {n} (plural of crocodile tear) SEE: crocodile tear	 ::
+crocus {n} (plant of genus Crocus)	 :: [Bokmål] krokus {m}; [Nynorsk] krokus {m}
+crony {n} (Close friend)	 :: kompanjong {m}
+cronyism {n} (favoritism to friends without regard for their qualifications)	 :: nepotisme {m}, kameraderi {n}
+crook {n} (a criminal who steals)	 :: [Bokmål] skurk {m}
+crop {n} (part of bird's or animal’s alimentary tract)	 :: [Bokmål] kro {m}; [Nynorsk] kro {f}
+croquet {n} (croquette) SEE: croquette	 ::
+cross {n} (geometrical figure)	 :: kryss {n}
+cross {n} (wooden post with a perpendicular beam, used for crucifixion)	 :: kors {n}
+cross- {prefix} (indicating a direction (across))	 :: [Bokmål] tverr-; [Nynorsk] tverr-
+cross {v} (go from one side of something to the other)	 :: krysse
+cross-border {adj} (taking place across a border)	 :: [Bokmål] grenseoverskridende
+crossbow {n} (mechanised weapon based on the bow)	 :: [Bokmål] armbrøst {m}; [Nynorsk] armbrøst {m}
+cross-country skiing {n} (leisure activity)	 :: [uncountable] langrenn {n}
+cross-country skiing {n} (winter sport)	 :: [uncountable] langrenn {n}
+cross-cultural {adj} (between two or more cultures) SEE: intercultural	 ::
+cross examination {n} (questioning of a witness) SEE: cross-examination	 ::
+crosshatch {v} (to mark or fill with a crosshatch pattern)	 :: skravere
+crossing {n} (intersection where roads, lines, or tracks cross)	 :: kryss {n}
+cross-party {adj} (pertaining to two or more political parties)	 :: [Bokmål] tverrpolitisk; [Nynorsk] tverrpolitisk
+cross product {n} (vector product) SEE: vector product	 ::
+cross-reference {n} (a reference to another location in the same source)	 :: kryssreferanse
+cross-reference {v} (provide with cross-reference)	 :: kryssreferere, kryssreferanse
+crossroads {n} (intersection)	 :: [Bokmål] gatekryss {n}, veikryss {n}, vegkryss {n}; [Nynorsk] gatekryss {n}, vegkryss {n}
+cross section {n} ((mathematics, statistics) representative sample)	 :: tverrsnitt {n}
+cross section {n} ((physics) probability of a particular nuclear reaction)	 :: tverrsnitt {n}
+cross section {n} (section formed by a plane cutting through an object)	 :: tverrsnitt {n}
+cross spider {n} (European garden spider) SEE: European garden spider	 ::
+cross swords {v} (to fight with someone) SEE: duel	 ::
+cross tab {n} (cross tabulation) SEE: cross tabulation	 ::
+crossword {n} (a word puzzle)	 :: kryssord
+crossword puzzle {n} (crossword) SEE: crossword	 ::
+crotch {n} (area of a person’s body)	 :: skritt {n}, skrev {n}
+crotch {n} (area where something forks)	 :: forgrening {m} {f}
+crotchet rest {n} (quarter rest) SEE: quarter rest	 ::
+croup {v} (to croak) SEE: croak	 ::
+crow {n} (any bird of the genus Corvus)	 :: kråke {f}
+crow {v} (To make the sound of a rooster)	 :: gale
+crowbar {n} (iron or steel bar used as a lever to manually force things apart)	 :: brekkjern {n}, kubein {n}
+crowberry {n} (the genus Empetrum)	 :: krekling
+crowberry {n} (the species Empetrum nigrum)	 :: krekling
+crowd {n} (group of people)	 :: flokk {m}, mengde {m}, folkehav {n}
+crowd {n} (group of things)	 :: haug {m}
+crowdfunding {n} (pooling of money for a common goal)	 :: folkefinansiering
+crowdsourcing {n} (delegating a task)	 :: crowdsourcing {m} {f}
+crowfoot {n} (buttercup) SEE: buttercup	 ::
+crown {n} (of the head)	 :: isse {m}
+crown {n} (royal, imperial or princely headdress)	 :: krone {c}
+crown prince {n} (next emperor)	 :: kronprins {m}
+crown prince {n} (next king)	 :: kronprins
+crown princess {n} (the heiress apparent to the throne in a monarchy)	 :: kronprinsesse
+crêpe {n} (crepe) SEE: crepe	 ::
+crucian {n} (species of freshwater game fish) SEE: crucian carp	 ::
+crucifix {n} (object)	 :: krusifiks
+crucifixion {n} (execution by being nailed or tied to an upright cross)	 :: korsfestelse {m}
+crucify {v} (to execute a person by nailing to a crucifix)	 :: [Bokmål] korsfeste; [Nynorsk] korsfeste
+crude oil {n} (unrefined oil)	 :: [Bokmål] råolje {m} {f}; [Nynorsk] råolje {m} {f}
+cruel {adj} (not nice; mean; heartless)	 :: grusom
+cruelty {n} (cruel act)	 :: [Bokmål] grusomhet {m} {f}
+cruelty {n} (indifference to suffering)	 :: [Bokmål] grusomhet {m} {f}
+cruelty {n} (positive pleasure in inflicting suffering)	 :: [Bokmål] grusomhet {m} {f}
+cruise {n} (sea voyage)	 :: cruise {n}
+cruise missile {n} (a winged missile)	 :: [Bokmål] krysserrakett {m}, kryssermissil {n}; [Nynorsk] kryssarrakett {m}
+cruiser {n} (class of warships)	 :: [Bokmål] krysser {m}; [Nynorsk] kryssar {m}
+crumble {v} (to fall apart)	 :: falle i grus
+crumble {v} (to render into crumbs)	 :: smuldre
+crunchy {adj} (likely to crunch)	 :: knasende; [Nynorsk] krasete, knasande, sprø
+crusade {n} (grand concerted effort)	 :: [Bokmål] korstog {n}; [Nynorsk] krossferd {f}, krosstog {n}, korstog {n}
+Crusade {prop} (campaigns by Christian forces to the Holy Land)	 :: korstog
+crush {n} (archaism for party) SEE: party	 ::
+crush {v} (to be or become broken down or in)	 :: knuses
+crush {v} (to oppress or burden grievously)	 :: knuse
+crush {v} (to overcome completely)	 :: knuse
+crush {v} (to overwhelm by pressure or weight)	 :: sammentrykke
+crush {v} (to press or bruise between two hard bodies)	 :: sammenpresse
+crush {v} (to reduce to fine particles by pounding or grinding)	 :: finknuse
+crushed {adj} (pulverised)	 :: [Bokmål] knust
+crushing {adj} (that crushes)	 :: knusende
+crust {n} (any solid, hard surface layer)	 :: skare {m} (crust of snow)
+crust {n} (outer layer of bread)	 :: skorpe {m} {f}
+crust {n} (outermost layer of a planet)	 :: skorpe {m}
+crustacean {n} (arthropod of the subphylum Crustacea)	 :: [Bokmål] krepsdyr; [Nynorsk] krepsdyr
+crutch {n} (crotch) SEE: crotch	 ::
+crutch {n} (device to assist in motion as a cane)	 :: [Bokmål] krykke {m} {f}; [Nynorsk] krykke {f}, krykkje {f}
+crux {n} ((heraldry) cross on a coat of arms) SEE: cross	 ::
+cry {v} (intransitive: to weep)	 :: [Bokmål] gråte
+cry one's eyes out {v} (to moan) SEE: moan	 ::
+cry over spilt milk {v} (to worry about unfortunate events which have already happened)	 :: ikke gråt over spilt melk
+cryovolcano {n} (cryovolcano)	 :: isvulkan
+cryptocracy {n} (a form of government)	 :: kryptokrati {n}
+cryptological {adj} (cryptologic) SEE: cryptologic	 ::
+crystal {n} (array of atoms)	 :: krystall
+crystal {n} (glassware)	 :: krystall
+crystal {n}	 :: krystall
+crystal ball {n} (A globe used to foretell the future)	 :: spådomskule {m} {f}, krystallkule {m} {f}
+crystalize {v} (crystallize) SEE: crystallize	 ::
+crystal set {n} (an early kind of radio receiver)	 :: [Bokmål] krystallapparat {n}, krystallmottaker {m}; [Nynorsk] krystallapparat {n}, krystallmottakar {m}
+C-section {n} (Caesarean section) SEE: Caesarean section	 ::
+C sharp {prop} (programming language) SEE: [[{{unsupported|C sharp]]	 ::
+Côte d'Ivoire {prop} (the Ivory Coast)	 :: Elfenbenskysten
+Cuba {prop} (country and largest island in Caribbean)	 :: Cuba
+Cuban {adj} (of or pertaining to Cuba)	 :: [Bokmål] cubansk, kubansk; [Nynorsk] cubansk, kubansk
+Cuban {n} (a person from Cuba)	 :: [Bokmål] cubaner {m}, kubaner {m}; [Nynorsk] cuban {m}, cubanar {m}, kuban {m}, kubanar {m}
+cubbyhole {n} (pigeonhole) SEE: pigeonhole	 ::
+cubby house {n} (small house for children to play in) SEE: Wendy house	 ::
+cubic metre {n} (unit of volume)	 :: [Bokmål] kubikkmeter {m}; [Nynorsk] kubikkmeter {m}
+cuboid {n} (cuboid bone) SEE: cuboid bone	 ::
+cuckoo {n} (the bird)	 :: [Bokmål] gjøk {m}; [Nynorsk] gauk {m}
+cuckoo clock {n} (clock)	 :: [Bokmål] gjøkur {n}; [Nynorsk] gaukur {n}
+cucumber {n} (edible fruit)	 :: [Bokmål] agurk {m}; [Nynorsk] agurk {m}
+cucumber {n} (plant)	 :: [Bokmål] agurk {m}; [Nynorsk] agurk {m}
+cuddly toy {n} (cuddly toy) SEE: stuffed animal	 ::
+cuff {n} (The end of a shirt sleeve that covers the wrist)	 :: [Bokmål] mansjett {m}; [Nynorsk] mansjett {m}
+cuff {v} (to handcuff) SEE: handcuff	 ::
+cufflink {n} (button used to hold a sleeve cuff together)	 :: [Bokmål] mansjettknapp {m}; [Nynorsk] mansjettknapp {m}
+cuirass {n} (piece of defensive armor, covering the body from the neck to the girdle)	 :: kyrass {n}
+cuisine {n} (characteristic style of preparing food)	 :: [Bokmål] kjøkken {n}; [Nynorsk] kjøken {n}, kjøkken {n}
+cul-de-sac {n} (blind alley)	 :: [Bokmål] blindvei {m}, blindveg {m}, blindgate {m} {f}; [Nynorsk] blindveg {m}, blindgate {f}
+cul-de-sac {n} (circular area at the end of a dead end street)	 :: snuplass {m}
+cul-de-sac {n} (impasse) SEE: impasse	 ::
+culinary {adj} (relating to the practice of cookery or the activity of cooking)	 :: kulinariske
+cull {v} (to pick or take someone or something)	 :: [Bokmål] plukke, plukke ut
+cull {v} (to select animals from a group and then kill them)	 :: [Bokmål] avskyte
+cult {n} (a sect)	 :: [Bokmål] kult; [Nynorsk] kult
+cult {n}	 :: kult
+cultural {adj} (pertaining to culture)	 :: [Bokmål] kulturell; [Nynorsk] kulturell
+culture {n} (arts, customs and habits)	 :: kultur {m}
+culture {n} (botany: cultivation) SEE: cultivation	 ::
+culture {n} (the beliefs, values, behavior and material objects that constitute a people's way of life)	 :: kultur {m}
+culver {n} (woodpigeon) SEE: woodpigeon	 ::
+cum {n} (slang: male semen)	 :: sperm {m}, sæd {m}
+cum {v} (slang: have an orgasm; ejaculate)	 :: ejakulere, sæde
+cumin {n} (its seed used as spice)	 :: spisskummen, spisskarve
+cumin {n} (plant Cuminum cyminum)	 :: spisskummen, spisskarve
+cunning {adj}	 :: listig, snedig, slu
+cunning {n} (skill of being sly or deceitful)	 :: snedighet {m}
+cunt {n} (genitalia)	 :: fitte {c}, kuse {c}, mus {c}
+cunt {n} (unpleasant or objectionable person)	 :: fitte {c}
+cuntface {n} (Term of abuse)	 :: fittetryne {n}
+cup {n} (vessel for drinking)	 :: kopp
+cupboard {n} (enclosed storage)	 :: skap {n}
+cupful {n} (a half pint) SEE: half-pint	 ::
+curb {n} (row of concrete along the edge of a road) SEE: kerb	 ::
+curd {v} (curdle) SEE: curdle	 ::
+curd cheese {n} (cottage cheese) SEE: cottage cheese	 ::
+curer {n} (healer) SEE: healer	 ::
+curfew {n} (a regulation requiring people to be off the streets and in their homes by a certain time)	 :: [Bokmål] portforbud {n}; [Nynorsk] portforbod {n}
+curious {adj} (inquisitive)	 :: nysgjerrig
+curium {n} (chemical element)	 :: curium
+curler {n} (hair roller) SEE: hair roller	 ::
+currant {n} (bush)	 :: ripsbærbusk {c}
+currant {n} (fruit)	 :: rips {m}, ripsbær {n}
+currency {n} (money or other item used to facilitate transactions)	 :: [Bokmål] valuta {m}; [Nynorsk] valuta {m}
+current {adj} (existing or occurring at the moment)	 :: aktuell, nåværende
+current {adj} (generally accepted, used, practiced, or prevalent at the moment)	 :: aktuell, nåværende, gjeldende
+current {n} (part of a fluid that moves continuously in a certain direction)	 :: [Bokmål] strøm {m}; [Nynorsk] straum {m}
+current {n} (time rate of flow of electric charge)	 :: [Bokmål] strøm {m}, strømstyrke {m}; [Nynorsk] straum {m}, straumstyrke {m}
+current asset {n} (finance: an organization's fixed assets)	 :: [Bokmål] omløpsmiddel {n}
+current events {n} (news items)	 :: aktuelle hendelser
+curry {n} (curry powder) SEE: curry powder	 ::
+curry {v} (curry favor) SEE: curry favor	 ::
+curse {n} (supernatural detriment)	 :: forbannelse {m}
+curse {n} (vulgar epithet)	 :: [Bokmål] ed {m}, banneord {n}; [Nynorsk] eid {m}, bannord {n}
+curse {v} (to place a curse upon)	 :: forbanne
+cursive {adj} (having successive letters joined together)	 :: kursiv
+curtain {n} (piece of cloth covering a window)	 :: gardin {m} {f}
+curtsey {v} (to make a curtsey)	 :: neie
+curve {adj} (crooked) SEE: crooked	 ::
+curve {n} (algebraic curve) SEE: algebraic curve	 ::
+curved {adj} (having a curve or curves)	 :: [Bokmål] buet, bua; [Nynorsk] boga
+curvy {adj} (buxom) SEE: buxom	 ::
+curvy {adj} (curvaceous) SEE: curvaceous	 ::
+cusk {n} (cod-like fish)	 :: brosme {m} {f}
+cuspidor {n} (spittoon) SEE: spittoon	 ::
+custody {n} (legal right to take care of something or somebody)	 :: [Bokmål] omsorgsrett {m} [of a child]; [Nynorsk] omsorgsrett {m} [of a child]
+custom {n} (frequent repetition of the same act)	 :: [Bokmål] bruk {m}, skikk
+customarily {adv} (normally) SEE: normally	 ::
+customer {n} (one who purchases or receives a product or service)	 :: [Bokmål] kunde
+customs {n} (plural of {{m) SEE: [[en	custom]]	 ::
+cut {n} (act of cutting)	 :: kutt {n}
+cut {n} (slab of meat)	 :: [Bokmål] stykningsdel {m}, stykke {n}
+cute {adj} (having features mainly attributed to infants and small or cuddly animals)	 :: søt
+cuticle {n} (outermost layer of skin of vertebrates) SEE: epidermis	 ::
+cuticula {n} (covering outside epidermis) SEE: cuticle	 ::
+cutlass {n} (a short sword with a curved blade)	 :: huggert
+cutlass {n} (machete) SEE: machete	 ::
+cutlery {n} (eating and serving utensils)	 :: [Bokmål] bestikk {n}; [Nynorsk] bestikk {n}
+cutlet {n} (meat chop)	 :: kotelett {m}
+cutting {n} (a leaf, stem, branch, or root removed from a plant)	 :: skjæring
+cutting board {n} (chopping board) SEE: chopping board	 ::
+cuttlefish {n} (any of various squidlike mollusks)	 :: blekksprut
+cut to the chase {v} (to get to the point)	 :: komme til poenget
+cwm {n} (valley head created through glacial erosion)	 :: [Bokmål] botn {m}; [Nynorsk] botn {m}
+cyanide {n} (hydrogen cyanide) SEE: hydrogen cyanide	 ::
+cyanide {n} (potassium cyanide) SEE: potassium cyanide	 ::
+cybercitizen {n} (inhabitant of cyberspace) SEE: netizen	 ::
+cyberspying {n} (cyberespionage) SEE: cyberespionage	 ::
+cycle {n} (vehicle) SEE: bicycle	 ::
+cycle {v} (to ride a cycle)	 :: [Bokmål] sykle; [Nynorsk] sykla, sykle
+cycle lane {n} (part of road designated for cyclists) SEE: bicycle lane	 ::
+cycle path {n} (path segregated for bicycles) SEE: bicycle path	 ::
+cyclist {n} (person who rides a cycle)	 :: [Bokmål] syklist {m}; [Nynorsk] syklist {m}
+cyclops {n} (giant of mythology)	 :: [Nynorsk] kyklop {m}
+cylinder head {n} (Part of an internal combustion engine)	 :: topplokk {n}
+cyma {n} (botany: cyme) SEE: cyme	 ::
+cyme {n} (architecture: cyma) SEE: cyma	 ::
+cynic {n} (A person who believes that all people are motivated by selfishness)	 :: [Bokmål] kyniker {m}; [Nynorsk] kynikar {m}
+cynic {n} (A person whose outlook is scornfully negative)	 :: [Bokmål] kyniker {m}; [Nynorsk] kynikar {m}
+cynical {adj} (of or relating to the belief that human actions are motivated by base desires or selfishness)	 :: [Bokmål] kynisk; [Nynorsk] kynisk
+cynicism {n} (skeptical, scornful or pessimistic attitude)	 :: kynisme {m}
+cynosure {n} (North Star) SEE: North Star	 ::
+cynosure {n} (Ursa Minor) SEE: Ursa Minor	 ::
+cypress {n} (an evergreen coniferous tree)	 :: sypress {m}
+Cypriot {adj} (Of, from or relating to Cyprus)	 :: [Bokmål] kypriotisk; [Nynorsk] kypriotisk
+Cypriot {n} (Person from Cyprus)	 :: [Bokmål] kypriot {m}; [Nynorsk] kypriot {m}
+Cyprus {prop} (country)	 :: Kypros
+Czech {adj} (of, from, or pertaining to the country, people, culture, or language)	 :: [Bokmål] tsjekkisk; [Nynorsk] tsjekkisk
+Czech {n} (person)	 :: [Bokmål] tsjekker {m}; [Nynorsk] tsjekkar {m}
+Czech {prop} (language)	 :: [Bokmål] tsjekkisk {m}; [Nynorsk] tsjekkisk {m}
+Czechia {prop} (country in Europe)	 :: Tsjekkia
+Czechoslovakia {prop} (former country in Central Europe)	 :: Tsjekkoslovakia
+Czech Republic {prop} (country in Central Europe)	 :: Den tsjekkiske republikk, Tsjekkia
+čárka {n} (čárka diacritic) SEE: acute accent	 ::

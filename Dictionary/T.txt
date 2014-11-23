@@ -1,0 +1,1300 @@
+﻿ta {interj} (thanks) SEE: thanks	 ::
+tab {n} (cigarette) SEE: cigarette	 ::
+tab {n} (navigational widget in a GUI)	 :: [Bokmål] fane {m} {f}; [Nynorsk] fane {f}
+tab {n} (tablature) SEE: tablature	 ::
+table {n} (collection of arithmetic calculations)	 :: tabell {m}
+table {n} (grid of data in rows and columns)	 :: tabell {m}
+table {n} (item of furniture)	 :: bord {n}
+table {v} (to put on a table)	 :: (to prepare a table for a meal) dekke (på) bordet
+tablecloth {n} (a cloth used to cover and protect a table, especially for a dining table)	 :: duk {c}
+table football {n} (foosball) SEE: foosball	 ::
+tablespoon {n} (a large spoon, used for eating food)	 :: suppeskje
+tablespoonful {n} (measure of volume) SEE: tablespoon	 ::
+tablet {n} (graphics tablet) SEE: graphics tablet	 ::
+tablet {n} (pill) SEE: pill	 ::
+tablet {n} (tablet computer) SEE: tablet computer	 ::
+tablet computer {n} (a type of computer)	 :: nettbrett {n}
+table tennis {n} (game similar to tennis)	 :: bordtennis, pingpong
+tachometer {n} (device for measuring rpm)	 :: [Bokmål] turteller
+tachometer {n} (device for measuring velocity) SEE: speedometer	 ::
+tachyon {n}	 :: [Bokmål] takyon {n}; [Nynorsk] takyon {n}
+taciturnous {adj} (taciturn) SEE: taciturn	 ::
+tack {n} (hardtack) SEE: hardtack	 ::
+tack {n} (nautical: distance between these maneuvers) SEE: board	 ::
+tack {n} (thumbtack) SEE: thumbtack	 ::
+tackle {n} (American football: defensive position) SEE: defensive tackle	 ::
+tackle {n} (American football: offensive position) SEE: offensive tackle	 ::
+tackle {n} (gadgetry) SEE: gadgetry	 ::
+tadpole {n} (toad or frog larva)	 :: [Bokmål] rumpetroll {n}; [Nynorsk] rumpetroll {n}
+taffeta {n} (woven fabric)	 :: [Bokmål] taft {m} {n}; [Nynorsk] taft {m} {n}
+tag {n} (element of markup language)	 :: tag {m}
+tag {n} (game)	 :: sisten
+tag {n} (skin tag) SEE: skin tag	 ::
+tag {n} (small label)	 :: etikett {m}, merkelapp {m}
+Taibei {prop} (Taipei) SEE: Taipei	 ::
+taiga {n} (subarctic zone of coniferous forest)	 :: taiga; [Nynorsk] taiga
+tail {n} (appendage of an animal)	 :: [Bokmål] hale {m}, [of a bird] stjert {m}; [Nynorsk] hale {m}, [of a bird] stjert {m}
+tail {n} (comet tail)	 :: hale {m}
+tail {n} (surreptitious follower)	 :: forfølger {m}
+tail {v} (to tail)	 :: forfølge, skygge
+tailback {n} (a traffic jam)	 :: [Bokmål] bilkø {m}
+tailboard {n} (tailgate) SEE: tailgate	 ::
+tailor {n} (person who makes, repairs, or alters clothing as profession)	 :: [Bokmål] skredder {m}, skredderske {f}; [Nynorsk] skreddar {m}
+tails {n} (tailcoat) SEE: tailcoat	 ::
+Tainan {prop} (a city in Taiwan)	 :: [Bokmål] Tainan
+taint {n} (The perineum)	 :: skrukk {m}
+Taipei {prop} (Taipei)	 :: [Bokmål] Taipei
+Taishanese {adj} (Hoisanese) SEE: Hoisanese	 ::
+Taiwan {prop} (East Asian country)	 :: Taiwan; [Nynorsk] Taiwan
+Taiwanese {adj} (relating to Taiwan)	 :: [Bokmål] taiwansk; [Nynorsk] taiwansk
+Taiwanese {n} (person from Taiwan)	 :: [Bokmål] taiwaner {m}; [Nynorsk] taiwanar {m}
+Taizhong {prop} (Taichung) SEE: Taichung	 ::
+Tajik {adj} (Of, from, or pertaining to Tajikistan, the Tajik people or the Tajiki dialect)	 :: [Bokmål] tadsjikisk; [Nynorsk] tadsjikisk
+Tajik {n} (person)	 :: [Bokmål] tadsjiker {m}; [Nynorsk] tadsjikar {m}
+Tajik {prop} (language)	 :: tadsjikisk språk; [Bokmål] tadsjikisk {m}; [Nynorsk] tadsjikisk {m}
+Tajiki {prop} (dialect of Persian) SEE: Tajik	 ::
+Tajikistan {prop} (Republic of Tajikistan)	 :: Tadsjikistan
+take {n} (act of taking)	 :: fangst {m}
+take {n} (film: attempt to record a scene)	 :: opptak {n}
+take {n} (profit or reward)	 :: gevinst {m}
+take {n} (rugby: catch)	 :: mottak {n}
+take {n} (something that is taken)	 :: fangst {m}
+take {v} (military: to gain a position by force)	 :: ta
+take {v} (to carry)	 :: bringe
+take {v} (to choose)	 :: ta
+take {v} (to endure)	 :: tåle, ta
+take {v} (to get into one's possession)	 :: ta
+take {v} (to grab and move to oneself)	 :: ta
+take {v} (to grab with the hands)	 :: ta, gripe
+take {v} (to have sex with)	 :: voldta
+take {v} (to ingest medicine)	 :: ta
+take a break {v} (to have a short rest period in one's work)	 :: ta en pause
+take a leak {v} (to urinate)	 :: slå lens
+take apart {v} (criticise) SEE: criticise	 ::
+take apart {v} (defeat) SEE: defeat	 ::
+take apart {v} (disassemble) SEE: disassemble	 ::
+take for granted {v} (assume something to be true without verification or proof)	 :: ta for gitt
+take ill {v} (to become ill) SEE: take sick	 ::
+taken {adj} (infatuated, fond of or attracted to)	 :: betatt
+taken {adj} (informal: in a relationship)	 :: opptatt
+take off {v} (to depart) SEE: depart	 ::
+take off {v} (to imitate) SEE: imitate	 ::
+take off {v} (to remove)	 :: ta av; [Bokmål] fjerne
+take one's leave {v} (depart) SEE: depart	 ::
+take one's leave {v} (say goodbye)	 :: [Bokmål] anbefale seg
+take one's own life {v} (commit suicide) SEE: commit suicide	 ::
+take place {v} (to happen)	 :: finne sted, skje, hende
+take the bull by the horns {v} (to deal directly with a matter; to confront a difficulty)	 :: ta tyren ved hornene
+taking it up the ass {n} (anal sex) SEE: anal sex	 ::
+tale {n} (type of story)	 :: historie {m}
+talent {n} (marked ability or skill)	 :: talent {m}
+talisman {n} (magical protective charms)	 :: talisman {m}
+talk {n} (conversation)	 :: samtale {m}
+talk {n} (lecture)	 :: foredrag {n}, forelesning {m} {f}
+talk {n} (what is being said)	 :: prat {n}, snakk {n}
+talk {v} (to communicate by speech)	 :: snakke, preke
+talk {v} ((transitive) to discuss) SEE: discuss	 ::
+talk around {v} (persuade) SEE: persuade	 ::
+talking book {n} (audiobook) SEE: audiobook	 ::
+talk over {v} (discuss) SEE: discuss	 ::
+talk over {v} (persuade) SEE: persuade	 ::
+talks {n} (talk) SEE: talk	 ::
+Tallinn {prop} (Capital of Estonia)	 :: Tallinn
+tallow {n} (hard animal fat obtained)	 :: [Bokmål] talg {m} {f}; [Nynorsk] talg {m} {f}
+tally {n} (tally shop) SEE: tally shop	 ::
+talus {n} (A sloping heap of fragments of rock lying at the foot of a precipice)	 :: ur {c}; [Nynorsk] steinrøys {f}
+tambour {n} (drum) SEE: drum	 ::
+tame {adj} (not wild)	 :: tam
+tame {v} (to become tame)	 :: temmes
+tame {v} (to make something tame)	 :: temme
+Tamilian {n} (a person of Tamil ethnicity) SEE: Tamil	 ::
+Tamil Tigers {prop} (guerrilla organization)	 :: [Bokmål] Tamiltigrene; [Nynorsk] Tamilske tigrane
+tampon {n} (A plug of cotton or other absorbent material)	 :: tampong {m}
+tan {v} (to become tan due to exposure to sun)	 :: sole, brune
+Tanganyika {prop} (lake)	 :: Tanganyikasjøen; [Nynorsk] Tanganyikasjøen
+Tanganyika {prop} (territory, former country)	 :: Tanganyika
+tangent {n} (in geometry)	 :: tangent {m}
+tangent {n} (in trigonometry)	 :: tangens {m}
+tangible {adj} (comprehensible by the mind; understandable)	 :: begripelig, forståelig, fattbar
+tangible {adj} (possible to be treated as fact)	 :: håndgripelig, konkret
+tangible {adj} (touchable; able to be touched or felt; perceptible by the sense of touch; palpable)	 :: følbar
+tangy {adj} (having a sharp, pungent flavor)	 :: sterk
+Tania {prop} (female given name)	 :: Tanja
+tank {n} (closed container)	 :: [Bokmål] tank {m}; [Nynorsk] tank {m}
+tank {n} (military armoured fighting vehicle)	 :: stridsvogn
+tank {n} (tankful) SEE: tankful	 ::
+tanked {adj} (drunk) SEE: drunk	 ::
+tanker {n} (vessel)	 :: [Bokmål] tankskip {n}; [Nynorsk] tankskip {n}
+tantalum {n} (A metallic chemical element with an atomic number of 73.)	 :: tantal
+Tanya {prop} (female given name) SEE: Tania	 ::
+Tanzania {prop} (United Republic of Tanzania)	 :: Tanzania
+Tanzanian {adj} (of, from, or pertaining to Tanzania and its people)	 :: [Bokmål] tanzaniansk; [Nynorsk] tanzaniansk
+Tanzanian {n} (a person from Tanzania or of Tanzanian descent)	 :: [Bokmål] tanzanianer {m}; [Nynorsk] tanzanianar {m}
+tap {n} (device to dispense liquid)	 :: kran {m}
+tap {n} (interception with authority)	 :: [Bokmål] avlytting {m} {f}; [Nynorsk] avlytting {f}
+tap {n} (spigot)	 :: tappekran {m}
+tap {v} (to draw off liquid from a vessel)	 :: tappe
+tap {v} (to intercept communication)	 :: avlytte
+tap {v} (to place a listening device)	 :: avlytte
+tapeworm {n} (parasitical worm of the class Cestoda)	 :: [Bokmål] bendelorm {m}; [Nynorsk] bendelorm {m}, bendelmakk {m}, bendelmark {m}
+tapir {n} (large odd-toed ungulate with a long prehensile upper lip of the family Tapiridae.)	 :: tapir
+tar {n} (byproduct of tobacco smoke)	 :: [Bokmål] tjære {m} {f}; [Nynorsk] tjære {f}, tjøre {f}
+tar {n} (substance)	 :: [Bokmål] tjære {m} {f}; [Nynorsk] tjære {f}, tjøre {f}
+tardigrade {n} (water bear) SEE: water bear	 ::
+tarn {n} (a small mountain lake)	 :: tjern
+tarp {n} (tarpaulin)	 :: presenning {m}
+tarpaulin {n} (any heavy, waterproof material used as a cover)	 :: presenning {m}
+tarpaulin {n} (heavy, waterproof sheet of material)	 :: presenning {m}
+tarsand {n} (tar sand) SEE: tar sand	 ::
+tarsier {n} (insectivorous primate)	 :: spøkelsesaper
+tart {n} (prostitute)	 :: prostituert, hore
+tart {n} (woman with loose sexual morals)	 :: hore, tøs (slang)
+tashkil {n} (vocalization) SEE: vocalization	 ::
+task {n} (piece of work done as part of one’s duties)	 :: [Bokmål] oppgave
+taskbar {n} (taskbar)	 :: oppgavelinje {c}
+Tasmania {prop}	 :: Tasmania; [Nynorsk] Tasmania
+Tasmanian tiger {n} (extinct carnivorous marsupial) SEE: Tasmanian wolf	 ::
+taste {n} ((figuratively) a small amount of experience)	 :: smakebit {m}
+taste {n} (implicit set of preferences)	 :: smak {m}
+taste {n} (one of the sensations produced by the tongue)	 :: smak {m}
+taste {v} (to have a taste)	 :: smake
+taste {v} (to sample the flavor of something)	 :: smake
+tasteless {adj} (having no flavour)	 :: [Bokmål] smakløs, smaklaus; [Nynorsk] smaklaus
+tasteless {adj} (lacking refinement)	 :: [Bokmål] smakløs, smaklaus; [Nynorsk] smaklaus
+tasty {adj} (having a pleasant or satisfying flavor) SEE: delicious	 ::
+tat {n} (slang:tattoo) SEE: tattoo	 ::
+tat {n} (vulgar tastelessness) SEE: sleaze	 ::
+ta ta {interj} (bye) SEE: bye	 ::
+tattoo {n} (an image made in the skin with ink and a needle)	 :: tatovering {m}
+tattoo {v} (to apply a tattoo)	 :: tatovere
+tattoo gun {n} (tattoo machine) SEE: tattoo machine	 ::
+tattooist {n} (tattoo artist) SEE: tattoo artist	 ::
+tau {n} (tauon) SEE: tauon	 ::
+taunt {n} (a scornful or mocking remark)	 :: forhånelse {m}, hån {m}, nid {n}
+taunt {v} (to make fun of (someone); to goad into responding)	 :: håne
+Taurus {n} (Someone with a Taurus star sign)	 :: tyr
+Taurus {prop} (astrological sign)	 :: Tyren {m}
+Taurus {prop} (constellation)	 :: Tyren
+taut {adj} (containing only relevant parts, brief and controlled)	 :: fortettet {n}
+taut {adj} (showing stress or anxiety)	 :: anspent {n}, anstrengt {n}
+taut {adj} (tight; under tension, as in a rope or bow string)	 :: spent {n}
+tavern {n} (bar)	 :: kro {m}, taverna {m}
+tawny owl {n} (Strix aluco)	 :: kattugle
+tax {n} (money paid to government)	 :: skatt {m} (income), avgift {m} (value added)
+tax {v} (to impose and collect a tax)	 :: skattelegge
+taxation {n} (revenue gained from taxes) SEE: tax revenue	 ::
+taxi {n} (vehicle)	 :: [Bokmål] taxi, drosje {m} {f}; [Nynorsk] drosje {m} {f}, taxi {m}, taksi {m}
+taxi {v} (move an aircraft)	 :: takse
+taxi driver {n} (person who drives a taxicab)	 :: [Bokmål] drosjesjåfør {m}, taxisjåfør {m}; [Nynorsk] drosjesjåfør {m}, taxisjåfør {m}, taksisjåfør {m}
+taxi rank {n} (taxi stand) SEE: taxi stand	 ::
+tax stamp {n} (revenue stamp) SEE: revenue stamp	 ::
+Taymyr {prop} (Taimyr) SEE: Taimyr	 ::
+Tbilisi {prop} (the capital city of Georgia (the country))	 :: Tbilisi
+Tchaikovsky {prop} (surname)	 :: Tsjajkovskij
+tea {n} (drink made from leaves of tea plant)	 :: te {c}
+tea {n} (main evening meal) SEE: dinner	 ::
+tea bag {v} (small porous bag holding tea) SEE: teabag	 ::
+teach {v} (to pass on knowledge)	 :: undervise, lære
+teacher {n} (index finger) SEE: forefinger	 ::
+teacher {n} (person who teaches)	 :: [Bokmål] lærer {m}, lærerinne {f} (female teacher), frøken {m} {f} (female, rare/archaic); [Nynorsk] lærar {m}, lærarinne {f} (female teacher), frøken {f} (female, rare/archaic)
+teacup {n} (cup for drinking tea)	 :: [Bokmål] tekopp {m}; [Nynorsk] tekopp {m}
+teakettle {n} (A vessel for boiling water for tea)	 :: vannkoker
+teal {n} (duck)	 :: [Bokmål] krikkand {m} {f}; [Nynorsk] krikkand {f}
+tea leaf {n} (leaf of the tea plant)	 :: teblad {n}
+tea leaf {n} (thief) SEE: thief	 ::
+team {n} (group of people)	 :: lag {n}
+team {n} (set of draught animals)	 :: spann {n}
+team sport {n} (sport competed between two teams each with two or more players)	 :: lagidrett {m}
+tea oil plant {n} (Camellia oleifera) SEE: tea oil camellia	 ::
+teapot {n} (vessel for tea)	 :: [Bokmål] tekanne {m} {f}; [Nynorsk] tekanne {f}
+tear {n} (drop of clear salty liquid from the eyes)	 :: tårer {p}; [Nynorsk] tåra
+tear gas {n} (tear gas)	 :: tåregass {m}
+tear gland {n} (lacrimal gland) SEE: lacrimal gland	 ::
+tease {n} (stripper) SEE: stripper	 ::
+tea shop {n} (a shop where tea or coffee is served) SEE: tea room	 ::
+teaspoon {n} (small spoon)	 :: [Bokmål] teskje {m} {f}, teskei {m} {f}; [Nynorsk] teskei {f}
+teaspoon {n} (unit of measure)	 :: [Bokmål] teskje {m} {f}, teskei {m} {f}; [Nynorsk] teskei {f}
+teat {n} (bottle top)	 :: flaskesmokk {m}
+teat {n} (projection of mammary gland)	 :: brystvorte {m}
+tea tree {n} (Camellia sinensis) SEE: tea plant	 ::
+tea tree {n} (Cordyline fruticosa) SEE: ti	 ::
+tea tree {n} (Kunzea ericoides) SEE: kanuka	 ::
+technetium {n} (chemical element)	 :: technetium
+technically {adv} (based on precise facts)	 :: egentlig
+technically {adv} (having certain skills)	 :: teknisk
+technically {adv} (regarding the scientific state of art)	 :: teknisk
+technique {n} (method of achieving something)	 :: [Bokmål] teknikk {m}; [Nynorsk] teknikk {m}
+technique {n} (practical aspects of a given art)	 :: [Bokmål] teknikk {m}; [Nynorsk] teknikk {m}
+technobabble {n} (fake technical language used in fiction)	 :: teknobabbel
+technological {adj} (of, relating to, or involving technology)	 :: [Bokmål] teknologisk; [Nynorsk] teknologisk
+technology {n}	 :: teknologi
+technology {n} (the study of or a collection of techniques)	 :: teknologi {f}
+tectonic plate {n} (large pieces of Earth's lithosphere)	 :: plate {m} {f}
+teddy bear {n} (a stuffed toy bear)	 :: [Bokmål] bamse {m}, teddybjørn {m}; [Nynorsk] teddybjørn {m}
+tedious {adj} (boring, monotonous)	 :: kjedelig, traurig, ensformig
+tediousness {n} (quality of being tedious)	 :: kjedsomhet {m}
+teen {n} (teenager) SEE: teenager	 ::
+-teen {suffix} (to form numbers 13 - 19)	 :: [Bokmål] -ten; [Nynorsk] -ten
+teenager {n} (person aged between thirteen and nineteen)	 :: [Bokmål] tenåring {m}; [Nynorsk] tenåring {m}
+teetan {n} (pipit) SEE: pipit	 ::
+te-hee {n} (titter, snicker) SEE: titter	 ::
+te-hee {v} (titter, snicker) SEE: titter	 ::
+Teheran {prop} (Tehran) SEE: Tehran	 ::
+tečka {n} (tečka diacritic) SEE: dot	 ::
+Tel Aviv {prop} (city in Israel)	 :: Tel Aviv
+teleconference {n} (telephone conference) SEE: telephone conference	 ::
+telepathy {n} (communication by psychic means)	 :: telepati, tankeoverføring, tankelesning
+telephone {n} (an electronic device used for two-way talking with other people)	 :: telefon {m}
+telephone {n} (Chinese whispers) SEE: Chinese whispers	 ::
+telephone book {n} (telephone directory) SEE: telephone directory	 ::
+telephone box {n} (telephone booth) SEE: telephone booth	 ::
+telephone call {n} (conversation)	 :: telefonsamtale {m}
+telephone card {n} (phonecard) SEE: phonecard	 ::
+telephone exchange {n} (equipment)	 :: [Bokmål] telefonsentral {m}; [Nynorsk] telefonsentral {m}
+telephone exchange {n} (rooms)	 :: [Bokmål] telefonsentral {m}; [Nynorsk] telefonsentral {m}
+telephone kiosk {n} (telephone booth) SEE: telephone booth	 ::
+teleporter {n} (truck-mounted lift) SEE: cherry picker	 ::
+telescope {n} (optical instrument possessing magnification)	 :: [Bokmål] teleskop {n}; [Nynorsk] teleskop {n}
+teleshow {n} (television show) SEE: television show	 ::
+television {n} (device for receiving television signals)	 :: [Bokmål] fjernsyn {n}, TV {m}; [Nynorsk] fjernsyn {n}, TV {m}
+television {n} (medium)	 :: [Bokmål] fjernsyn {n}, TV {m}; [Nynorsk] fjernsyn {n}, TV {m}
+television {n} (program broadcasting)	 :: [Bokmål] fjernsyn {n}, TV {m}; [Nynorsk] fjernsyn {n}, TV {m}
+television series {n} (series) SEE: series	 ::
+television set {n} (television) SEE: television	 ::
+television show {n} (a live or recorded TV broadcast or program)	 :: [Bokmål] TV-program {n}
+tell {v} (narrate) SEE: narrate	 ::
+tell {v} (to pass information)	 :: fortelle
+teller {n} (automated teller machine) SEE: automated teller machine	 ::
+teller {n} (person who tells stories)	 :: forteller
+tell it like it is {v} (to speak the truth)	 :: si det som det er
+telltale {n} (nautical: compass in the cabin of a vessel) SEE: telltale compass	 ::
+telltale {n} (tattler) SEE: tattler	 ::
+telluride {n} (sylvanite) SEE: sylvanite	 ::
+tellurium {n} (chemical element)	 :: tellur
+Telugu {prop} (Dravidian language of India)	 :: telugu
+temperance {n} (state with regard to heat or cold) SEE: temperature	 ::
+temperature {n} (a measure of cold or heat)	 :: [Bokmål] temperatur {m}; [Nynorsk] temperatur {m}
+Templar {n} (one of the Knights Templar)	 :: tempelherre {m}, tempelridder {m}
+template {n} (generic model)	 :: mønster {n}
+template {n} (physical object)	 :: [Bokmål] mal {m}, sjablong {m}; [Nynorsk] mal {m}, sjablong {m}
+temple {n} (region of skull)	 :: [Bokmål] tinning {m}; [Nynorsk] tinning {m}
+temple {n} (worship place)	 :: [Bokmål] tempel {n}; [Nynorsk] tempel {n}
+tempo {n} (frequency or rate)	 :: [Bokmål] tempo {n}; [Nynorsk] tempo {n}
+tempo {n} (music: number of beats per minute)	 :: [Bokmål] tempo {n}; [Nynorsk] tempo {n}
+temporal {adj} ((euphemistic for) lasting a short time only)	 :: forbigående, temporær
+temporal {adj} (of limited time)	 :: temporær
+temporal {adj} (of or relating to the material world)	 :: jordisk. timelig, verdslig
+temporal {adj} (of or relating to time)	 :: temporal
+temporal {adj} (of the temples of the head)	 :: temporal
+temporary {adj} (for a limited time, ephemeral, not constant)	 :: [Bokmål] midlertidig; [Nynorsk] mellombels
+temporary tooth {n} (milk tooth) SEE: milk tooth	 ::
+tempt {v} (to attract, allure)	 :: friste
+tempt {v} (to provoke someone to do wrong)	 :: friste
+temptation {n}	 :: [Bokmål] fristelse {m}; [Nynorsk] freisting {f}
+tempus fugit {proverb} (time flies) SEE: time flies	 ::
+ten {num} (the cardinal number occurring after 9 and before 11)	 :: ti
+tenable {adj} (of a theory, argument etc: capable of being maintained or justified; well-founded)	 :: [Bokmål] holdbar; [Nynorsk] haldbar
+tenant {n} (one who pays a fee in return for the use of land, etc.)	 :: leieboer {m}
+Ten Commandments {prop} (Moses' ten commandments)	 :: de ti bud {p}; [Nynorsk] dei ti bodorda {p}
+tendency {n} (likelihood of behaving in a particular way)	 :: tendens {m}
+tender {n} (law: an offer to buy or sell something)	 :: [Bokmål] tilbud {n} [selling only ], anbud {n}
+tender {n} (means of payment)	 :: [Bokmål] betalingsmiddel {n}
+tenderloin {n} (tenderest part of a loin of meat)	 :: indrefilet {m}
+tendon {n} (tough band of inelastic fibrous tissue that connects a muscle with its bony attachment)	 :: [Bokmål] sene {m} {f}; [Nynorsk] sene {f}
+tendovaginitis {n} (tenosynovitis) SEE: tenosynovitis	 ::
+tenet {n} (an opinion, belief or principle)	 :: [Bokmål] grunnsetning {m} {f}, dogme {n}, prinsipp {n}; [Nynorsk] grunnsetning {f}, dogme {n}, prinsipp {n}
+tennis {n} (sport played by two or four players with strung racquets)	 :: [Bokmål] tennis {m}; [Nynorsk] tennis {m}
+tennis court {n} (surface on which tennis is played)	 :: [Bokmål] tennisbane {m}; [Nynorsk] tennisbane {m} {f}
+tenpin bowling {n} (bowling) SEE: bowling	 ::
+tenside {n} (surfactant) SEE: surfactant	 ::
+tension wrench {n} (torsion wrench) SEE: torsion wrench	 ::
+tensor {n} ((mathematics, physics) function of several variables)	 :: tensor
+tensor {n} ((mathematics, physics) image of a tuple under a tensor product map)	 :: tensor
+tensor {n} ((mathematics, physics) matrix of matrices)	 :: tensor
+tent {n} (portable lodge)	 :: telt
+tentative {adj} (of or pertaining to a trial or trials; essaying; experimental)	 :: forsøksvis, tentativ
+tentative {adj} (uncertain)	 :: foreløpig, tentativ
+tenten {n} (dakuten) SEE: dakuten	 ::
+tenth {adj} (ordinal form of ten)	 :: tiende
+ten thousand {num} (10,000)	 :: titusen
+tepid {adj} (lukewarm)	 :: [Bokmål] lunken; [Nynorsk] lunken
+tepid {adj} (uninterested)	 :: [Bokmål] lunken; [Nynorsk] lunken
+teratogenetic {adj} (teratogenic) SEE: teratogenic	 ::
+teratogeny {n} (teratogenesis) SEE: teratogenesis	 ::
+terbium {n} (chemical element)	 :: terbium
+Teresa {prop} (female given name)	 :: Therese
+term {n} (limitation, restriction or regulation)	 :: vilkår {n}
+term {n} (word or phrase, especially one from a specialised area of knowledge)	 :: term {m}
+terminal {n} (airport building)	 :: terminal {m}
+terminology {n} (doctrine of terms)	 :: terminologi {m}
+terminology {n} (terms used in any business, art, etc)	 :: terminologi {m}
+terminus {n} (end point of a transport system)	 :: [Bokmål] endestasjon {m}; [Nynorsk] endestasjon {m}
+termite {n} (insect)	 :: termitt {m}
+term of endearment {n} (word, phrase, or nickname expressing affection)	 :: kjæleord {n}
+Ternopol {prop} (Ternopil) SEE: Ternopil	 ::
+Terra {prop} (the Planet Earth) SEE: Earth	 ::
+terraced house {n} (type of house)	 :: [Bokmål] rekkehus
+terraforming {n} (planetary engineering)	 :: terraforming
+terrestrial branch {n} (earthly branch) SEE: earthly branch	 ::
+terrible {adj} (dreadful; causing alarm or fear)	 :: fryktelig, forferdelig
+terrible {adj} (intense; extreme in degree or extent)	 :: fryktelig, forferdelig
+terrible {adj} (most formidable)	 :: fryktelig, forferdelig
+terrible {adj} (unpleasant)	 :: ubehagelig
+terrible {adj} (very bad)	 :: fryktelig, forferdelig
+terrorism {n} (use of terror as a means of coercion)	 :: terrorisme
+terrorist {n} (person who uses terror as a weapon in a political struggle)	 :: [Bokmål] terrorist
+terrorize {v} (terrorise) SEE: terrorise	 ::
+terry {n} (terry cloth) SEE: terry cloth	 ::
+terrycloth {n} (cotton fabric) SEE: terry cloth	 ::
+tessellation {n} (polygon tessellation) SEE: polygon tessellation	 ::
+test {v}	 :: å teste, tester, testet, har testet
+testament {n} (credo) SEE: credo	 ::
+testimonial {n} (statement given under oath) SEE: testimony	 ::
+testosterone {n} (steroid hormone)	 :: testosteron {n}
+tether {n} (a rope, cable etc. that holds something in place whilst allowing some movement)	 :: tjor
+tetrahydrocannabinol {n} (THC)	 :: tetrahydrocannabinol {m}
+tetraplegic {n} (quadriplegic) SEE: quadriplegic	 ::
+tetrapod {n} (any vertebrate with four limbs) SEE: quadruped	 ::
+Tetris {prop} (game in which falling shapes must be manipulated)	 :: Tetris
+Teutonic Knights {prop} (order)	 :: [Bokmål] Tyske Orden; [Nynorsk] Tyske Riddarordenen
+text {n} (a written passage)	 :: tekst
+textbook {n} (formal manual of instruction)	 :: [Bokmål] lærebok {m} {f}; [Nynorsk] lærebok {f}
+text editor {n} (something used to edit text in computers)	 :: teksteditor
+Thai {adj} (Referring to Thailand)	 :: [Bokmål] thailandsk; [Nynorsk] thailandsk
+Thai {n} (person from Thailand or of Thai origin)	 :: [Bokmål] thailender {m}, thailending {m}; [Nynorsk] thailendar {m}, thailending {m}
+Thai {prop} (language)	 :: [Bokmål] thai {m}; [Nynorsk] thai {m}
+Thailand {prop} (country in Southeast Asia)	 :: Thailand
+thallium {n} (chemical element)	 :: thallium
+thalweg {n} (line that connects the lowest points in a valley or river channel)	 :: [for river] djupål {m}
+Thames {prop} (river through London)	 :: Themsen
+than {prep} (Introduces a comparison)	 :: enn
+Thanatos {n} (Thanatos, the god of death)	 :: Thanatos
+thank {v} (credit or hold something responsible)	 :: takke
+thank {v} (express gratitude or appreciation to someone)	 :: takke
+thank goodness {interj} (express gratitude)	 :: Gudskjelov
+thankless {adj} (unappreciated)	 :: [Bokmål] utakknemlig; [Nynorsk] utakknemleg
+thanks {interj} (used to express appreciation or gratitude)	 :: takk
+thanks a lot {interj} (emphatic thanks)	 :: takk skal du ha, tusen takk, mange takk
+thanks for nothing {interj} (unhappy for actual unhelpfulness)	 :: takk for ingenting
+thanks for your help {phrase} (thanks for your help)	 :: takk for hjelpen
+Thanksgiving {prop} (Thanksgiving Day)	 :: thanksgiving {m}
+thank you {interj} (an expression of gratitude)	 :: takk
+thank you very much {phrase} (greater gratitude than "thank you")	 :: mange takk
+that {conj} (connecting noun clause)	 :: at
+that {pron} (which)	 :: som
+that being said {conj} (that said) SEE: that said	 ::
+thatch {n} (Straw for covering roofs or stacks)	 :: halm {m}
+that's life {phrase} (expression of acceptance of misfortune) SEE: such is life	 ::
+the {article} (article)	 :: det {n}, den {m} {f}, de {p}, -en {m}, -a {f}, -i {f}, -et {n}, -ene {m-p} {f-p}, -ane {m-p} {f-p}, -one {f-p}, -a {n-p}, -i {n-p}, -ene {n-p}
+theater {n} (cinema) SEE: cinema	 ::
+theater {n} (medicine: operating theatre) SEE: operating theatre	 ::
+theater {n} (place or building)	 :: teater {n}
+theatre {n} (theater) SEE: theater	 ::
+the bends {n} (decompression sickness) SEE: decompression sickness	 ::
+thee {pron} (Objective case of 'thou')	 :: deg
+thee {pron} (thou) SEE: thou	 ::
+the early bird gets the worm {proverb} (whoever arrives first has the best chance of success)	 :: den som kommer først til mølla, får først malt, morgenstund har gull i munn
+the end justifies the means {proverb} (morally wrong actions are sometimes necessary)	 :: målet helliggjør midlene
+the ends justify the means {proverb} (the end justifies the means) SEE: the end justifies the means	 ::
+theft {n} (act of stealing property)	 :: [Bokmål] tyveri {n}, tjuveri {n}; [Nynorsk] tjuveri {n}
+the grass is always greener on the other side {proverb} (desirability of other's circumstances)	 :: gresset er alltid grønnere på den andre siden
+The Hague {prop} (Dutch city)	 :: Haag
+the icing on the cake {n} (something that intensifies the appreciation of something else)	 :: prikken over i'en (the dot above the i)
+their {determiner} (belonging to them (plural))	 :: deres, sin, sine [own, generic]
+theism {n} (belief in existence of at least one deity)	 :: teisme {m}
+them {pron} (third personal plural pronoun used after a preposition or as the object of a verb)	 :: dem
+theme {n}	 :: tema
+the more the merrier {proverb} (it is more fun with more people)	 :: jo flere, desto bedre
+then {adj} (being so at that time)	 :: [Bokmål] daværende; [Nynorsk] dåværande
+then {adv} (at that time)	 :: da, den gang
+then {adv} (at the same time; on the other hand)	 :: da
+then {adv} (in that case)	 :: da, i så fall
+then {adv} (next in order)	 :: så, deretter
+then {adv} (soon afterward)	 :: så, deretter, siden
+thence {adv} (from there)	 :: [Bokmål] derfra, derifra; [Nynorsk] derifrå, derfrå
+thenceforth {adv} (that that time on)	 :: [Bokmål] fra da av; [Nynorsk] frå då av, frå da av
+theocentric {adj} (having God as main focus)	 :: teosentrisk
+Theodore {prop} (male given name)	 :: Theodor
+theologian {n} (one who studies theology)	 :: [Bokmål] teolog {m}; [Nynorsk] teolog {m}
+theologic {adj} (theological) SEE: theological	 ::
+theologist {n} (theologian) SEE: theologian	 ::
+theology {n} (study of God, or a god, or gods)	 :: teologi
+theophany {n} (a visible manifestation of a deity)	 :: teofani {m}
+theorem {n}	 :: teorem {m}
+theoretically {adv} (in theory)	 :: teoretiskt
+theoretician {n} (expert in the theory of a science or art)	 :: [Bokmål] teoretiker {m}; [Nynorsk] teoretikar {m}
+theorist {n} (someone who constructs theories)	 :: [Bokmål] teoretiker {m}; [Nynorsk] teoretikar {m}
+theory {n} (a coherent set of statements attempting to explain observed phenomena)	 :: teori {m}
+theory {n} (a field of study in mathematics)	 :: teori {m}
+theory {n} (an unproven conjecture)	 :: teori {m}
+theory {n} (in logic: a set of axioms and all statements derivable from them)	 :: teori {m}
+theosophic {adj} (of, or relating to theosophy)	 :: teosofisk
+theosophy {n} (doctrine of religious philosophy and mysticism)	 :: teosofi {m}
+the other day {adv} (lately)	 :: [Bokmål] for noen dager siden
+the other way around {adv} (same but with things reversed)	 :: andre veien {m}
+the pen is mightier than the sword {proverb} (more power can achieved writing than fighting)	 :: pennen er mektigere enn sverdet, pennen er mektigere enn sverdet
+therapeutical {adj} (therapeutic) SEE: therapeutic	 ::
+therapy {n} (treatment of disease)	 :: [Bokmål] terapi {m}; [Nynorsk] terapi {m}
+there {adv} (in or at that place)	 :: der
+there be {phrase} (to exist)	 :: det er, det finnes
+therefor {adv} (therefore) SEE: therefore	 ::
+therefore {adv}	 :: derfor
+therefore {adv} (for that or this reason; for that)	 :: [Bokmål] derfor; [Nynorsk] difor
+there is {phrase} (third-person singular simple present indicative form of there be)	 :: [plural and singular] det er
+there is an exception to every rule {proverb} (every rule has an exception)	 :: ingen regel uten unntak
+Theresa {prop} (female given name) SEE: Teresa	 ::
+there's no place like home {proverb} (home is the best place)	 :: borte bra, men hjemme best
+there's no such thing as a free lunch {proverb} (nothing is free; everything has a price.)	 :: ingenting i livet er gratis
+there you go {phrase} (here you are) SEE: here you are	 ::
+thermal paste {n} (thermal grease) SEE: thermal grease	 ::
+thermal spring {n} (hot spring) SEE: hot spring	 ::
+thermodynamics {n} (science of heat-energy conversion)	 :: [Nynorsk] varmelære
+thermojet {n} (motorjet) SEE: motorjet	 ::
+thermometer {n} (apparatus used to measure temperature)	 :: [Bokmål] termometer {n}; [Nynorsk] termometer {n}
+thermosphere {n} (layer of the Earth's atmosphere)	 :: termosfæren
+thermostat {n} (device which maintains the desired temperature)	 :: [Bokmål] termostat {m}; [Nynorsk] termostat {m}
+the road to hell is paved with good intentions {proverb} (proverb)	 :: [Bokmål] veien til helvete er brolagt med gode intensjoner
+thesaurus {n} (book of synonyms)	 :: begrepsordbok, begrepsklasseordbok, omgrepsordbok, omgrepsklasseordbok, tesaurus, synonymordbok {m} {f}
+these {determiner} (plural of this)	 :: disse
+Theseus {prop} (hero)	 :: Thesevs
+thesis {n} (statement supported by arguments)	 :: tese {m}
+thesis {n} (written essay submitted for a university degree)	 :: [Bokmål] avhandling {m} {f}; [Nynorsk] avhandling {f}
+The Snow Queen {prop} (fairy tale, The Snow Queen, and name of a character in this story)	 :: [Bokmål] Snedronninga {f}, Snedronningen {m}; [Nynorsk] Snedronninga {f}
+the spirit is willing but the flesh is weak {proverb} (achieving something is made impossible by frailty)	 :: [Bokmål] ånden er villig men kjødet er svakt
+Thetis {prop} (the mother of Achilles)	 :: Thetis
+they {pron} (third-person plural pronoun)	 :: de
+thick {adj} (relatively great in extent from one surface to another)	 :: [Bokmål] tykk, tjukk; [Nynorsk] tjukk
+thicket {n} (copse)	 :: kratt {n}, kjerr {n}
+thief {n} (one who carries out theft)	 :: [Bokmål] tyv {m}, tjuv {m}; [Nynorsk] tjuv {m}
+thigh {n} (upper leg)	 :: lår {n}
+thimble {n} (a protective cap for the finger)	 :: fingerbøl {n}
+thin {adj} (having little body fat or flesh; slim; slender; lean; gaunt)	 :: tynn, slank
+thin {adj} (having little thickness or extent from one surface to its opposite)	 :: tynn
+thin {adj} (of low viscosity or low specific gravity)	 :: tynn
+thin {adj} (very narrow in all diameters; having a cross section that is small in all directions)	 :: tynn, smal
+thing {n} (that which is considered to exist as a separate entity, object, quality or concept)	 :: ting {m}, dings {m}, greie {f}
+Thing {n} (public assembly)	 :: ting
+thingummy {n} (thingy) SEE: thingy	 ::
+thingy {n} (a thing)	 :: duppeditt {m}, dippedutt {m}
+think {v} (be of the opinion that)	 :: synes, mene
+think {v} (communicate to oneself in one’s mind)	 :: tenke, resonnere
+think {v} (consider, judge, regard something as)	 :: synes, mene
+think {v} (guess, reckon)	 :: tro, anta
+think {v} (to conceive of something or someone)	 :: komme på
+think {v} (to ponder, to go over in one's head)	 :: tenke, fundere
+think tank {n} (group producing research and recommendations)	 :: [Bokmål] tenketank {m}, tankesmie {m} {f}
+thiosulphate {n} (thiosulfate) SEE: thiosulfate	 ::
+third {adj} (the ordinal form of the cardinal number three)	 :: [Bokmål] tredje; [Nynorsk] tredje, tridje
+third {n} (one of three equal parts of a whole)	 :: [Bokmål] tredel {m}, tredjedel {m}; [Nynorsk] tredel {m}, tredjedel {m}
+third {n} (third gear) SEE: third gear	 ::
+third cousin {n} (third cousin)	 :: [Bokmål] firmenning {m}; [Nynorsk] firmenning {m}
+third party {n} (someone not directly involved in a transaction.)	 :: tredjeperson {p}
+third person {n} (law: third party) SEE: third party	 ::
+third person {n} (the form of a verb used when the subject of a sentence is not the audience or the one making the statement)	 :: tredje person
+third rail {n} (the electrified rail that runs beside or between train tracks to power electric trains)	 :: [Bokmål] strømskinne {c}; [Nynorsk] straumskinne {f}, strømskinne {f}
+Third Reich {prop} (Germany under the Nazi regime)	 :: Det tredje riket {n}
+third time's a charm {proverb}	 :: alle gode ting er tre
+Third World {n} (developing countries)	 :: den tredje verden {m}
+Third World War {prop} (World War III) SEE: World War III	 ::
+thirst {n} (dryness)	 :: tørste
+thirst {v} (to be thirsty)	 :: tørste
+thirsty {adj} (needing to drink)	 :: tørst
+thirteen {num} (the cardinal number occurring after twelve and before fourteen)	 :: tretten
+thirtieth {adj} (the ordinal form of the number thirty)	 :: trettiende
+thirty {num} (cardinal number)	 :: [Bokmål] tredve, tretti; [Nynorsk] tretti
+thirty-eight {num} (38)	 :: trettiåtte
+thirty-five {num} (35)	 :: trettifem
+thirty-four {num} (34)	 :: trettifire, fireogtredve
+thirty-nine {num} (39)	 :: trettini
+thirty-second note {n} (demisemiquaver) SEE: demisemiquaver	 ::
+thirty-six {num} (36)	 :: trettiseks
+this {determiner}	 :: denne {m}, dette {n}, disse {p}
+this {determiner} (the (thing) here)	 :: denne {m} {f}, dette {n}, disse {p}
+this {pron} (The thing, item, etc. being indicated)	 :: denne {m} {f}, dette {n}
+this and that {pron} (things, stuff)	 :: ditt og datt
+this evening {adv} (during the evening of today)	 :: [Bokmål] i kveld
+this morning {n} (during the morning of today)	 :: [Bokmål] i morges
+thistle {n} (plant)	 :: tistel
+this way {n} (as follows) SEE: as follows	 ::
+thither {adv} (to that place)	 :: [Bokmål] dit, dit hen; [Nynorsk] dit
+Thomas {prop} (biblical Apostle)	 :: Tomas
+Thomas {prop} (given name)	 :: Thomas
+thong {n} (G-string) SEE: G-string	 ::
+Thor {prop} (male given name)	 :: Tor
+Thor {prop} (thunder god)	 :: Tor
+Thora {prop} (female given name)	 :: Tora
+thoracic cage {n} (rib cage) SEE: rib cage	 ::
+thoracic wall {n} (chest wall) SEE: chest wall	 ::
+thorium {n} (chemical element)	 :: thorium
+thorn {n} (letter of the Latin alphabet (Þ, þ))	 :: thorn {m}
+thorn {n} (sharp protective spine of a plant)	 :: [Bokmål] torn {m}; [Nynorsk] torn {m}
+thorough {adj} (detailed)	 :: grundig {c}, grundige {p}
+thorough {adj} (utter; complete; absolute)	 :: grundig , nøyaktig , nøye
+thoroughly {adv} (in a thorough or complete manner)	 :: [Bokmål] grundig; [Nynorsk] grundig
+thorp {n} (a hamlet, a village)	 :: torp {n}
+those {determiner} (plural of that)	 :: de
+thou {pron} (singular informal form of "you")	 :: du
+though {adv} (however)	 :: dog
+though {conj} (although)	 :: selv om
+thought police {n} (a group that aims to control what other people think)	 :: tankepoliti {n}
+thousand {num} (cardinal number 1000)	 :: tusen
+thralldom {n} (a state of bondage, slavery, or subjugation to another person)	 :: trelldom {m}
+thrash {v} (to thresh) SEE: thresh	 ::
+thread {n} (a screw thread)	 :: [Bokmål] gjenge {m} {n}; [Nynorsk] gjenge {n}
+thread {n} (long, thin and flexible form of material)	 :: tråd {m}
+threads {n} (clothes) SEE: clothes	 ::
+threads {n} (thread) SEE: thread	 ::
+threadworm {n} (pinworm) SEE: pinworm	 ::
+threat {n} (expression of intent to injure or punish another)	 :: [Bokmål] trussel {m}; [Nynorsk] trussel {m}
+threat {n} (indication of imminent danger)	 :: [Bokmål] trussel {m}; [Nynorsk] trussel {m}
+threat {n} (person regarded as a danger)	 :: [Bokmål] trussel {m}; [Nynorsk] trussel {m}
+threaten {v} (to make a threat against someone; to use threats)	 :: [Bokmål] true; [Nynorsk] true, truge
+threaten {v} (to menace, or be dangerous)	 :: [Bokmål] true; [Nynorsk] true, truge
+threaten {v} (to portend, or give a warning)	 :: [Bokmål] true; [Nynorsk] true, truge
+threatening {adj} (presenting a threat)	 :: [Bokmål] truende
+three {num} (cardinal number 3)	 :: tre, tri
+three-dimensional {adj} (existing in three dimensions)	 :: [Bokmål] tredimensjonal; [Nynorsk] tredimensjonal
+threesome {n} (a sexual activity involving three people)	 :: [Bokmål] trekant {m}; [Nynorsk] trekant {m}
+threnody {n} (a song or poem of lamentation)	 :: [Bokmål] klagesang {m}; [Nynorsk] klagesong {m}
+thresh {v} (to separate the grain from the straw or husks)	 :: treske
+threshold {n} (bottom-most part of a doorway)	 :: terskel {m}
+threshold {n}	 :: terskel {m}
+thrice {adv} (three times, see also: three, see also: time, see also: alt2=times)	 :: tre ganger
+thrift {n} (characteristic of using a minimum of something)	 :: [Bokmål] nøysomhet; [Nynorsk] nøysemd
+thrift shop {n} (shop which sells used goods)	 :: [Bokmål] brukthandel {m}; [Nynorsk] brukthandel {m}
+thrip {n} (insect in the order Thysanoptera) SEE: thrips	 ::
+thrips {n} (insect of the order Thysanoptera)	 :: trips {n}
+thrive {v} (to increase in bulk or stature)	 :: blomstre
+throat {n} (front part of the neck)	 :: hals {m}
+throat {n} (gullet or windpipe)	 :: hals {m}, svelg {n}
+throat {n} (station throat) SEE: station throat	 ::
+throat back {n} (electrolarynx) SEE: electrolarynx	 ::
+thrombocyte {n} (platelet) SEE: platelet	 ::
+throne {n} (ornate seat)	 :: trone {c}
+throne {n} (third highest order of angel)	 :: trone {c}
+throne {v} (enthrone) SEE: enthrone	 ::
+through {prep} (by means of)	 :: ved at, gjennom at
+through {prep} (from one side of an opening to the other)	 :: gjennom
+through and through {adv} (entirely)	 :: tvers igjennom, fra ende til annen
+throw {n} (a distance travelled)	 :: kast {n}
+throw {n} (flight of a thrown object)	 :: kast {n}
+throw {n} (piece of fabric used to cover a bed, sofa or other soft furnishing)	 :: teppe {n}
+throw {v} (to cause an object to move rapidly through the air)	 :: kaste, hive
+throw {v} (to eject or cause to fall off)	 :: kaste
+throw away {v} (discard or dispose of)	 :: kaste
+throw-in {n} (throw of the ball back into play)	 :: [Bokmål] innkast {n}; [Nynorsk] innkast {n}
+throw in the towel {v} ((idiomatic) to quit; to give up)	 :: kaste inn håndkledet
+throw the baby out with the bathwater {v} ((idiomatic) to discard something valuable)	 :: helle barnet ut med badevannet, kaste barnet ut med badevannet, slå barnet ut med badevannet
+throw up {v} (to vomit) SEE: vomit	 ::
+thru {prep} (through) SEE: through	 ::
+thrush {n} (one of several species of songbirds of the family Turdidae)	 :: [Bokmål] trost {m}; [Nynorsk] trast {m} {f}, trost {m} {f}
+thrust {v} (make an advance with force)	 :: støt
+thulium {n} (chemical element)	 :: thulium
+thumb {n} (digit)	 :: tommel {m}
+thumb {n} (part of a slider)	 :: tommeskrue {m}
+thumbnail {n} (small picture)	 :: miniatyrbilde; [Nynorsk] miniatyrbilete
+thunder {n}	 :: torden
+thunder {v}	 :: tordne
+thundercloud {n} (cloud)	 :: [Bokmål] tordensky {m} {f}
+thunderstorm {n} (storm with thunder and lightning)	 :: torden
+thunderstruck {adj} (astonished, amazed or so suddenly surprised as to be unable to speak)	 :: lamslått
+thurible {n} (censer) SEE: censer	 ::
+Thursday {n} (day of the week)	 :: torsdag
+thus {adv} (in this way or manner)	 :: sånn, slik, på denne måten
+thyroid {n} (thyroid cartilage) SEE: thyroid cartilage	 ::
+thyroid {n} (thyroid gland) SEE: thyroid gland	 ::
+ti {n} (seventh note of a major scale) SEE: si	 ::
+Tibetan {adj} (of or pertaining to the Tibetan language)	 :: [Bokmål] tibetansk; [Nynorsk] tibetansk
+Tibetan {adj} (of or pertaining to Tibetans)	 :: [Bokmål] tibetansk; [Nynorsk] tibetansk
+Tibetan {adj} (of or pertaining to Tibet)	 :: [Bokmål] tibetansk; [Nynorsk] tibetansk
+Tibetan {n} (a person)	 :: [Bokmål] tibetaner {m}; [Nynorsk] tibetanar {m}
+Tibetan {prop} (a language)	 :: [Bokmål] tibetansk {m}; [Nynorsk] tibetansk {m}
+Tibetan Mastiff {n} (Tibetan Mastiff)	 :: [Bokmål] tibetansk mastiff {m}
+tibia {n} (bone of the leg) SEE: shinbone	 ::
+tibicen {n} (flute-player) SEE: flautist	 ::
+tick {n} (arachnid)	 :: flått {m}
+tick {n} (unit of time defined by timer frequency) SEE: jiffy	 ::
+ticket {n} (admission to entertainment)	 :: billett {m}
+ticket {n} (pass for transportation)	 :: billett {m}
+ticket {n} (permit to operate machine)	 :: [Bokmål] førerkort {n}
+ticket {n} (traffic citation)	 :: bot {m} {f}
+tickle {v} (to touch in a manner that causes tingling sensation)	 :: [Bokmål] kile; [Nynorsk] kitle
+tic-tac-toe {n} (a game)	 :: bondesjakk, tripp-trapp-tresko
+tidal locking {n}	 :: bundet rotasjon {m}
+tidal wave {n} (figurative: sudden, powerful surge)	 :: flodbølge {m}
+tidal wave {n} (oceanography: crest of ocean water resulting from tidal forces)	 :: tidevannsbølge {m}
+tidal wave {n} (tsunami)	 :: flodbølge {m}, tsunami {m}
+tiddlywinks {n} (game in which the objective is to shoot winks into a cup)	 :: loppe-spel
+tide {n} (high tide) SEE: high tide	 ::
+tide {n} (low tide) SEE: low tide	 ::
+tie {n} (necktie) SEE: necktie	 ::
+tie {n} (sleeper) SEE: sleeper	 ::
+tie {n} (tie score)	 :: [Bokmål] slips {n}; [Nynorsk] slips {n}
+tie tack {n} (pin to hold necktie) SEE: tie clip	 ::
+tiger {n} (The mammal Panthera tigris)	 :: tiger {m}
+tiger shark {n} (Galeocerdo cuvier)	 :: tigerhai {m}
+Tigger {n}	 :: Tigergutt {m}
+tight {adj} (narrow) SEE: narrow	 ::
+tigress {n} (female tiger)	 :: tigerhun {f}
+tile {n} (mostly rectangular shaped sheet of ceramic or fired clay to cover surfaces)	 :: tegl {m}, teglstein {m}
+tile {v} (to cover with tiles)	 :: [Bokmål] flislegge
+tiler {n} (a person who sets tile)	 :: [Bokmål] flislegger {m}
+till {prep} (Until)	 :: til, inntil
+timber {n} (beam used to support something such as a roof or a ship)	 :: takbjelke {m}
+timber {n} (trees considered as a source of wood)	 :: tømmer {n}
+timber {n} (wood that has been cut ready for construction)	 :: trevirke {n}
+time {n}	 :: gang {m}, tidspunkt {n}
+time {n} (inevitable passing of events)	 :: tid {m} {f}
+time {n} (instance or occurrence)	 :: tid
+time {n} (measurement under some system of the time of day or moment in time)	 :: [Bokmål] tid {m} {f}; [Nynorsk] tid {f}
+time {n} (quantity of availability in time)	 :: tid {m} {f}, tempo
+time {n} (slang: serving of a prison sentence)	 :: soningstid {m} {f}, tid inne
+time {v} (to measure time)	 :: ta tid
+time heals all wounds {proverb} (negative feelings eventually erode away)	 :: tiden leger alle sår
+time interval {n} (a period of time with fixed, well-defined limits)	 :: tidsintervall {n}, tidsrom {n}, periode
+time is money {proverb} (time is money)	 :: tid er penger
+timeless {adj} (ageless) SEE: ageless	 ::
+timeless {adj} (eternal) SEE: eternal	 ::
+timeless {adj} (untimely) SEE: untimely	 ::
+time of day {n} (time according to the clock) SEE: time	 ::
+times {prep} (multiplied by)	 :: ganger
+time scale {n} (series of events used as a rough measure of duration)	 :: [Bokmål] tidsskala {m}
+time zone {n} (range of longitudes where a common standard time is used)	 :: [Bokmål] tidssone {m} {f}; [Nynorsk] tidssone {f}
+timezone {n} (time zone) SEE: time zone	 ::
+Timor-Leste {prop} (East Timor) SEE: East Timor	 ::
+Timothy {prop} (companion of Paul)	 :: Timoteus
+Timothy {prop} (male given name)	 :: Tim
+timpanum {n} (eardrum) SEE: eardrum	 ::
+timpanum {n} (hearing organ) SEE: tympanum	 ::
+timpanum {n} (middle ear) SEE: middle ear	 ::
+timpanum {n} (musical instrument) SEE: kettledrum	 ::
+timpanum {n} (ornamental panel) SEE: tympanum	 ::
+timps {n} (timpani) SEE: timpani	 ::
+tin {n} (element)	 :: tinn
+tine {n} (prong)	 :: tann {f}/{m}
+tin ear {n} (inability to appreciate the elements of performed music)	 :: uten musikkøre {n}
+tinker {n} (itinerant tinsmith)	 :: kjeleflikker {m}
+tinkerer {n} (meddler) SEE: meddler	 ::
+tinned {adj} (preserved in tins) SEE: canned	 ::
+tinned {adj} (previously prepared) SEE: canned	 ::
+tinnitus {n} (perception of nonexistent noise)	 :: [Bokmål] tinnitus {c}, øresus; [Nynorsk] tinnitus {c}, øyresus
+tin opener {n} (can opener) SEE: can opener	 ::
+tin-opener {n} (can opener) SEE: can opener	 ::
+-tion {suffix} (producing a noun meaning the action or effect of a verb)	 :: -sjon {m}
+tip {v}	 :: tips {n}
+tipi {n} (teepee) SEE: teepee	 ::
+tipsy {adj} (slightly drunk)	 :: brisen; [Bokmål] pussa
+tip-top {adj} (excellent) SEE: excellent	 ::
+tipula {n} (crane fly) SEE: crane fly	 ::
+tiramisu {n} (semifreddo dessert)	 :: tiramisu {m}
+tire {n} (rubber covering on a wheel) SEE: tyre	 ::
+tired {adj} (fed up) SEE: fed up	 ::
+tired {adj} (overused) SEE: overused	 ::
+Tirzah {prop} (biblical place)	 :: Tirsa
+Tirzah {prop} (biblical woman)	 :: Tirsa
+tit {n} (a mammary gland, teat)	 :: pupp {m}
+tit {n} (a small passerine bird of the genus Parus or the family Paridae)	 :: meis {m}
+tit {n} ((slang, vulgar) a woman's breast)	 :: [Bokmål] pupp {m}; [Nynorsk] pupp {m}
+titanium {n} (chemical element)	 :: titan
+tit for tat {n} (returning exactly what you get)	 :: like for like
+tithe {n} (tax paid to the Church)	 :: [Bokmål] tiende {m}; [Nynorsk] tiend {f}
+title {n} (name of a book, etc)	 :: [Bokmål] tittel {m}; [Nynorsk] tittel {m}
+title {n} (prefix or suffix added to a name)	 :: [Bokmål] tittel {m}; [Nynorsk] tittel {m}
+title {n} (subject of a writing)	 :: overskrift; [Bokmål] tittel {m}; [Nynorsk] tittel {m}
+titration {n} (determination of concentration, by addition of reagent until completion of reaction)	 :: titrering {m}
+titty {n} (kitty) SEE: kitty	 ::
+Titus {prop} (biblical character)	 :: Titus
+Tōkyō {prop} (Tokyo) SEE: Tokyo	 ::
+to {particle} (infinitive-marker)	 :: å
+to {prep} (in the direction of, and arriving at)	 :: til
+to {prep} (used to indicate the indirect object)	 :: til
+toad {n} (amphibian similar to a frog)	 :: [Bokmål] padde {m} {f}; [Nynorsk] padde {f}
+to and fro {adv} (back and forth)	 :: til og fra, fram og tilbake
+toast {n} (toasted bread)	 :: toast {m}, ristet brød {n}
+toast {v} (to engage in a salutation)	 :: skål {m}
+toaster {n} (device for toasting bread)	 :: [Bokmål] brødrister {m}; [Nynorsk] brødristar {m}
+tobacco {n} (leaves of certain varieties of tobacco plant)	 :: tobakk
+tobacconist {n} (smoker) SEE: smoker	 ::
+to be continued {phrase} (continues in next episode)	 :: fortsettelse følger
+Tobias {prop} (biblical character)	 :: Tobias
+Tobias {prop} (male given name)	 :: Tobias
+today {adv} (on the current day)	 :: idag
+today {n} (today (noun))	 :: i dag
+to-do {n} (task)	 :: [Nynorsk] hugseliste {f}, gjeremål {n}; [Bokmål] huskeliste {f}, gjøremål {n}
+to-do list {n} (list of errands )	 :: gjøremålsliste {m}
+toe {n} (any equivalent part in an animal)	 :: tå {c}
+toe {n} (each of the five digits on the end of the foot)	 :: tå {c}
+toe {n} (part of a shoe or sock covering the toe)	 :: tå {c}
+to each his own {proverb} (every person is entitled to his or her personal preferences)	 :: enhver sin smak, hver sin smak
+toenail {n} (the plate covering the end of a toe)	 :: [Bokmål] tånegl {m}
+to err is human {proverb} (Everybody makes mistakes)	 :: det er menneskelig å feile
+toffee apple {n} (candy apple) SEE: candy apple	 ::
+tofu {n} (protein-rich food made from curdled soybean milk)	 :: tofu, bønne-ost
+together {adv} (at the same time, in the same place)	 :: sammen, i lag
+together {adv} (into one place)	 :: samlet
+together {adv}	 :: sammen
+toggle {n} (toggle switch) SEE: toggle switch	 ::
+Togliatti {prop} (Tolyatti) SEE: Tolyatti	 ::
+Togo {prop} (Togolese Republic)	 :: Togo
+Togolese {adj} (Of, from, or pertaining to Togo, the Togolese people or the Togolese language)	 :: [Bokmål] togolesisk; [Nynorsk] togolesisk
+Togolese {n} (A person from Togo or of Togolese descent)	 :: [Bokmål] togoleser {m}; [Nynorsk] togolesar {m}
+toilet {n} (bathroom with toilet)	 :: bad {n}
+toilet {n} (ceramic bowl)	 :: toalett {n}, vannklosett {n}
+toilet {n} (dirty place)	 :: dass {n}
+toilet {n} (dressing room)	 :: omkledningsrom {n}
+toilet {n} (lavatory, w.c. (the room))	 :: toalett {n}, do {m}, WC {n}
+toilet {n} (personal grooming)	 :: pynting {c}
+toilet paper {n} (paper to clean oneself after defecation or urination)	 :: dopapir {n}, toalettpapir {n}
+toilet training {n} (The act of training a young child to use the toilet)	 :: [Bokmål] pottetrening {m} {f}; [Nynorsk] pottetrening {f}
+toilet water {n} (perfumed mixture of water and alcohol) SEE: eau de toilette	 ::
+Toisanese {adj} (Hoisanese) SEE: Hoisanese	 ::
+token {n} (something serving as an expression of something else)	 :: [Bokmål] merke {n}, symbol {n}, nøkkel {m}
+Tokyo {prop} (capital of Japan)	 :: Tokyo
+told {v} (simple past tense)	 :: fortalte
+tolerate {v} (to allow without interference)	 :: tolerere, tåle
+toll {n} (tollbooth) SEE: tollbooth	 ::
+toll {v} (entice) SEE: entice	 ::
+toll road {n} (toll road) SEE: turnpike	 ::
+tollway {n} (turnpike) SEE: turnpike	 ::
+tom {n} (male turkey) SEE: turkey-cock	 ::
+tomato {n} (fruit)	 :: [Bokmål] tomat {m}; [Nynorsk] tomat {m}
+tomato {n} (tomato plant)	 :: [Bokmål] tomatplante {m} {f}, tomat {m}; [Nynorsk] tomatplante {m} {f}, tomat {m}
+tomato purée {n} (concentrated sauce made from tomatoes)	 :: [Bokmål] tomatpuré {m}; [Nynorsk] tomatpuré {m}
+tombstone {n} (stone on grave)	 :: gravminne
+tomcat {n} (tom) SEE: tom	 ::
+Tom, Dick or Harry {n} (anybody or everybody; random or unknown people)	 :: Gud og hvermann, Per, Pål og Askeladden
+Tommy gun {n} (Thompson submachine gun) SEE: Thompson submachine gun	 ::
+tomnoddy {n} (puffin) SEE: puffin	 ::
+tomorrow {adv} (on the day after the present day)	 :: [Bokmål] i morgen; [Nynorsk] i morgon
+tomorrow {n} (the day after the present day)	 :: i morgen {m}
+tone-deaf {adj} (unable to distinguish differences in pitch)	 :: tonedøv
+toneme {n} (phoneme)	 :: tonelag {n}, tonem {n}
+Tonga {prop} (country)	 :: Tonga
+Tongan {adj} (of, from, or pertaining to Tonga, Tongans or their language)	 :: [Bokmål] tongansk; [Nynorsk] tongansk
+Tongan {n} (person from Tonga or of Tongan descent)	 :: [Bokmål] tonganer {m}; [Nynorsk] tonganar {m}
+Tongan {prop} (Austronesian language)	 :: [Bokmål] tongansk {m}; [Nynorsk] tongansk {m}
+tongue {n} (flap in a shoe)	 :: tunge {c}
+tongue {n} (language) SEE: language	 ::
+tongue {n} (organ)	 :: tunge {c}
+tongue and groove {n} (joint, in flooring or panelling)	 :: not og fjær
+tongue-tie {n} (oral anomaly) SEE: ankyloglossia	 ::
+tonic {n} (soda pop) SEE: soda pop	 ::
+tonic {n} (tonic water) SEE: tonic water	 ::
+tonight {adv} (during today's evening)	 :: [Bokmål] i kveld
+tonight {n} (nighttime today)	 :: i kveld [early night, late evening], i natt [night]
+tonsil {n} (palatine tonsil)	 :: [Bokmål] mandel {m}; [Nynorsk] mandel {m}
+tonsillitis {n} (inflammation of the tonsils)	 :: mandelbetennelse {m}
+too {adv} (likewise)	 :: [Bokmål] også, òg, med; [Nynorsk] òg, også, med
+too {adv} (more than enough; as too much)	 :: for, altfor
+toodeloo {interj} (goodbye) SEE: goodbye	 ::
+tool {n} (equipment used in a profession)	 :: verktøy {n} ; [Bokmål] redskap {m} {n}; [Nynorsk] reiskap {m}
+tool {n} (mechanical device intended to make a task easier)	 :: verktøy {n}
+tool {n} (penis)	 :: kuk {m}
+tool {n}	 :: tøffel {m}
+tool {v} (to equip with tools)	 :: utstyre utruste
+tool {v} (to work on or shape with tools)	 :: bearbeide
+toolbox {n} (storage case for tools)	 :: [Bokmål] verktøykasse {m} {f}; [Nynorsk] verktøykasse {m} {f}
+toon {n} (town) SEE: town	 ::
+tooth {n} (biological tooth)	 :: tann {c}
+tooth {n} (saw tooth)	 :: tann {c}
+toothache {n} (ache in a tooth)	 :: tannverk {m}
+toothbrush {n} (brush for cleaning the teeth and tongue)	 :: [Bokmål] tannbørste; [Nynorsk] tannkost, tannbørste {m}
+toothpaste {n} (paste for cleaning the teeth)	 :: [Bokmål] tannkrem {m}, tannpasta {m}; [Nynorsk] tannkrem {m}, tannpasta {m}
+toothpick {n} (stick for removing food residue from the area between the teeth)	 :: [Bokmål] tannpirker {m}, tannstikker {m}; [Nynorsk] tannpirkar {m}, tannstikkar {m}
+top {n} (child’s spinning toy)	 :: [Bokmål] snurrebass {m}; [Nynorsk] snurrebass {m}
+top {n} (garment worn to cover the torso)	 :: [Bokmål] topp {m}; [Nynorsk] topp {m}
+top {n} (lid, cap, cover)	 :: [Bokmål] kork {m} {f}, deksel {n}, lokk {n}; [Nynorsk] kork {f}, deksel {n}, lokk {n}
+top {n} (top of a ship's mast)	 :: [Bokmål] mers {n}; [Nynorsk] mers {n}
+top {n} (uppermost part)	 :: [Bokmål] topp {m}; [Nynorsk] topp {m}
+top {n} (uppermost part of a visual field)	 :: [Bokmål] topp {m}; [Nynorsk] topp {m}
+top {v} (excel)	 :: [Bokmål] toppe, overgå
+top {v} (to cover on the top or with a top)	 :: [Bokmål] toppe, dekke
+top {v} (to cut or remove the top)	 :: [Bokmål] toppe
+toper {n} (drunkard) SEE: drunkard	 ::
+topic {n} (discussion thread) SEE: thread	 ::
+topolect {n} (dialect) SEE: dialect	 ::
+topolect {n} (language) SEE: language	 ::
+topping {n} (food on top)	 :: pålegg {n} (on a sandwich/piece of bread)
+top secret {adj} (information classified at the highest level)	 :: [Bokmål] topphemmelig
+toque {n} (chef) SEE: chef	 ::
+tor {n} (hill) SEE: hill	 ::
+torch {n} (portable electric light)	 :: [Bokmål] lommelykt {m} {f}
+torch {n} (stick with flame at one end)	 :: [Bokmål] fakkel {m}; [Nynorsk] fakkel {m}
+torero {n} (bullfighter) SEE: toreador	 ::
+torment {n} (extreme pain)	 :: pine, kval, lidelse
+torque {n} (a rotational or twisting force)	 :: dreiemoment {n}
+torque wrench {n} (lockpicking tool) SEE: torsion wrench	 ::
+torsion {n}	 :: torsjon {m}
+tort {n} (injury or wrong)	 :: [Bokmål] tort {m} {f} [dated, now only in fixed expressions]; [Nynorsk] tort {f} [dated, now only in fixed expressions]
+tort {n} (law: wrongful act causing injury)	 :: [Bokmål] tort {m} {f}; [Nynorsk] tort {f}
+tortoise {n} (land-dwelling reptile)	 :: skilpadde, skjelpadde, landskilpadde {f}
+torture {n} (intentional causing of somebody's experiencing agony)	 :: tortur {m}
+torture {n} ("suffering of heart" imposed by one on another, in personal relationships)	 :: tortur {m}
+torture {v} (to intentionally inflict unnecessary pain or suffering on helpless victims)	 :: torturere
+torturer {n} (one who tortures)	 :: torturist {m}
+toss {n} (toss of a coin before a match)	 :: flipp {n}, kast {n}, myntkast {n}
+toss {v} (to flip a coin)	 :: flippe, kaste
+totalitarian {adj} (related to the system of government)	 :: [Bokmål] totalitær; [Nynorsk] totalitær
+to that end {prep} (therefore) SEE: therefore	 ::
+to the letter {adv} (exactly)	 :: til punkt og prikke
+totipotence {n} (totipotency) SEE: totipotency	 ::
+toucan crossing {n} (pelican crossing) SEE: pelican crossing	 ::
+touch {n} (act of touching)	 :: berøring {m} {f}
+touch {n} (close communication)	 :: kontakt {m}
+touch {n} (sense of perception)	 :: følelse {m}
+touch {v} (affect emotionally)	 :: berøre, røre
+touch {v} (make physical contact with)	 :: berøre
+touched {adj} (mentally deficient) SEE: touched in the head	 ::
+touch wood {interj} (make contact with wood to avert bad luck)	 :: banke i bordet
+tough {adj} (resilient) SEE: resilient	 ::
+tough {adj} (stubborn) SEE: stubborn	 ::
+tough {v} (endure) SEE: endure	 ::
+tough {v} (toughen) SEE: toughen	 ::
+tough out {v} (endure) SEE: endure	 ::
+toupe {n} (hairpiece) SEE: toupee	 ::
+toupee {n} (wig)	 :: [Bokmål] tupé {m}; [Nynorsk] tupé {m}
+tourism {n} (the act of travelling or sightseeing)	 :: turisme
+tourist {n} (Someone who travels for pleasure)	 :: turist
+tournament {n} ((historical) series of battles)	 :: [Bokmål] turnering {m} {f}; [Nynorsk] turnering {f}
+tournament {n} (series of games)	 :: [Bokmål] turnering {m} {f}; [Nynorsk] turnering {f}
+tourniquet {n} (a tightly compressed bandage used to stop bleeding)	 :: turniké {m}
+tour operator {n} (travel agency) SEE: travel agency	 ::
+tovarish {n} (comrade) SEE: comrade	 ::
+toward {prep} (for the purpose of)	 :: på grunn av
+toward {prep} (in relation to)	 :: angående
+toward {prep} (in the direction of)	 :: mot
+towards {prep} (toward) SEE: toward	 ::
+towel {n} (cloth used for wiping)	 :: [Bokmål] håndkle {n}, handkle {n}; [Nynorsk] handkle {n}, handklede {n}
+towelling {n} (terry cloth) SEE: terry cloth	 ::
+tower {n} (structure)	 :: [Bokmål] tårn {n}
+to whom it may concern {phrase} (salutation) SEE: to whom this may concern	 ::
+to whom this may concern {phrase} (phrase used to begin a formal letter to an unknown recipient)	 :: til hvem det måtte angå
+town {n} (settlement)	 :: by
+town hall {n} (a building that houses the local government offices of a town)	 :: rådhus {n}
+town walls {n} (wall surrounding a town)	 :: bymur
+tow truck {n} (motor vehicle for towing)	 :: slepelastebil {c}
+toxaemia {n} (toxemia) SEE: toxemia	 ::
+toy {n} (something to play with)	 :: [Bokmål] leketøy {n}, leiketøy {n}, leke {m} {f}, leike {m} {f}; [Nynorsk] leiketøy {n}, leikety {n}, leike {f}
+trace {n} ((electronics) electric current-carrying conductive pathway)	 :: kretskort {n}
+tracheophyte {n} (plant possessing vascular tissue) SEE: vascular plant	 ::
+track {n} (caterpillar track) SEE: caterpillar track	 ::
+trackpad {n} (touchpad) SEE: touchpad	 ::
+tractor {n} (farm vehicle)	 :: [Bokmål] traktor {m}; [Nynorsk] traktor {m}
+tractor {n} (truck (or lorry) for pulling a trailer)	 :: [Bokmål] trekkvogn {m} {f}; [Nynorsk] trekkvogn {f}
+tractor unit {n} (road vehicle)	 :: [Bokmål] trekkvogn {m} {f}; [Nynorsk] trekkvogn {f}
+trade {n} (buying and selling)	 :: handel {m}
+trade {n} (instance of buying or selling)	 :: handel {m}
+trade {n} (skilled practice of an occupation)	 :: håndverk {n}, fag {n}
+trade deficit {n} (negative balance of trade)	 :: handelsunderskudd {n}
+trademark {n} (identification of a company's product)	 :: varemerke
+trade union {n} (organization)	 :: fagforening {c}
+trade unionist {n} (a member of a trade union) SEE: unionist	 ::
+trade wind {n} (steady wind)	 :: passatvind {m}
+tradition {n} (a part of culture that is passed from person to person or generation to generation)	 :: [Bokmål] tradisjon {m}; [Nynorsk] tradisjon {m}
+traditional {adj} (of or pertaining to tradition)	 :: [Bokmål] tradisjonell; [Nynorsk] tradisjonell
+traditionally {adv} (traditional manner)	 :: [Bokmål] tradisjonelt; [Nynorsk] tradisjonelt
+traducer {n} (someone or something that translates languages) SEE: translator	 ::
+traffic {n} (pedestrians or vehicles on roads or on the air)	 :: trafikk {m}, ferdsel
+trafficator {n} (blinking light) SEE: indicator	 ::
+traffic circle {n} (an intersection with a circular shape and, usually, a central island)	 :: [Bokmål] rundkjøring {m} {f}; [Nynorsk] rundkøyring {f}
+traffic jam {n} (situation in which all road traffic is stationary or very slow)	 :: [Bokmål] trafikkork {m}, trafikk-kork {m}; [Nynorsk] trafikkork {m}, trafikk-kork {m}
+trafficking {n} (human trafficking) SEE: human trafficking	 ::
+traffic light {n} (signalling device)	 :: [Bokmål] trafikklys {n}
+traffic sign {n} (traffic sign)	 :: trafikkskilt; [Bokmål] trafikkskilt; [Nynorsk] trafikkskilt
+trailer {n} (any vehicle designed to be towed, with the exception of a caravan)	 :: [Bokmål] tilhenger {m}
+trailer {n} (vehicle towed behind another, used for carrying equipment)	 :: [Bokmål] tilhenger {m}
+train {n} (line of connected cars or carriages)	 :: tog
+train {v} (to improve one's fitness)	 :: trene, mosjonere
+train {v} (to practice an ability)	 :: trene, øve
+trainee {n} (someone being formally trained in a workplace)	 :: [Bokmål] lærling {m}; [Nynorsk] lærling {m}
+trainers {n} (sports shoes) SEE: sneakers	 ::
+training {n} (training)	 :: [Bokmål] trening {m} {f}
+train of thoughts {n} (train of thought) SEE: train of thought	 ::
+train station {n} (place where trains stop for passengers) SEE: railway station	 ::
+trait {n} (an identifying characteristic, habit or trend)	 :: trekk {n}; [Bokmål] egenskap {m}; [Nynorsk] eigenskap {m}
+traitor {n} (a betrayer)	 :: [Bokmål] forræder {m}, sviker {m}; [Nynorsk] svikar {m}
+traitor {n} (one who violates his allegiance and betrays his/her country)	 :: [Bokmål] landssviker {m}, landsforræder {m}; [Nynorsk] landssvikar {m}
+trajectory {n} (path of a body)	 :: bane {m}
+tram {n} (passenger vehicle)	 :: trikk, sporvogn {f}
+tramcar {n} (streetcar) SEE: streetcar	 ::
+tramp {v} (to hitchhike) SEE: hitchhike	 ::
+tramper {n} (recreational walker) SEE: hiker	 ::
+tranche {n} (slice) SEE: slice	 ::
+tranquil {adj} (calm; without motion or sound)	 :: [Bokmål] rolig; [Nynorsk] roleg
+tranquil {adj} (free from emotional disturbance)	 :: [Bokmål] rolig; [Nynorsk] roleg
+transaction {n}	 :: transaksjon
+Transcaucasia {prop} (region of southwest Asia) SEE: South Caucasus	 ::
+transfuge {n} (deserter) SEE: deserter	 ::
+transfuge {n} (turncoat) SEE: turncoat	 ::
+transfuse {v} (transfuse (all senses) )	 :: transfundere
+transistor {n} (transistor radio) SEE: transistor radio	 ::
+transit {n} (The passage of a celestial body)	 :: passasje
+transition {n} (process of change from one form, state, style or place to another)	 :: overgang {m}
+transitive {adj} (grammar, of a verb: taking an object or objects)	 :: transitiv
+translate {v} (to change text from one language to another)	 :: oversette
+translatese {n} (Awkwardness or ungrammaticality of translation) SEE: translationese	 ::
+translation {n} (act of translating between languages)	 :: [Bokmål] oversettelse {m}; [Nynorsk] omsetjing {f}, omsetting {f}
+translation {n} (result of translating between languages)	 :: [Bokmål] oversettelse {m}; [Nynorsk] omsetjing {f}, omsetting {f}
+translation dictionary {n} (dictionary that provides translations between two or more languages)	 :: oversettelsesordbok, omsetjingsordbok
+translatology {n} (study of theory and practice of translating and interpreting) SEE: translation studies	 ::
+translator {n} (someone who translates)	 :: [Bokmål] oversetter {m}; [Nynorsk] omsetjar {m}
+transliteration {n} (product of transliterating)	 :: transliterasjon
+translocator {n} (translocon) SEE: translocon	 ::
+transmission {n}	 :: overføring
+transmission tower {n} (electricity pylon) SEE: electricity pylon	 ::
+Transnistria {prop} (Transnistria, an autonomous territory in Moldova)	 :: Transnistria {n}
+transom {n} (transom window) SEE: transom window	 ::
+transparent {adj} (obvious)	 :: opplagt, åpenbar
+transparent {adj} (open, publically visible)	 :: gjennomsynlig, gjennomskuelig
+transparent {adj} (see-through, clear)	 :: gjennomsiktig, transparent
+transpire {v} (obsolete: to perspire) SEE: perspire	 ::
+transpire {v} (to happen, take place) SEE: happen	 ::
+transport {n} (act of transporting)	 :: [Bokmål] transport; [Nynorsk] transport
+transport {n} (public transport) SEE: public transport	 ::
+transport {v} (carry or bear from one place to another)	 :: [Bokmål] transportere; [Nynorsk] transportere
+transport {v} (historical: deport to a penal colony)	 :: [Bokmål] deportere; [Nynorsk] deportere
+transrealism {n} (literary mode)	 :: transrealisme
+transsexual {adj} (being a transsexual)	 :: transkjønnet, transseksuell
+transsexual {n} (person whose gender identity did not match his/her birth sex, and who therefore is changing or has changed sex)	 :: transperson
+transsexualism {n} (transsexuality) SEE: transsexuality	 ::
+transvest {v} (cross-dress) SEE: cross-dress	 ::
+transvestite {n} (cross-dresser, see also: cross-dresser)	 :: [Bokmål] transvestitt {m}; [Nynorsk] transvestitt {m}
+Transylvania {prop} (Transylvania)	 :: Transilvania {n}; [Nynorsk] Transilvania {n}
+trap {n} (device designed to catch or kill animals)	 :: felle
+trap {n} (trap shooting) SEE: trapshooting	 ::
+trapeze {n} (trapezium) SEE: trapezium	 ::
+trapeze artist {n} (trapezist) SEE: trapezist	 ::
+trash {n} (things to be discarded)	 :: avfall {n}, søppel {n}, boss {n}
+trash bag {n} (plastic bag for the disposal of household waste) SEE: garbage bag	 ::
+trash can {n} (garbage can) SEE: garbage can	 ::
+trashman {n} (garbage collector) SEE: garbage collector	 ::
+travel {n} (length of a mechanical stroke)	 :: slaglengde {m}
+travel {v} (to be on a journey)	 :: reise {m}
+travel {v} (to pass from here to there; to transmit)	 :: reise
+travel agency {n} (tour operator) SEE: tour operator	 ::
+travel agent {n} (travel agency) SEE: travel agency	 ::
+traveler {n} (one who travels) SEE: traveller	 ::
+traveler's check {n} (check draft) SEE: traveller's cheque	 ::
+traveller {n} (passenger) SEE: passenger	 ::
+travel sickness {n} (motion sickness) SEE: motion sickness	 ::
+trawler {n} (fishing boat)	 :: [Bokmål] tråler {m}; [Nynorsk] trålar {m}
+treachery {n} (treason) SEE: treason	 ::
+treason {n} (crime of betraying one’s government)	 :: forræderi; [Bokmål] landssvik {n}; [Nynorsk] landssvik {n}
+treasure {n} (any single thing one values greatly)	 :: skatt {m}
+treasure {n} (collection of valuable things)	 :: skatt {m}
+treasure {n} (term of endearment)	 :: skatt {m}
+treat {n} (An unexpected gift, event etc., which provides great pleasure)	 :: påspandering
+treat {n} ((obsolete) An entreaty) SEE: entreaty	 ::
+treat {n} ((obsolete) A parley or discussion of terms; a negotiation) SEE: negotiation	 ::
+treat {v} (to care for medicinally or surgically)	 :: behandle
+treat {v} (to entertain with food or drink)	 :: påspandere
+treat {v} (to handle, deal with or behave towards in a specific way)	 :: behandle
+treatise {n} (systematic discourse on some subject)	 :: [Bokmål] avhandling
+treaty {n} (a binding agreement under international law)	 :: traktat {m}
+treble {v} (to multiply by three)	 :: [Bokmål] tredoble; [Nynorsk] tredobla, tredoble
+trebuchet {n} (trebuchet)	 :: [Bokmål] blide, valslynge {m} {f}; [Nynorsk] blide, valslynge {f}
+tree {proverb} (large woody plant)	 :: tre {n}
+treeless {adj} (having no trees)	 :: [Bokmål] treløs
+trellis {n} (An outdoor garden frame which can be used to grow vines or other climbing plants)	 :: [Bokmål] espalier {n}
+trema {n} (the diacritical mark) SEE: diaeresis	 ::
+trench {n} (military excavation)	 :: [Bokmål] skyttergrav {m} {f}; [Nynorsk] skyttargrav {f}
+trend {n} (A fad)	 :: [Bokmål] trend {m}; [Nynorsk] trend {m}
+trend {n} (an inclination in a direction)	 :: [Bokmål] trend {m}; [Nynorsk] trend {m}
+trepan {n} (trephine) SEE: trephine	 ::
+trepang {n} (sea cucumber) SEE: sea cucumber	 ::
+trespass {n} (sin) SEE: sin	 ::
+triad {n} (grouping of three)	 :: trio {m}, triade {m}
+triangle {n} (love triangle) SEE: love triangle	 ::
+triangle {n} (polygon)	 :: [Bokmål] trekant {m}; [Nynorsk] trekant {m}
+triangle pose {n} (trikonasana) SEE: trikonasana	 ::
+triangulation {n} (surveying technique)	 :: triangulering {m} {f}
+Triangulum {prop} (spiral galaxy) SEE: Triangulum Galaxy	 ::
+tribology {n} (science and technology of lubrication)	 :: [Bokmål] tribologi {m}
+tribulation {n} (adversity)	 :: motgang {m}, prøvelse {m}, trengsel {m}
+tributary {n} (stream which flows into a larger one)	 :: [Bokmål] bielv {m} {f}, sideelv {m} {f}; [Nynorsk] sideelv {f}
+triceps {n} (triceps brachii) SEE: triceps brachii	 ::
+trick {n} (magic trick)	 :: trikk {n}, triks {n}
+trick {n} (slang: customer to a prostitute)	 :: horekunde {m}
+trick {n} (something designed to fool)	 :: trick {n}, trikk {n}, triks {n}, knep {n}
+trick {n} (winning sequence in cards)	 :: stikk {n}
+trick {v} (to fool; to cause to believe something untrue)	 :: lure, narre
+trickery {n} (underhanded behavior)	 :: fusk {n}
+trick or treat {interj} (extortion)	 :: knask eller knep
+tricolour {n} (A flag with three stripes of different colours)	 :: trikolor {m}
+tricycle {n} (cycle with three wheels)	 :: trehjulssykkel
+trident {n} (a three-pronged spear)	 :: trefork
+trigger {n} (finger-operated lever used to fire a gun)	 :: [Bokmål] utløser, utløyser; [Nynorsk] utløysar
+trigger finger {n} (forefinger) SEE: forefinger	 ::
+triiodomethane {n} (iodoform) SEE: iodoform	 ::
+trilingualism {n} (the speaking of three languages)	 :: trespråklighet {m} {f}
+trimaran {n} (type of boat)	 :: trimaran
+trimester {n} (period of three months)	 :: trimester {n}
+Trinidad and Tobago {prop} (country)	 :: Trinidad og Tobago
+Trinidadian {adj} (of, from, or pertaining to Trinidad or to the people or language of that country)	 :: [Bokmål] trinidader {m}; [Nynorsk] trinidadar {m}
+Trinidadian {n} (a person from Trinidad)	 :: [Bokmål] trinidader {m}; [Nynorsk] trinidadar {m}
+trinket {n} (a small showy ornament or piece of jewelry)	 :: smykke {n}, verdigjenstand {m}, nips {p}
+trip {n} (a journey)	 :: reise
+trip {v} (to experience a state of reverie or to hallucinate)	 :: reise
+triple {v} (to multiply by three)	 :: tredoble
+triplet {n} (group of three notes played in place of two)	 :: triol {m}
+triplet {n} (group of three)	 :: trio {m}
+triplet {n} (one of a group of three)	 :: en av tre
+triplet {n} (one of three siblings born at the same time of the same mother)	 :: trilling {m}
+triskaidekaphobia {n} (Fear of the number 13.)	 :: triskaidekafobi
+triumph {n} (conclusive success; victory; conquest)	 :: [Bokmål] triumf {m}; [Nynorsk] triumf {m}
+triumph {n} (trump card) SEE: trump	 ::
+triumph {v} (to prevail over rivals)	 :: [Bokmål] triumfere
+triumph {v} (to succeed)	 :: [Bokmål] triumfere
+triumphal arch {n} (monumental arch that commemorates a victory)	 :: triumfbue {m}
+triumphant {adj} (celebrating victory)	 :: [Bokmål] triumferende
+Trivandrum {prop} (Thiruvananthapuram) SEE: Thiruvananthapuram	 ::
+trivia {n} (quiz) SEE: quiz	 ::
+trivialise {v} (trivialize) SEE: trivialize	 ::
+Trojan {adj} (relating to the city Troy)	 :: [Bokmål] trojansk; [Nynorsk] trojansk
+Trojan {n} (person from Troy)	 :: [Bokmål] trojaner {m}; [Nynorsk] trojanar {m}
+Trojan {n} (Trojan asteroid) SEE: Trojan asteroid	 ::
+troll {n} (person who provokes others for their own personal amusement or to cause disruption)	 :: troll {n}
+troll {n} (supernatural being)	 :: troll {n}
+troll {v} (to fish using a line and bait or lures trailed behind a boat)	 :: [Bokmål] dorge
+trolley bus {n} (bus powered via overhead electric cables)	 :: trolleybuss
+trombone {n} (a musical instrument in the brass family)	 :: [Bokmål] trombone {m}; [Nynorsk] trombone {m}
+Trondheim {prop} (city in Norway)	 :: Trondheim
+troop {n} (unit of girl or boy scouts)	 :: tropp {m} {f}
+trophy {n} (object rewarding success)	 :: [Bokmål] trofé {m} {n}; [Nynorsk] trofé {m} {n}
+tropic {adj} (tropical) SEE: tropical	 ::
+Tropic {n} (one of the two Tropics) SEE: tropic	 ::
+tropical {adj} (dated: metaphorical, figurative) SEE: figurative	 ::
+tropical {adj} (of or pertaining to the tropics)	 :: [Bokmål] tropisk; [Nynorsk] tropisk
+troposmia {n} (troposmia) SEE: parosmia	 ::
+trot {n} (gait of an animal between walk and canter)	 :: trav {n}; [Nynorsk] tråv {n}
+trot {n} (toddler) SEE: toddler	 ::
+trot {n} (Trotskyist) SEE: Trotskyist	 ::
+trot {v} ((of a horse) move at a gait between a walk and a canter)	 :: trave
+troth {n} (the promise or pledge so given as an act of fidelity)	 :: troskapsed {m}
+troth {n} (the state of being pledged to marry someone; betrothal, engagement)	 :: forlovelse {m}
+Trotskyism {n} (the political philosophy named after Leon Trotsky)	 :: trotskisme {m}
+trouble in paradise {n} (unexpected problem in a supposedly positive situation)	 :: trøbbel i paradis
+troublemaker {n} (complainer)	 :: masekopp {m}
+troublemaker {n} (one who causes trouble, especially deliberately)	 :: [Bokmål] bråkmaker {m}; [Nynorsk] bråkmakar {m}
+trough {n} (a gutter under the eaves of a building)	 :: takrenne
+trough {n} (a linear atmospheric depression associated with a weather front)	 :: lavtrykksrenne
+trough {n} (a long, narrow container open at the top)	 :: kar, trau
+trough {n} (a long, narrow depression between waves or ridges)	 :: bølgedal
+trough {n} (a long, narrow, open container for feeding animals)	 :: trau
+trough {n} (short, narrow drainage canal)	 :: renne
+trounce {v} (To win by a wide margin)	 :: knuse, mose
+trouser {n} (pair of trousers) SEE: trousers	 ::
+trouser {v} (to pocket) SEE: pocket	 ::
+trousers {n} (article of clothing for the lower body) SEE: pants	 ::
+trout {n} (fish)	 :: [Bokmål] ørret {m}, aure {m}; [Nynorsk] aure {m}
+trove {n} (treasure trove) SEE: treasure trove	 ::
+Troy {prop} (an ancient city)	 :: [Bokmål] Troja {n}; [Nynorsk] Troja {n}
+truancy {n} (the act of shirking from responsibilities and duties)	 :: [Bokmål] skulking
+truce {n} (an agreement between opposed parties)	 :: [Bokmål] våpenhvile {m} {f}, våpenstillstand {m}; [Nynorsk] våpenkvild {f}, våpenkvile {f}, våpenstillstand {m}
+truce {n} (a period of time in which no fighting takes place)	 :: [Bokmål] våpenhvile {m} {f}, våpenstillstand {m}; [Nynorsk] våpenkvild {f}, våpenkvile {f}, våpenstillstand {m}
+truce {n}	 :: våpenhvile {m}
+truck {n} (semi-trailer)	 :: [Bokmål] semitrailer {m}; [Nynorsk] semitrailer {m}
+truck {n} (vehicle designed for carrying cargo)	 :: [Bokmål] lastebil {m}; [Nynorsk] lastebil {m}
+truck {n} (wagon) SEE: wagon	 ::
+truck {v} (trade) SEE: trade	 ::
+truck driver {n} (person employed to drive a truck)	 :: [Bokmål] lastebilsjåfør {m}; [Nynorsk] lastebilsjåfør {m}
+trucker {n} (one who drives a truck) SEE: truck driver	 ::
+true {adj} (A state in Boolean logic that indicates an affirmative or positive result)	 :: sann
+true {adj} (Genuine)	 :: ekte, sann
+true {adj} (Legitimate)	 :: ekte
+true {adj} (Loyal, faithful)	 :: tro, trofast
+true seal {n} (earless seal) SEE: earless seal	 ::
+truism {n} (self-evident or obvious truth)	 :: truisme {m}, (banal, forslitt, selvinnlysende) sannhet {c}
+truly yours {phrase} (yours truly) SEE: yours truly	 ::
+trump card {n} (trump) SEE: trump	 ::
+trumpet {n} (brass instrument)	 :: [Bokmål] trompet {m}; [Nynorsk] trompet {m}
+trumpet {n} (elephant noise)	 :: trompetstøt {n}
+trumpet {n} (musician playing a trumpet)	 :: trompetist {m}
+trumpet {v} (make an elephant call)	 :: trompetere
+trumpet {v} (play the instrument)	 :: trompetere spille
+trumpet {v} (proclaim loudly)	 :: utbasunere, proklamere
+trumpet {v} (sound loudly)	 :: trompetere
+trumpeter {n} (person who plays the trumpet)	 :: [Bokmål] trompetist {m}; [Nynorsk] trompetist {m}
+truncated icosahedron {n} (a polyhedron)	 :: trunkert ikosaeder {n}
+trundle {v} (move heavily (on wheels))	 :: skrangle
+trundle {v} (to wheel or roll)	 :: trille
+trunk {n} (swimming trunks) SEE: swimming trunks	 ::
+trunk {n} (torso) SEE: torso	 ::
+truss {n} (architecture: triangular bracket)	 :: fagverk {n}
+truss {n} (framework of beams)	 :: fagverk {n}
+trust {n} (confidence in or reliance on some person or quality)	 :: tillit {m}
+trust {n} (confidence in the future payment for goods or services supplied; credit)	 :: kredittverdighet {m}
+trust {n} (dependence upon something in the future; hope)	 :: forhåpning {m}
+trust {n} (the confidence vested in a person who has legal ownership of a property to manage for the benefit of another)	 :: tillit {m}
+trust {n} (trustworthiness, reliability)	 :: til å stole på, pålitelig
+trust {v} (To be confident)	 :: være trygg
+trust {v} (To give credence to)	 :: tro på
+trust {v} (To have trust)	 :: ha tillit
+trust {v} (To hope confidently)	 :: tro på
+trust {v} (To place confidence in)	 :: stole på, ha tillit til
+trust {v} (to show confidence in a person by intrusting (him) with something)	 :: stole på
+truth {n} (conformity to fact or reality)	 :: sannhet
+truth {n}	 :: sannhet
+truth {n} (true facts)	 :: sannhet
+truth or dare {n} (game where players perform a dare or answer a question)	 :: nødt eller sannhet?
+try {n} (an attempt)	 :: [Bokmål] forsøk {n}; [Nynorsk] forsøk {n}
+try {v}	 :: prøve , tiltale
+try {v} (to attempt)	 :: prøve, forsøke
+try {v} (to put on trial)	 :: stille for retten
+try out {v} (to test something)	 :: utprøve
+Tryphena {prop} (biblical character)	 :: Tryfena
+tsao shu {n} (grass script) SEE: grass script	 ::
+tsarina {n} (empress or wife of tsar)	 :: [Bokmål] tsarina {m}; [Nynorsk] tsarina {f}
+tsaritsa {n} (tsarina) SEE: tsarina	 ::
+T-shirt {n} (type of shirt)	 :: [Bokmål] t-skjorte {m} {f}; [Nynorsk] t-skjorte {f}
+tsk tsk {interj} (tut tut) SEE: tut tut	 ::
+tsunami {n} (large, destructive wave generally caused by a tremendous disturbance in the ocean)	 :: [Nynorsk] flodbølgje; [Bokmål] tsunami {m}
+Tsuut'ina {prop} (Sarcee) SEE: Sarcee	 ::
+Tsuu T'ina {prop} (Sarcee) SEE: Sarcee	 ::
+tub {n} (bathtub) SEE: bathtub	 ::
+tub {n} (broad, flat-bottomed vessel)	 :: kar {n}
+tube {n} (the London underground) SEE: Tube	 ::
+tubercule {n} (tubercle) SEE: tubercle	 ::
+tuck {n} (short sword) SEE: rapier	 ::
+tucker {n} (slang: food) SEE: grub	 ::
+Tuesday {n} (day of the week)	 :: tirsdag [Bokmål]; [Nynorsk] tysdag
+tufted duck {n} (species of duck)	 :: toppand
+tug {n} (tugboat) SEE: tugboat	 ::
+tugboat {n} (small, powerful boat)	 :: [Bokmål] bukserbåt {m}; [Nynorsk] bukserbåt {m}
+tughra {n} (signature of an Ottoman sultan)	 :: tugra
+tumble drier {n} (tumble dryer) SEE: tumble dryer	 ::
+tumble dryer {n} (electrical device)	 :: [Bokmål] tørketrommel {m}; [Nynorsk] tørketrommel {m}, turketrommel {m}
+tumbler {n} (acrobat) SEE: acrobat	 ::
+tumultuous {adj} (causing tumult)	 :: omveltende
+tumulus {n} (a mound of earth, especially one placed over a prehistoric tomb)	 :: gravhaug
+tuneful {adj} (having or producing a pleasing tune)	 :: iørefallende
+tune out {v} (zone out) SEE: zone out	 ::
+tungsten {n} (chemical element)	 :: [Bokmål] wolfram {n}; [Nynorsk] wolfram {n}
+tuning fork {n} (fork-shaped object which emits a tone)	 :: stemmegaffel {m}
+Tunisia {prop} (Republic of Tunisia)	 :: Tunisia
+Tunisian {adj} (pertaining to Tunisia)	 :: [Bokmål] tunisisk; [Nynorsk] tunisisk
+Tunisian {n} (person from Tunisia)	 :: [Bokmål] tunisier {m}; [Nynorsk] tunisiar {m}
+tunnel {n} (an underground or underwater passage)	 :: [Bokmål] tunnel {m}, tunell {m}; [Nynorsk] tunnel {m}, tunell {m}
+tup {n} (ram) SEE: ram	 ::
+tup {v} (fuck) SEE: fuck	 ::
+turban {n} (man's head-dress)	 :: turban
+turbinal {n} (nasal concha) SEE: nasal concha	 ::
+turbinate {n} (nasal concha) SEE: nasal concha	 ::
+turbinate bone {n} (nasal concha) SEE: nasal concha	 ::
+turbocompressor {n} (turbocharger) SEE: turbocharger	 ::
+turbot {n} (any of various flatfishes of family Scophthalmidae)	 :: piggvar
+turbot {n} (triggerfish) SEE: triggerfish	 ::
+turbulence {n} (disturbance in gas, fluid)	 :: turbulens
+turd {n} (a piece of excrement)	 :: bæsj {m}
+turf {n} (a layer of earth covered with grass; sod)	 :: gressmatte {c}
+turf {n} (a piece of peat used as fuel)	 :: torv {c}
+turf {n} (a piece of such a layer cut from the soil and used to make a lawn)	 :: ferdigplen {m}
+turf accountant {n} (bookmaker) SEE: bookmaker	 ::
+Turk {n} (Muslim) SEE: Muslim	 ::
+Turk {n} (Turkish national)	 :: [Bokmål] tyrker {m}; [Nynorsk] tyrk {m}, tyrkar {m}
+turkey {n} (bird)	 :: [Bokmål] kalkun {m}; [Nynorsk] kalkun {m}
+Turkey {prop} (country at intersection of Europe and Asia)	 :: Tyrkia
+Turkish {adj} (of, from or pertaining to Turkey, the Turkish people or the Turkish language)	 :: [Bokmål] tyrkisk; [Nynorsk] tyrkisk
+Turkish {prop} (official language of Turkey and Turkish Republic of Northern Cyprus)	 :: [Bokmål] tyrkisk {m}; [Nynorsk] tyrkisk {m}
+Turkmen {adj} (of or pertaining to Turkmenistan, the Turkmen people or the Turkmen language)	 :: [Bokmål] turkmensk; [Nynorsk] turkmensk
+Turkmen {n} (person from Turkmenistan)	 :: [Bokmål] turkmener {m}; [Nynorsk] turkmen {m}, turkmenar {m}
+Turkmen {prop} (language spoken in Turkmenistan)	 :: [Bokmål] turkmensk {m}; [Nynorsk] turkmensk {m}
+Turkmenistan {prop} (Central Asian country)	 :: Turkmenistan
+turmeric {n} (spice)	 :: gurkemeie
+turn {n} (chance to use (something) shared in sequence with others)	 :: (verb +) etter tur
+turn {n} (change of direction or orientation)	 :: sving, vending, vridning
+turn {n} (movement about an axis ending up with the same orientation)	 :: omdreining
+turn {n} (one's chance to make a move in a game)	 :: tur {m}
+turn {n} (poker, obsolete: flop) SEE: flop	 ::
+turn {v} (become)	 :: bli
+turn {v} (change one's direction of travel)	 :: svinge
+turn {v} (change the direction or orientation of (something))	 :: snu, vende, dreie
+turn {v} (go bad)	 :: tørne
+turn {v} (in cricket, make the ball move sideways when it bounces)	 :: skru
+turn {v} (metamorphose)	 :: endre, forvandle
+turn {v} (move around an axis through itself)	 :: snu, snurre
+turn {v} (shape (something) on a lathe)	 :: dreie
+turnbuckle {n} (nautical equipment)	 :: strekkfisk {m}
+turncoat {n} (a traitor)	 :: forræder {m}. overløper {m}
+turning point {n} (a T-junction) SEE: T-junction	 ::
+turning point {n} (decisive point)	 :: [Bokmål] vendepunkt {n}; [Nynorsk] vendepunkt {n}
+turnip {n} (white root of Brassica rapa)	 :: [Bokmål] nepe {m} {f}; [Nynorsk] nepe {f}
+turnip {n} (yellow root of Brassica napus) SEE: swede	 ::
+turnkey {adj} (ready to use without further assembly)	 :: bruksklar
+turn off {v} (switch off appliance or light)	 :: slått på
+turn of the century {n} (beginning or end of a certain century)	 :: århundreskifte {n}
+turn of the year {n} (end of one year and beginning of the next)	 :: årsskifte {n}
+turn over {v} (to transfer) SEE: transfer	 ::
+turnover {n} (sales transacted)	 :: omsetning {m} {f}
+turnpike {n} (toll road, especially a toll expressway)	 :: bomvei {m}
+turpentine {n} (volatile essential oil)	 :: [Bokmål] terpentin {m} {n}; [Nynorsk] terpentin {m} {n}
+turtle {n} (land or marine reptile with a shell)	 :: [Bokmål] skilpadde {m} {f}; [Nynorsk] skjelpadde {f}
+turtle {n} (sea turtle)	 :: [Bokmål] skilpadde {m} {f}
+turtle {n} (turtle dove) SEE: turtle dove	 ::
+turtle dove {n} (bird in the genus Streptopelia)	 :: turteldue
+tusk {n} (pointed tooth)	 :: [Bokmål] støttann {m} {f}, støyttann {m} {f}; [Nynorsk] støyttann {f}
+Tuvalu {prop} (country in Oceania)	 :: Tuvalu
+Tuvaluan {adj} (Of, from, or pertaining to Tuvalu, the Tuvaluan people or the Tuvaluan language)	 :: [Bokmål] tuvalsk; [Nynorsk] tuvalsk
+Tuvaluan {n} (A person from Tuvalu or of Tuvaluan descent)	 :: [Bokmål] tuvaler {m}; [Nynorsk] tuvalar {m}
+Tuvaluan {prop} (language)	 :: [Bokmål] tuvalsk {m}; [Nynorsk] tuvalsk {m}
+tuxedo {n} (formal jacket)	 :: [Bokmål] smoking {m}; [Nynorsk] smoking {m}
+tuxedo {n} (formal suit)	 :: [Bokmål] smoking {m}; [Nynorsk] smoking {m}
+Tuzla {prop} (a city in Bosnia and Herzegovina)	 :: Tuzla
+TV {n} (abbreviation for television)	 :: TV, teve
+TV series {n} (series) SEE: series	 ::
+twaddle {n} (Empty or silly idle talk or writing; nonsense)	 :: pjatt {n}, tomprat {m}, tullprat {m}, løst prat
+twat {n} (vulgar slang, vagina)	 :: fitte {f}
+tweedy {adj} (preppy) SEE: preppy	 ::
+tweezers {n} (small pincer-like instrument, usually made of metal, used for handling small objects)	 :: pinsett {m}
+twelfth {adj} (ordinal form of the number twelve)	 :: tolvte
+Twelfth cake {n} (cake eaten on Twelfth Night) SEE: king cake	 ::
+twelve {num} (cardinal number 12)	 :: tolv
+twelveth {adj} (twelfth) SEE: twelfth	 ::
+twentieth {adj} (ordinal)	 :: tjuende
+twenty {num} (cardinal number)	 :: tjue, tyve
+twenty-eight {num} (number)	 :: [Bokmål] tjueåtte; [Nynorsk] tjueåtte
+twenty-eighth {adj} (ordinal form of twenty-eight)	 :: tjueåttende
+twenty-eighth {n}	 :: tjueåttendedel
+twenty-five {num} (twenty-five)	 :: [Bokmål] tjuefem; [Nynorsk] tjuefem
+twenty-four {num} (cardinal number)	 :: [Bokmål] tjuefire; [Nynorsk] tjuefire
+twenty-nine {num} (cardinal number)	 :: [Bokmål] tjueni; [Nynorsk] tjueni
+twenty-one {num} (cardinal number)	 :: [Bokmål] tjueen, tjueén; [Nynorsk] tjueein
+twenty-seven {num} (twenty-seven)	 :: [Bokmål] tjuesyv, tjuesju; [Nynorsk] tjuesju
+twenty-six {num} (cardinal number)	 :: [Bokmål] tjueseks; [Nynorsk] tjueseks
+twenty-three {num} (twenty-three)	 :: [Bokmål] tjuetre; [Nynorsk] tjuetre
+twenty-two {num} (twenty-two)	 :: [Bokmål] tjueto; [Nynorsk] tjueto
+twig {n} (a small thin branch)	 :: kvist {m}
+twilight {n} (light before rising, and after the setting, of the sun)	 :: skumring {m} (after setting of sun only)
+twilitten {adj} (illuminated by twilight) SEE: twilit	 ::
+twin {n} (either of two people who shared the same uterus, or of two similar or closely related objects)	 :: [Bokmål] tvilling {m}; [Nynorsk] tvilling {m}
+Twin Towers {prop} (the two main buildings of the World Trade Center)	 :: Verdens Handelssenter i New York
+twisty {adj} (curly) SEE: curly	 ::
+twitch {n} (Elymus repens) SEE: couch grass	 ::
+{v} (twitter) SEE:	 ::
+two {num} (one plus one)	 :: to
+two beers, please {phrase} (two beers, please)	 :: to øl, takk
+TWOC {n} (The crime of taking without the consent of the owner)	 :: bilbrukstyveri {n}
+two-edged sword {n} (double-edged sword) SEE: double-edged sword	 ::
+twoness {n} (duality) SEE: duality	 ::
+two-sided {adj} (reversible) SEE: reversible	 ::
+two-sided {adj} (symmetrical) SEE: symmetrical	 ::
+two thousand {num} (cardinal number)	 :: to tusen
+two-wheeled {adj} (birotate) SEE: birotate	 ::
+-ty {suffix} (-ity) SEE: -ity	 ::
+-ty {suffix} (multiples of ten)	 :: [Bokmål] -ti; [Nynorsk] -ti
+tympanic membrane {n} (eardrum) SEE: eardrum	 ::
+tympanum {n} (eardrum) SEE: eardrum	 ::
+tympanum {n} (middle ear) SEE: middle ear	 ::
+type {n} (grouping based on shared characteristics)	 :: [Bokmål] type {m}; [Nynorsk] type {m}
+typewriter {n} (machine used to print text by pressing keys)	 :: skrivemaskin {m}
+typhoid {n} (typhoid fever) SEE: typhoid fever	 ::
+typhoon {n} (hurricane in the Pacific)	 :: tyfon {m}
+typo {n} (error)	 :: [Bokmål] trykkfeil {m}, skrivefeil {m}
+typographer {n} (typewriter) SEE: typewriter	 ::
+typographic {adj} (typographic) SEE: typographical	 ::
+typographical {adj} (pertaining to typography or printing)	 :: typografisk
+typographical {adj} (printed) SEE: printed	 ::
+Tyr {prop} (norse god)	 :: Ty
+tyranny of the majority {n} (situation where majority makes selfish decisions) SEE: dictatorship of the majority	 ::
+tyre {n} (wheel covering)	 :: [Bokmål] dekk {n}, bilgummi {m}; [Nynorsk] dekk {n}, bilgummi {m}
+Tyumen {prop} (a city in Russia)	 :: Tjumen

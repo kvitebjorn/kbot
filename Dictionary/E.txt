@@ -1,0 +1,818 @@
+﻿each {determiner} (every)	 :: alle, alt, enhver, hver, hver enkelt
+each {determiner} (per)	 :: hver
+each other {pron} (to one another; one to the other)	 :: [Bokmål] hverandre; [Nynorsk] einannan, kvarandre, kvarannan
+eager {adj} (excited by desire in the pursuit of any object)	 :: ivrig
+eagle {n} (any of several large carnivorous birds in the family Accipitridae)	 :: ørn {m}
+eagle owl {n} (large owl of genus Bubo)	 :: hubro
+ear {n} (external part of the organ of hearing) SEE: pinna	 ::
+ear {n} (organ of hearing)	 :: [Bokmål] øre; [Nynorsk] øyra, øyre
+ear {v} (plough) SEE: plough	 ::
+eardrum {n} (membrane separating outer and middle ears)	 :: [Bokmål] trommehinne
+earl {n} (a British nobleman)	 :: jarl {m}
+earlap {n} (earflap) SEE: earflap	 ::
+earlap {n} (earlobe) SEE: earlobe	 ::
+earlier {adj} (comparative of early)	 :: [Bokmål] tidligere
+earlier {adj} (occurring previously)	 :: [Bokmål] tidligere
+early {adj} (arriving at a time before expected)	 :: [Bokmål] tidlig
+early {adj} (at a time in advance of the usual)	 :: [Bokmål] tidlig
+early {adj} (near the start or beginning)	 :: [Bokmål] tidlig
+early fetal demise {n} (missed abortion) SEE: missed abortion	 ::
+early riser {n} (early bird) SEE: early bird	 ::
+earring {n} (piece of jewelry)	 :: ørering {c}
+earth {n} (any general rock-based material)	 :: jord {m}
+earth {n} (one of the five basic elements)	 :: jord {m}
+earth {n} (one of the four basic elements)	 :: jord {m}
+earth {n} (soil)	 :: jord {m}
+earth {prop} (our planet, third out from the Sun) SEE: Earth	 ::
+Earth {prop} (third planet from the Sun)	 :: jorden {m}
+Earth mass {n} (Unit of mass)	 :: jordmasse {m}
+earthquake {n} (shaking of the surface of a planet)	 :: [Bokmål] jordskjelv {n}; [Nynorsk] jordskjelv {m} {n}
+earwax {n} (waxy substance secreted by the ear)	 :: [Bokmål] ørevoks {m} {n}; [Nynorsk] øyrevoks {m} {n}
+earwig {n} (the insect)	 :: saksedyr
+easel {n} (upright frame for displaying or supporting something)	 :: [Bokmål] staffeli {n}; [Nynorsk] staffeli {n}
+easement {n} (legal right to use another person's property)	 :: servitutt; [Nynorsk] servitutt
+ease nature {v} (to urinate and/or defecate (euphemism)) SEE: relieve oneself	 ::
+east {n} (compass point)	 :: [Bokmål] øst, aust; [Nynorsk] aust
+East African {adj} (East African)	 :: østafrikansk
+East African {n} (East African person)	 :: østafrikaner {m}
+East al-Quds {prop} (East Jerusalem) SEE: East Jerusalem	 ::
+Easter {n} (Christian holiday)	 :: påske
+Easter Bunny {prop} (Symbolic rabbit sometimes depicted delivering Easter eggs to children)	 :: påskehare
+Easter egg {n} (a chocolate confection in the shape of an egg)	 :: [Bokmål] sjokoladeegg {n}, påskeegg {n}; [Nynorsk] sjokoladeegg {n}, påskeegg {n}
+Easter egg {n} (a dyed or decorated egg)	 :: påskeegg; [Nynorsk] påskeegg
+Easter egg {n} (an undocumented function hidden in a program)	 :: [Bokmål] påskeegg {n}; [Nynorsk] påskeegg {n}
+Easter egg {n} (image, feature, or other content that is hidden on a video disc or in a movie)	 :: [Bokmål] påskeegg {n}; [Nynorsk] påskeegg {n}
+Easter Island {prop} (Island in the Pacific)	 :: Påskeøya
+Eastern Arabic {prop} (Levantine Arabic) SEE: Levantine Arabic	 ::
+Eastern Europe {prop} (Eastern Europe)	 :: Øst-Europa; [Nynorsk] Aust-Europa
+eastern jackrabbit {n} (European hare) SEE: European hare	 ::
+East German {adj} (East German)	 :: østtysk
+East German {n} (East German person)	 :: østtysker {m}
+east-northeast {n} (compass point)	 :: [Bokmål] øst-nordøst; [Nynorsk] aust-nordaust
+East Sea {prop} (Baltic sea) SEE: Baltic Sea	 ::
+East Sea {prop} (Dead Sea) SEE: Dead Sea	 ::
+East Sea {prop} (East China Sea) SEE: East China Sea	 ::
+East Sea {prop} (Sea of Japan) SEE: Sea of Japan	 ::
+East Sea {prop} (South China Sea) SEE: South China Sea	 ::
+east-southeast {n} (compass point)	 :: [Bokmål] øst-sørøst; [Nynorsk] aust-søraust
+East Timor {prop} (Country in Oceania)	 :: Øst-Timor
+East Timorese {adj} (of, from, or pertaining to East Timor or the East Timorese people)	 :: [Bokmål] østtimoresisk; [Nynorsk] austtimoresisk
+East Timorese {n} (person from East Timor or of East Timorese descent)	 :: [Bokmål] østtimoreser {m}; [Nynorsk] austtimoresar {m}
+East Turkestan {prop} (Xinjiang) SEE: Xinjiang	 ::
+easy {adj} (comfortable) SEE: comfortable	 ::
+easy {adj} (consenting readily to sex)	 :: lett på tråden
+easy {adj}	 :: lett
+easy {adj} (requiring little skill or effort)	 :: lett, enkel
+eat {v} (consume)	 :: [Bokmål] spise, ete; [Nynorsk] eta / ete
+eatable {adj} (able to be eaten) SEE: edible	 ::
+eating disorder {n} (psychological disorder)	 :: [Bokmål] spiseforstyrrelse {m}
+eavesdrop {v} (to hear a conversation one is not intended to hear)	 :: overhøre
+ebb {n} (low tide)	 :: fjære
+Ebola {n} (Ebola fever) SEE: Ebola fever	 ::
+Ebola {n} (Ebola virus) SEE: Ebola virus	 ::
+ebony {n} (wood)	 :: [Bokmål] ibenholt {m} {n}; [Nynorsk] ibenholt {m} {n}
+e-book reader {n} (e-reader) SEE: e-reader	 ::
+ecchymosis {n} (skin discoloration) SEE: bruise	 ::
+Ecclesiastes {prop} (book of the Bible)	 :: Preikaren {m}
+ecclesiastic {adj} (pertaining to the church)	 :: [Bokmål] kirkelig; [Nynorsk] kyrkjeleg
+ecclesiology {n} (branch of theology)	 :: ekklesiologi
+echidna {n} (any of the four species of small spined monotremes)	 :: maurpinnsvin
+echo {n} (reflected sound)	 :: ekko {n}
+eclectic {adj} (selecting a mixture of what appear to be best of various doctrines, methods or styles)	 :: eklektisk
+eclipse {n} (passage of a planetary object between others)	 :: [Bokmål] formørkelse {m}; [Nynorsk] formørking {f}
+ecliptic {n} (Earth's orbital plane)	 :: ekliptikken
+eco- {prefix} (concerning ecology or the environment)	 :: øko-
+E-collar {n} (Elizabethan collar) SEE: Elizabethan collar	 ::
+ecologic {adj} (related to ecology) SEE: ecological	 ::
+ecological {adj} (relating to ecology)	 :: [Bokmål] økologisk; [Nynorsk] økologisk
+ecology {n} (branch of biology)	 :: [Bokmål] økologi {m}; [Nynorsk] økologi {m}
+ecomusicology {n} (study of music, culture, and nature)	 :: økomusikologi
+econometrics {n} (branch of economics)	 :: econometrie
+economic crisis {n} (period of economic slowdown) SEE: financial crisis	 ::
+economics {n} (study)	 :: økonomi
+economies of scale {n} (the characteristics of a production process)	 :: stordriftsfordel {m}
+economist {n} (expert in economics)	 :: [Bokmål] økonom {m}; [Nynorsk] økonom {m}
+economy {n}	 :: økonomi ? {f}
+economy {n} (production and distribution and consumption)	 :: [Bokmål] økonomi {m}
+ecosystem {n} (system of an ecological community and its environment)	 :: [Bokmål] økosystem {n}; [Nynorsk] økosystem {n}
+ecotone {n} (a region of transition)	 :: ekoton
+ecotype {n} (organism adapted to an environment)	 :: [Bokmål] økotype {m}; [Nynorsk] økotype {m}
+ecru {adj} (beige) SEE: beige	 ::
+ecstasy {n} (drug)	 :: ecstasy
+ecstasy {n} (intense emotion)	 :: ekstase {m}
+ecstasy {n} (intense pleasure)	 :: ekstase {m}
+ecstasy {n} (trance associated with mystic or prophetic exaltation)	 :: ekstase {m}
+ectoplasm {n} (cytology: the outer granule-free layer of cytoplasm)	 :: ektoplasma {m}
+ectoplasm {n} (parapsychology: an immaterial or ethereal substance)	 :: ektoplasma {m}
+ectoplasm {n} (parapsychology: visible substance believed to emanate from spiritualistic mediums)	 :: ektoplasma {m}
+Ecuador {prop} (country in South America)	 :: Ecuador
+Ecuadorian {adj} (pertaining to Ecuador)	 :: [Bokmål] ecuadoriansk; [Nynorsk] ecuadoriansk
+Ecuadorian {n} (person from Ecuador)	 :: [Bokmål] ecuadorianer {m}; [Nynorsk] ecuadorian {m}, ecuadorianar {m}
+ecumenic {adj} (ecumenical) SEE: ecumenical	 ::
+ecumenical {adj} (ecclesiastical: pertaining to the Christian Church in a worldwide sense)	 :: [Bokmål] økumenisk; [Nynorsk] økumenisk
+ecumenism {n} (philosophy)	 :: økumenikk
+edentulous {adj} (toothless) SEE: toothless	 ::
+Edgar {prop} (male given name)	 :: Edgar
+edge {n} (boundary line of a surface)	 :: kant {m}
+edge {n} (joining line between two vertices of a polygon)	 :: sidekant {m}
+edge {n} (thin cutting side of the blade of an instrument)	 :: egg {m}
+Edge Island {prop} (island)	 :: Edgeøya
+edible {adj} (that can be eaten without harm; suitable for consumption)	 :: [Bokmål] spiselig
+edifice {n} (building)	 :: byggverk {n}
+edit {n} (a change to the text of a document)	 :: redigere
+edit {v} (to change a text, or a document)	 :: redigere
+Edith {prop} (female given name)	 :: Edit
+editor {n} (newspaper editor)	 :: redaktør {m}
+editor {n} (person who edits)	 :: redaktør {m}
+editor {n} (program for modifying text files)	 :: editor {m}
+Edmonton {prop} (area of London)	 :: Edmonton
+Edmonton {prop} (city in Canada)	 :: Edmonton; [Nynorsk] Edmonton
+e-dress {n} (e-mail address) SEE: e-mail address	 ::
+education {n} (facts, skills and ideas that have been learned, either formally or informally)	 :: utdanning; [Bokmål] utdannelse; [Nynorsk] utdaning
+education {n} (process or art of imparting knowledge, skill and judgment)	 :: utdanning; [Bokmål] utdannelse; [Nynorsk] utdaning
+educator {n} (teacher) SEE: teacher	 ::
+Edward {prop} (male given name)	 :: Edvard
+Edwin {prop} (male given name)	 :: Edvin, Audun
+eel {n} (Anguilla anguilla) SEE: European eel	 ::
+eel {n} (any fish of the order Anguilliformes)	 :: ål {m}
+eeny, meeny, miny, moe {n} (similar children's counting-out games in other languages)	 :: elle melle
+eerie {adj} (fearful)	 :: engstelig
+eerie {adj} (weird)	 :: skummel, nifs
+effect {n} (result of an action)	 :: effekt {m}; [Bokmål] virkning {m} {f}
+effect {v} (to make or bring about; to implement)	 :: forårsake
+effecter {n} (effector) SEE: effector	 ::
+effective {adj} (actually in effect)	 :: virksom
+effective {adj} (efficient, serviceable, or operative)	 :: effektiv
+effective {adj} (having the power to produce a required effect or effects)	 :: virkningsfull
+effective {adj} (producing a decided or decisive effect)	 :: virkningsfull
+effete {adj} (effeminate) SEE: effeminate	 ::
+efficacity {n} (efficacy) SEE: efficacy	 ::
+effort {n} (endeavour) SEE: endeavour	 ::
+e.g. {adv} (abbreviation for “for example”)	 :: f.eks. [[[for eksempel]]], t.d. [[[til dømes]]]
+egalitarian {adj} (characterized by social equality and equal rights for all people)	 :: egalitær
+egalitarian {n} ( person who accepts or promotes social equality and equal rights for all people)	 :: egalitarist {m}
+egg {n} (body housing an embryo)	 :: [Bokmål] egg {n}; [Nynorsk] egg {n}
+egg {n} (culinary ingredient)	 :: [Bokmål] egg {n}; [Nynorsk] egg {n}
+egg {n} (egg of domestic fowl as food item)	 :: [Bokmål] egg {n}; [Nynorsk] egg {n}
+egg {n} (ovum)	 :: [Bokmål] egg {n}; [Nynorsk] egg {n}
+eggbeater {n} (eggwhisk) SEE: eggwhisk	 ::
+egg cell {n} (ovum) SEE: ovum	 ::
+eggplant {n} (edible fruit)	 :: aubergine {c}, eggfrukt
+eggplant {n} (plant)	 :: aubergine {c}, eggplante, eggplanta
+eggs and bacon {n} (bacon and eggs) SEE: bacon and eggs	 ::
+egg white {n} (egg white) SEE: albumen	 ::
+egg yolk {n} (central part of an egg)	 :: [Bokmål] eggeplomme {m} {f}; [Nynorsk] eggeplomme {f}
+ego {n} (the self)	 :: [Bokmål] ego {n}; [Nynorsk] ego {n}
+egoist {n} (person who talks excessively about himself or believes in his own importance or superiority) SEE: egotist	 ::
+egomaniac {n} (person obsessed with their own (supposed) importance)	 :: egomaniker {m}
+egotist {n} (egocentric or self-centered person) SEE: egoist	 ::
+egotistical {adj} (egoistical) SEE: egoistical	 ::
+egregious {adj} (Exceptional, conspicuous, outstanding, most usually in a negative fashion)	 :: flagrant, uhørt
+egress {n} (exit) SEE: exit	 ::
+Egypt {prop} (country in North Africa)	 :: Egypt
+Egyptian {adj} (of, from, or pertaining to Egypt)	 :: [Bokmål] egyptisk; [Nynorsk] egyptisk
+Egyptian {adj} (of, from, or pertaining to Egyptians)	 :: [Bokmål] egyptisk; [Nynorsk] egyptisk
+Egyptian {n} (person from Egypt)	 :: [Bokmål] egypter {m}; [Nynorsk] egyptar {m}
+Egyptian {prop} (language)	 :: [Bokmål] egyptisk {m}; [Nynorsk] egyptisk {m}
+egyptology {n} (Egyptology) SEE: Egyptology	 ::
+eh {interj} (used as a tag question)	 :: eller hva, ikke sant
+eh {interj} (used to mean “What?”)	 :: hva, hæ, hæh
+eider {n} (duck of genus Somateria)	 :: ær {f} or {m}, ærfugl {m}
+eiderdown {n} (a quilt stuffed with this down)	 :: ederdunsdyne {c}
+eiderdown {n} (the down of the eider duck)	 :: ederdun
+Eiffel Tower {prop} (tower in Paris)	 :: Eiffeltårnet {n}
+eigenvalue {n} (change in magnitude of an eigenvector)	 :: [Bokmål] egenverdi {m}; [Nynorsk] eigenverdi {m}
+eigenvector {n} (vector not rotated by linear transformation)	 :: [Bokmål] egenvektor {m}; [Nynorsk] eigenvektor {m}
+eight {num} (cardinal number 8)	 :: åtte
+eighteen {num} (cardinal number)	 :: atten
+eighth {adj} (ordinal form of the number eight)	 :: åttende
+eighth note {n} (eighth note) SEE: quaver	 ::
+eightieth {adj} (ordinal form of the number eighty)	 :: åttiende
+eighty {num} (80)	 :: åtti
+eighty-eight {num} (88)	 :: åttiåtte
+Einstein {prop} (Albert Einstein)	 :: [Bokmål] Einstein; [Nynorsk] Einstein
+einsteinium {n} (element with atomic number 99)	 :: einsteinium
+either {determiner} (each of two)	 :: [Bokmål] begge
+either {determiner} (one or the other)	 :: [Bokmål] enten
+ejaculate {v}	 :: ejakulere
+ejaculation {n} (ejection of semen through the urethra)	 :: ejakulasjon
+elastic {adj} (capable of stretching)	 :: elastisk, strekkbar
+elastic {adj} (elasticated) SEE: elasticated	 ::
+elastic {adj} (sensitive to changes in price)	 :: priselastisk
+elastic {n} (elastic band) SEE: elastic band	 ::
+elastic band {n} (loop of rubber or similar material)	 :: [Bokmål] strikk {m}; [Nynorsk] strikk {m}
+elasticity {n} (adaptability) SEE: adaptability	 ::
+elation {n} (An exhilarating psychological state of pride and optimism; an absence of depression)	 :: velvære {n}, eufori {m}
+elbow {n} (joint between upper arm and forearm)	 :: [Bokmål] albue {m}; [Nynorsk] olboge {m}
+elbow {n} (pipe fitting)	 :: bend {n}
+elbow {v} (to push with the elbow)	 :: albue seg
+elbow bone {n} (olecranon) SEE: olecranon	 ::
+elbow bone {n} (ulna) SEE: ulna	 ::
+elbow room {n} (freedom or leeway)	 :: [Bokmål] albuerom {n}, alburom {n}; [Nynorsk] olbogerom {n}
+elbow room {n} (room or space in which to move or maneuver)	 :: [Bokmål] albuerom {n}, alburom {n}; [Nynorsk] olbogerom {n}
+elder {n}	 :: hyll {m}
+elder {n} (Sambucus)	 :: [Bokmål] hyll {m}; [Nynorsk] hyll {m}
+elder {n} (Sambucus nigra)	 :: [Bokmål] svarthyll {m}; [Nynorsk] svarthyll {m}
+elderberry {n} (elder tree) SEE: elder	 ::
+elder brother {n} (a sibling's older brother)	 :: storebror {m}
+elderly care {n} (eldercare) SEE: eldercare	 ::
+elder sister {n} (a sibling's older sister)	 :: [Bokmål] storesøster {m} {f}
+Eleanor {prop} (female given name)	 :: Eleonora
+Eleazar {prop} (biblical character)	 :: Elasar
+elect {adj} (who has been elected)	 :: valgt; [Bokmål] valgt; [Nynorsk] valt
+election {n} (process of choosing a new leader or representatives)	 :: valg {n}
+Elector {n} (elector or prince-elector)	 :: [Bokmål] kurfyrste {m}; [Nynorsk] kurfyrste {m}
+electoral college {n} (body of electors empowered to elect someone to a particular office)	 :: [Bokmål] valgkollegium {n}; [Nynorsk] valkollegium {n}
+electoral district {n} (district represented by one or more elected officials)	 :: Valgkrets {m}
+electoral fraud {n} (illegal interference with an election)	 :: valgfusk
+electorate {n} (geographic area encompassing electoral district) SEE: electoral district	 ::
+electric {adj} (electrical)	 :: [Bokmål] elektrisk; [Nynorsk] elektrisk
+electrical {adj} (related to electricity and electronics)	 :: [Bokmål] elektrisk; [Nynorsk] elektrisk
+electric car {n} (a car that uses electric motors)	 :: [Bokmål] elbil {m}; [Nynorsk] elbil {m}
+electrician {n} (tradesman who works with electrical equipment)	 :: [Bokmål] elektriker {m}; [Nynorsk] elektrikar {m}
+electricity {n} (form of energy)	 :: [Bokmål] elektrisitet {m}; [Nynorsk] elektrisitet {m}
+electric shock {n} (physical reaction)	 :: [Bokmål] elektrisk støt {n}; [Nynorsk] elektrisk støyt {n}
+electromagnetic {adj} (pertaining to electromagnetism)	 :: [Bokmål] elektromagnetisk; [Nynorsk] elektromagnetisk
+electromagnetic radiation {n} (radiation)	 :: elektromagnetisk stråling {c}
+electromagnetism {n} (a fundamental force)	 :: elektromagnetisme {m}
+electron {n} (the negatively charged subatomic particles that orbit atoms)	 :: elektron
+electronic {adj} (pertaining to electrons)	 :: elektronisk
+electronic book {n} (e-book) SEE: e-book	 ::
+electronic mail {n} (e-mail) SEE: e-mail	 ::
+electronics {n} ((physics))	 :: [Bokmål] elektronikk {m}; [Nynorsk] elektronikk {m}
+electrostatics {n} (branch of physics)	 :: lakkelektrisitet
+electrum {n} (fossil resin) SEE: amber	 ::
+element {n} (chemistry: simplest chemical substance)	 :: [Bokmål] grunnstoff {n}; [Nynorsk] grunnstoff {n}
+elemental {adj} (basic, fundamental, elementary) SEE: elementary	 ::
+elementary {adj} (relating to the basic, essential or fundamental part of something)	 :: enkelt ; [Bokmål] elementær, grunnleggende; [Nynorsk] elementær
+elementary school {n} (school for children) SEE: primary school	 ::
+elephant {n} (mammal)	 :: elefant {m}
+elevate {v} (ennoble) SEE: ennoble	 ::
+elevate {v} (promote) SEE: promote	 ::
+elevator {n} (permanent construction) SEE: lift	 ::
+eleven {num} (the cardinal number occurring after ten and before twelve)	 :: elleve
+eleventh hour {n} (The last minute)	 :: ellevte time
+elf {n} (a magical being)	 :: alv {m}
+Elias {prop} (male given name) SEE: Elijah	 ::
+elicit {v} (to evoke, educe)	 :: [Bokmål] avstedkomme, fremkalle, vekke, påkalle
+elicit {v} (To use logic to arrive at truth. )	 :: [Bokmål] resonnere, slutte
+Eliezer {prop} (biblical character)	 :: Elieser
+eligible {adj} (suitable; worthy of being chosen)	 :: valgbar, egna
+Elijah {prop} (biblical prophet)	 :: Elia
+Elijah {prop} (male given name)	 :: Elias
+Elisabeth {prop} (female given name) SEE: Elizabeth	 ::
+Elisha {prop} (biblical prophet)	 :: Elisja
+Elisheba {prop} (biblical wife of Aaron)	 :: Elisjeba
+Elizabeth {prop} (female given name)	 :: Elisabeth
+Elizabeth {prop} (mother of John the Baptist)	 :: Elisabet
+Elizabeth {prop} (wife of Aaron) SEE: Elisheba	 ::
+elk {n} (moose) SEE: moose	 ::
+elk {n} (wapiti - Cervus canadensis) SEE: wapiti	 ::
+Ella {prop} (female given name)	 :: Ella
+ellipsoid {adj} (shaped like an ellipse) SEE: elliptical	 ::
+eloquence {n} (the quality of artistry and persuasiveness in speech or writing)	 :: veltalenhet {m}, språkferdighet {m}
+El Salvador {prop} (country in Central America)	 :: El Salvador
+Elsinore {prop} (Danish city)	 :: Helsingør
+elucidate {v} (make clear)	 :: klargjøre
+elvish {adj} (of or having to do with elves)	 :: alvisk
+email {n} (e-mail) SEE: e-mail	 ::
+e-mail {n} (message sent via e-mail)	 :: e-post {m}, e-brev {n}
+e-mail {n} (system)	 :: e-post {m}, epost {m}
+email {v} (e-mail) SEE: e-mail	 ::
+e-mail {v} (intransitive: to send an e-mail or e-mails)	 :: sende epost
+email address {n} (e-mail address) SEE: e-mail address	 ::
+Emajõgi {prop} (river in Estonia)	 :: Emajõgi
+embarrassed {adj} (Having a feeling of shameful discomfort)	 :: flau
+embarrassing {adj} (causing embarrassment)	 :: pinlig
+embassy {n} (organization representing a foreign state)	 :: ambassade {m}
+ember {n} (smoldering ash)	 :: glød
+embetterment {n} (improvement) SEE: improvement	 ::
+embezzlement {n} (The fraudulent conversion of property from a property owner)	 :: underslag {n}
+embody {v} (To represent in a physical form; to incarnate or personify)	 :: [Bokmål] kroppsliggjøre
+embryologic {adj} (embryologic) SEE: embryological	 ::
+emerald green {adj} (emerald green colour)	 :: [Bokmål] smaragdgrønn
+emergence {n} (the arising of emergent structure in complex systems)	 :: emergens
+Emil {prop} (male given name)	 :: Emil
+Emile {prop} (Emil) SEE: Emil	 ::
+Emily {prop} (given name)	 :: Emilie
+Emma {prop} (female given name)	 :: Emma
+Emmanuel {prop} (figure whose birth is foretold) SEE: Immanuel	 ::
+Emmanuel {prop} (this figure, regarded as Christ) SEE: Immanuel	 ::
+emotion {n} (person's internal state of being)	 :: [Bokmål] følelse {m}, emosjon {m}
+emperor {n} (ruler of an empire)	 :: keiser {m}
+emperor penguin {n} (largest penguin)	 :: Keiserpingvinen
+emphysema {n} (pulmonary emphysema) SEE: pulmonary emphysema	 ::
+empire {n}	 :: imperium {n}
+empire {n} (political unit)	 :: imperium {n}
+employ {v} (to give someone work)	 :: ansette
+employed {adj}	 :: anvendt , ansatt
+employee {n} (individual who provides labor to a company or another person)	 :: [Bokmål] arbeidstaker {m}; [Nynorsk] arbeidstakar {m}
+employee benefit {n} (non-wage benefit) SEE: fringe benefit	 ::
+employer {n} (person or entity which employs others)	 :: [Bokmål] arbeidsgiver {m}; [Nynorsk] arbeidsgjevar {m}, arbeidsgivar {m}
+empower {v} (to give permission to)	 :: bemyndige
+empowerment {n} (granting of power)	 :: fullmakt, myndighet
+empress {n} (female monarch of an empire)	 :: [Bokmål] keiserinne {m} {f}; [Nynorsk] keisarinne {f}
+empress {n} (wife or widow of an emperor)	 :: [Bokmål] keiserinne {m} {f}; [Nynorsk] keisarinne {f}
+emptiness {n} (the state or feeling of being empty)	 :: tomhet
+empty {adj} (devoid of content)	 :: tom
+empty {v} (to make empty)	 :: tømme
+emu {n} (A large flightless bird, Dromaius novaehollandiae)	 :: emu {m}
+enamel {n} (covering on the tooth)	 :: [Bokmål] emalje {m}; [Nynorsk] emalje {m}
+enamel {n} (opaque, glassy coating baked onto metal or ceramic objects)	 :: [Bokmål] emalje {m}; [Nynorsk] emalje {m}
+enamored {adj} (totally in love)	 :: forelsket
+encapsulate {v} (to enclose as if in a capsule)	 :: [Bokmål] innkapsle, kapsle inn; [Nynorsk] kapsle inn
+enchanting {adj} (having the ability to enchant)	 :: [Bokmål] fortrylle {m}
+enclave {n} (entity completely surrounded by another)	 :: enklave {m}
+encompass {v} (surround)	 :: [Bokmål] omfatte; [Nynorsk] omfatta
+encourage {v} (mentally support or motivate)	 :: oppmuntre
+encourage {v} (spur on, recommend)	 :: anbefale
+encrust {v} (To cover with a hard crust)	 :: skjerpe, brune
+encyclical {n} (papal letter delivered to Bishops)	 :: [Bokmål] pavelig rundskriv {n}; [Nynorsk] paveleg rundskriv {n}
+encyclopaedia {n} (encyclopedia) SEE: encyclopedia	 ::
+encyclopedia {n} (comprehensive reference with articles on a range of topics)	 :: [Bokmål] encyklopedi {m}; [Nynorsk] encyklopedi {m}
+encyclopedic dictionary {n} (form of dictionary with long, detailed entries on words)	 :: allordbok, encyklopedisk ordbok
+end {n} (death)	 :: slutt {m}
+end {n} (extreme part)	 :: ende {m}, slutt {m}
+end {v} (ergative, intransive: be finished, be terminated)	 :: slutte
+end {v} (transitive: finish, terminate (something))	 :: avslutte, terminere
+endbrain {n} (telencephalon) SEE: telencephalon	 ::
+endopod {n} (endopodite) SEE: endopodite	 ::
+endorse {v} (write on the back of a cheque)	 :: signere
+endosymbiotic theory {n} (the theory that concerns the origins of mitochondria and chloroplasts)	 :: endosymbiontteorien
+endothermic {adj} (absorbing heat)	 :: endoterm
+endpoint {n} (either of two points at the end of a line)	 :: endepunkt {n}
+-ene {suffix} (alkene)	 :: -en
+enemy {adj} (of, relating to, or belonging to an enemy)	 :: fiendtlig
+enemy {n} (a hostile force or nation; a fighting member of such a force or nation)	 :: fiende {m}
+enemy {n} (an alliance of hostile forces)	 :: fiende {m}
+enemy {n} (someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else)	 :: fiende {m}, uvenn {m}
+energy {n} (capacity to do work)	 :: energi
+energy {n} (impetus behind activity)	 :: energi
+energy level {n} (any of the discrete stable energies)	 :: energinivå {n}
+engaged {adj} (agreed to be married)	 :: forlovet
+engagement {n} (In any situation of conflict, an actual instance of active hostilities)	 :: [Bokmål] trefning {f}
+engine {n} (mechanical device)	 :: [Bokmål] motor {m}; [Nynorsk] motor {m}
+engineer {n} (person qualified or professionally engaged in engineering)	 :: ingeniør {m}
+England {prop} (England)	 :: England
+English {adj} (of or pertaining to an Englishman, Englishwoman, the English)	 :: [Bokmål] engelsk; [Nynorsk] engelsk
+English {adj} (of or pertaining to England)	 :: [Bokmål] engelsk; [Nynorsk] engelsk
+English {adj} (of or pertaining to the avoirdupois system)	 :: engelsk
+English {adj} (of or pertaining to the English language)	 :: [Bokmål] engelsk; [Nynorsk] engelsk
+English {prop} (person from England)	 :: [Bokmål] engelskmann {m}; [Nynorsk] engelskmann {m}
+English {prop} (the English language)	 :: [Bokmål] engelsk {m}; [Nynorsk] engelsk {m}
+English Channel {prop} (The part of the Atlantic Ocean between Great Britain and France)	 :: den engelske kanal
+English horn {n} (cor anglais) SEE: cor anglais	 ::
+Englishman {n} (native or inhabitant of England)	 :: engelskmann {m}
+engrave {v} (carve text or symbols into (something))	 :: gravere
+engraving {n} (an engraved image)	 :: [Bokmål] gravering {m} {f}; [Nynorsk] gravering {f}
+engraving {n} (the practice of incising a design onto a hard, flat surface)	 :: [Bokmål] gravering {m} {f}; [Nynorsk] gravering {f}
+enharmonic {adj} (Describing two or more identical notes that are written differently when in different key)	 :: enharmonisk
+enjail {v} (put in jail) SEE: imprison	 ::
+enjoy {v}	 :: nyte, glede seg ved
+enjoy your meal {phrase} (bon appétit) SEE: bon appétit	 ::
+enlarge {v} (make larger)	 :: forstørre
+enlargen {v} (enlarge) SEE: enlarge	 ::
+enoki {n} (Flammulina velutipes) SEE: enoki mushroom	 ::
+enough {determiner} (sufficient)	 :: nok, tilstrekkelig, fyllestgjørende
+enough {interj} (stop!)	 :: det holder!
+enough {pron} (a sufficient or adequate number, amount, etc)	 :: nok
+enravish {v} (to enrapture) SEE: enrapture	 ::
+ensign {n} (banner)	 :: fane {m} {f}
+ensign {n} (military officer)	 :: fenrik {m}
+ensure {v} (assure) SEE: assure	 ::
+entelechy {n}	 :: enteleki
+enter {v} (to go into (a room, etc.))	 :: komme inn
+enter into {v} (to become legally committed to)	 :: [Bokmål] inngå; [Nynorsk] inngå
+enthalpy {n} (a measure of the heat content)	 :: entalpi
+enthral {v} (hold spellbound) SEE: enthrall	 ::
+enthral {v} (make subservient) SEE: enthrall	 ::
+enthronise {v} (enthrone) SEE: enthrone	 ::
+enthronize {v} (enthrone) SEE: enthrone	 ::
+enthusiasm {n} (feeling of excited, lively interest)	 :: begeistring {c}, entusiasme {m}
+enthusiastic {adj} (with zealous fervor; excited, motivated)	 :: [Bokmål] entusiastisk; [Nynorsk] entusiastisk
+entire {adj} (internal; interior) SEE: internal, interior	 ::
+entire {n} (stallion) SEE: stallion	 ::
+entirely {adv} (to the exclusion of others)	 :: [Bokmål] kun, bare; [Nynorsk] berre
+entirely {adv} (to the full extent)	 :: fullstendig, totalt, komplett; [Bokmål] helt, helt og holdent; [Nynorsk] heilt
+entomologist {n} (scientist who studies insects)	 :: [Bokmål] entomolog {m}; [Nynorsk] entomolog {m}
+entomology {n} (study of insects)	 :: [Bokmål] entomologi {m}; [Nynorsk] entomologi {m}
+entrails {n} (internal organs)	 :: innvoller {p}
+entrainment {n} (mixing of fluids)	 :: medrivning
+entrance {n} (The action of entering, or going in)	 :: entré, ankomst {m}
+entrance {n} (The place of entering, as a gate or doorway)	 :: inngang {m}, , entré {m}
+entrance {n} (The right to go in)	 :: [Bokmål] adgang {m}, tilgang {m}, entré {m}; [Nynorsk] åtgang {m}, tilgjenge {m}
+entrance {v} (To delight)	 :: fortrylle, fascinere
+entrance {v} (To put into trance)	 :: sette i transe
+entrée {n} (main dish) SEE: main course	 ::
+entrecôte {n} (a premium cut of beef)	 :: entrecôte {m}
+entrench {v} (establish financial position)	 :: befeste, styrke
+entrench {v} (surround with a trench)	 :: forskanse
+entrepreneur {n} (person who organizes and operates a business and assumes the associated risk)	 :: entreprenør {m}
+entwine {v} (To twist or twine around something (or one another))	 :: flette
+envious {adj} (feeling or exhibiting envy)	 :: misunnelig
+envy {n} (resentful desire of something possessed by another)	 :: misunnelse
+Enzedder {n} (Kiwi) SEE: Kiwi	 ::
+eon {n} (a being emanating from the Godhead)	 :: eon {m}
+eon {n} (eternity)	 :: eon {m}
+eon {n} (geological time period)	 :: eon {m}
+eon {n} (informal, hyperbolic: a long period of time)	 :: eon {m}
+eon {n} (period of 1,000,000,000 years)	 :: eon {m}
+Ephesians {prop} (book of the Bible)	 :: Efeserne
+Ephesus {prop} (a city of ancient Anatolia, in what is now Turkey)	 :: Efesos {m}
+epic {adj} (extraordinary)	 :: storslått
+epic {adj} (of, or relating to, an epic)	 :: episk
+epicaricacy {n} (rejoicing at or deriving pleasure from the misfortunes of others)	 :: skadefryd
+epicarp {n} (exocarp) SEE: exocarp	 ::
+epicene {n} (hermaphrodite) SEE: hermaphrodite	 ::
+epicentre {n} (point above earthquake)	 :: episenter
+epicycle {n} (a small circle whose centre is on the circumference of a larger circle)	 :: episyklus
+epidemic {adj} (like an epidemic)	 :: [Bokmål] epidemisk; [Nynorsk] epidemisk
+epidemic {n} (occurrence of such disease)	 :: [Bokmål] epidemi {m}; [Nynorsk] epidemi {m}
+epidemic {n} (widespread disease)	 :: [Bokmål] farsott {m} {f}, epidemi {m}; [Nynorsk] epidemi {m}
+epidemiological {adj} (of or pertaining to epidemiology) SEE: epidemiologic	 ::
+epididymis {n} (tube)	 :: bitestikkel
+epilepsy {n} (medical condition)	 :: [Bokmål] epilepsi {m}; [Nynorsk] epilepsi {m}
+epiphysis {n} (pineal gland)	 :: [Bokmål] konglekjertel {m}, epifyse {m}; [Nynorsk] epifyse {m}
+epiphysis {n} (rounded end of any long bone)	 :: [Bokmål] epifyse {m}; [Nynorsk] epifyse {m}
+Epirus {prop}	 :: Epirus
+epithelium {n} (membranous tissue)	 :: epitel
+epitome {n} (embodiment or encapsulation of)	 :: innbegrepet
+equal {adj} (mathematics: exactly identical)	 :: er lik
+equality {n} (fact of being equal)	 :: likhet
+equal rights {n} (concept of equal treatment)	 :: [Bokmål] like rettigheter {p}
+equation {n} (assertion)	 :: likning
+equator {n} (celestial equator) SEE: celestial equator	 ::
+equator {n} (circle around the earth)	 :: [Bokmål] ekvator {m}; [Nynorsk] ekvator {m}
+Equatorial Guinea {prop} (country in Western Africa)	 :: Ekvatorial-Guinea (Republikken Ekvatorial-Guinea)
+Equatorial Guinean {adj} (Of, from, or pertaining to Equatorial Guinea, the Equatorial Guinean people or the Equatorial Guinean culture)	 :: [Bokmål] ekvatorialguineansk; [Nynorsk] ekvatorialguineansk
+Equatorial Guinean {n} (A person from Equatorial Guinea or of Equatorial Guinean descent)	 :: [Bokmål] ekvatorialguineaner {m}; [Nynorsk] ekvatorialguinean {m}, ekvatorialguineanar {m}
+equestrian {n} (an equestrian person; one who rides on horseback)	 :: rytter {m}
+equilibrium {n} (chemistry: state of a reaction in which the rates of the forward and reverse reactions are the same)	 :: ekvilibrium {n}, likevekt {m}
+equilibrium {n} (condition of a system in which competing influences are balanced)	 :: ekvilibrium {n}, likevekt {m}
+equilibrium {n} (mental balance)	 :: sinnslikevekt {m}
+equilibrium {n} (physics: state of a body at rest or in uniform motion in which the resultant of all forces on it is zero)	 :: ekvilibrium {n}, likevekt {m}
+equinoctial {n} (celestial equator) SEE: celestial equator	 ::
+equinox {n} (intersection of the ecliptic with the celestial equator)	 :: jevndøgn {n}
+equipage {n} (a type of horse-drawn carriage)	 :: ekvipasje {m}
+equipment {n} (whatever is used in equipping)	 :: [Bokmål] utstyr {n}; [Nynorsk] utstyr {n}
+equity {n} (ownership, especially in terms of net monetary value of some business)	 :: aksje {m}
+equity {n} (ownership interest in a company)	 :: [Bokmål] egenkapital {m}; [Nynorsk] egenkapital {m}
+equivalent {adj} (equal-area) SEE: equal-area	 ::
+equivalent {n} (anything that is virtually equal to something else)	 :: [Bokmål] ekvivalent {m}; [Nynorsk] ekvivalent {m}
+era {n} (time period)	 :: [Bokmål] æra {m}; [Nynorsk] æra {m}
+eraser {n} (thing used to erase something written or drawn)	 :: [Bokmål] viskelær {n}; [Nynorsk] viskelêr {n}
+erbium {n} (chemical element)	 :: erbium
+erect {v} (to cause to stand up or out)	 :: erigere, reise
+erect {v} (to put up by the fitting together of materials or parts)	 :: reise
+erectile dysfunction {n} (erectile dysfunction)	 :: erektil dysfunksjon
+erection {n} (rigid state of penis or clitoris)	 :: ereksjon {m}, stå, reisning {m}
+eremetic {adj} (of or pertaining to eremites) SEE: eremitic	 ::
+eremite {n} (hermit) SEE: hermit	 ::
+eremitical {adj} (eremitic) SEE: eremitic	 ::
+ereyesterday {adv} (on the day before yesterday) SEE: day before yesterday	 ::
+ereyesterday {n} (the day before yesterday) SEE: day before yesterday	 ::
+Eric {prop} (male given name)	 :: Erik, Eirik
+Erica {prop} (female given name)	 :: Erika
+Erika {prop} (female given name) SEE: Erica	 ::
+Eritrean {adj} (Of, from, or pertaining to Eritrea, the Eritrean people or the Eritrean culture)	 :: [Bokmål] eritreisk; [Nynorsk] eritreisk
+Eritrean {n} (A person from Eritrea or of Eritrean descent)	 :: [Bokmål] eritreer {m}; [Nynorsk] eritrear {m}
+ermine {n} (Mustela erminea)	 :: [Bokmål] røyskatt {m}; [Nynorsk] røyskatt {m}, røysekatt {m}
+erne {n} (Haliaeetus albicilla) SEE: white-tailed eagle	 ::
+Ernest {prop} (given name)	 :: Ernst
+erosion {n} (destruction by abrasive action of fluids)	 :: [Bokmål] erosjon {m}; [Nynorsk] erosjon {m}
+erosion {n} (in dentistry)	 :: [Bokmål] erosjon {m}; [Nynorsk] erosjon {m}
+erosion {n} (the changing of a surface by mechanical action)	 :: [Bokmål] erosjon {m}; [Nynorsk] erosjon {m}
+erosion {n} (the result of having being eroded)	 :: [Bokmål] erosjon {m}; [Nynorsk] erosjon {m}
+erotic {adj} (tending to arouse sexual desire)	 :: [Bokmål] erotisk
+err {v} (sin) SEE: sin	 ::
+erratic {n} (rock)	 :: [Bokmål] flyttblokk {m} {f}; [Nynorsk] flyttblokk {m} {f}
+erratum {n} (error, especially one in a printed work)	 :: erratum {n}
+erroneous {adj} (containing an error; inaccurate)	 :: feilaktig
+erroneously {adv} (incorrectly) SEE: incorrectly	 ::
+error {n} (mistake)	 :: [Bokmål] feil {m}; [Nynorsk] feil {m}
+error {v} ((nonstandard) To make a mistake; to result in an error) SEE: err	 ::
+erstwhile {adv} (erstwhile) SEE: formerly	 ::
+erudite {adj} (scholarly, learned)	 :: [Bokmål] lærd
+erupt {v}	 :: erupsjon
+erythronium {n} (vanadium) SEE: vanadium	 ::
+escalator {n} (mechanical device)	 :: [Bokmål] rulletrapp {m} {f}; [Nynorsk] rulletrapp {f}
+escapade {n} (daring or adventurous act; undertaking which goes against convention)	 :: [Bokmål] eskapade {m}; [Nynorsk] eskapade {m}
+escape {v} (to elude)	 :: unngå
+escape {v} (to get free)	 :: unnslippe, unnkomme
+escape velocity {n} (minimum velocity)	 :: [Bokmål] unnslipningshastighet, parabolsk hastighet; [Nynorsk] unnsleppingsfart
+Escaut {prop} (the river Scheldt) SEE: Scheldt	 ::
+eschatology {n} (system of doctrines concerning final matters, such as death)	 :: [Bokmål] eskatologi {m}; [Nynorsk] eskatologi {m}
+eschatology {n} (the study of the end times)	 :: [Bokmål] eskatologi {m}; [Nynorsk] eskatologi {m}
+eschew {v} (avoid, shun)	 :: sky
+e-scrap {n} (e-waste) SEE: e-waste	 ::
+esoteric {adj} (having to do with concepts that are highly theoretical)	 :: esoterisk
+esoteric {adj} (Understood only by a chosen few or an enlightened inner circle.)	 :: esoterisk
+esoterism {n} (inward forms of faith and religion)	 :: esoterisme
+especially {adv} (in a special manner)	 :: spesielt
+especially {adv} (particularly)	 :: spesielt
+Esperanto {prop} (auxiliary language)	 :: esperanto
+espionage {n} (act of learning secret information through clandestine means)	 :: spionasje {m}
+espresso {n} (strong type of coffee)	 :: [Bokmål] espresso; [Nynorsk] espresso
+esprit de corps {n} (shared spirit of comradeship, enthusiasm, and devotion)	 :: korpsånd {m}
+essential {adj} (necessary)	 :: [Bokmål] essensiell; [Nynorsk] essensiell
+-est {suffix} (superlative of adjectives and adverbs)	 :: [Bokmål] -est, [before most long adjectives or adverbs] mest; [Nynorsk] -ast, [before most long adjectives or adverbs] mest
+establish {v} (To form; to set up in business)	 :: etablere
+establish {v} (To found; to institute)	 :: etablere
+establish {v} (To make stable or firm; to confirm)	 :: fastslå
+establish {v} (To prove and cause to be accepted as true; to establish a fact; to demonstrate)	 :: fastslå
+estate {n} (body style of cars) SEE: station wagon	 ::
+estate {n} (housing estate) SEE: housing estate	 ::
+estate car {n} (station wagon) SEE: station wagon	 ::
+Esther {prop} (book of the Bible)	 :: Ester
+Esther {prop} (female given name)	 :: Ester
+Estonia {prop} (country)	 :: Estland; [Nynorsk] Estland
+Estonian {adj} (of, from, or pertaining to the country of Estonia, its people or their language)	 :: [Bokmål] estisk, estlandsk; [Nynorsk] estisk
+Estonian {n} (person)	 :: [Bokmål] ester {m}, estlender {m}, estlending {m}; [Nynorsk] estar {m}, estlendar {m}, estlending {m}
+Estonian {prop} (language)	 :: [Bokmål] estisk {m}, estlandsk {m}; [Nynorsk] estisk {m}
+estragon {n} (tarragon) SEE: tarragon	 ::
+estranged {adj} (having become a stranger)	 :: fremmedgjort
+et al. {abbr} (and others)	 :: og andre
+etc. {phrase} (abbreviation of “et cetera”; and the rest; and so forth)	 :: [Nynorsk] osb.
+et cetera {phrase} (and so on)	 :: [Bokmål] og så videre, osv., et cetera, etc.; [Nynorsk] og så bortetter, osb., og så vidare, osv., et cetera, etc.
+eternal {adj} (lasting forever)	 :: evig, endeløs, evinnelig
+eternity {n} (infinite time)	 :: evighet
+eth {n} (letter)	 :: edd {m}
+ethane {n} (aliphatic hydrocarbon, C2H6)	 :: etan {n}
+ethanol {n} (simple aliphatic alcohol: CH3-CH2-OH)	 :: [Bokmål] etanol {m}; [Nynorsk] etanol {m}
+Ethel {prop} (female given name)	 :: Edel
+ethene {n} (ethylene) SEE: ethylene	 ::
+ethics {n} (standards of conduct)	 :: etikk {m}
+ethics {n} (study of principles governing right and wrong conduct)	 :: etikk {m}
+Ethiopia {prop} (country in Eastern Africa)	 :: Etiopia (Føderale Demokratiske Republikken Etiopia)
+Ethiopian {adj} (of, from, or pertaining to Ethiopia)	 :: [Bokmål] etiopisk; [Nynorsk] etiopisk
+Ethiopian {n} (person)	 :: [Bokmål] etiopier {m}; [Nynorsk] etiopiar {m}
+ethnic {adj} (of or relating to a group of people)	 :: [Bokmål] etnisk; [Nynorsk] etnisk
+ethnic cleansing {n} (ethnic cleansing)	 :: [Bokmål] etnisk rensning {m} {f}; [Nynorsk] etnisk reinsing {f}
+ethnicity {n} (The characteristics of an ethnic group)	 :: [Bokmål] etnisitet {m}; [Nynorsk] etnisitet {m}
+ethnologic {adj} (ethnologic) SEE: ethnological	 ::
+ethnomusicology {n} (study of music and culture)	 :: etnomusikologi
+ethologic {adj} (ethologic) SEE: ethological	 ::
+-etic {suffix} (pertaining to)	 :: -etisk
+etymology {n} (account of the origin and historical development of a word)	 :: etymologi {m} (both Bokmål and Nynorsk)
+etymology {n} (study of the historical development of languages, particularly of individual words)	 :: etymologi {m} (both Bokmål and Nynorsk)
+EU {initialism} (European Union (also see translations at European Union))	 :: EU {m}
+Euclidean {adj} (of traditional geometry)	 :: [Bokmål] euklidsk, evklidsk; [Nynorsk] euklidsk, evklidsk
+Euclidian space {n} (Euclidean space) SEE: Euclidean space	 ::
+eukaryote {n} (any of the single-celled or multicellular organisms whose cells contain at least one distinct nucleus)	 :: eukaryoter
+Euler's formula {prop} (Euler's formula)	 :: Eulers formel
+eulogy {n} (high praise or recommendation)	 :: hyldningstale {m}, lovtale {m}
+euphemism {n} (use of a word or phrase to replace another word with one considered less offensive)	 :: [Bokmål] eufemisme {m}, evfemisme {m}; [Nynorsk] eufemisme {m}, evfemisme {m}
+euphemism {n} (word or phrase that is used to replace another in this way)	 :: [Bokmål] eufemisme {m}, evfemisme {m}; [Nynorsk] eufemisme {m}, evfemisme {m}
+euphoria {n} (an excited state of joy)	 :: eufori {m}
+Eurasia {prop} (the largest landmass on Earth, consisting of Europe and Asia)	 :: Eurasia {n}
+Eurasian {adj} (pertaining to Eurasia)	 :: [Bokmål] eurasisk; [Nynorsk] eurasisk
+Eurasian sparrowhawk {n} (Accipiter nisus)	 :: spurvehauk
+Eurasian Union {prop} (EAU) SEE: EAU	 ::
+euro {n} (currency unit of the European Monetary Union)	 :: euro
+Europe {prop} (continent)	 :: Europa
+Europe {prop} (European Union) SEE: European Union	 ::
+European {adj} (relating to Europe or the European Union)	 :: [Bokmål] europeisk; [Nynorsk] europeisk
+European {n} (person)	 :: [Bokmål] europeer {m}; [Nynorsk] europear {m}
+European alder {n} (black alder) SEE: black alder	 ::
+European bison {n} (the wisent species Bison bonasus)	 :: europeisk bison
+European Central Bank {prop} (central bank for the European Union)	 :: Den europeiske sentralbank {m}
+European hake {n} (Merluccius merluccius)	 :: [Bokmål] lysing {m}; [Nynorsk] lysing {m}
+European redbud {n} (* Judas tree) SEE: * Judas tree	 ::
+European swamp thistle {n} (marsh thistle) SEE: marsh thistle	 ::
+European Union {prop} (European supranational organisation)	 :: Europeiske Union
+European water vole {n} (European water vole)	 :: jordrotte {f}, vannrotte {f}, vånd {m}
+europium {n} (chemical element)	 :: europium
+Eurotunnel {prop} (Channel Tunnel) SEE: Channel Tunnel	 ::
+euthanasia {n} (practice of killing a human being or animal)	 :: eutanasi {c}, dødshjelp
+euthanize {v} (submit (a person or an animal) to euthanasia)	 :: avlive
+Euxine Sea {prop} (
+— see Black Sea
+) SEE: [[
+— see Black Sea
+]]	 ::
+EVA {initialism} (ethylene-vinyl acetate) SEE: ethylene-vinyl acetate	 ::
+EVA {initialism} (extravehicular activity) SEE: extravehicular activity	 ::
+evacuation {n} (act of emptying)	 :: evakuering {m}
+evaluation {n} (assessment)	 :: [Bokmål] evaluering {m} {f}; [Nynorsk] evaluering {f}
+evasive {adj} (Directed towards avoidance or escape; evasive action)	 :: unnvikende
+evasive {adj} (Tending to avoid speaking openly or making revelations about oneself)	 :: lukket, innesluttet
+Eve {prop} (given name)	 :: Eva
+Eve {prop} (the first woman)	 :: Eva
+even {adv} (emphasising comparative)	 :: [Bokmål] enda; [Nynorsk] endå, enda
+even {adv} (implying extreme example)	 :: [Bokmål] til og med, selv, sågar (obsolete, poetic); [Nynorsk] sjølv, endåtil, jamvel, til og med
+even if {adv} (irrespective of)	 :: selv om
+evening {n} (time of day between the approximate time of midwinter dusk and midnight)	 :: kveld
+evening dress {n} (an elegant dress worn by women)	 :: [Bokmål] aftenkjole {m}
+evenly {adv} (in a fair manner)	 :: likt
+evenly {adv} (so as to make flat)	 :: jevnt
+even number {n} (positive integer that can be divided by two)	 :: [Bokmål] partall {n}; [Nynorsk] partal {n}
+event {n} (occurrence of social or personal importance)	 :: hendelse {m}, begivenhet {m}, programpost {m}
+event horizon {n} (gravitational sphere within which light cannot escape)	 :: hendelseshorisont; [Nynorsk] hendelseshorisont
+eventually {adv} (in the end)	 :: omsider, etter hvert, til slutt
+ever {adv} (always)	 :: alltid, evig
+ever {adv} (at any time)	 :: alltid, bestandig
+Everest {prop} (Mount Everest) SEE: Mount Everest	 ::
+evergreen {adj} (of plants, that do not shed their leaves)	 :: [Bokmål] eviggrønn; [Nynorsk] eviggrøn
+every {determiner} (all of a countable group)	 :: hver
+everybody {pron} (all people)	 :: alle
+every cloud has a silver lining {proverb} (in every bad situation there is an element of good)	 :: aldri så galt at det ikke er godt for noe, over skyene er himmelen alltid blå, etter regn kommer alltid solskinn
+every other {adj} (every second) SEE: every second	 ::
+every second {adj} (every other; each alternate)	 :: [Bokmål] annenhver {m} {f}, annethvert {n}; [Nynorsk] annankvar
+everything {pron} (all the things)	 :: alt
+everywhere {adv} (at all places)	 :: overalt
+evidence {n} (anything admitted by a court as proof)	 :: vitneutsagn {n}, vitneforklaring {c} ( both: spoken evidence), bevismateriale {n} [artifacts]
+evidence {n} (facts presented in support of an assertion)	 :: bevis {n}, evidens {n}
+evidence {v} (to provide evidence)	 :: vitne, bevise
+evil {adj} (intending to harm)	 :: ond, slem
+evil {n} (evil)	 :: ond {c}, ondskap {c}
+evil eye {n} (evil eye)	 :: onde øyet
+evoke {v} (to cause the manifestation of)	 :: framkalle
+evolution {n} (biology: change in the genetic composition of a population over time)	 :: [Bokmål] evolusjon {m}; [Nynorsk] evolusjon {m}
+evolution {n} (general: a gradual process of development)	 :: [Bokmål] evolusjon {m}; [Nynorsk] evolusjon {m}
+evolutionary biology {n} (sub-field of biology)	 :: evolusjonsbiologi {f}
+evolutionary developmental biology {n} (branch of biology)	 :: evolusjonær utviklingsbiologi {f}
+evolutionism {n} (any evolutionary theory or belief system)	 :: [Bokmål] evolusjonisme {m}; [Nynorsk] evolusjonisme {m}
+evolutionistic {adj} (of or pertaining to evolutionism)	 :: [Bokmål] evolusjonistisk; [Nynorsk] evolusjonistisk
+ew {interj} (expression of disgust or nausea)	 :: æsj, fysj
+e-warfare {n} (cyberwarfare) SEE: cyberwarfare	 ::
+ewe {n} (female sheep)	 :: søye {c}
+ex {n} (informal: An ex-husband, ex-wife or ex-partner)	 :: eks {m}
+exacerbate {v} (to make worse)	 :: [Bokmål] forverre; [Nynorsk] forverre
+exaggerate {v} (to overstate, to describe more than is fact)	 :: overdrive
+exameter {n} (exametre) SEE: exametre	 ::
+examination {n} (formal test)	 :: [Bokmål] eksamen
+examine {v} (to check the health or condition of something or someone)	 :: undersøke
+examine {v} (to determine the aptitude, skills or qualifications of someone by subjecting them to an examination)	 :: eksaminere
+examine {v} (to observe or inspect carefully or critically)	 :: undersøke
+example {n} (something representative of a group)	 :: eksempel, døme
+exanimate {adj} (lifeless; dead)	 :: [Bokmål] livløs, livlaus, død; [Nynorsk] livlaus, død
+excavator {n} (vehicle, often on tracks, used to dig ditches etc; a backhoe)	 :: [Bokmål] gravemaskin {m}; [Nynorsk] gravemaskin {m} {f}
+exceed {v} (to be better than something else or than expected or desirable)	 :: overgå, overstige
+exceed {v} (to be larger, greater than something else or than expected or desirable)	 :: overskride
+Excellency {n} (Form of address for certain high officials or dignitaries)	 :: eksellense
+excellent {adj} (of the highest quality)	 :: utmerket, storartet
+except {conj} (with the exception that)	 :: unntatt, bortsett fra, unnateke, unnateki
+except {prep} (with the exception of)	 :: [Bokmål] utenom, bortsett fra; [Nynorsk] utanom
+except {v} (to exclude)	 :: unnta
+except {v} (to take exception, to object to)	 :: unngå
+excerpt {n} (a clip, snippet, passage or extract from a larger work)	 :: utdrag
+excess {n} (undue indulgence of the appetite)	 :: utskeielse
+exchange rate {n} (currency rate (finance))	 :: valutakurs {m}, vekslingskurs {m}
+excise {n} (excise tax) SEE: excise tax	 ::
+excited {adj} (having great enthusiasm)	 :: spent
+excitement {n} (state of being excited)	 :: spenning {m}, opphisselse {m}
+exciting {adj} (causing excitement)	 :: [Bokmål] spennende; [Nynorsk] spennande, spanande
+exclamation mark {n} (punctuation “!”)	 :: utropstegn {n}
+exclamation point {n} (exclamation mark) SEE: exclamation mark	 ::
+exclave {n}	 :: eksklave {m}
+exclude {v} (to bar from entering; keep out)	 :: utelukke, ekskludere
+exclusive {adj} (exclusionary) SEE: exclusionary	 ::
+excommunication {n} (act of excommunicating or ejecting)	 :: ekskommunikasjon
+excoriate {v}	 :: hudflette
+excuse {n} (explanation designed to avoid or alleviate guilt or negative judgement)	 :: unnskyldning {m}
+excuse {v} (forgive, pardon)	 :: tilgi
+excuse me {phrase} (request for an apology)	 :: unnskyld meg
+excuse me {phrase} (request for attention)	 :: unnskyld
+excuse me {phrase} (request to pass)	 :: unnskyld
+excuse me {phrase} (request to repeat)	 :: [Bokmål] hva?, unnskyld?, hæ? [informal, common among young people]; [Nynorsk] unnskyld?
+excuse me {phrase} (sorry, as apology)	 :: [Bokmål] unnskyld, beklager; [Nynorsk] unnskyld, beklagar
+execute {v} (To start, launch or run software)	 :: [Bokmål] kjøre, eksekvere; [Nynorsk] køyre, eksekvere
+execution {n} (act of putting to death or being put to death as a penalty)	 :: henrettelse {m}
+execution {n}	 :: utførelse
+executioner {n} (the person who carries out the execution)	 :: bøddel {m}, skarpretter {m}
+exegetical {adj} (exegetic) SEE: exegetic	 ::
+exemplary {adj} (ideal) SEE: ideal	 ::
+exemplary {adj} (perfect) SEE: perfect	 ::
+exempt {adj} (free from duty or obligation)	 :: [Bokmål] fritatt, fri; [Nynorsk] friteke, fritatt, fri
+exempt {adj} (not entitled to overtime pay)	 :: fastlønnsansatt
+exempt {n} (one who has been released from something)	 :: fritatt
+exempt {v} (to grant freedom or immunity from)	 :: frita
+exemption {n} (act of exempting)	 :: fritagelse, dispensjon {m}
+exemption {n} (deduction from the normal amount of taxes)	 :: fradrag {n}
+exemption {n} (state of being exempt; immunity)	 :: immunitet {m}
+exercise book {n} (booklet for students)	 :: oppgavebok {c}, øvingsbok {c}
+exessive {n} (exessive case) SEE: exessive case	 ::
+exhale {v} (breathe out (intransitive))	 :: puste ut
+exhaust {n} (exhaust gas)	 :: [Bokmål] eksos {m}; [Nynorsk] eksos {m}
+exhaust {n} (exhaust pipe) SEE: exhaust pipe	 ::
+exhaust {n} (the steam let out of a cylinder after it has done its work there)	 :: eksos {m}
+exhaust pipe {n} (pipe that vents waste gases from the engine)	 :: eksosrør {n}
+exist {v} (to be)	 :: eksistere
+existence {n} (the state of being, existing, or occurring)	 :: eksistens {m}, tilværelse {m}
+exit {n}	 :: utgang
+exit {v}	 :: gå ut
+exit poll {n} (poll taken of a sample of voters as they leave a voting station)	 :: [Bokmål] valgdagsmåling {m} {f}; [Nynorsk] valdagsmåling {f}
+exorbitant {adj} (exceeding proper limits)	 :: ublu
+exorcism {n} (ritual driving out of evil spirits)	 :: eksorsisme
+exorcize {v} (exorcise) SEE: exorcise	 ::
+exoteric {adj}	 :: eksoterisk
+exothermic {adj} (releasing heat)	 :: eksoterm
+expand {v} ((intransitive) algebra: to rewrite as an equivalent sum of terms)	 :: faktorisere
+expand {v} ((intransitive) to (be) change(d) from a smaller form/size to a larger one)	 :: vokse, bli større
+expand {v} ((intransitive) to (be) increase(d) in extent, number, volume or scope)	 :: vokse, ekspandere
+expand {v} ((intransitive) to speak or write at length or in detail)	 :: utdype
+expand {v} ((transitive) algebra: to rewrite as an equivalent sum of terms)	 :: faktorisere
+expand {v} ((transitive) to change from a smaller form/size to a larger one)	 :: utvide, ekspandere
+expand {v} ((transitive) to express at length or in detail)	 :: utdype, greie ut (om)
+expand {v} ((transitive) to increase the extent, number, volume or scope of')	 :: utvide, ekspandere
+expansion {n}	 :: ekspansjon, utvidelse
+expect {v} (To believe to be about to occur)	 :: [Bokmål] forvente; [Nynorsk] forvente
+expect {v} (To consider obligatory)	 :: [Bokmål] forvente; [Nynorsk] forvente
+expect {v} (To consider reasonably due)	 :: [Bokmål] forvente; [Nynorsk] forvente
+expectation {n} (act or state of expecting)	 :: [Bokmål] forventning {m} {f}; [Nynorsk] forventning {f}, forventing {f}
+expected {adj} (anticipated; thought to be about to arrive or occur)	 :: [Bokmål] ventet, forventet
+expectorate {v} (spit) SEE: spit	 ::
+expedient {adj} (simple, easy, or quick; convenient)	 :: bekvemmelighet {m}
+expedition {n} (An important enterprise, implying a change of place)	 :: [Bokmål] ekspedisjon {m}; [Nynorsk] ekspedisjon {m}
+expenditure {n} (act of expending)	 :: forbruk {n}
+expenditure {n} (amount expended)	 :: forbruk {n}
+expensive {adj} (having a high price or cost)	 :: dyrt
+experience {n} (activity which one has performed)	 :: erfaring {m} {f}
+experience {n} (collection of events and/or activities from which an individual or group may gather knowledge)	 :: erfaring {m} {f}
+experience {n} (event(s) of which one is cognizant)	 :: erfaring {m} {f}
+experience {n} (the knowledge thus gathered)	 :: erfaring {m} {f}
+experience {v} (to observe or undergo)	 :: erfare
+expire {v} (die) SEE: die	 ::
+expire {v} (exhale) SEE: exhale	 ::
+expired {adj} (dead) SEE: dead	 ::
+expiry {n} (death) SEE: death	 ::
+explainable {adj} (explicable) SEE: explicable	 ::
+explanation {n}	 :: forklaring {c}
+expletive {n} (profane, vulgar term)	 :: [Bokmål] kraftuttrykk {n}, banneord {n}; [Nynorsk] bannord {n}
+explode {v} (to destroy with an explosion)	 :: sprenge
+explode {v} (to explode (intransitive))	 :: eksplodere
+exploit {n} (heroic or extraordinary deed)	 :: bragd {m}
+exploit {v} (use for one’s advantage)	 :: utnytte
+explore {v} (to examine or investigate something systematically)	 :: utforske
+explosion {n} (sudden increase)	 :: [Bokmål] eksplosjon {m}; [Nynorsk] eksplosjon {m}
+explosion {n} (violent release of energy)	 :: [Bokmål] eksplosjon {m}; [Nynorsk] eksplosjon {m}
+exponential function {n} (function in which an independent variable is in the form of an exponent)	 :: eksponentialfunksjon {m}
+exposition {n} (action of putting something out to public view)	 :: utstilling; [Nynorsk] utstilling
+express {v} (to convey meaning)	 :: uttrykke
+expression {n} (facial appearance)	 :: uttrykk {n}, mine {m}
+expressionist {n} (painter who paints in this style)	 :: [Bokmål] ekspresjonist {m}; [Nynorsk] ekspresjonist {m}
+expressway {n} (freeway) SEE: freeway	 ::
+expressway {n} (US: divided highway)	 :: motorvei
+exquisite {n} (fop, dandy) SEE: fop	 ::
+extension {n} (act of extending or the state of being extended)	 :: [Bokmål] utviding {m} {f}, utvidelse {m}; [Nynorsk] utviding {f}
+extension cord {n} (an electrical cord)	 :: skøteledning
+extensive {adj} (wide)	 :: omfattende / omfangsrik
+extenuate {v} (lessen; palliate)	 :: formilde
+exterior {adj} (being from outside a country) SEE: foreign	 ::
+exterior {adj} (external) SEE: external	 ::
+exterior {adj} (outer) SEE: outer	 ::
+extermination camp {n} (facility built by the Nazis) SEE: death camp	 ::
+extinct {adj} (having died out)	 :: utdødd
+extinct language {n} (dead language) SEE: dead language	 ::
+extinguish {v} ((literally) to hunt down (a species) to extinction)	 :: utrydde
+extinguish {v} (to put out, as in fire; to end burning; to quench)	 :: slukke
+extirpate {v} (to pull up by the roots)	 :: rykke opp med roten
+extort {v}	 :: utpresse
+extortioner {n} (someone who extorts) SEE: extortionist	 ::
+extra {n}	 :: ekstra
+extra {n} (person in a play or movie with a minimal part) SEE: walk-on	 ::
+extract {n} (essence supposed to form the basis of all vegetable extracts) SEE: extractive principle	 ::
+extract {n} (portion of a document)	 :: utdrag {n}
+extract {n} (solution made by drawing out from a substance)	 :: uttrekk {n}
+extract {n} (something extracted)	 :: ekstrakt {n}, uttrekk {n}, utdrag {n}
+extract {v} (to draw out)	 :: ekstrahere
+extraction {n} (extract obtained from a mixture or from a plant etc) SEE: extract	 ::
+extra-natural {adj} (supernatural) SEE: supernatural	 ::
+extraordinary {adj} (not ordinary)	 :: ekstraordinær
+extrasensory perception {n} (supposed ability to obtain information without the use of normal sensory channels)	 :: ekstrasensorisk persepsjon
+extraterrestrial {adj} (originating from outside of the Earth)	 :: utenomjordisk
+extraterrestrial {n} (being originating from outside of the Earth)	 :: utenomjordisk skapning {m}
+extra time {n} (an additional period played at the end some games of football)	 :: ekstraomgang
+extremity {n} (limb) SEE: limb	 ::
+extrovert {adj} (one who is outgoing, sociable)	 :: utadvendt, ekstrovert
+extrusion {n} (manufacturing process)	 :: ekstrudering {f}
+exuberant {adj} (people very high-spirited)	 :: energisk
+ex-wife {n} (a former wife)	 :: [Bokmål] ekskone {m} {f}
+eye {n} (ability to notice what others might miss)	 :: [Bokmål] øye {n}; [Nynorsk] auge {n}, auga {n}
+eye {n} (hole in needle)	 :: [Bokmål] øye {n}, nåløye {n}; [Nynorsk] auge {n}, auga {n}
+eye {n} (of a hurricane)	 :: [Bokmål] øye {n}; [Nynorsk] auge {n}, auga {n}
+eye {n} (organ)	 :: [Bokmål] øye {n}; [Nynorsk] auge {n}, auga {n}
+eyeball {n} (ball of the eye)	 :: [Bokmål] øyeeple {n}
+eyeblink {n} (moment)	 :: [Bokmål] øyeblikk
+eyebrow {n} ( hair that grows over the bone ridge above the eye socket)	 :: [Bokmål] øyebryn {n}, øyenbryn {n}; [Nynorsk] augebryn {n}
+eye-catching {adj} (That attracts the attention; attention-grabbing)	 :: [Bokmål] iøynefallende; [Nynorsk] iaugefallande
+eye contact {n} (action of looking at another human or animal in the eye)	 :: [Bokmål] øyekontakt {m}; [Nynorsk] augekontakt {m}, augnekontakt {m}
+eye for an eye {n} (compensation for an injury)	 :: øye for øye, tann for tann
+eye for an eye, a tooth for a tooth {proverb} (compensation for an injury)	 :: [Bokmål] øye for øye, tann for tann
+eyeglass {n} (eyepiece) SEE: eyepiece	 ::
+eyeglasses {n} (spectacles) SEE: spectacles	 ::
+eyehole {n} (eye socket) SEE: eye socket	 ::
+eyelash {n} (hair growing on the edge of an eyelid)	 :: øyenvipper {p}
+eyelid {n} ((anatomy) A thin skin membrane that covers and moves over an eye)	 :: [Bokmål] øyelokk {n}, øyenlokk {n}
+eye MD {n} (ophtalmologist) SEE: eye doctor	 ::
+eye of a needle {n} (small gap in a needle)	 :: [Bokmål] nåløye {n}
+eye of the beholder {n} (evaluation depending on person who sees)	 :: øyet som ser
+eye patch {n} (cloth patch worn in front of one eye)	 :: lapp for øyet {m}
+eyeshade {n} (shield for the eyes)	 :: øyenskygge {m}
+eye shadow {n} (makeup around the eyes)	 :: [Bokmål] øyeskygge {m}, øyenskygge {m}
+eye tooth {n} (canine tooth) SEE: canine tooth	 ::
+eye up {v} (To examine)	 :: [Bokmål] beglo
+eyewitness {n} (person who has seen and testify about an event)	 :: øyenvitne
+Ezekiel {prop} (book of the Bible)	 :: Esekiel
+Ezra {prop} (book of the Bible)	 :: Esra
+éminence grise {n} (a secret or unofficial decision-maker; the power behind the throne, see also: power broker)	 :: grå eminense {m}

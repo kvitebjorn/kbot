@@ -1,0 +1,1673 @@
+﻿pace {n} (speed)	 :: [Bokmål] takt {m} {f}; [Nynorsk] takt {m} {f}
+pace {n} (step: step)	 :: [Bokmål] steg {n}, skritt {n}; [Nynorsk] steg {n}
+pace {n} (way of stepping: gait of a horse)	 :: pass
+pace {v} (Measure by walking)	 :: [Bokmål] skritte opp; [Nynorsk] stege opp
+pacification {n} (the process of pacifying)	 :: passivisering {c}
+Pacific Ocean {prop} (the world's largest body of water)	 :: Stillehavet {n}; [Nynorsk] Stillehavet {n}
+pacifier {n} (for a baby)	 :: smukk {m}
+pack {n} (full set of playing cards)	 :: [Bokmål] kortstokk {m}, kortleik {m}; [Nynorsk] kortstokk {m}, kortleik {m}
+pack {n} (number of hounds or dogs)	 :: [Bokmål] flokk; [Nynorsk] flokk {m}
+package store {n} (liquor store) SEE: liquor store	 ::
+packaging {n} (the act of packing something)	 :: innpakking {m} {f}, pakketering {m} {f}
+pack animal {n} (animal used to carry heavy items) SEE: beast of burden	 ::
+packet {n} (small fragment of data)	 :: pakke
+packet {n} (small pack)	 :: pakke
+pack ice {n} (large consolidated mass of floating sea ice)	 :: [Bokmål] pakkis {m}; [Nynorsk] pakkis {m}
+packing needle {n} (large needle)	 :: pakknål, sekkenål
+pact {n} (an agreement; a league; a compact; a covenant)	 :: [Bokmål] pakt {m} {f}; [Nynorsk] pakt {f}
+pad {n} (block of paper)	 :: blokk {m} {f}
+pad {n} (colloquial: place of residence)	 :: hjem {n}
+pad {n} (flattened mass of anything soft)	 :: pute {m} {f}
+pad {n} (soft or small cushion)	 :: pute {m} {f}
+pad {v} (to stuff) SEE: stuff	 ::
+paddle {v} (toddle) SEE: toddle	 ::
+paddy {n} (wet land where rice grows)	 :: rismark {m}
+paddy wagon {n} (a police van for transporting prisoners)	 :: marja {m}
+padlock {n} (type of lock)	 :: [Bokmål] hengelås {m} {n}; [Nynorsk] hengelås {m} {n}, hengjelås {m} {n}
+paediatry {n} (paediatry) SEE: pediatrics	 ::
+pagan {n} (person not adhering to any major or recognized religion)	 :: [Bokmål] hedning {m}; [Nynorsk] heidning {m}
+page {n} (boy child) SEE: boy	 ::
+page {n} (Internet: web page) SEE: web page	 ::
+page {n} (one side of a leaf of a book)	 :: [Bokmål] side {f}, {m}; [Nynorsk] side, sida {f}
+pageant {n} (beauty pageant) SEE: beauty pageant	 ::
+pager {n} (device)	 :: personsøker {m}
+pagoda {n} (a tiered tower with multiple eaves)	 :: pagode
+pail {n} (bucket) SEE: bucket	 ::
+pain {n} (suffering or anguish, especially mental)	 :: pine; [Nynorsk] pinsla
+pain in the arse {n} (pain in the ass) SEE: pain in the ass	 ::
+pain in the butt {n} (nuisance) SEE: pain in the ass	 ::
+pain in the neck {n} (that which is annoying) SEE: pain in the ass	 ::
+painstakingly {adv} (in a painstaking manner; very slowly and carefully)	 :: med pinlig nøyaktighet
+paint {n} (substance)	 :: maling, lakk
+paint {v} (apply paint to)	 :: male, lakkere
+painted bunting {n} (Smith's longspur) SEE: Smith's longspur	 ::
+painted dog {n} (Lycaon pictus) SEE: African hunting dog	 ::
+painted hunting dog {n} (Lycaon pictus) SEE: African hunting dog	 ::
+painted wolf {n} (Lycaon pictus) SEE: African hunting dog	 ::
+painter {n} (artist)	 :: [Bokmål] maler {m}
+painter {n} (laborer)	 :: [Bokmål] maler {m}
+painting {n} (an illustration or artwork using paint)	 :: [Bokmål] maleri {n}, bilde {n}; [Nynorsk] måleri {n}
+pair of compasses {n} (tool used to draw circles)	 :: passer {m}
+pajamas {n} (clothes for wearing to bed and sleeping in)	 :: pysjamas {m}
+Paki {n} (a Pakistani)	 :: [Bokmål] pakkis {m}; [Nynorsk] pakkis {m}
+Pakistan {prop} (country in South Asia)	 :: Pakistan
+Pakistani {adj} (Of, from, or pertaining to Pakistan, or its people)	 :: [Bokmål] pakistansk; [Nynorsk] pakistansk
+Pakistani {n} (A person from Pakistan or of Pakistani descent)	 :: [Bokmål] pakistaner {m}; [Nynorsk] pakistanar {m}
+palace {n} (large, lavish residence)	 :: [Bokmål] palass {n}; [Nynorsk] palass {n}
+palaeoclimatology {n} (science)	 :: paleoklimatologi {f}
+palatal {adj} ((phonetics) articulated at the hard palate)	 :: [Bokmål] palatal; [Nynorsk] palatal
+Palau {prop} (Republic of Palau)	 :: Palau
+pale {adj} (light in color)	 :: blek, bleik
+pale {n} (heraldry: vertical band)	 :: stolpe
+pale {n}	 :: påle {m}
+pale {n} (wooden stake)	 :: påle {m}, pæl {m}
+pale {v} (to become pale)	 :: blekne
+paleanthropology {n} (study of ancient human remains) SEE: paleoanthropology	 ::
+paleoclimatology {n} (palaeoclimatology) SEE: palaeoclimatology	 ::
+paleontological {adj} (of or pertaining to paleontology)	 :: paleontologisk
+paleontology {n} (study of prehistoric forms of life)	 :: [Bokmål] paleontologi {m}; [Nynorsk] paleontologi {m}
+Palestine {prop} (West Bank and Gaza Strip collectively)	 :: Palestina
+Palestinian {adj} (of, from, or pertaining to Palestine and/or the Palestinian people)	 :: [Bokmål] palestinsk; [Nynorsk] palestinsk
+Palestinian {n} (inhabitant of Palestine or Arab of Palestinian descent)	 :: [Bokmål] palestiner {m}; [Nynorsk] palestinar {m}
+paletot {n} (A loose outer jacket, overcoat)	 :: frakk
+palimpsest {n} (A manuscript scraped clean for reuse)	 :: palimpsest {m}
+palladium {n} (chemical element)	 :: palladium
+pallet {n} (a portable platform)	 :: [Bokmål] pall {m}; [Nynorsk] pall {m}
+pallet jack {n} (manually operated device for lifting and moving pallets)	 :: [Bokmål] jekketralle {m} {f}
+pallidity {n} (state of being) SEE: pallor	 ::
+palm {n} (inner, concave part of hand)	 :: [Bokmål] håndflate {m} {f}, handflate {m} {f}; [Nynorsk] handflate {f}
+palm {n} (palm tree) SEE: palm tree	 ::
+palmic acid {n} (ricinoleic acid) SEE: ricinoleic acid	 ::
+palmistry {n} (telling fortunes from the lines on the palms of the hand)	 :: håndlesning
+Palm Sunday {n} (Sunday before Easter)	 :: [Bokmål] palmesøndag {m}; [Nynorsk] palmesundag {m}, palmesøndag {m}
+palm thief {n} (coconut crab) SEE: coconut crab	 ::
+pamper {v} (to treat with excessive care, to indulge)	 :: dulle med
+pamphlet {n} (booklet) SEE: booklet	 ::
+pan {n} (flat vessel used for cooking)	 :: panne {m} and {f}
+pan {v} (to turn horizontally)	 :: panorere
+Panama {n} (Panama hat) SEE: Panama hat	 ::
+Panama {prop} (Country)	 :: Panama
+Panama Canal {prop} (Canal)	 :: Panamakanalen {m}
+Panamanian {adj} (pertaining to Panama)	 :: [Bokmål] panamansk; [Nynorsk] panamansk
+Panamanian {n} (person from Panama)	 :: [Bokmål] panamaner {m}; [Nynorsk] panaman {m}, panamanar {m}
+pan-Arabism {n} (movement)	 :: panarabisme
+pancake {n} (thin batter cake)	 :: [Bokmål] pannekake {m} {f}; [Nynorsk] pannekake {f}
+Pancake Day {prop} (Shrove Tuesday) SEE: Shrove Tuesday	 ::
+Pancake Tuesday {prop} (Shrove Tuesday) SEE: Shrove Tuesday	 ::
+Panchen Lama {n} (second-highest ranking lama of the Gelug sect of Tibetan Buddhism)	 :: Panchen Lama
+pancreas {n} (gland near the stomach)	 :: bukspyttkjertel {m}
+panda {n} (Ailuropoda melanoleuca)	 :: panda {m}, pandabjørn, kjempepanda
+panda {n} (police car) SEE: police car	 ::
+panda {n} (red panda) SEE: red panda	 ::
+panda bear {n} (panda) SEE: panda	 ::
+pandeism {n} (belief combining elements of pantheism and deism)	 :: pandeisme
+pandeism {n} (omnitheism) SEE: omnitheism	 ::
+pandemic {adj} (epidemic)	 :: [Bokmål] pandemisk; [Nynorsk] pandemisk
+pandemic {n} (pandemic disease)	 :: [Bokmål] pandemi {m}; [Nynorsk] pandemi {m}
+Pandora {prop} (Character in Greek mythology)	 :: Pandora
+pane {n} (individual sheet of glass) SEE: window pane	 ::
+panegyric {n} (praising speech or opus)	 :: lovprising {m}, lovtale {m}
+panentheism {n}	 :: panenteisme
+pan flute {n} (panpipes) SEE: panpipes	 ::
+panmixis {n} (panmixia) SEE: panmixia	 ::
+panmixus {n} (panmixia) SEE: panmixia	 ::
+panorama {n} (picture representing a continuous scene)	 :: [Bokmål] panorama {n}; [Nynorsk] panorama {n}
+panorama {n} (unbroken view of an entire surrounding area)	 :: [Bokmål] panorama {n}; [Nynorsk] panorama {n}
+pan pipes {n} (panpipes) SEE: panpipes	 ::
+pansexuality {n} (sexual orientation)	 :: panfili
+pant {n} (a pair of pants) SEE: pants	 ::
+pantheism {n} (belief that the universe is divine)	 :: panteisme; [Nynorsk] panteisme
+pantheistical {adj} (pantheistic) SEE: pantheistic	 ::
+pantheon {n} (a temple dedicated to all the gods)	 :: panteon {n}; [Nynorsk] panteon {n}
+panther {n} (big cat of genus Panthera)	 :: [Bokmål] panter {m}; [Nynorsk] panter {m}
+panther {n} (big cat with black fur)	 :: [Bokmål] panter {m}; [Nynorsk] panter {m}
+pantograph {n}	 :: pantograf
+pants {n} (garment covering the body from the waist downwards)	 :: bukse {m} {f}, brok; [Nynorsk] bukse {f}
+panty {n} (panties) SEE: panties	 ::
+papa {n} (Father (familiar, conversational)) SEE: dad	 ::
+paper {adj} (made of paper)	 :: papir
+paper {n} (material for writing on)	 :: papir, ark
+paper {n} (newspaper) SEE: newspaper	 ::
+paper {n} (wallpaper) SEE: wallpaper	 ::
+paper {n} (wrapping paper) SEE: wrapping paper	 ::
+paper {n} (written document shorter than a book)	 :: artikkel {m}
+paper {v} (to document) SEE: document	 ::
+paper airplane {n} (paper aeroplane) SEE: paper aeroplane	 ::
+paperless {adj} (using information without paper)	 :: [Bokmål] papirløs, papirlaus; [Nynorsk] papirlaus
+paperless {adj} (without documentation of identity)	 :: [Bokmål] papirløs, papirlaus; [Nynorsk] papirlaus
+paprika {n} (spice)	 :: [Bokmål] paprika {m}; [Nynorsk] paprika {m}
+Papuan {adj} (pertaining to Papua or Papua New Guinea)	 :: [Bokmål] papuansk; [Nynorsk] papuansk
+Papuan {n} (Someone from Papua or Papua New Guinea)	 :: [Bokmål] papuaner {m}; [Nynorsk] papuan {m}, papuanar {m}
+Papua New Guinea {prop} (country in Oceania)	 :: Papua Ny-Guinea
+paracetamol {n} (acetaminophen) SEE: acetaminophen	 ::
+parachute {n} (a device designed to control the fall of an object)	 :: [Bokmål] fallskjerm {m}
+paradigm {n} (conceptual framework)	 :: paradigme {n}
+paradigm {n} (linguistics: all forms which contain a common element)	 :: paradigme {n}
+paradigm {n} (way of viewing reality)	 :: paradigme {n}
+paradigm shift {n} (change in thinking from an accepted point of view to a new one, necessitated by scientific discoveries)	 :: [Bokmål] paradigmeskifte {n}; [Nynorsk] paradigmeskifte {n}
+paradisaical {adj} (paradisaic) SEE: paradisaic	 ::
+paradise {n} (heaven)	 :: paradis
+paradox {n} (an apparent contradiction which is nonetheless true )	 :: paradoks
+paraffin {n} (kerosene) SEE: kerosene	 ::
+paraffin {n} (paraffin wax) SEE: paraffin wax	 ::
+paragliding {n} (the sport of gliding with a paraglider)	 :: paragliding
+paragraph {n} (passage in text)	 :: avsnitt
+Paraguay {prop} (country in South America)	 :: Paraguay
+Paraguayan {adj} (pertaining to Paraguay)	 :: [Bokmål] paraguayansk; [Nynorsk] paraguayansk
+Paraguayan {n} (person from Paraguay)	 :: [Bokmål] paraguayaner {m}; [Nynorsk] paraguayan {m}, paraguayanar {m}
+parakeet {n} (various species of small parrots)	 :: [Bokmål] parakitt {m}; [Nynorsk] parakitt {m}
+parallel {adj} (computing: processing multipe tasks at the same time)	 :: parallell
+parallel {adj} (equally distant from one another at all points)	 :: parallell
+parallel {adj} (having the same overall direction)	 :: parallell
+parallel {adv} (with a parallel relationship)	 :: parallelt
+parallel {n} (line of latitude)	 :: [Bokmål] breddegrad {m}, breddegradssirkel {m}; [Nynorsk] breiddegrad {m}, breidegradssirkel {m}
+parallel {n} (one of a set of parallel lines)	 :: parallell {m}
+Paralympics {prop} (Paralympic Games) SEE: Paralympic Games	 ::
+paralyse {v} (paralyse) SEE: paralyze	 ::
+parameter {n} (variable kept constant during an experiment, calculation or similar)	 :: parameter {m}
+paranoia {n} (A psychotic disorder characterized by delusions of persecution)	 :: paranoia
+paranoiac {n} (somebody who has paranoia) SEE: paranoid	 ::
+parapsychology {n} (study of that which cannot yet be explained)	 :: parapsykologi
+parasite {n} ((generally undesirable) living organism that exists by stealing resources from another living organism)	 :: [Bokmål] parasitt {m}; [Nynorsk] parasitt {m}
+parasitical {adj} (parasitic) SEE: parasitic	 ::
+parasitise {v} (parasitize) SEE: parasitize	 ::
+parataxis {n} (in grammar)	 :: paratakse {m}, sideordning {m} {f}
+pardon {n} (forgiveness for an offence)	 :: tilgivelse
+pardon {n} (releasing order)	 :: benådning
+pardon {v} (to forgive)	 :: tilgi
+pardon {v} (to grant an official pardon)	 :: benåde
+pardon me {phrase} (sorry, as an apology)	 :: unnskyld meg, om forlatelse
+pardon my French {v} (please excuse my swearing or bad language (idiomatic))	 :: unnskyld språket mitt
+parenchyma {n} (functional part of an organ, as opposed to supporting tissue)	 :: parenkym
+parent {n} (parent company) SEE: parent company	 ::
+parenthesise {v} (parenthesise) SEE: parenthesize	 ::
+parent-in-law {n} (mother-in-law or father-in-law)	 :: svigerforeldre {p}
+parents {n} (one's mother and father)	 :: foreldre {p}
+paresthesis {n} (paresthesia) SEE: paresthesia	 ::
+parietal lobe {n} (Division of cerebrum)	 :: [Bokmål] isselapp {m}; [Nynorsk] isselapp {m}
+Paris {prop} (capital of France)	 :: Paris
+parish {n} (part of a diocese)	 :: [Bokmål] sogn {n}, sokn {n}; [Nynorsk] sokn {n}
+park {n} (ground for recreation)	 :: [Bokmål] park {m}; [Nynorsk] park {m}
+parking lot {n} (open area, generally paved, where automobiles may be left when not in use)	 :: parkeringsplass
+Parkinson's disease {n} (Parkinson's disease)	 :: Parkinsons sykdom
+parkland {n} (land suitable for being a park)	 :: parkområde, parkanlegg
+parliament {n} (an elected political institution)	 :: ting, parlament
+parlor {n} (drawing room)	 :: dagligstue {m} {f}, dagstue {m} {f}, stue {m} {f}
+Parmesan {n} (parmesan) SEE: parmesan	 ::
+parody {n} (expression making fun of something else)	 :: [Bokmål] parodi {m}; [Nynorsk] parodi {m}
+paroemia {n} (proverb) SEE: proverb	 ::
+parole officer {n} (probation officer) SEE: probation officer	 ::
+parotid {n} (parotid gland) SEE: parotid gland	 ::
+parquet {n} (the part of a theatre between the orchestra and the parquet circle) SEE: stall	 ::
+parrot {n} (channel coal) SEE: channel coal	 ::
+parrot {n} (kind of bird)	 :: papegøye {m}
+parrot {n} (puffin) SEE: puffin	 ::
+parry {n} (a defensive or deflective action; an act of parrying)	 :: finte {c}, parering {c}
+parry {v} (avoid, deflect, or ward off)	 :: parere
+parsimony {n} (great reluctance to spend money unnecessarily)	 :: [Bokmål] sparsommelighet {m} {f}
+parsnip {n} (the edible root of Pastinaca sativa)	 :: pastinakk
+parsnip {n} (the plant Pastinaca sativa)	 :: pastinakk
+part {n} (fraction of a whole )	 :: del {m}
+part {n} (group inside a larger group )	 :: del {m}
+part {n} (position or role )	 :: rolle {m}
+part {n} (section of a document )	 :: del {m}
+part {v} (to become divided in two or separated)	 :: dele
+part {v} (to divide in two)	 :: dele
+part {v} (to leave)	 :: forlate, dra
+parthenogenesis {n} (asexual reproduction) SEE: agamogenesis	 ::
+participant {n} (one who participates)	 :: [Bokmål] deltaker {m}, deltager {m}; [Nynorsk] deltakar {m}
+participate {v} (to join in, to take part, to involve oneself)	 :: delta
+participial {n} (participle) SEE: participle	 ::
+participle {n} (verb form)	 :: partisipp {n}
+particle {n} (body with very small size)	 :: partikkel {m}
+particle {n} (elementary particle or subatomic particle)	 :: partikkel {m}
+particle {n} (word that does not belong to any particular part of speech)	 :: partikkel {m}
+particle accelerator {n} (a device that accelerates electrically charged particles to extremely high speeds)	 :: partikkelakselerator {m}
+particle board {n} (structural material manufactured from wood particles)	 :: [Bokmål] sponplate {m} {f}
+particle physics {n} (particle physics)	 :: partikkelfysikk
+particular {adj} (specific; discrete; concrete; a part or portion of something)	 :: bestemt
+partitive case {n} (case used to indicate that an object is affected only partially by the verb) SEE: partitive	 ::
+partiture {n} (score (music)) SEE: score	 ::
+part of speech {n} (the function a word or phrase performs)	 :: ordklasse
+partridge {n} (any bird of the genera Perdix or Alectoris)	 :: [Bokmål] rapphøne {m} {f}; [Nynorsk] rapphøne {f}
+party {n} (political group)	 :: parti {n}
+party {n} (social gathering)	 :: fest {m}
+party animal {n} (person known for frequent, enthusiastic attendance at parties)	 :: selskapsløve {m}
+party pooper {n} (one who dampens the fun of a group activity) SEE: spoilsport	 ::
+par value {n} (face value) SEE: face value	 ::
+Pashtun {prop} (Pashto) SEE: Pashto	 ::
+paska {n} (paskha) SEE: paskha	 ::
+pass {n} (password) SEE: password	 ::
+passage {n} (section of text or music)	 :: [Bokmål] passasje {m}, passus {m} (text); [Nynorsk] passasje {m}, passus {m} (text)
+passageway {n} (any way for passing in, out or through something)	 :: passasje {m}
+passageway {n} (covered walkway)	 :: passasje {m}
+passenger {n} (one who rides or travels in a vehicle)	 :: [Bokmål] passasjer {m}; [Nynorsk] passasjer {m}
+passenger pigeon {n} (an extinct bird of the species Ectopistes migratorius)	 :: [Bokmål] vandredue
+passenger train {n} (type of train)	 :: [Bokmål] passasjertog {n}, persontog {n}; [Nynorsk] passasjertog {n}, persontog {n}
+passer-by {n} (a person who is passing by)	 :: forbipasserende {m}
+pass gas {v} (break wind) SEE: break wind	 ::
+passion {n} (any great emotion)	 :: [Bokmål] lidenskap {m}; [Nynorsk] lidenskap {m}
+passion fruit {n} (edible fruit)	 :: pasjonsfrukt
+passive {adj} (grammar: being in the passive voice)	 :: passiv
+passive {adj} (taking no action)	 :: passiv
+passive {n} (passive voice) SEE: passive voice	 ::
+passively {adv} (in a passive manner; without conscious or self-directed action)	 :: passivt
+passive voice {n} (grammatical term)	 :: passiv
+pass on {v} (To die) SEE: die	 ::
+passport {n} (official document)	 :: [Bokmål] pass {n}
+pass through {v} (to surreptitiously penetrate, enter or gain access) SEE: infiltrate	 ::
+password {n} (computing: string of characters known only to a user)	 :: [Bokmål] passord {n}; [Nynorsk] passord {n}
+password {n} (word used to gain admittance)	 :: [Bokmål] passord {n}; [Nynorsk] passord {n}
+past {adj} (ago) SEE: ago	 ::
+past {n} ((grammar) past tense)	 :: preteritum
+past {n} (period of time that has already happened)	 :: fortid
+past {prep} (beyond in place)	 :: forbi, bortenfor
+pasta {n} (pieces of dough made from wheat and water)	 :: pasta
+pasteurise {v} (pasteurize) SEE: pasteurize	 ::
+pastiche {n} (work that imitates the work of a previous artist)	 :: pastisj {m}
+pastime {n} (that which amuses)	 :: tidsfordriv {n}
+pastor {n} (shepherd) SEE: shepherd	 ::
+past perfect {n} (pluperfect)	 :: pluskvamperfektum {m}
+pastry {n} (food group)	 :: [Bokmål] bakverk {n}
+pastry {n} (type of dough)	 :: [Bokmål] butterdeig {m}
+pastry shop {n} (pastry shop) SEE: patisserie	 ::
+pasture {v} (graze) SEE: graze	 ::
+patch {n} (computing: patch file) SEE: patch file	 ::
+patch {n} (figuratively: fit) SEE: fit	 ::
+patch {n} (medicine: cover worn over a damaged eye) SEE: eyepatch	 ::
+patch {n} (paltry fellow) SEE: fool	 ::
+patch file {n} (patch) SEE: patch	 ::
+patella {n} (kneecap) SEE: kneecap	 ::
+patellar reflex {n} (a reflex extension of the lower leg)	 :: knerefleks {m}, patellarefleks {m}
+patent {n} (patent leather) SEE: patent leather	 ::
+patent log {n} (taffrail log) SEE: taffrail log	 ::
+paternal aunt {n} (the sister of one's father)	 :: tante {m} {f}, faster {m} {f}
+paternal grandfather {n} (one's father's father)	 :: bestefar, farfar
+paternal grandmother {n} (one's father's mother)	 :: farmor
+paternity {n} (fatherhood) SEE: fatherhood	 ::
+paternoster {n} (a rosary) SEE: rosary	 ::
+path {n}	 :: sti {m}
+pathetic {adj} (arousing scorn or contempt)	 :: patetisk
+pathetic {adj}	 :: patetisk, ynkelig
+patience {n} (game that can be played by one person)	 :: kabal
+patience {n} (quality of being patient)	 :: [Bokmål] tålmodighet {m} {f}; [Nynorsk] tolmod {n}
+patience is a virtue {proverb} (it is better to be patient than impatient)	 :: tålmodighet er en dyd
+patient {adj} (not losing one's temper while waiting)	 :: [Bokmål] tålmodig
+patient {n} (someone who receives treatment from a doctor)	 :: pasient {m}
+Patras {prop} (city of Greece)	 :: Pátra
+patriarch {n} (male leader)	 :: patriark {m}
+patriarchy {n} (office of the patriarch) SEE: patriarchate	 ::
+Patricia {prop} (female given name)	 :: Patricia
+Patrick {prop} (given name)	 :: Patrik
+patriot {n} (person who loves, supports and defends their country)	 :: patriot {m}
+patronizing {adj} (offensively condescending) SEE: condescending	 ::
+Paul {prop} (male given name)	 :: Pål, Paul
+Paul {prop} (the Apostle)	 :: Paulus
+Paula {prop} (female given name)	 :: Paula
+pavement {n} (footpath)	 :: [Bokmål] fortau {n}; [Nynorsk] fortau {n}
+pavilion {n} (detached / semi-detached building in a building complex)	 :: [Bokmål] paviljong {m}; [Nynorsk] paviljong {m}
+pavilion {n} (light roofed structure used as a shelter in a public place)	 :: [Bokmål] paviljong {m}; [Nynorsk] paviljong {m}
+pavilion {n} (ornate tent)	 :: [Bokmål] paviljong {m}; [Nynorsk] paviljong {m}
+pavilion {n} (structure erected to house exhibits at a fair, etc)	 :: [Bokmål] paviljong {m}; [Nynorsk] paviljong {m}
+pawn {n} (chess piece)	 :: bonde {m}
+pawn {n} (instance of pawning something)	 :: pantsette
+pawn {n} (item sold to a pawn shop)	 :: pant {n}
+pawn {n} ((rare) type of shop)	 :: [Bokmål] pantelåner {m}
+pawn {n} (someone who is being manipulated)	 :: brikke {m}
+pawn {v} (give as security for loan)	 :: pantsette
+pawnbroker {n} (person who makes monetary loans at interest, taking personal property as security)	 :: [Bokmål] pantelåner {m}
+pay {v}	 :: betale
+pay {v} (to be profitable)	 :: [Bokmål] lønne seg ; [Nynorsk] løne seg , lønne seg
+pay {v} (to give money in exchange for goods or services)	 :: [Bokmål] betale
+pay attention {v} (to be attentive)	 :: [Bokmål] følge med
+pay day {n} (the day of the week/month etc. when wages are received)	 :: lønningsdag {m}
+payee {n} (one to whom money is paid)	 :: [Bokmål] betalingsmottaker {m}, betalingsmottager {m}; [Nynorsk] betalingsmottakar {m}
+payess {n} (sidelocks worn by Hasidic and Orthodox male Jews) SEE: sidelock	 ::
+payload {n} (That part of a cargo that produces revenue)	 :: [Bokmål] nyttelast {m} {f}; [Nynorsk] nyttelast {m} {f}
+payload {n} (That part of a rocket, missile or torpedo that is not concerned with propulsion or guidance)	 :: nyttelast {m}
+payload {n} (The actual data in a data stream)	 :: datalast {m}
+payload {n} (The functional part of a computer virus rather than the part that spreads it)	 :: skadelast {m}
+payload {n} (The total weight of passengers, crew, equipment and cargo carried by an aircraft or spacecraft)	 :: nyttelast {m}
+payot {n} (sidelocks worn by Hasidic and Orthodox male Jews) SEE: sidelock	 ::
+pea {n} (edible seed)	 :: ert
+pea {n} (plant)	 :: ert
+peace {n} (state of being free from war)	 :: [Bokmål] fred {m}; [Nynorsk] fred {m}
+peace {n} (tranquility, quiet, harmony; absence of violence)	 :: [Bokmål] fred {m}, stillhet {m} {f}, ro {m} {f}; [Nynorsk] fred {m}
+peaceable {adj} (characterized by peace)	 :: fredsommelig
+peaceable {adj} (in favour of peace)	 :: fredsommelig, fredsæl
+peace of mind {n} (absence of mental stress)	 :: ro i sinnet {m}
+peace pipe {n} (pipe)	 :: fredspipe {f}
+peacetime {n} (period containing peace)	 :: [Bokmål] fredstid {m} {f}; [Nynorsk] fredstid {f}
+peach {n} (colour)	 :: fersken {m}
+peach {n} (fruit)	 :: fersken {m}
+peacock {n} (bird)	 :: påfugl {m}
+peak hour {n} (rush hour) SEE: rush hour	 ::
+peanut {n} (a legume resembling a nut)	 :: peanøtt {f}, jordnøtt {f}
+pear {n} (fruit)	 :: pære {c}
+pear {n} (tree)	 :: pæretre {n}
+pearl {n} (brill) SEE: brill	 ::
+pearl {n} (fringe or border) SEE: fringe	 ::
+pearl {n} (light-colored tern) SEE: tern	 ::
+pearl {n} (mother-of-pearl) SEE: mother-of-pearl	 ::
+pearl {n} (one of the tubercles on a deer's antler) SEE: tubercle	 ::
+pearl {n} (rounded shelly concretion produced by certain mollusks)	 :: perle {c}
+pearl diver {n} (dishwasher) SEE: dishwasher	 ::
+pearl tapioca {n} (edible balls made from tapioca) SEE: tapioca pearl	 ::
+peat {n} (soil)	 :: [Bokmål] torv {m} {f}; [Nynorsk] torv {f} {n}
+pebble {n} (rock fragment between 4 and 64 millimetres in diameter)	 :: grus {m}, pukk
+pebble {n} (stone)	 :: [Bokmål] småstein {m}, småsten {m}; [Nynorsk] småstein {m}
+pebble {v} (To pave with pebbles)	 :: gruslegge
+pechka {n} (Russian oven) SEE: Russian oven	 ::
+pecker {n} (slang for courage) SEE: courage	 ::
+pecker {n} (slang for penis) SEE: dick	 ::
+pecker {n} (slang for woodpecker) SEE: woodpecker	 ::
+peckerwood {n} (peckerwood sawmill) SEE: peckerwood sawmill	 ::
+peckerwood {n} (white, especially ignorant or rustic) SEE: redneck	 ::
+peckerwood {n} (woodpecker) SEE: woodpecker	 ::
+peckish {adj}	 :: fysen
+pectin {n} (substance)	 :: pektin
+pedagogic {adj} (pedagogical) SEE: pedagogical	 ::
+pedagogical {adj} (of, or relating to pedagogy)	 :: pedagogisk
+pedal {n} (lever operated by one's foot)	 :: [Bokmål] pedal {m}; [Nynorsk] pedal {m}
+pedantical {adj} (pedantic) SEE: pedantic	 ::
+pederasty {n} (archaic: homosexual anal sex) SEE: sodomy	 ::
+pederasty {n} (pederasty)	 :: [Bokmål] pederasti
+pedestrian crossing {n} (place for pedestrians to cross a street)	 :: fotgjengerfelt, fotgjengerovergang, sebrastripe
+pedophile {n} (an adult who is sexually attracted to children)	 :: pedofili
+pee {n} (urine)	 :: tiss {n}
+pee {v} (to urinate)	 :: tisse, pisse, urinere, late vannet
+peel {n} (skin of a fruit)	 :: skall {n}
+peel {v} (to remove skin)	 :: skrelle
+peep {n} (sandpiper) SEE: sandpiper	 ::
+pee-pee {n} (childish: penis) SEE: wee-wee	 ::
+pee-pee {n} (childish: urine) SEE: wee-wee	 ::
+peer {n} (someone or something of equal level)	 :: [Bokmål] jevnaldrende {m} [age-mate, mostly used as an adjective]
+peer {v} (to look with difficulty or as if searching)	 :: [Bokmål] kikke
+peerage {n} (book listing peers and their families)	 :: adelskalender {m}
+pegasus {n} (winged horse)	 :: pegasus {c}
+pejorative {adj} (disparaging, belittling or derogatory)	 :: [Bokmål] nedsettende
+pejorative {n} (disparaging, belittling or derogatory word or expression)	 :: pejorativ {n}
+pekan {n} (fisher) SEE: fisher	 ::
+Peking {prop} (Beijing) SEE: Beijing	 ::
+pelican {n} (any of various seabirds of the family Pelecanidae)	 :: pelikan {m}
+pelvis {n} (bone)	 :: bekken
+pen {n} ((baseball) bullpen) SEE: bullpen	 ::
+pen {n} (enclosed area for animals)	 :: innhegning {m} {f}, kve {n}
+pen {n} (female swan)	 :: [Bokmål] hunnsvane {f} {m}; [Nynorsk] hunnsvane {f}
+pen {n} (light pen) SEE: light pen	 ::
+pen {n} (wing) SEE: wing	 ::
+pen {n} (writing tool)	 :: [Bokmål] penn {m}; [Nynorsk] penn {m}
+pen {v} (to enclose)	 :: innhegne
+pen {v} (to write)	 :: skrive, føre i pennen
+penal code {n} (criminal code) SEE: criminal code	 ::
+penalize {v} (to subject to a penalty)	 :: straffe
+penalty {n} (legal sentence)	 :: straff {m} {f}
+penalty {n} (penalty kick) SEE: penalty kick	 ::
+penalty {n} (punishment for violating rules of procedure)	 :: straff {m} {f}
+penalty box {n} (penalty area) SEE: penalty area	 ::
+penalty kick {n} ((soccer) a form of direct free kick)	 :: straffe {m} {f}, straffespark {n}
+penance {n} (voluntary self-imposed punishment)	 :: bot
+pencil {n} (graphite writing-instrument)	 :: blyant
+pencil box {n} (object purposed to contain stationery) SEE: pencil case	 ::
+pencil pusher {n} (one who does office work)	 :: kontorrotte {m} {f} [office rat]
+pencil sharpener {n} (a device used to sharpen pencils)	 :: blyantspisser {n}
+pendulum {n} (body suspended from a fixed support)	 :: pendel {m}
+penfriend {n} (person with whom one exchanges letters) SEE: pen pal	 ::
+penguin {n} (flightless sea bird)	 :: pingvin {m}
+penicillin {n} (penicillin)	 :: penicillin
+penile duplication {n} (diphallia) SEE: diphallia	 ::
+peninsula {n} (a piece of land projecting into water)	 :: [Bokmål] halvøy {m} {f}; [Nynorsk] halvøy {f}
+penis {n} (male organ for copulation and urination)	 :: penis, pikk
+penitentiary {adj} (of or relating to prison)	 :: fengsels- (affix construction)
+penitentiary {n} (prison)	 :: fengsel {n}, kasjott {m} [dated]
+pennon {n} (a thin triangular flag or streamer)	 :: vimpel {m}, banner {n}
+Pennsylvania Dutch {prop} (language)	 :: [Bokmål] pennsylvaniatysk {m}; [Nynorsk] pennsylvaniatysk {m}
+Pennsylvania Dutch {prop} (People of Pennsylvania German origin)	 :: [Bokmål] pennsylvaniatyskere; [Nynorsk] pennsylvaniatyskarar
+Pennsylvania German {adj} (Pennsylvania Dutch) SEE: Pennsylvania Dutch	 ::
+Pennsylvania German {n} (Pennsylvania Dutch) SEE: Pennsylvania Dutch	 ::
+Pennsylvania German {prop} (Pennsylvania Dutch) SEE: Pennsylvania Dutch	 ::
+pen pal {n} (person with whom one communicates using letters)	 :: brevvenn
+Penrose staircase {n} (Penrose stairs) SEE: Penrose stairs	 ::
+Penrose steps {n} (Penrose stairs) SEE: Penrose stairs	 ::
+pension {n} (boarding house)	 :: pensjonat {n}
+pension {n} (regular payment due to a person in consideration of past services)	 :: pensjon {m}
+pension {v} (to force to retire)	 :: [Bokmål] pensjonere; [Nynorsk] pensjonere
+pension {v} (to grant a pension)	 :: [Bokmål] pensjonere; [Nynorsk] pensjonere
+pensioner {n} (someone who lives on a pension)	 :: pensjonist {m}
+pensive {adj} (having the appearance of thinking)	 :: tankefull, ettertenksom
+pensive {adj} (looking thoughtful or sad)	 :: tankefull, ettertenksom
+pentane {n} (aliphatic hydrocarbon: C5H12)	 :: [Bokmål] pentan {n}; [Nynorsk] pentan {n}
+pentanoic acid {n} (valeric acid) SEE: valeric acid	 ::
+Pentecost {prop} (Christian festival)	 :: pinse {m} {f}
+pentennial {adj} (quinquennial) SEE: quinquennial	 ::
+pentoic acid {n} (valeric acid) SEE: valeric acid	 ::
+penumbra {n} (region around a sunspot)	 :: [Bokmål] penumbra {m}; [Nynorsk] penumbra {m}
+people {n} (a body of human beings; a group of two or more persons)	 :: folk, lyd
+people {n} (a group of persons forming or belonging to a particular nation etc.)	 :: folk {n}
+people {n} (a group of persons regarded as being employees etc.)	 :: folk
+people {n} (a person's ancestors, relatives or family)	 :: slekt {m}
+people {n} (the mass of community as distinguished from a special class)	 :: folk {n}
+people {v} (to become populous)	 :: befolkes
+people {v} (to fill with people)	 :: befolke
+people {v} (to inhabit, to occupy)	 :: befolke
+People's Republic of China {prop} (official name of China)	 :: Folkerepublikken Kina {m}
+pepper {n} (spice)	 :: pepper {n}
+peppered {adj} (speckled) SEE: speckled	 ::
+peppermint {n} (herb)	 :: peppermynte {n}
+pepper spray {n} (non-lethal riot-control agent)	 :: pepperspray
+per {prep}	 :: per (abbreviated pr.)
+perambulator {n} (pram) SEE: pram	 ::
+P-E ratio {n} (price-earnings ratio) SEE: price-earnings ratio	 ::
+PE ratio {n} (price-earnings ratio) SEE: price-earnings ratio	 ::
+percentage point {n} (unit of the difference of two percentages)	 :: prosentpoeng {n}
+perch {n} (fish of the genus Perca)	 :: [Bokmål] abbor; [Nynorsk] åbor
+percussion {n} (music: section of percussion instruments)	 :: [Bokmål] slagverk {n}; [Nynorsk] slagverk {n}
+percussionist {n} (musician)	 :: [Bokmål] slagverker {m}
+peregrine falcon {n} (Falco peregrinus)	 :: vandrefalk
+perennial {adj} ((of a plant) Having a life cycle of more than two years)	 :: [Bokmål] flerårig
+perestroika {n} (reform in the Soviet Union in 1980s)	 :: perestrojka
+perfect {adj} (fitting its definition precisely)	 :: perfekt
+perfectionist {n} (person)	 :: [Bokmål] perfeksjonist {m}; [Nynorsk] perfeksjonist {m}
+perfectitude {n} (perfection) SEE: perfection	 ::
+perfect number {n} (a number that is the sum of all of its divisors except itself)	 :: perfekt tall
+perfect pitch {n} (exact pitch) SEE: absolute pitch	 ::
+perfect tense {n} (verb form indicating that an action has been completed)	 :: perfektum {m}, andre futurum
+perforate {adj} (perforated) SEE: perforated	 ::
+perforator {n} (hole punch) SEE: hole punch	 ::
+perfume {n} (pleasant smell)	 :: duft, aroma, godlukt
+perfume {n} (substance providing a pleasant smell)	 :: [Bokmål] parfyme {m}; [Nynorsk] parfyme {m}
+perhaps {adv} (indicating a lack of certainty)	 :: kanskje, muligens
+periapse {n} (periapsis) SEE: periapsis	 ::
+Pericles {prop} (Greek politician)	 :: Perikles {m}
+perigone {n} (perianth) SEE: perianth	 ::
+perineum {n} (anatomical term)	 :: mellomkjøtt {n}, perineum
+period {n} (history: period of time seen as coherent entity)	 :: periode, æra
+period {n} (length of time during which something repeats)	 :: periode {m}
+period {n} (menstruation) SEE: menstruation	 ::
+period {n} (punctation mark “.”)	 :: punktum {n}
+periodically {adv} (intermittently) SEE: intermittently	 ::
+periodic table {n} (chart)	 :: [Bokmål] periodesystem {n}; [Nynorsk] periodesystem {n}
+peripheral {adj} (auxiliary)	 :: perifer
+peripheral {adj} (beside the point)	 :: perifer
+peripheral {adj} (on the periphery or boundary)	 :: perifer
+peripheral {adj} (unimportant)	 :: perifer
+peripheral {n} (computing device) SEE: peripheral device	 ::
+peripheral device {n} (device that is outside the computer's system unit)	 :: [Bokmål] periferenhet {m}
+periphrase {n} (use of more words than necessary) SEE: periphrasis	 ::
+perishable {adj} (liable to perish)	 :: lettbedervelig
+peritoneum {n} (serous membrane in mammals)	 :: [Bokmål] bukhinne {m} {f}; [Nynorsk] bukhinne {f}
+perjurer {n} (Someone who has lied under oath)	 :: løftebryter
+perjury {n} (deliberate giving of false or misleading testimony under oath)	 :: falsk forklaring {c}, mened {c}
+permanent {adj} (lasting for an indefinitely long time)	 :: [Bokmål] permanent; [Nynorsk] permanent
+permanently {adv} (in a permanent manner)	 :: permanent, for alltid
+permanent wave {n} (series of waves in the hair) SEE: permanent	 ::
+permission {n} (authorisation)	 :: tillatelse {m}
+permissive {adj} (lenient)	 :: tolerant
+permutation {n} (ordering of a set of distinct elements)	 :: [Bokmål] permutasjon
+pern {n} (honey buzzard) SEE: honey buzzard	 ::
+peroxide {n} (hydrogen peroxide) SEE: hydrogen peroxide	 ::
+perpendicular {adj} (at or forming a right angle to)	 :: loddrett
+perpetrator {n} (one who perpetrates)	 :: gjerningsmann {m}
+persecute {v} (to pursue in a manner to injure, grieve, or afflict)	 :: [Bokmål] forfølge
+Persephone {prop} (Greek goddess)	 :: Persephone
+Persia {prop} (Iran) SEE: Iran	 ::
+Persian {adj} (from or pertaining to Persia)	 :: persisk
+Persian {adj}	 :: persisk
+Persian {n} (member of ethnic group)	 :: [Bokmål] perser {m}; [Nynorsk] persar
+Persian {prop} (Persian language)	 :: [Bokmål] persisk {m}, farsi {m}; [Nynorsk] persisk {m}, farsi {m}
+Persian Gulf {prop} (gulf between Iran and Arabian peninsula)	 :: Persiabukten; [Nynorsk] Persiabukta
+persimmon {n} (fruit)	 :: kaki, kakiplomme, kakifrukt, persimon
+person {n} (any individual or formal organization with standing before the courts)	 :: person
+person {n} (individual)	 :: person {m}, menneske {n}
+person {n} (linguistic category)	 :: person
+person {n} (specifically a human being)	 :: person
+person {n} (the physical body seen as distinct from the mind)	 :: person
+personage {n} (a famous or important person)	 :: personasje {m}
+personal injury {n} (injury to the body)	 :: [Bokmål] personskade {m}; [Nynorsk] personskade {m}
+personality {n} (celebrity)	 :: [Bokmål] personlighet {m} {f}
+personality {n} (set of qualities that make a person distinct from other people)	 :: [Bokmål] personlighet {m} {f}
+personally {adv} (concerning oneself)	 :: [Bokmål] personlig; [Nynorsk] personleg
+persona non grata {n} (a person who is not welcome)	 :: [Bokmål] persona non grata
+personnel {n} (employees, office staff)	 :: personell
+perspicacious {adj} (Able to physically see clearly)	 :: klarsynt; [Nynorsk] klarsynt, klårsynt
+perspicacious {adj} (showing keen insight)	 :: skarpsindig; [Nynorsk] skarpsindig
+perspiration {n} (sweat) SEE: sweat	 ::
+perspire {v} (to sweat)	 :: svette
+persuade {v} (convince)	 :: overtale
+pertain {v} (to relate, to refer)	 :: gjelde
+perturb {v} (to disturb; to bother or unsettle)	 :: forurolige, vekke uro {m}, gjøre forstyrret, skake (opp), ryste
+pertussis {n} (whooping cough) SEE: whooping cough	 ::
+Peru {prop} (country in South America)	 :: Peru
+Peruvian {adj} (pertaining to Peru)	 :: [Bokmål] peruansk; [Nynorsk] peruansk
+Peruvian {n} (person from Peru)	 :: [Bokmål] peruaner {m}; [Nynorsk] peruan {m}, peruanar {m}
+pervasive {adj} (manifested throughout)	 :: gjennomtrengende
+Pesach {prop} (Passover) SEE: Passover	 ::
+pesky {adj} (annoying, troublesome, irritating)	 :: plagsom
+pessimist {n} (someone who habitually expects the worst outcome)	 :: [Bokmål] pessimist {m}; [Nynorsk] pessimist {m}
+pessimistic {adj} (always expecting the worst)	 :: pessimistisk
+pessimistic {adj} (marked by pessimism and little hopefulness)	 :: pessimistisk
+pet {n} (an animal kept as a companion)	 :: kjæledyr {n}
+pet {n}	 :: kjæledyr {n}
+pet {v} (fondle (an animal))	 :: kjæle
+pet {v} (fondle (another person) amorously)	 :: kjæle, kose med, kjærtegne
+PET {acronym} (polyethylene terephthalate) SEE: polyethylene terephthalate	 ::
+PET {acronym} (positron emission tomography) SEE: positron emission tomography	 ::
+petaliter {n} (petalitre) SEE: petalitre	 ::
+petasus {n} (low-crowned hat worn by the Ancient Greeks and Romans)	 :: petasos
+pet cone {n} (Elizabethan collar) SEE: Elizabethan collar	 ::
+Peter {prop} (male given name)	 :: Peder, Peter, Petter
+Peter {prop} (one of the epistles of Peter)	 :: Peter, Peters, Pet
+Peter {prop} (the Apostle)	 :: Peter
+Peterson {prop} (surname meaning "son of Peter")	 :: Pedersen, Petersen
+pet hate {n} (personal dislike) SEE: pet peeve	 ::
+pet lamp-shade {n} (Elizabethan collar) SEE: Elizabethan collar	 ::
+pet name {n} (name of endearment)	 :: kallenavn
+petrol {n} (gasoline) SEE: gasoline	 ::
+petrolatum {n} (petroleum jelly) SEE: petroleum jelly	 ::
+petroleum {n} (oil) SEE: oil	 ::
+petrol station {n} (gas station) SEE: gas station	 ::
+petrol tank {n} (gas tank) SEE: gas tank	 ::
+petty officer {n} (non-commissioned officer)	 :: [Bokmål] underoffiser {m}; [Nynorsk] underoffiser {m}
+petulant {adj} (easily irritated or annoyed)	 :: amper, hårsår, lunefull, pirrelig
+phagocytise {v} (phagocytize) SEE: phagocytize	 ::
+phalange {n} (phalanx) SEE: phalanx	 ::
+phallic {adj} (having to do with the penis)	 :: fallisk
+phallus {n} (penis) SEE: penis	 ::
+phallus {n} (the penis or its representation)	 :: [Bokmål] fallos {m}; [Nynorsk] fallos {m}
+phantom {n} (something having no physical reality)	 :: fantom {c}, fantomet
+Phantom {prop} (comic and its main character)	 :: Fantomet
+pharaoh {n} (supreme ruler of ancient Egypt)	 :: farao {m}
+pharisaical {adj} (both senses) SEE: pharisaic	 ::
+pharmaceutical {adj} (of, or relating to pharmacy or pharmacists)	 :: [Bokmål] farmasøytisk; [Nynorsk] farmasøytisk
+pharmaceutics {n} (pharmacy) SEE: pharmacy	 ::
+pharmacist {n} (professional who dispenses prescription drugs)	 :: [Bokmål] farmasøyt {m}, apoteker {m}; [Nynorsk] apotekar {m}, farmasøyt {m}
+pharmacologic {adj} (pharmacological) SEE: pharmacological	 ::
+pharmacological {adj} (of or having to do with pharmacology)	 :: [Bokmål] farmakologisk; [Nynorsk] farmakologisk
+pharmacology {n} (science that studies the effects of chemical compounds on living animals)	 :: [Bokmål] farmakologi {m}; [Nynorsk] farmakologi {m}
+pharmacy {n} (a place where prescription drugs are dispensed)	 :: apotek {n}
+pharmacy {n} (science of medicinal substances)	 :: [Bokmål] farmasi {m}; [Nynorsk] farmasi {m}
+phase {n} (haplotype) SEE: haplotype	 ::
+pheasant {n} (bird of family Phasianidae, often hunted for food)	 :: fasan {m}
+phenomenon {n} (observable fact or occurrence)	 :: [Bokmål] fenomen {n}; [Nynorsk] fenomen {n}
+phenomenon {n} (unusual, curious, or astonishing fact or event)	 :: [Bokmål] fenomen {n}; [Nynorsk] fenomen {n}
+pheromone {n} (chemical)	 :: [Bokmål] feromon {n}; [Nynorsk] feromon {n}
+phial {n} (glass vessel) SEE: vial	 ::
+philander {n} (lover) SEE: lover	 ::
+philia {n} (friendship) SEE: friendship	 ::
+philia {n} (liking) SEE: liking	 ::
+Philip {prop} (biblical persons)	 :: Filip
+Philip {prop} (male given name)	 :: Filip
+Philippine {adj} (Filipino) SEE: Filipino	 ::
+Philippine eagle {n} (species of eagle endemic to the Philippines)	 :: filippinsk apeørn
+Philippines {prop} (Republic of the Philippines)	 :: Filippinene
+philistine {adj} (lacking in appreciation for art or culture)	 :: filistrøs
+philistine {n} (Philistine) SEE: Philistine	 ::
+Philistine {adj} (philistine) SEE: philistine	 ::
+Philistine {n} (person from Philistia)	 :: [Bokmål] filister {m}
+philosopher {n} (person devoted to studying philosophy)	 :: [Bokmål] filosof {m}; [Nynorsk] filosof {m}
+philosopher's stone {n} (philosopher's stone)	 :: de vises stein
+philosophy {n} (academic discipline)	 :: [Bokmål] filosofi {m}; [Nynorsk] filosofi {m}
+philtrum {n} (shallow groove running down the centre of the outer surface of the upper lip)	 :: philtrum {m}
+Phineas {prop} (biblical character) SEE: Phinehas	 ::
+Phinehas {prop} (biblical character)	 :: Pinhas
+phlogiston {n} (hypothetical fiery principle)	 :: [Bokmål] flogiston; [Nynorsk] flogiston
+phobia {n} (irrational or obsessive fear or anxiety)	 :: fobi {m}
+-phobia {suffix}	 :: -fobi
+Phoenician {adj} (of, from, or related to the country or civilisation of Phoenicia)	 :: [Nynorsk] fønikisk
+Phoenician {n} (inhabitant of Phoenicia)	 :: [Nynorsk] fønikar {m}
+phoenix {n} (anything reborn after apparently being destroyed)	 :: føniks {m}
+phoenix {n} (mythological bird)	 :: føniks {m}, ildfugl {m}
+Phoenix {prop} (capital city of Arizona, United States)	 :: Phoenix
+Phoenix {prop} (mythical firebird)	 :: føniks {m}
+phone book {n} (telephone directory) SEE: telephone directory	 ::
+phonebook {n} (telephone directory) SEE: telephone directory	 ::
+phone booth {n} (telephone booth) SEE: telephone booth	 ::
+phone call {n} (telephone call) SEE: telephone call	 ::
+phone number {n} (telephone number) SEE: telephone number	 ::
+phonetics {n} (study of speech sounds and their representation by written symbols)	 :: [Bokmål] fonetikk {m}
+phonology {n} (subfield of linguistics concerned with the way sounds function in languages)	 :: [Bokmål] fonologi {m}
+phosphorus {n} (element)	 :: [Bokmål] fosfor {m} {n}; [Nynorsk] fosfor {m} {n}
+photograph {n} (picture)	 :: [Bokmål] fotografi {m}
+photographer {n} (one who takes photographs)	 :: [Bokmål] fotograf {m}; [Nynorsk] fotograf {m}
+photography {n} (art and technology of producing images on photosensitive surfaces)	 :: fotografi
+photon {n} (quantum of light)	 :: foton {n}, lyskvant; [Bokmål] lyskvant; [Nynorsk] lyskvant
+photophobia {n} (excessive sensitivity to light)	 :: lysømfintlighet
+photosphere {n} (A visible surface layer of a star)	 :: [Bokmål] fotosfære {m}; [Nynorsk] fotosfære {m}
+photosynthesis {n} (biological process)	 :: [Bokmål] fotosyntese {m}; [Nynorsk] fotosyntese {m}
+phrase {n} (grammar: group of two or more words that express an idea but do not form a complete sentence)	 :: [Bokmål] frase {m}; [Nynorsk] frase {m}
+phrase {n} (music: small section of music in a larger piece)	 :: [Bokmål] frase {m}; [Nynorsk] frase {m}
+phrase {n} (short written or spoken expression)	 :: [Bokmål] frase {m}; [Nynorsk] frase {m}
+phrase book {n} (book of everyday expressions and vocabulary)	 :: parlør
+phrasebook {n} (book used to learn foreign language) SEE: phrase book	 ::
+phraseology {n}	 :: fraseologi {m}
+phraseology {n} (phrasebook) SEE: phrase book	 ::
+phthiriasis {n} (pediculosis) SEE: pediculosis	 ::
+phycology {n} (study of algae)	 :: fykologi
+physical {adj} (having to do with physics)	 :: fysisk
+physical {adj} (having to do with the body)	 :: fysisk
+physical {adj} (having to do with the material world)	 :: fysisk
+physical {adj} (involving bodily force)	 :: fysisk
+physical culture {n} (bodybuilding) SEE: bodybuilding	 ::
+physical map {n} (topographical map) SEE: topographical map	 ::
+physical therapy {n} (therapy of exercises and activities to treat injury or dysfunction) SEE: physiotherapy	 ::
+physician {n} (medical doctor)	 :: lege {m}
+physicist {n} (person whose occupation specializes in the science of physics)	 :: [Bokmål] fysiker {m}; [Nynorsk] fysikar {m}
+physics {n} (branch of science)	 :: [Bokmål] fysikk {m}; [Nynorsk] fysikk {m}
+physiologic {adj} (of or pertaining to physiology) SEE: physiological	 ::
+physique {n} (physical structure of a person)	 :: [Bokmål] fysikk {m}; [Nynorsk] fysikk {m}
+phytogeography {n} (geobotany) SEE: geobotany	 ::
+pianist {n} (piano player)	 :: [Bokmål] pianist {m}; [Nynorsk] pianist {m}
+piano {n} (a keyboard musical instrument)	 :: piano {n}
+pianola {n} (music) SEE: player piano	 ::
+pick {n} (choice)	 :: valg {n}
+pick {n} (music: plectrum)	 :: plekter {n}
+pick {n} (pickaxe)	 :: hakke
+pick {n} (tool to open a lock)	 :: dirk {m}
+pick {v} (to decide between options)	 :: velge
+pick {v} (to grasp and pull with fingers)	 :: pilke
+pick {v} (to remove a fruit or plant for consumption)	 :: plukke
+picket {n} (a stake driven into the ground)	 :: staur {m}
+pickle {n} (cucumber preserved in brine or vinegar syrup)	 :: sylteagurk {m}
+picklock {n} (device designed to pick locks)	 :: dirk {m}
+pick one's nose {v} (to engage in nose-picking)	 :: plukke nesen
+pickpocket {n} (one who steals from the pocket of a passerby)	 :: [Bokmål] lommetyv {m}, lommetjuv {m}; [Nynorsk] lommetjuv {m}
+pick up {n} (pickup) SEE: pickup	 ::
+pick up {v} (to collect a passenger)	 :: hente (noen)
+picky {adj} (fussy, particular)	 :: pirkete
+picnic {n} (a meal eaten outdoors)	 :: piknik {m}; [Nynorsk] piknik {m}
+picoliter {n} (picolitre) SEE: picolitre	 ::
+pictogram {n} (picture that represents a word or an idea)	 :: [Bokmål] piktogram {n}; [Nynorsk] piktogram {n}
+picture {n} (informal: cinema)	 :: kino {m}
+picture {n} (painting) SEE: painting	 ::
+picture {n} (representation of visible reality produced by drawing, etc)	 :: bilde {n}; [Nynorsk] bilete
+picture {v} (to imagine or envision)	 :: forestille seg
+picture {v} (to make a picture of)	 :: fotografere
+picture book {n} (a book for young children with illustrations)	 :: billedbok {c}
+picture card {n} (trade card) SEE: trade card	 ::
+picture dictionary {n} (dictionary with pictures)	 :: bildeordbok, biletordbok
+pie {n} (pizza) SEE: pizza	 ::
+pie {n} (type of pastry)	 :: [Bokmål] pai {m}; [Nynorsk] pai {m}
+piece {n} (hairpiece) SEE: hairpiece	 ::
+piece {n} (part of a larger whole)	 :: [Bokmål] stykke {n}; [Nynorsk] stykke {n}
+piece of cake {n} (simple or easy job)	 :: barnemat
+piece of clothing {n} (garment) SEE: garment	 ::
+piece of furniture {n} (item of furniture.)	 :: [Bokmål] møbel {n}; [Nynorsk] møbel {n}
+pier {n} (structure supporting the junction between two spans of a bridge)	 :: brupilar
+pierce {v} (create a hole for jewelry)	 :: ta hull
+pierce {v} (puncture)	 :: punktere, trenge gjennom, perforere
+Pieria {prop} (Greek prefecture)	 :: [Bokmål] Pieria; [Nynorsk] Piería
+pig {n} (derogatory slang for police officer)	 :: purk {m}, snut {m}
+pig {n} (mammal of genus Sus)	 :: svin {n}, gris {m}
+pig {n} (piglet) SEE: piglet	 ::
+pig {n} (pork) SEE: pork	 ::
+pig {n} (someone who overeats or eats rapidly)	 :: storeter {m}
+pigeon {n} (bird of the pigeon and dove family Columbidae)	 :: [Bokmål] [♂♀] due {f} {m}, [♂] hanndue {f} {m}, [♂] duestegg {m}, [♀] hunndue {f} {m}; [Nynorsk] [♂♀] due {f}, [♂♀] dua {f} [variant form], [♂] hanndue {f}, [♂] duestegg {m}, [♀] hodue {f}
+pigeon racing {n} (pigeon racing, the sport of racing pigeons)	 :: [Bokmål] duesport {m}, brevduesport {m}; [Nynorsk] duesport {m}, brevduesport {m}
+piggy bank {n} (a small container to store small saved coins in)	 :: [Bokmål] sparegris {m}; [Nynorsk] sparegris {m}
+pig in a poke {n} (something whose true value is concealed or unknown)	 :: katten i sekken
+piglet {n} (young pig)	 :: grisunge {m}, pattegris {m}
+pigling {n} (piglet) SEE: piglet	 ::
+pigment {n}	 :: pigment
+pigpen {n} (pigsty) SEE: pigsty	 ::
+pigskin {n} (leather made from the skin of a pig)	 :: [Bokmål] svinelær {n}
+pike {n} (any fish of the genus Esox)	 :: gjedde {f}
+pike {n} (turnpike) SEE: turnpike	 ::
+pike {n} (weapon)	 :: pik {m}
+pike-perch {n} (zander) SEE: zander	 ::
+pile {n} (funeral pile) SEE: pyre	 ::
+pile {n} (galvanic pile)	 :: batteri {n}
+pile {n} (heap)	 :: haug {m}, stabel {m}
+pile {n} (hemorrhoid) SEE: hemorrhoid	 ::
+pile {n} (nap of a cloth) SEE: nap	 ::
+pile {n} (obsolete: reverse of a coin) SEE: tails	 ::
+pile {n} (stake of pointed timber, steel etc., driven into the earth)	 :: [Bokmål] påle {m}; [Nynorsk] påle {m}
+pile {n} (wrought iron to be worked over into bars or other shapes) SEE: fagot	 ::
+pile {v} (to lay or throw into a pile)	 :: [Bokmål] stable, samle; [Nynorsk] stable, samle
+piles {n} (haemorrhoids) SEE: haemorrhoids	 ::
+piles {n} (informal: a large amount)	 :: [Bokmål] haugevis; [Nynorsk] haugevis
+piles {n} (plural of pile) SEE: pile	 ::
+pilgarlic {n} (bald-headed person) SEE: egghead	 ::
+pilgrim {n} (traveler, especially to religious sites)	 :: pilegrim {m}
+pilgrimage {n} (religious journey, or one to a sacred place)	 :: pilgrimsferd {m}, valfart {m}
+pillory {n} (a framework on a post used as a means of punishment and humiliation)	 :: gapestokk {m}
+pillory {v} (criticize harshly)	 :: hudflette
+pillory {v} (put someone in a pillory)	 :: sette i gapestokken
+pillory {v} (subject someone to humiliation, scorn, ridicule or abuse)	 :: sette i gapestokken
+pillow {n} (soft cushion used to support the head in bed)	 :: pute {c}
+pillow case {n} (sheet for covering a pillow)	 :: putetrekk {n}, putevar {n}
+pillowcase {n} (cover for pillows) SEE: pillow case	 ::
+pillow fight {n} (a play fight that involves hitting others with pillows)	 :: putekrig
+pillowslip {n} (pillow case) SEE: pillow case	 ::
+pillow talk {n} (conversation shared by bedmates)	 :: [Bokmål] intim betroelse {m} {f}
+pilot {n} (controller of aircraft)	 :: pilot {m}
+pilot {n} (person who helps navigate the harbor or coast)	 :: los {m}
+pilot whale {n} (either of two species of whale)	 :: [Bokmål] grindhval {m}; [Nynorsk] grindkval {m}
+pimp {n} (prostitution solicitor)	 :: hallik {m}
+pimple {n} (inflamed spot on the surface of the skin)	 :: kvise {c}
+pin {n} (jewellery attached with a pin) SEE: brooch	 ::
+pin {n} (small device; small needle with no eye)	 :: knappenål
+pine {n} (tree of the genus Pinus)	 :: [Bokmål] furu {m} {f}; [Nynorsk] furu {f}
+pineal gland {n} (a small endocrine gland)	 :: epifyse {m}, konglekjertel {m}
+pineapple {n} (fruit)	 :: ananas {m}
+pineapple {n} (plant)	 :: ananas {m}
+pineapple {n} (slang: hairstyle)	 :: [Bokmål] grorudpalme {m}
+pineapple guava {n} (feijoa) SEE: feijoa	 ::
+pinecone {n} (pine cone) SEE: pine cone	 ::
+pinery {n} (pinewood) SEE: pinewood	 ::
+pine tree {n} (pine) SEE: pine	 ::
+ping pong {n} (table tennis) SEE: table tennis	 ::
+pinion {n} (gear in a gear drive train)	 :: [Bokmål] tanndrev {n}, tannhjulsdrev {n}, spisshjul {n}
+pink {adj} (colored/coloured between red and white)	 :: [Bokmål] rosa; [Nynorsk] rosa
+pink {n} (flower)	 :: nelikk {c}
+pink {n} (pale red colour)	 :: [Bokmål] rosa; [Nynorsk] rosa
+pink dollar {n} (business generated by homosexuals) SEE: pink pound	 ::
+pinkie {n} (little finger) SEE: little finger	 ::
+pinky {n} (little finger) SEE: little finger	 ::
+pinna {n} (outer ear)	 :: ytterør {n}, pinna
+PIN number {n} (PIN) SEE: PIN	 ::
+pinstripe {n} (thin stripe on fabric)	 :: [Nynorsk] nålestripe {f}
+pinta {n} (pint) SEE: pint	 ::
+pinto {adj} (pied, mottled)	 :: [Bokmål] flekket; [Nynorsk] flekka
+piñon {n} (pine nut) SEE: pine nut	 ::
+piñon {n} (piñon pine) SEE: piñon pine	 ::
+pioneering {adj} (involving new ideas or methods)	 :: Bokmal: banebrytende
+pipe {n} (smoking tool) SEE: tobacco pipe	 ::
+pipe dream {n} (near impossibility)	 :: luftslott {n}, ønskedrøm {m}
+piper {n} (baby pigeon) SEE: squab	 ::
+piper {n} (bagpiper) SEE: bagpiper	 ::
+pipes of Pan {n} (panpipes) SEE: panpipes	 ::
+pipe wrench {n} (adjustable wrench)	 :: [Bokmål] rørtang {m} {f}
+piracy {n} (hijacking)	 :: kapring
+piranha {n} (South American fish)	 :: piraya, piraja
+pirate {adj} (illegal imitated or reproduced)	 :: piratkopiert
+pirate {n} (one who downloads copyrighted works)	 :: pirat {m}
+pirate {n} (one who plunders at sea)	 :: pirat {m}; [Bokmål] sjørøver {m}; [Nynorsk] sjørøvar {m}
+pirate {n} (one who reproduces copyrighted works for distribution)	 :: pirat {m}
+pirate {v} (make and/or sell an illegal copy)	 :: piratkopiere
+pirouette {n} (the whirling about of a horse)	 :: [Bokmål] piruett {m}; [Nynorsk] piruett {m}
+pirouette {n} (whirling or turning on the toes)	 :: [Bokmål] piruett {m}; [Nynorsk] piruett {m}
+pirozhok {n} (pirozhki) SEE: pirozhki	 ::
+Pisces {n} (Someone with a Pisces star sign)	 :: fisk {m}
+Pisces {prop} (astrological sign)	 :: [Bokmål] Fiskene {m-p}; [Nynorsk] Fiskane {m-p}
+Pisces {prop} (constellation)	 :: [Bokmål] Fiskene {m-p}; [Nynorsk] Fiskane {m-p}
+Piscis Austrinus {prop} (constellation)	 :: [Bokmål] Den sørlige fisken ; [Nynorsk] Den sørlege fisken
+pismire {n} (ant) SEE: ant	 ::
+pisser {n} (toilet) SEE: toilet	 ::
+pisser {n} (toilet (vulgar)) SEE: shitter	 ::
+pistol {n} (jokester) SEE: jokester	 ::
+pit {n} (mine) SEE: mine	 ::
+pit {n} (trading pit) SEE: trading pit	 ::
+Pitcairn Islands {prop} (British territory)	 :: [Bokmål] Pitcairnøyene; [Nynorsk] Pitcairnøyane, Pitcairnøyene
+pitch {n} (dark, extremely viscous material made by distilling tar)	 :: bek {n}
+pitch-black {adj} (of the blackest black)	 :: [Bokmål] kullsvart, beksvart, bekmørk; [Nynorsk] kolsvart, beksvart
+pitchfork {n} (farm tool with tines)	 :: fork {m}, høygaffel {m}
+Pite Sami {prop} (language)	 :: pitesamisk {c}
+pitfall {n} (potential problem, hazard, or danger)	 :: [Bokmål] fallgruve {c}; [Nynorsk] fallgruve {f}
+pith {n} (soft spongy substance in the center of the stems of many plants and trees)	 :: marg {m}
+pithy {adj}	 :: [Bokmål] fyndig, margfull; [Nynorsk] fyndig, mergfull
+pituitary gland {n} (endocrine gland)	 :: hypofyse {m}
+pity {interj} (what a pity) SEE: what a pity	 ::
+pixel {n} (one of the tiny dots that make up the representation of an image in a computer's memory)	 :: [Bokmål] piksel {m}; [Nynorsk] piksel {m}
+pixellated {adj} (pixelated) SEE: pixelated	 ::
+pizza {n} (baked Italian dish)	 :: pizza
+pizza pie {n} (a pizza)	 :: pizzapai {m}
+placard {n} (a sheet of paper or cardboard)	 :: plakat {m}
+placard {v} (to affix a placard to)	 :: plakatklistring (noun/present participle)
+place {n} (a role or purpose, a station)	 :: rolle {m}
+place {n} (frame of mind)	 :: ståsted {n}
+place {n} (group of houses)	 :: sted {n}
+place {n} (informal: house or home)	 :: sted {n}
+place {n} (location, position)	 :: sted {n}
+place {n} (numeric: the column counting a certain quantity)	 :: posisjon {m}
+place {n} (open space, courtyard, market square)	 :: plass {m}
+place {n} (region of a land)	 :: sted {n}
+place {n} (somewhere to sit)	 :: plass {m}
+place {n} (the position as a member of a team)	 :: plass {m}, posisjon {m}
+place {n} (the position of a contestant in a competition)	 :: plass {m}
+place {v} (passive: to achieve (a certain position))	 :: plassere seg
+place {v} (to arrange for, make (a bet))	 :: sette
+place {v} (to earn a given spot in a competition)	 :: plassere seg
+place {v} (to put in a specific location)	 :: plassere
+place {v} (to remember where and when something or someone was previously encountered)	 :: plassere
+place {v} (to sing (a note) with the correct pitch)	 :: treffe
+placeholder {n} (that which holds, denotes or reserves a place for something to come later)	 :: plassholder {m}
+place of decimals {n} (position of digit to the right of the decimal point) SEE: decimal place	 ::
+place of worship {n} (place where people can practise their faith)	 :: [Bokmål] gudshus {n}; [Nynorsk] gudshus {n}
+plagiarism {n} (act of plagiarizing or something plagiarized)	 :: plagiat {n}
+plagiarism {n} (copying of someone's ideas)	 :: plagiat {n}
+plague {n}	 :: pest
+plain {adj} (of just one colour)	 :: [Bokmål] ensfarget, ensfarga; [Nynorsk] einsfarga
+plain {n} (an expanse of land with relatively low relief)	 :: [Bokmål] slette {m} {f}; [Nynorsk] slette {f}, slett {f}
+plain text {n} (unencrypted text) SEE: cleartext	 ::
+plait {v} (to double in narrow folds) SEE: pleat	 ::
+Planck's constant {n} (constant)	 :: Plancks konstant
+plane {adj} (of a surface: flat or level.)	 :: plan
+plane {n} (airplane)	 :: fly {n}
+plane {n} (a tool)	 :: høvel {m}
+plane {n} (deciduous tree)	 :: platan {m}
+plane {n} (level of existence)	 :: plan {n}
+plane {n} (math: flat surface extending infinitely in all directions)	 :: plan {n}
+plane {v} (to move in a way that lifts the bow of a boat out of the water)	 :: plane
+plane {v} (to smooth with a plane)	 :: høvle
+planet {n} (each of the seven major bodies which move relative to the fixed stars in the night sky)	 :: planet {m}
+planet {n}	 :: planet
+planet {n} (rocky or gaseous spherical bodies orbiting the Sun)	 :: planet {m}
+planet {n} (similar body in orbit around a star)	 :: planet {m}
+planetary nebula {n} (nebulosity)	 :: [Bokmål] planetarisk tåke; [Nynorsk] planetarisk tåke
+planetree {n} (plane) SEE: id=deciduous tree	 ::
+planetree {n} (sycamore) SEE: sycamore	 ::
+plankton {n} (generic term for all the organisms that float in the sea)	 :: plankton {n}
+plant {n} (factory) SEE: factory	 ::
+plant {n} (organism capable of photosynthesis)	 :: [Bokmål] plante {m} {f}; [Nynorsk] plante {m} {f}
+plaque {n} (accumulation of bacteria on teeth)	 :: [Bokmål] plakk {n}; [Nynorsk] plakk {n}
+plasma {n} (component of blood)	 :: plasma {n}
+plasma {n} (high energy state of matter)	 :: plasma {n}
+plasma membrane {n} (cell membrane) SEE: cell membrane	 ::
+plaster {n} (adhesive bandage) SEE: band-aid and sticking plaster	 ::
+plaster {n} (plaster of Paris) SEE: plaster of Paris	 ::
+plaster cast {n} (healing aid)	 :: [Bokmål] gipsbandasje {m}; [Nynorsk] gipsbandasje {m}
+plaster of Paris {n} (hemihydrate of calcium sulfate)	 :: [Bokmål] gips {m}; [Nynorsk] gips {m}
+plate {n} (a course at a meal)	 :: rett {m}
+plate {n} (a flat metallic object)	 :: plate {m} {f}
+plate {n} ((baseball) home plate) SEE: home plate	 ::
+plate {n} ((dated) decorative or food service item coated with silver)	 :: brett {n}
+plate {n} (dish from which food is served or eaten)	 :: [Bokmål] tallerken {m}, asjett {m}
+plate {n} ((geology) tectonic plate) SEE: tectonic plate	 ::
+plate {n} ((printing) engraved surface used to transfer an image to paper)	 :: trykkplate {m} {f}
+plate {v} (put meal on a plate)	 :: legge opp
+plate {v} (to cover the surface material of an object with a thin coat of another material)	 :: plettere
+platform {n} ((travel) a raised structure for passengers)	 :: [Bokmål] perrong {m}; [Nynorsk] perrong {m}
+platform game {n} (A video game characterized by jumping to and from suspended platforms or over obstacles)	 :: [Bokmål] plattformspil; [Nynorsk] plattformspel
+platinum {n} (metal)	 :: [Bokmål] platina {n}; [Nynorsk] platina {n}
+platitude {n} (often-quoted saying)	 :: platthet {m}
+platometer {n} (planimeter) SEE: planimeter	 ::
+platypus {n} (Ornithorhynchus anatinus)	 :: nebbdyr
+platypussary {n} (platypusary) SEE: platypusary	 ::
+play {n} (literary composition)	 :: [Bokmål] skuespill {n}
+play {n} (playful activity)	 :: [Bokmål] spill {n}; [Nynorsk] spel {n}
+play {n} (theatrical performance)	 :: [Bokmål] skuespill {n}; [Nynorsk] skodespel {n}
+play {v} (act in a manner such that one has fun)	 :: leke
+playboy {n} (unemployed man who devotes himself to pleasure)	 :: levemann {m}
+player {n} (dramatic actor)	 :: skuespiller {m}
+player {n} (electronic device)	 :: spiller {m}
+player {n} (who plays any game)	 :: spiller {m}
+player {n} (who plays on a musical instrument)	 :: spiller {m}, musiker {m}
+playful {adj}	 :: leken
+playground {n} (large open space to play on, usually for children)	 :: [Bokmål] lekeplass {m}, leikeplass {m}; [Nynorsk] leikeplass {m}
+playground {n} (open-air space on a school campus where the children can play)	 :: skolegård {m}
+playground {n} (small area for children)	 :: lekeplass {m}
+play hooky {v} (to stay away from school, work, etc. without suitable permission or excuse)	 :: skulke
+play house {n} (toy house for children to play in) SEE: Wendy house	 ::
+play house {n} (toy house for dolls) SEE: doll's house	 ::
+playhouse {n} (toy house for children to play in) SEE: Wendy house	 ::
+playhouse {n} (venue for performing plays) SEE: theater	 ::
+playing card {n} (one of usually 52 rectangular pieces of card)	 :: [Bokmål] spillkort {n}, spellkort {n}; [Nynorsk] spelkort {n}
+playlist {n} (computing)	 :: spilleliste
+play second fiddle {v} (idiomatic)	 :: [Bokmål] spille annenfiolin
+plaything {n} (something intended for playing with)	 :: [Bokmål] leketøy {n}, leiketøy {n}; [Nynorsk] leiketøy {n}
+play with fire {v} (put oneself in a precarious situation)	 :: leke med ild
+playwriter {n} (playwright) SEE: playwright	 ::
+plaza {n} (a towns' public square)	 :: [Bokmål] torg {n}, plass {m}; [Nynorsk] torg {n}, plass {m}
+please {adv} (expression of annoyance or impatience)	 :: vær så snill
+please {adv} (interjection to make a polite request)	 :: vær så snill; [Bokmål] vennligst
+please {v} (to make happy or satisfy)	 :: behage, være til lags, tiltale (?)
+pleased to meet you {phrase} (polite formula used when the speaker is introduced to somebody)	 :: [Bokmål] hyggelig å møte deg
+pleasure {n} (a state of being pleased)	 :: fornøyelse {m}
+pleat {n} (plait) SEE: plait	 ::
+plebvision {n} (television (pejorative)) SEE: idiot box	 ::
+plectrum {n} ((music) small piece of plastic, metal, ivory, etc for plucking the strings)	 :: plekter {m}
+Pleiades {prop} (astronomy)	 :: Pleiadene
+Pleiades {prop} (Greek mythology)	 :: Pleiadene
+plenipotentiary {n}	 :: fullmektig
+plenty {adj} (plentiful) SEE: plentiful	 ::
+plenum {n} (A legislative meeting (especially of the Communist Party) in which all members are present)	 :: [Bokmål] plenum {n}; [Nynorsk] plenum {n}
+plethora {n} (excess, abundance)	 :: [Bokmål] overflod {m}; [Nynorsk] overflod
+pleurisy {n} (inflammation of lung pleura)	 :: pleuritt
+pliers {n} (gripping tool which multiplies the strength of the user's hand)	 :: [Bokmål] tang {m} {f}; [Nynorsk] tong {f}
+plight {n} (unfortunate situation)	 :: knipe {c}, kinkig, situasjon
+Pliny {prop} (Roman praenomen)	 :: Plinius
+plough {n} (device pulled through the ground in order to break it upon into furrows for planting)	 :: plog {m}
+plough {v} (to use a plough on to prepare for planting)	 :: pløye
+plough {v} (to use a plough)	 :: pløye
+Plough {prop} (Big Dipper) SEE: Big Dipper	 ::
+plow {n} (plough) SEE: plough	 ::
+plow {v} (plough) SEE: plough	 ::
+plowshare {n} (The cutting edge of a plow, typically a metal blade.)	 :: [Bokmål] plogskjær {n}; [Nynorsk] plogskjer {n}
+pluck {v} (music: to gently play a single string)	 :: plukke
+pluck {v} (to pull something sharply; to pull something out)	 :: plukke, røske
+pluck {v} (to remove feathers from a bird)	 :: plukke, ribbe
+pluck {v} (to rob, steal forcibly)	 :: loppe
+plug {n} (electric connecting device)	 :: plugg {m} (signal), støpsel {n} (power)
+plug {n} (hole filler)	 :: plugg {m}
+plum {n}	 :: plomme
+plum {n} (raisin) SEE: raisin	 ::
+plum {n} (the fruit)	 :: [Bokmål] plomme {m} {f}; [Nynorsk] plomme {f}
+plumber {n} (one who fits, etc, pipes for water, gas or drainage)	 :: rørlegger {m}
+plumber {n} (one who works in lead)	 :: rørlegger {m}
+plumber's helper {n} (plunger) SEE: plunger	 ::
+plumber's snake {n} (flexible rotating tool used to unclog a pipe)	 :: stakefjær
+plumbery {n} (business of a plumber) SEE: plumbing	 ::
+plumb line {n} (cord with a weight attached)	 :: lodd
+plumed thistle {n} (spear thistle) SEE: spear thistle	 ::
+plum tree {n} (tree that bears plums) SEE: plum	 ::
+plunder {n} (instance of plundering)	 :: [Bokmål] plyndring {m} {f}; [Nynorsk] plyndring {f}
+plunder {n} (loot attained by plundering)	 :: [Bokmål] bytte {n}; [Nynorsk] bytte {n}
+plunder {v} (to commit robbery or looting (intransitive))	 :: [Bokmål] plyndre; [Nynorsk] plyndre
+plunder {v} (to take all the goods of, by force (as in war) (transitive))	 :: [Bokmål] plyndre; [Nynorsk] plyndre
+plunder {v} (to take by force or wrongfully)	 :: [Bokmål] plyndre; [Nynorsk] plyndre
+pluperfect {n} (tense)	 :: pluskvamperfektum
+pluperfect tense {n} (tense)	 :: pluskvamperfektum
+plural {n} (word in plural form)	 :: [Bokmål] flertall {n}
+plus {conj} (arithmetic: sum)	 :: og, pluss
+plus {n} (plus sign) SEE: plus sign	 ::
+plutonium {n} (chemical element)	 :: [Bokmål] plutonium {n}; [Nynorsk] plutonium {n}
+plywood {n} (construction material)	 :: kryssfiner {m}
+pneumatic {n} (person focused on spiritual reality)	 :: pneumatiker {m}
+poacher {n} (a person who trespasses in order to take game illegally)	 :: [Bokmål] krypskytter {m}; [Nynorsk] krypskyttar {m}
+PO box {n} (box hired as a collection point for mail) SEE: post-office box	 ::
+pocket {n} (bag stitched to an item of clothing)	 :: [Bokmål] lomme {m} {f}; [Nynorsk] lomme {f}
+pocketbook {n} (small book)	 :: pocketbok
+pocket flask {n} (pocket-size container for alcoholic beverages) SEE: hip flask	 ::
+pocket money {n} (money given to a child)	 :: [Bokmål] lommepenger {p}
+pod {n} (seed case)	 :: belg {m}
+pod {n} (small vehicle)	 :: kapsel {m}
+podcast {n} (podcast)	 :: podcast {m}, podkast {m}
+Podgorica {prop} (capital city of Montenegro)	 :: Podgorica
+poem {n} (literary piece written in verse)	 :: dikt, episk dikt
+poem {n} (piece of poetic writing)	 :: dikt
+poem {n} (piece of writing in the tradition of poetry)	 :: dikt
+poet {n} (person who writes poems)	 :: [Bokmål] poet, dikter
+poetry {n} (class of literature)	 :: [Bokmål] dikt, poesi, lyrikk; [Nynorsk] poesi
+point {n} (location or place)	 :: punkt {n}
+point {n} (sharp tip)	 :: [Bokmål] spiss {m}
+pointer {n} (advice) SEE: advice	 ::
+pointer {n} (computing: icon indicating mouse position) SEE: mouse pointer	 ::
+point of inflection {n} ((mathematics))	 :: vendepunkt {n}
+poised {adj} (Ready, prepared)	 :: tilbøyelig
+poison {n} (something that harms)	 :: gift
+poison {n} (substance harmful to a living organism)	 :: gift {m} {f}
+poison hemlock {n} (poisonous plant) SEE: hemlock	 ::
+poisonous {adj} (containing sufficient poison to be dangerous)	 :: giftig, skadelig
+POJ {n} (a Latin alphabet-based orthography for Min Nan) SEE: Pe̍h-ōe-jī	 ::
+poke {n} (ice cream cone) SEE: ice cream cone	 ::
+poke {n} (pokeweed) SEE: pokeweed	 ::
+poke {v} (rummage) SEE: rummage	 ::
+poke {v} (to jab with a pointed object such as a finger or a stick)	 :: pirke, stikke
+poke {v} (to poke a fire to remove ash or promote burning)	 :: nøre
+Poland {prop} (European country)	 :: Polen
+polar bear {n} (Ursus maritimus)	 :: isbjørn {m}
+polar fox {n} (arctic fox) SEE: arctic fox	 ::
+polarisability {n} (polarizability) SEE: polarizability	 ::
+polar night {n} (period of darkness)	 :: mørketid, polarnatt
+pole {n} (extreme of an axis)	 :: pol
+pole {n} (long and slender object)	 :: stav {m}, stokk {m}
+pole {n} (magnetic point)	 :: pol
+pole {n} (type of fishing rod)	 :: trøe {f}
+Pole {n} (person from Poland)	 :: [Bokmål] polakk; [Nynorsk] polakk
+polecat {n} (Mustela putorius)	 :: [Bokmål] ilder {m}; [Nynorsk] ilder {m}
+polecat {n} (skunk) SEE: skunk	 ::
+police {n} (an organisation that enforces the law)	 :: [Bokmål] politi {n}; [Nynorsk] politi {n}
+police dog {n} (trained dog for police work)	 :: politihund
+policeman {n} (a member of a police force)	 :: [Bokmål] politimann {m}; [Nynorsk] politimann {m}
+police officer {n} (an officer in a law enforcement agency)	 :: politibetjent {m}, politimann {m}
+police state {n} (nation whose government controls people by police)	 :: [Bokmål] politistat {m}; [Nynorsk] politistat {m}
+police station {n} (building of police force)	 :: [Bokmål] politikammer {n}; [Nynorsk] politikammer {n}
+policy {n} (contract of insurance)	 :: [Bokmål] polise {m}; [Nynorsk] polise {m}
+policy {n} (number pool) SEE: number pool	 ::
+policy {n} (principle of conduct)	 :: [Bokmål] politikk {m}; [Nynorsk] politikk {m}
+Polish {adj} (of Poland or its language)	 :: [Bokmål] polsk; [Nynorsk] polsk
+Polish {prop} (the language of Poland)	 :: [Bokmål] polsk; [Nynorsk] polsk
+polite {adj} (well-mannered)	 :: høflig
+political {adj} (concerning or relating to politics)	 :: [Bokmål] politisk; [Nynorsk] politisk
+politically correct {adj} (avoiding offense, selectively)	 :: politisk korrekt, or abbr. 'P.K.'
+political prisoner {n} (person)	 :: politisk fange
+political science {n} (study of politics)	 :: statsvitenskap {m}
+political scientist {n} (political science expert)	 :: statsviter {m}
+politician {n} (one engaged in politics)	 :: [Bokmål] politiker {m}; [Nynorsk] politikar {m}
+politics {n} (a methodology and activities associated with running a government)	 :: [Bokmål] politikk {m}; [Nynorsk] politikk {m}
+polling booth {n} (voting booth) SEE: voting booth	 ::
+pollock {n} (food fish related to cod)	 :: sei [P. virens], lyr {m} [P. pollachius]
+pollution {n}	 :: forurensning
+polonium {n} (chemical element)	 :: polonium
+poltergeist {n} (a disruptive ghost)	 :: poltergeist, bankeånd
+poltroon {adj} (cowardly) SEE: cowardly	 ::
+polyalkene {n} (polyolefin) SEE: polyolefin	 ::
+polyethene {n} (polyethylene) SEE: polyethylene	 ::
+polyethylene {n} (polyethylene)	 :: polyeten {n}, polyetylen {n}
+polygamy {n}	 :: flergifte {n}, flerkoneri {n}, polygami {n}
+polygamy {n} (polygyny) SEE: polygyny	 ::
+polygon {n} (plane figure bounded by straight edges)	 :: polygon
+polyhedron {n} (polyscope) SEE: polyscope	 ::
+polymer {n} (molecule consisting of many identical monomers)	 :: [Bokmål] polymer; [Nynorsk] polymer {m}
+polymeride {n} (polymer) SEE: polymer	 ::
+polynomial {n} (algebraic expression)	 :: polynom {n}
+polysemantic {adj} (having multiple meanings)	 :: polysemantisk, flertydig, mangetydig
+polysynthetic {adj} (polysynthetic)	 :: polysyntetisk
+polythene {n} (polyethylene) SEE: polyethylene	 ::
+pomegranate {n} (fruit)	 :: granateple {n}
+pomelo {n} (fruit)	 :: pomelo
+pomelo {n} (grapefruit) SEE: grapefruit	 ::
+pom-pom {n} (pompom) SEE: pompom	 ::
+ponce {n} (pimp) SEE: pimp	 ::
+pond {n} (small lake)	 :: [Bokmål] tjern {n}, dam {m}; [Nynorsk] tjern {f}, tjørn {f}, dam {m}
+pond {n} (The Atlantic Ocean)	 :: dammen
+ponderous {adj} (dense) SEE: dense	 ::
+Pondicherry {prop} (Puducherry) SEE: Puducherry	 ::
+pond-skater {n} (any of various predatory insects) SEE: water strider	 ::
+pony {n} (small horse)	 :: [Bokmål] ponni {m}; [Nynorsk] ponni {m}
+ponytail {n} (hairstyle)	 :: [Bokmål] hestehale {m}; [Nynorsk] hestehale {m}
+poo {n} (faecal matter)	 :: bæsj {m}
+poodle {n} (any of various breeds of dog)	 :: [Bokmål] puddel {m}
+poof {n} (A male homosexual.)	 :: skrulle {m} {f}, fjolle {m} {f}
+Poohsticks {prop} (game)	 :: pinneleken
+pool {n} (swimming pool) SEE: swimming pool	 ::
+poop {n} (excrement) SEE: poo	 ::
+poop {n} (stern of a ship)	 :: [Bokmål] akterstavn {m}
+poop {v} (to break wind) SEE: break wind	 ::
+poop {v} (to defecate)	 :: bæsje
+poop deck {n} (stern deck on top of the cabin(s))	 :: [Bokmål] poopdekk {n}
+poor {adj} (of low quality)	 :: dårlig, elendig
+poor {adj} (to be pitied)	 :: stakkars
+poor {adj} (with no possessions or money)	 :: fattig, blakk [colloquial]
+poor {n}	 :: de fattige
+pop {v} (to ejaculate) SEE: ejaculate	 ::
+pop {v} (to hit) SEE: hit	 ::
+pope {n} (head of the Roman Catholic Church)	 :: pave {m}
+Popemobile {n} (any of various vehicles with bulletproof glass sides used to transport the Pope)	 :: [Bokmål] popemobile
+popinjay {n} (parrot) SEE: parrot	 ::
+popinjay {n} (Picus viridis) SEE: green woodpecker	 ::
+popliteal fossa {n} (shallow depression located at the back of the knee joint) SEE: poplit	 ::
+poppy {n} (plant)	 :: [Bokmål] valmue {m}; [Nynorsk] valmue {m}
+poppyseed {n} (the seed of the poppy)	 :: [Bokmål] valmuefrø {n}; [Nynorsk] valmuefrø {n}
+pop someone's cherry {v} (deflower) SEE: deflower	 ::
+populace {n} (inhabitants of a nation) SEE: population	 ::
+popular {adj} (liked by many people)	 :: [Bokmål] populær; [Nynorsk] populær
+popularise {v} (to make popular)	 :: [Bokmål] popularisere; [Nynorsk] popularisere
+popular opinion {n} (public opinion) SEE: public opinion	 ::
+pop-up {n} (advertisement that pops up when one accesses an Internet page)	 :: pop-up {m}; [Bokmål] pop-upvindu {n}, sprettoppvindu {n}; [Nynorsk] pop-upvindauge {n}, sprettoppvindauge {n}
+porbeagle {n} (Lamna nasus)	 :: håbrann {m}
+porcelain {n} (anything manufactured from this material)	 :: [Bokmål] porselen {n}; [Nynorsk] porselen {n}
+porcelain {n} (hard, white, translucent ceramic)	 :: [Bokmål] porselen {n}; [Nynorsk] porselen {n}
+porcini {n} (mushroom, Boletus edulis)	 :: steinsopp {c}
+porcupine {n} (large rodent)	 :: hulepinnsvin
+Pori {prop} (a city in Finland)	 :: Björneborg
+porn {n} (pornographic work)	 :: pornofilm
+porn {n} (pornography)	 :: [Bokmål] porno {m}; [Nynorsk] porno {m}
+porn {n} (pornography) SEE: pornography	 ::
+pornographer {n} (person involved in creation or dissemination of pornography)	 :: pornograf {m}
+pornographic {adj} (containing an explicit depiction of sexual activity)	 :: pornografisk
+pornography {n} (depiction of sexual subject matter with prurient intent)	 :: pornografi {m}
+porn star {n} (actor or actress famous for appearing in pornographic films)	 :: pornostjerne {m} {f}
+porous {adj} (full of tiny pores)	 :: [Bokmål] porøs; [Nynorsk] porøs
+porridge {n} (breakfast cereal dish, see also: oatmeal)	 :: grøt {m}
+port {n} (computing: program adapted to work on a different platform; act of adapting)	 :: porting {m}
+port {n} (dock or harbour)	 :: [Bokmål] port, havn {m} {f}
+port {n} (entryway, portal) SEE: portal	 ::
+port {n} (fortified wine)	 :: portvin {m}, [slang] port {m}
+port {n} (left-hand side of a vessel) SEE: larboard	 ::
+port {v} (computing: to adapt a program so that it works on a different platform)	 :: porte
+portable {adj} (able to be carried)	 :: bærbar, portabel
+portable {adj} (running on multiple systems)	 :: portabel
+portable {n} (Any temporary building that is portable, especially one located at a school)	 :: brakke {c}
+portable {n} (A portable toilet; a self-contained outhouse)	 :: bæsj-and-carry {m}
+portage {n} (route used for portage)	 :: [Bokmål] båtdrag {n}
+porter {n} ((Ireland) another name for stout) SEE: stout	 ::
+portfolio {n} (case)	 :: portefølje {m}
+portfolio {n} (collection)	 :: portefølje {m}
+portfolio {n} (investments)	 :: portefølje {m}
+portfolio {n} (post)	 :: portefølje {m}
+portmanteau {n} (case)	 :: [Bokmål] koffert {m}; [Nynorsk] koffert {m}
+portmanteau {n} (portmanteau word) SEE: portmanteau word	 ::
+portmanteau word {n} (word which combines the meaning of two words)	 :: [Bokmål] sammentrukket ord {n}, teleskopord {n}, portmanteau-ord {n}, portemanteau {n}; [Nynorsk] samantrekt ord {n}, portmanteau-ord {n}, teleskopord {n}
+Portugal {prop} (country)	 :: Portugal
+Portuguese {adj} (of or relating to the people of Portugal)	 :: [Bokmål] portugisisk; [Nynorsk] portugisisk
+Portuguese {adj} (of or relating to the region of Portugal)	 :: [Bokmål] portugisisk; [Nynorsk] portugisisk
+Portuguese {n} (person native to Portugal)	 :: [Bokmål] portugiser {m}; [Nynorsk] portugisar {m}
+Portuguese {prop} (the language)	 :: [Bokmål] portugisisk {m}; [Nynorsk] portugisisk {m}
+Portuguese Water Dog {n} (Portuguese Water Dog)	 :: portugisisk vannhund, Cäo de Aqua
+port wine {n} (A type of fortified wine traditionally made in Portugal)	 :: portvin {m}, [slang] port {m}
+portyanki {n} (footwrap) SEE: footwrap	 ::
+pose {v} (ask, set (a test or quiz))	 :: stille
+pose {v} (assume or maintain a pose)	 :: posere
+pose {v} (constitute)	 :: representere
+pose {v} (set in place, arrange)	 :: stille, anbringe
+poseur {n} (one who affects some behaviour, style, attitude or other condition, often to impress or influence others)	 :: posør {m}
+position {n} (place, location)	 :: posisjon {m}, plassering {n}
+position {n} (status or rank)	 :: posisjon {m}
+position {v} (to put into place)	 :: posisjonere, plassere
+positron {n} (positron)	 :: positron; [Bokmål] positron; [Nynorsk] positron
+positron emission tomography {n} (a medical imaging technique)	 :: positronemisjonstomografi
+possess {v}	 :: inneha
+possess {v} (to have; to have ownership of)	 :: inneha
+possessive {n} (possessive case) SEE: possessive case	 ::
+possibility {n} (quality of being possible)	 :: mulighet {c}
+possum {n} (opossum) SEE: opossum	 ::
+possumhaw {n} (American winterberry) SEE: American winterberry	 ::
+postage {n} (charge)	 :: [Bokmål] porto {m}; [Nynorsk] porto {m}
+postage stamp {n} (piece of paper indicating postage has been paid)	 :: [Bokmål] frimerke
+postal box {n} (post-office box) SEE: post-office box	 ::
+postal code {n} (postcode) SEE: postcode	 ::
+post box {n} (mailbox) SEE: mailbox	 ::
+postcard {n} (rectangular piece of thick paper to be mailed without an envelope)	 :: brevkort
+postcode {n} (sequence of letters and/or numbers added to a postal address)	 :: [Bokmål] postnummer {n}; [Nynorsk] postnummer {n}
+poster {n} (advertisement)	 :: plakat {m}
+poster {n} (picture of celebrity etc., to be posted on a wall)	 :: plakat {m}
+poster {n} (shot which only hits a goal post)	 :: stangskudd {n}
+post-it {n} (post-it note) SEE: post-it note	 ::
+postman {n} (mailman) SEE: mailman	 ::
+postmodernism {n} (a style of art, literature, etc)	 :: postmodernisme
+post office {n} (place)	 :: postkontor {n}, posthus {n}
+postpone {v} (to delay or put off an event)	 :: utsette
+postscript {n} (addendum to a letter)	 :: [Bokmål] etterskrift {n}, postskriptum {n}; [Nynorsk] etterskrift {n}, postskriptum {n}
+post-traumatic stress disorder {n} (condition that develops following some stressful situation)	 :: posttraumatisk stresslidelse
+postulate {n} (fundamental element; basic principle)	 :: postulat {n}
+postulate {n} (something assumed without proof as being self-evident or generally accepted)	 :: postulat {n}
+postulate {v} (To assume as a premise)	 :: postulere
+potassium {n} (the chemical element)	 :: [Bokmål] kalium {n}; [Nynorsk] kalium {n}
+potato {n} (plant tuber eaten as starchy vegetable)	 :: [Bokmål] potet {m}; [Nynorsk] potet {m} {f}
+potato blight {n} (Phytophthora infestans, disease of potatoes)	 :: [Bokmål] potetpest {m}
+pot calling the kettle black {phrase}	 :: Å kaste sten i glasshus (To throw stones in a glass house)
+potentate {n} (a powerful leader)	 :: potentat {m}
+potential energy {n} (energy possessed by an object because of its position)	 :: potensiell energi {m}
+potluck {n} (communal meal to which guests bring dishes to share) SEE: potlatch	 ::
+pot plant {n} (plant growing in a flowerpot)	 :: [Bokmål] potteplante {m} {f}; [Nynorsk] potteplante {m} {f}
+potter around {v} (to be gently active aimlessly) SEE: putter around	 ::
+potty {adj} (insane) SEE: insane	 ::
+pouch {n} (pocket in which a marsupial carries its young)	 :: pung {m}
+pouch {n} (small bag)	 :: pung {m}
+poultice {n} (A poultice or plaster)	 :: grøtomslag {n}
+pound {n} (pound-force) SEE: pound-force	 ::
+pound {n} (unit of mass (16 ounces avoirdupois))	 :: pund {n}
+pound {n} (US: symbol #) SEE: pound sign	 ::
+pound sign {n} (symbol #) SEE: hash	 ::
+pound sterling {n} (currency of the UK)	 :: [Bokmål] britisk pund, pund
+pour cold water on {v} (dismiss an idea) SEE: throw cold water on	 ::
+pour gasoline on the fire {v} (add fuel to the fire) SEE: add fuel to the fire	 ::
+poverty {n} (quality or state of being poor)	 :: [Bokmål] fattigdom {m}; [Nynorsk] fattigdom {m}
+powder {n} (fine particles)	 :: pudder {n}, støv {n}
+powder {n} (gunpowder) SEE: gunpowder	 ::
+powder {v} (to reduce to fine particles)	 :: pulverisere, knuse
+powder {v} (to sprinkle with powder)	 :: pudre
+powder {v} (to use powder on the hair or skin)	 :: pudre
+powdered sugar {n} (very finely ground sugar used in icings, etc)	 :: melis
+power {n} (cardinality in set theory) SEE: cardinality	 ::
+power {n} (electricity supply)	 :: kraft {m}
+power {n} (influence)	 :: makt, innflytelse
+power {n} (mathematics: product of equal factors)	 :: potens {m}
+power {n} (nation having a strong military and/or economy)	 :: makt {m}
+power {n} (physical force or strength)	 :: kraft {m}
+power {n} (physics: measure of the rate of doing work or transferring energy)	 :: kraft, effekt
+power {n} (physics: rate to magnify an optical image)	 :: forsterkning
+powerless {adj} (lacking legal authority)	 :: maktesløs
+powerless {adj} (lacking sufficient power or strength)	 :: maktesløs
+power plant {n} (power station) SEE: power station	 ::
+power steering {n} (System in a vehicle)	 :: servostyring {f}
+power toothbrush {n} (electric toothbrush) SEE: electric toothbrush	 ::
+pox {n} (syphilis) SEE: syphilis	 ::
+Poznań {prop} (Poznan) SEE: Poznan	 ::
+practical {adj} (having skills or knowledge that are practical)	 :: [Bokmål] praktisk; [Nynorsk] praktisk
+practice makes perfect {proverb} (if one practices an activity enough, one will eventually master it)	 :: [Bokmål] øvelse gjør mester
+practise {v} (practice) SEE: practice	 ::
+pragmatics {n} (study of the use of the language in a social context)	 :: pragmatikk {m}
+Prague {prop} (capital of the Czech Republic)	 :: Praha, Prag
+prairie {n} (An extensive area of relatively flat grassland)	 :: [Bokmål] prærie {m}; [Nynorsk] prærie {m}
+pram {n} (perambulator)	 :: [Bokmål] barnevogn {m} {f}; [Nynorsk] barnevogn {f}
+prance {v} (to strut)	 :: sprade
+prank {n} (practical joke or mischievous trick)	 :: [Bokmål] ablegøyer {m-p}; [Nynorsk] ablegøyer {f-p}
+praseodymium {n} (chemical element)	 :: praseodym
+prattle {n} (babble)	 :: bable
+pray {v} (to petition a higher being)	 :: [Bokmål] be
+pray {v} (to talk to God)	 :: be
+prayer {n} (a meeting held for the express purpose of praying)	 :: bønnemøte {n}
+prayer {n} (a request; a petition)	 :: bønn {m} {f}
+prayer {n} (practice of communicating with one's God)	 :: bønn {m} {f}
+prayer {n} (the act of praying)	 :: bønn {m} {f}
+prayer {n} (the specific words or methods used for praying)	 :: bønn {m} {f}
+preacher {n} (one who preaches)	 :: predikant
+preach to the converted {v} (preach to the choir) SEE: preach to the choir	 ::
+preantepenultimate {adj} (three before the end; fourth to last)	 :: fjerd sist
+precaution {n} (A measure taken beforehand to ward off evil or secure good or success)	 :: [Bokmål] forholdsregel {m}, sikkerhetsforanstaltning {m} {f}
+preceding {adj} (foregoing; occurring before or in front of something else)	 :: (bokmål): foregående, forrige, forutgående; (nynorsk): føregåande, førre, tidlegare
+pre-Christian {adj} (before the arrival of Christianity)	 :: [Bokmål] førkristen; [Nynorsk] førkristen
+precious {adj} (of high value or worth)	 :: [Bokmål] dyrebar
+precious {adv} (intensifier) SEE: very (adverb)	 ::
+precipitation {n} (chemistry: chemical reaction forming solid in liquid)	 :: utfelling {m} {f}, presipitasjon {m}
+precipitation {n} (weather: water falling from the atmosphere)	 :: [Bokmål] nedbør {m}, presipitasjon {m}; [Nynorsk] nedbør {m}
+precise {adj} (exact)	 :: [Bokmål] presis, nøyaktig
+precisely {adv} (in a precise manner)	 :: [Bokmål] presist, nøyaktig; [Nynorsk] presist
+precocious {adj} (characterized by exceptionally early development or maturity)	 :: bråmoden, tidlig moden
+precocious {adj} (exhibiting advanced skills at an abnormally early age)	 :: bråmoden, tidlig moden
+precognition {n} (knowledge of something that is to occur in the future)	 :: prekognisjon
+preconception {n} (prejudice) SEE: prejudice	 ::
+predefine {v}	 :: foregi, gi videre, rekke fram
+predestiny {n} (predestination) SEE: predestination	 ::
+predictable {adj} (able to be predicted)	 :: forutsigbar
+preference {n} (card game) SEE: preferans	 ::
+preferences {n} (plural of "preference") SEE: preference	 ::
+pregnancy {n} (condition)	 :: svangerskap
+pregnant {adj} (carrying developing offspring within the body)	 :: [Bokmål] gravid, svanger (of humans), drektig (of animals); (heavily pregnant) høygravid, høggravid; [Nynorsk] gravid, (heavily pregnant) høggravid
+pregnant {adj} (fertile) SEE: fertile	 ::
+prehistoric {adj} (of relating to the epoch before written record)	 :: [Bokmål] forhistorisk; [Nynorsk] forhistorisk
+prehistory {n} (history of human culture prior to written records)	 :: [Bokmål] forhistorie {m} {f}; [Nynorsk] forhistorie {f}
+prejudice {n} (adverse judgement formed beforehand)	 :: fordom {m}
+prejudice {n} (any preconceived opinion)	 :: fordom {m}
+prejudiced {adj} (Having prejudices)	 :: fordomsfull
+prelate {n} (clergyman)	 :: [Bokmål] prelatas {m}
+preliminary {adj} (in preparation for the main matter)	 :: preliminær, foreløpig
+premier {n} (prime minister of a country) SEE: prime minister	 ::
+première {n} (premiere) SEE: premiere	 ::
+première danseuse {n} (lead female dancer) SEE: prima ballerina	 ::
+premium {n} (a bonus paid in addition to normal payments)	 :: [Bokmål] bonus {m}, tillegg {n}, tillegg {n}
+premium {n} (a prize or award)	 :: [Bokmål] pris {m}, utmerkelse {m}
+premium {n} (something offered at a reduced price as an inducement to buy something else)	 :: [Bokmål] bonus {m}
+premium {n} (the amount to be paid for an insurance policy)	 :: [Bokmål] premie {m}
+prenyl {n} (isoprenyl) SEE: isoprenyl	 ::
+prepare {v} (to make ready for eating or drinking)	 :: [Bokmål] tilberede
+preposition {n} (grammar: a type of word like "of, from, for, by")	 :: preposisjon {m}
+prepositional {n} (the prepositional case) SEE: prepositional case	 ::
+prepositional case {n} (case serving as object of a preposition)	 :: lokativ
+prepuce {n} (foreskin)	 :: forhud {m}
+prerequisite {n} (Something that must be gained in order to gain something else)	 :: forutsetning {m} {f}
+prerogative {n} (right, generally) SEE: right	 ::
+preschool {n} (nursery school) SEE: nursery school	 ::
+prescience {n} (Knowledge of events before they take place; foresight; foreknowledge)	 :: klarsyn {n}, framsyn
+prescription {n} (formal description of the lens geometry)	 :: brilleseddel {m}
+prescription {n} (written order for the administration of a medicine)	 :: resept {m}
+present {adj} (in the immediate vicinity)	 :: til stede
+present {adj} (pertaining to the current time)	 :: nåværende
+present {n} (gift) SEE: gift	 ::
+present {n} (present tense) SEE: present tense	 ::
+present historic tense {n} (tense) SEE: historical present tense	 ::
+present perfect {n} (tense that expresses action in the past with consequences in the present time)	 :: perfektum
+preservative {n} (any agent, natural or artificial that acts to preserve)	 :: [Bokmål] konserveringsmiddel {n}; [Nynorsk] konserveringsmiddel {n}
+president {n} (the head of state of a republic)	 :: president {m}
+press {n} (publisher) SEE: publisher	 ::
+Pressburg {prop} (Bratislava) SEE: Bratislava	 ::
+press pot {n} (cafetière) SEE: cafetière	 ::
+press release {n} (official written media statement)	 :: [Bokmål] presseskriv {n}, pressemelding {m} {f}; [Nynorsk] pressemelding {f}
+pressure {n} (physics: amount of force divided by area)	 :: [Bokmål] trykk {n}; [Nynorsk] trykk {n}
+pressure group {n} (advocacy group) SEE: advocacy group	 ::
+pressure ulcer {n} (bedsore) SEE: bedsore	 ::
+presumptively {adv} (as is presumed to be the case) SEE: presumably	 ::
+pretender {n}	 :: tronpretendent {m}
+pretentious {adj} (marked by an unwarranted claim to importance or distinction)	 :: [Bokmål] pretensiøs; [Nynorsk] pretensiøs
+pretext {n} (false, contrived or assumed purpose)	 :: [Bokmål] påskudd {n}; [Nynorsk] påskott {n}
+pretty {adj} (especially of women and children: pleasant, attractive)	 :: pen, vakker
+prevarication {n} (deceit, evasiveness)	 :: utflukt {m}
+previous {adj} (prior)	 :: [Bokmål] forrige, foregående; [Nynorsk] førre, føregåande
+priapism {n} (medical condition)	 :: [Bokmål] priapisme
+price {n} (cost of an action or deed)	 :: pris
+price {n} (cost required to gain possession of something)	 :: pris {m}
+price-conscious {adj} (aware of how much things cost)	 :: [Bokmål] prisbevisst; [Nynorsk] prisbevisst
+price index {n} (statistical estimate)	 :: [Bokmål] prisindeks {m}; [Nynorsk] prisindeks {m}
+priceless {adj} (so precious as not to be sold at any price)	 :: uvurderlig
+price list {n} (list of items with prices)	 :: [Bokmål] prisliste {m} {f}; [Nynorsk] prisliste {f}
+price tag {n} (the tag or sticker attached to a product, displaying its price)	 :: [Bokmål] prislapp {m}; [Nynorsk] prislapp {m}
+prick {n} ((slang) a penis)	 :: pikk
+prickly oak {n} (kermes oak) SEE: kermes oak	 ::
+prickteaser {n} (Showstopper)	 :: luremus {m} {f}, narrefitte {m} {f}
+pride {n} (company of lions)	 :: flokk {m}
+pride {n} (consciousness of power; fullness of animal spirits; mettle; wantonness)	 :: selvbevissthet {m}
+pride {n} (lust; sexual desire; especially, an excitement of sexual appetite in a female beast)	 :: brunst {m}
+pride {n} (proud or disdainful behavior or treatment; insolence or arrogance of demeanor; haughty bearing and conduct)	 :: stolthet {m}
+pride {n} (quality or state of being proud; inordinate self-esteem; an unreasonable conceit of one's own superiority in talents, beauty, wealth, rank etc.)	 :: stolthet {m}
+pride {n} (sense of one's own worth, and abhorrence of what is beneath or unworthy of one)	 :: stolthet {m}
+pride {n} (that of which one is proud; that which excites boasting or self-gratulation; the occasion or ground of self-esteem)	 :: stolthet {m}
+pride comes before a fall {proverb} (Translations)	 :: [Bokmål] hovmod står for fall
+priest {n} (clergyman)	 :: [Bokmål] prest {m}; [Nynorsk] prest {m}
+priest {n} (tool for killing fish)	 :: [Bokmål] prest {m}; [Nynorsk] prest {m}
+priestess {n} (woman with religious duties)	 :: prestinne
+primal scene {n} (in Freudian theory, the first time a child witnesses (and understands) its parents copulating)	 :: primalscene {m}
+primarily {adv} (of a primary or central nature)	 :: [Bokmål] primært; [Nynorsk] primært
+primary {adj} (that which is placed ahead of others)	 :: [Bokmål] primær; [Nynorsk] primær
+primary {n} (primary election) SEE: primary election	 ::
+primate {n} (mammal)	 :: [Bokmål] primat {m}; [Nynorsk] primat {m}
+prime {v}	 :: prim
+prime factor {n} (factor)	 :: primfaktor {m}
+prime minister {n} (chief member of the cabinet and head of the government)	 :: [Bokmål] statsminister {m}; [Nynorsk] statsminister {m}
+prime number {n} (natural number)	 :: [Bokmål] primtall {n}; [Nynorsk] primtal {n}
+primrose {n} (flower)	 :: [Bokmål] nøkleblom {m}, nøkleblomst {m}, primula {m}; [Nynorsk] nøkleblom {m}, nøkleblome {m}, primula {m}
+primrose {n} (plant of the genus Primula)	 :: [Bokmål] nøkleblom {m}, nøkleblomst {m}, primula {m}; [Nynorsk] nøkleblom {m}, nøkleblome {m}, primula {m}
+primrose {n} (Primula vulgaris)	 :: [Bokmål] kusymre {c}; [Nynorsk] kusymre {f}
+prince {n} (male ruler or head of a principality)	 :: fyrste {m}
+prince {n} (son or male-line grandson of a reigning monarch)	 :: prins {m}
+prince bishop {n} (bishop who also holds a secular princely rank)	 :: fyrstbiskop {m}
+Prince Charles Foreland {prop} (island)	 :: Prins Karls Forland
+Prince Charming {n} (romantically ideal man)	 :: eventyrprinsen {m}
+principality {n} (in angelology)	 :: fyrstedømme {n}
+principality {n} (region)	 :: fyrstedømme {n}
+principle {n} (moral rule or aspect)	 :: [Bokmål] prinsipp {n}; [Nynorsk] ; prinsipp {n}
+principle {n} (rule of nature)	 :: [Bokmål] prinsipp {n}; [Nynorsk] prinsipp {n}
+principle {n} (rule to solve a problem)	 :: [Bokmål] prinsipp {n}; [Nynorsk] prinsipp {n}
+print {n} (result of printing process)	 :: trykk {n}
+print {n} (visible impression)	 :: avtrykk {n}
+print {v} (to copy something on a surface, especially by machine)	 :: trykke
+printer {n} (machine used to print text or images)	 :: skriver {m}
+printshop {n} (printing house) SEE: printing house	 ::
+prior {adj} (former) SEE: former	 ::
+prior {adv} (previously) SEE: previously	 ::
+priority {n} (attributive use) SEE: prioritized	 ::
+priority {n} (goal of a person or an organisation)	 :: [Bokmål] prioritet {m}; [Nynorsk] prioritet {m}
+priority {n} (item's relative importance)	 :: [Bokmål] prioritet {m}; [Nynorsk] prioritet {m}
+prise {n} (prize) SEE: prize	 ::
+prism {n} (block used to split or reflect light)	 :: [Bokmål] prisme {n}; [Nynorsk] prisme {n}
+prism {n} (geometry: polyhedron with parallel ends of the same size and shape)	 :: [Bokmål] prisme {n}; [Nynorsk] prisme {n}
+prison {n} (confinement in a prison)	 :: fengsel {n}
+prison {n} (place of long-term confinement for those convicted of serious crimes)	 :: fengsel {n}
+prison {v} (imprison) SEE: imprison	 ::
+prisoner {n}	 :: fange
+prisoner of war {n} (soldier or combatant captured by the enemy)	 :: krigsfange {m}
+prison guard {n} (jailer) SEE: jailer	 ::
+private {n} (rank)	 :: [Bokmål] menig {m}; [Nynorsk] menig {m}
+private candidate {n} (person taking exams without being enrolled as a student)	 :: privatist
+privet {interj} (hello) SEE: hello	 ::
+privy {n} (outdoor toilet)	 :: [Bokmål] utedo {m} {n}; [Nynorsk] utedo {m} {n}
+prize {v} (to consider something highly valuable)	 :: [Bokmål] pris {m}
+Pärnu {prop} (city in Estonia)	 :: Pärnu
+pro {n} (a professional sportsman)	 :: proff {m}
+pro {n} (someone who is very good at something)	 :: proff {m}
+probable {adj} (likely to be true)	 :: [Bokmål] sannsynlig; [Nynorsk] sannsynleg
+probable {adj} (likely to happen)	 :: [Bokmål] sannsynlig; [Nynorsk] sannsynleg
+probably {adv} (in all likelihood)	 :: antakeligvis, trolig
+probe {n} (sciences: electrode or other small device)	 :: sonde {m}
+probe {v} (to explore, investigate, or question)	 :: undersøke, utforske
+probity {n} (integrity)	 :: [Bokmål] redelighet {m} {f}
+problem {n} (difficulty)	 :: [Bokmål] problem {n}; [Nynorsk] problem {n}
+problem {n} (puzzling circumstance)	 :: utfordring {m}
+problem {n} (schoolwork exercise)	 :: oppgave {m}
+problematical {adj} (problematic) SEE: problematic	 ::
+proboscis {n} (elongated tube)	 :: [Bokmål] snabel {m}; [Nynorsk] snabel {m}
+proboscis {n} (slang: a nose) SEE: schnozzle	 ::
+proceeds {n} (profits) SEE: profits	 ::
+process {n} (path of succession of states through which a system passes)	 :: [Bokmål] prosess {m}
+proclaim {v} (to announce or declare)	 :: [Bokmål] proklamere, kunngjøre; [Nynorsk] proklamere, kunngjere, kunngjøre
+proclivity {n} (A predisposition or natural inclination, propensity, or a predilection)	 :: tendens {m}
+procrastinate {v} (put off; delay something)	 :: utsette
+procrastinate {v} (put off; to delay taking action)	 :: somle
+procrastination {n} (act of postponing, delaying or putting off)	 :: [Bokmål] prokrastinering {m}
+prodigy {n} (extremely talented person, especially a child)	 :: vidunderbarn {n}
+produce {n} (offspring) SEE: offspring	 ::
+production {n} (the act of producing)	 :: [Bokmål] produksjon {m}; [Nynorsk] produksjon {m}
+professional {adj} (expert)	 :: [Bokmål] profesjonell; [Nynorsk] profesjonell
+professional {adj} (of, pertaining to, or in accordance with the standards of a profession)	 :: [Bokmål] profesjonell; [Nynorsk] profesjonell
+professional {adj} (that is carried out as a livelihood)	 :: [Bokmål] profesjonell; [Nynorsk] profesjonell
+proficient {adj} (skilled)	 :: flink
+profoundly {adv} (deeply) SEE: deeply	 ::
+progenitor {n} (founder) SEE: founder	 ::
+progeny {n} (offspring)	 :: avkom {n}
+prognathic {adj} (prognathous) SEE: prognathous	 ::
+program {n} (set of structured activities)	 :: program {n}
+programmable logic controller {n} (programmable electronic device)	 :: Programmerbar logisk styring {m} {f}
+programme {n} (programme) SEE: program	 ::
+programming language {n} (code of reserved words and symbols)	 :: programmeringsspråk {n}
+progressive {adj} (advancing in severity)	 :: [Bokmål] progredierende; [Nynorsk] progredierande
+progressive {adj} (continuous) SEE: continuous	 ::
+prohibit {v} (to proscribe officially)	 :: [Bokmål] forby; [Nynorsk] forby, forbyde
+project {n} (planned endeavor)	 :: prosjekt {n}
+project manager {n} (a professional in the field of project management)	 :: prosjektleder {m}
+prolative {n} (prolative case) SEE: prolative case	 ::
+prolific {adj} (Similarly producing results or works in abundance)	 :: suksessrik
+prolocutrix {n} (female prolocutor) SEE: spokeswoman	 ::
+prolog {n} (prologue) SEE: prologue	 ::
+prolonged abortion {n} (missed abortion) SEE: missed abortion	 ::
+promenade {v} (to walk)	 :: gå tur, spasere, promenere
+Prometheus {prop} (Greek mythological figure)	 :: Prometeus
+promethium {n} (chemical element)	 :: promethium
+prominence {n} (being prominent)	 :: prominens {m}; [Bokmål] framstående (person); [Nynorsk] framståande (person)
+prominence {n} (relative height)	 :: primærfaktor {m}
+promiscuousness {n} (promiscuity) SEE: promiscuity	 ::
+promise {n} (vow)	 :: løfte {n}
+promise {v} (to commit to something or action)	 :: love
+prompt {adj} (on time)	 :: prompt, prompte
+prompt {adj} (quick)	 :: prompt, prompte
+promptitude {n} (promptness) SEE: promptness	 ::
+promptly {adv} (in a prompt manner)	 :: prompt, prompte
+prone {adj} (inclined, sloped)	 :: prone
+prone {adj} (lying face downward; prostrate)	 :: legge seg flat
+pronoun {n} (pronoun)	 :: [Bokmål] pronomen; [Nynorsk] pronomen
+pronounce {v} (to officially declare)	 :: erklære
+pronounce {v} (to read aloud)	 :: uttale
+pronounce {v} (to sound out a word)	 :: uttale
+pronouncing dictionary {n} (dictionary that provides pronunciations of words) SEE: pronunciation dictionary	 ::
+pronunciation {n} (standard sound of a word)	 :: uttale {m}
+pronunciation {n} (way in which words are pronounced)	 :: uttale {m}
+pronunciation dictionary {n} (dictionary that provides pronunciations of words)	 :: [Bokmål] uttaleordbok {m} {f}; [Nynorsk] uttaleordbok {f}
+proofreader {n} (person who proofreads)	 :: [Bokmål] korrekturleser {m}; [Nynorsk] korrekturlesar {m}
+proofreader {n} (person whose occupation is to proofread)	 :: [Bokmål] korrekturleser {m}; [Nynorsk] korrekturlesar {m}
+proofreading {n} (act or process by which a document is proofread)	 :: [Bokmål] korrekturlesning {m} {f}
+propaganda {n} (concerted set of messages)	 :: propaganda {m}
+propane {n} (aliphatic hydrocarbon: C3H8)	 :: [Bokmål] propan {m} {n}; [Nynorsk] propan {m} {n}
+propeller {n} (mechanical device used to propel)	 :: propell
+propelling pencil {n} (mechanical pencil) SEE: mechanical pencil	 ::
+propenoic {adj} (acrylic) SEE: acrylic	 ::
+proper {adj} (belonging to oneself or itself, own)	 :: egen
+proper {adj} (complete, thorough)	 :: skikkelig, ordentlig
+proper {adj} (entitled to its name, true)	 :: sann
+proper {adj} (fit, suitable)	 :: passende, høvelig
+proper {adj} (following the established standards of behavior or manners)	 :: ordentlig, veloppdragent, høvisk
+proper {adj} (grammar: designating a particular person, place or thing)	 :: riktig, korrekt
+proper {adj} (in the very strictest sense of the word)	 :: egentlig
+proper {adj}	 :: riktig, korrekt
+proper fraction {n} (arithmetic: a vulgar fraction)	 :: ekte brøk {m}
+proper noun {n} (The name of a particular person, place, organization or other individual entity)	 :: [Bokmål] egennavn {n}; [Nynorsk] eigennamn {n}
+property {n} (attribute or abstract quality associated with an object, individual or concept)	 :: [Bokmål] egenskap {m},; [Nynorsk] eigenskap {m}
+property {n} (exclusive right of possessing, enjoying and disposing of a thing)	 :: [Bokmål] eiendomsrett {m}; [Nynorsk] eigedomsrett {m}
+property {n} (piece of real estate)	 :: tomt {f}, [Bokmål] eiendom {m}; [Nynorsk] eigedom {m}
+property {n} (something owned)	 :: [Bokmål] eiendom {m}, løsøre {n}; [Nynorsk] lausøyre {m}
+prophet {n} (one who foretells the future)	 :: profet {m}, spåmann {m}
+prophet {n} (one who speaks by divine inspiration)	 :: profet {m}
+prophet {n}	 :: profet {m}
+propinquity {n} (proximity) SEE: proximity	 ::
+proponency {n} (advocacy) SEE: advocacy	 ::
+propose {v} (to ask for one's hand in marriage)	 :: fri
+propose {v} (to suggest a plan or course of action)	 :: foreslå
+propositional calculus {n} (propositional logic) SEE: propositional logic	 ::
+propound {v} (to put forward; to offer for discussion or debate)	 :: framlegge, framsette
+proprioception {n} (sense of the position of parts of the body)	 :: propriosepsjon {m}
+proscenium {n} (proscenium arch) SEE: proscenium arch	 ::
+proscribe {v}	 :: Å forby
+proselytize {v} (to convert to one’s own faith)	 :: misjonere
+prostate {n} (prostate gland)	 :: [Bokmål] prostata
+prostate gland {n} (prostate) SEE: prostate	 ::
+prostatic adenocarcinoma {n} (prostate cancer) SEE: prostate cancer	 ::
+prosthesis {n} (prothesis) SEE: prothesis	 ::
+prosthetic {n} (prosthesis) SEE: prosthesis	 ::
+prostitute {n} (a person having sex for profit)	 :: prostituert {m}
+prostitute {v} (to perform sexual activity for money)	 :: prostituere
+prostrate {adj} (lying flat, facedown)	 :: prostrert
+prostrate {v} (to lie flat or facedown)	 :: prostrere
+protactinium {n} (chemical element)	 :: protactinium
+protagonist {n} (advocate)	 :: protagonist {m}
+protagonist {n} (main character)	 :: hovedperson {m}, protagonist {m}
+protect {v} (to keep safe)	 :: beskytte, verne, sikre, dekke, gardere
+protection {n} (process of keeping safe)	 :: [Bokmål] beskyttelse {m}
+protectionism {n} (A policy of protecting the domestic producers of a product by imposing tariffs, quotas or other barriers on imports)	 :: [Bokmål] proteksjonisme {m}; [Nynorsk] proteksjonisme {m}
+protectorate {n} (government by a protector)	 :: protektorat {m}
+protest {v} (mostly US: to object to)	 :: protestere
+protest {v} (to make a strong objection)	 :: protestere
+Protestant {adj} (Protestant)	 :: [Bokmål] protestantisk; [Nynorsk] protestantisk
+Protestant {n} (someone who is a member of such a denomination)	 :: [Bokmål] protestant {m}; [Nynorsk] protestant {m}
+Proto-Germanic {prop} (hypothetical prehistoric ancestor language)	 :: urgermansk {m}
+Proto-Indo-European {prop} (ancestor language of most European and Indian languages)	 :: protoindoeuropeisk, urindoeuropeisk
+Proto-Indo-Germanic {prop} (Proto-Indo-European) SEE: Proto-Indo-European	 ::
+proton {n} (positively charged nucleon)	 :: proton
+protoplanet {n} (astronomical object)	 :: protoplanet
+protozoal {adj} (protozoan) SEE: protozoan	 ::
+proud {adj} (gratified, feeling honoured, feeling satisfied)	 :: stolt
+proud {adj} (having a too high opinion of oneself; arrogant, supercilious)	 :: stolt
+proverb {n} (phrase expressing a basic truth)	 :: ordtak
+Proverbs {prop} (book of the Bible)	 :: Salomos Ordtøke {n-p}
+provide {v} (to give what is needed or desired)	 :: [Bokmål] forsørge; [Nynorsk] forsyte
+province {n} (A subdivision of government usually one step below the national level)	 :: provins {m}
+proviso {n} (conditional provision to an agreement)	 :: forbehold {n}
+provoke {v} (to cause to become angry)	 :: provosere
+proxy {n} (agent or substitute authorized to act for another person)	 :: [Bokmål] stedfortreder {m}, fullmektig; [Nynorsk] avløysar, varamann, vikar, fullmektig
+proxy {n} (authority to act for another, especially when written)	 :: [Bokmål] fullmakt {c}; [Nynorsk] fullmakt {f}
+proxy {n} ((software) An interface for a service)	 :: [Bokmål] mellomtjener {m}, proxy {m}, proxytjener {m}; [Nynorsk] mellomtenar {m}, proxy {m}
+proxy war {n} (war where two powers use third parties)	 :: [Bokmål] stedfortrederkrig {m}, stedfortrederkonflikt {m} [where outright war is not the case]
+præstige {n} (Archaic spelling of prestige) SEE: prestige	 ::
+prudish {adj} (exaggeratedly proper)	 :: prippen, snerpete, fisefin
+prune {n} (dried plum)	 :: [Bokmål] sviske {m} {f}; [Nynorsk] sviske {f}
+prune {n} (plum) SEE: plum	 ::
+prune {v} ((figuratively) cut down or shorten)	 :: [Bokmål] beskjære
+prune {v} (trim a tree or shrub)	 :: kviste; [Bokmål] beskjære
+pruning {n} (action of pruning)	 :: kvisting {m}
+prurient {adj} (arousing sexual desire)	 :: lysten
+prurient {adj} (uneasy with desire; lustful)	 :: lysten
+Prussia {prop} (German province)	 :: Preussen
+psalterium {n} (omasum) SEE: omasum	 ::
+pseudo {adj} (insincere) SEE: insincere	 ::
+pseudo {adj} (spurious) SEE: spurious	 ::
+pseudoephedrine {n} (sympathomimetic alkaloid)	 :: pseudoefedrin
+pseudofruit {n} (accessory fruit) SEE: accessory fruit	 ::
+pseudonym {n} (fictious name)	 :: psevdonym {n}
+psychiatrist {n} (doctor specializing in psychiatry)	 :: [Bokmål] psykiater {m}; [Nynorsk] psykiater {m}
+psychiatry {n} (branch of medicine dealing with mental illness)	 :: [Bokmål] psykiatri {m}; [Nynorsk] psykiatri {m}
+psychic {n} (a person who contacts the dead)	 :: medium {n}
+psychic {n} (person focused on intellectual reality)	 :: psykiker {m}
+psychology {n} (study of the human mind)	 :: psykologi {m}
+psychology {n} (the mental characteristics of a particular individual)	 :: psykologi {m}
+psychology {n} (the study of animal behavior)	 :: psykologi {m}
+psychology {n} (the study of the human behavior)	 :: psykologi
+psychopath {n} (person with a personality disorder)	 :: [Bokmål] psykopat {m}; [Nynorsk] psykopat {m}
+psychosomatic {adj} (of physical effects with mental causes)	 :: psykosomatisk
+ptarmigan {n} (a small grouse, Lagopus)	 :: [Bokmål] [Lagopus] rype {f} {m}; [Nynorsk] [Lagopus] rype {f}
+pâté de foie gras {n} (the lowest grade preparation of foie gras)	 :: gåseleverpostei {m}
+pub {n} (public house)	 :: [Bokmål] kro, pub
+puberty {n} (age at which a person is first capable of sexual reproduction)	 :: [Bokmål] pubertet {m}; [Nynorsk] pubertet {m}
+pubic hair {n} (collectively)	 :: [Bokmål] kjønnshår {n}; [Nynorsk] kjønnshår {n}
+pubic louse {n} (crab louse) SEE: crab louse	 ::
+pubis {n} (the pubic bone)	 :: skamben {n}, kjønnsben {n}, venusben {n}
+public {adj} (pertaining to people as a whole)	 :: offentlig, allmenn, allmennt
+publication {n} (an issue of printed or other matter)	 :: [Bokmål] publikasjon {m}; [Nynorsk] publikasjon {m}
+public house {n} (pub) SEE: pub	 ::
+publicity {n} (advertising or other activity designed to rouse public interest in something)	 :: [Bokmål] publisitet {m}; [Nynorsk] publisitet {m}
+public law {n} (law)	 :: [Nynorsk] Öffentliches Recht; [Bokmål] offentlig rett
+public servant {n} (civil servant) SEE: civil servant	 ::
+public servant {n} (convict) SEE: convict	 ::
+public speaking {n} (art of public speaking) SEE: oratory	 ::
+public transit {n} (public transport) SEE: public transport	 ::
+publish {v} (to issue a medium (e.g. publication))	 :: publisere
+publisher {n} (One who publishes, especially books)	 :: [Bokmål] forlegger {m}, forlag {n}
+puce {adj} (colour)	 :: dyp rød, ildrød, loppefarget, mørk purpurrød, rødbrun
+puce {n} (colour)	 :: dypt rødt {n}, ildrødt {n}, loppefarge {m}, mørkt purpurrødt {n}, rødbrunt {n}
+Pucikwar {prop} (A-Pucikwar) SEE: A-Pucikwar	 ::
+pudding {n} (any dessert) SEE: dessert	 ::
+pudding {n} (sausage made primarily from blood)	 :: blodpudding
+puddle {n} (a small pool of water)	 :: sølepytt {m}
+pudenda {n} (genitalia) SEE: genitalia	 ::
+Puerto Rican {adj} (pertaining to Puerto Rico)	 :: [Bokmål] puertoricansk, puertorikansk; [Nynorsk] puertoricansk, puertorikansk
+Puerto Rican {n} (person from Puerto Rico)	 :: [Bokmål] puertoricaner {m}, puertorikaner {m}; [Nynorsk] puertorican {m}, puertoricanar {m}, puertorikan {m}, puertorikanar {m}
+puff {n} (homosexual) SEE: poof	 ::
+puff {v} (pant) SEE: pant	 ::
+puffer {n} (blowfish) SEE: blowfish	 ::
+pufferfish {n} (blowfish) SEE: blowfish	 ::
+puffin {n} (seabird with a coloured beak)	 :: [Bokmål] lunde
+puke {v} (to vomit)	 :: spy, kaste opp, elge, mate fiskene
+pull {v} (do, perform)	 :: gjennomføre
+pull {v} (remove (something) from circulation)	 :: trekke, trekke tilbake
+pull {v} (transitive: apply force to (something) so it comes towards one)	 :: trekke, dra
+pull apart {v} (disassemble) SEE: disassemble	 ::
+pullet {n} (spineless person) SEE: chicken	 ::
+pulmonary {adj} (related to lungs)	 :: lunge-
+pulsar {n} (rotating neutron star)	 :: pulsar {m}
+pulse {n} (regular beat caused by the heart)	 :: puls
+pulverize {v} (pulverise) SEE: pulverise	 ::
+pumice {n} (pumice)	 :: pimpstein
+pump {n} (trainer or sneaker) SEE: trainer and sneaker	 ::
+pumpkin {n}	 :: gresskar
+pun {n} (joke or type of wordplay)	 :: [Bokmål] ordspill {n}; [Nynorsk] ordspel {n}
+punch {n} (beverage)	 :: [Bokmål] punsj {m}; [Nynorsk] punsj {m}
+punch {v} (to herd cattle) SEE: herd	 ::
+punctuate {v} (emphasize, stress) SEE: emphasize	 ::
+punctuation mark {n} (symbol to make the sense of what is written easier to determine)	 :: [Bokmål] skilletegn {n}
+Punic {adj} (Carthaginian) SEE: Carthaginian	 ::
+punish {v} (to cause great harm to)	 :: skade
+punish {v} (to cause to suffer for crime or misconduct)	 :: straffe
+punk {n} (a person of that movement, a punk rocker)	 :: pønker {m}, punker {m}
+punk {n} (prostitute) SEE: prostitute	 ::
+punk {n} (the music of the punk movement)	 :: pønk {m}, punk {m}
+pup {n} (young dog, etc.)	 :: [Bokmål] valp {m}; [Nynorsk] kvalp {m}, kvelp {m}
+pupil {n} (student)	 :: elev {m}
+pupil {n} (the hole in the middle of the iris of the eye)	 :: pupill {m}
+puppet {n} (doll) SEE: doll	 ::
+puppet {n} (movable model of a person or animal)	 :: marionett {m}; [Bokmål] hånddukke {m} {f} [in glove form]
+puppet {n} (person or country controlled by another)	 :: marionett {m}; [Bokmål] nikkedukke {m} {f} [literally "nodding doll"]
+Puppis {prop} (constellation)	 :: [Bokmål] Akterstavnen; [Nynorsk] Akterstemnen
+puppy {n} (young dog)	 :: [Bokmål] valp {m}; [Nynorsk] kvalp {m}, kvelp {m}
+puppy fat {n} (natural fat of the body of a child)	 :: [Bokmål] valpefett {n}; [Nynorsk] kvalpefeitt {n}, kvelpefeitt {n}
+purchase {n} (acquisition of lands or tenements by other means than descent or inheritance)	 :: overdragelse {m}, ervervelse {m}
+purchase {n} (individual item one has purchased)	 :: kjøp {n}, anskaffelse {m}
+purchase {n} (that which is obtained for a price in money or its equivalent)	 :: kjøp {n}, anskaffelse {m}
+purchase {n} (the act or process of seeking and obtaining something)	 :: kjøp {n}, anskaffelse {m}
+purchase {v} (to obtain by any outlay, as of labor, danger or sacrifice)	 :: sikre seg, erverve, kjøpe seg
+purchase {v} (to obtain by paying money or its equivalent; to buy for a price)	 :: kjøpe, anskaffe, erverve
+purchase {v} (to pursue and obtain; to acquire by seeking; to gain, obtain or acquire)	 :: erverve
+pure {adj} (free of flaws or imperfections)	 :: pur, ren
+pure {adj} (free of foreign material or pollutants)	 :: [Bokmål] ren, rein; [Nynorsk] rein
+purée {n} (food that has been ground into a thick liquid)	 :: [Bokmål] puré {m}; [Nynorsk] puré {m}
+puree {n} (purée) SEE: purée	 ::
+purely imaginary number {n} (imaginary number) SEE: imaginary number	 ::
+pure mathematics {n} (area of mathematics)	 :: ren matematikk {m}
+purgatory {n} (stage of the afterlife in Catholic theology)	 :: skjærsilden, purgatoriet
+purge {n} (forcible removal of undesirable people from political activity, etc.)	 :: utrenskning {m} {f}
+purge {v} (to clean thoroughly; to cleanse; to rid of impurities)	 :: rense
+purge {v} (to clear of a charge, suspicion, or imputation)	 :: renvaske
+purge {v} (to free from sin, guilt, or the burden or responsibility of misdeeds)	 :: rense
+purge {v} (to void the bowels; to vomit)	 :: [defecate] tømme tarmen, [reflexive] brekke seg, kaste opp
+puristic {adj} (of, or relating to purism or purists)	 :: puristisk
+purity {n} (the state of being pure)	 :: [Bokmål] renhet {m}
+purple {n} (colour)	 :: lilla, fiolett
+purple milkweed {n} (Asclepias cordifolia) SEE: heartleaf milkweed	 ::
+purple swamphen {n} (Porphyrio porphyrio)	 :: sultanhøne
+purpose {n} (target)	 :: mål {n}
+purposefully {adv} (on purpose) SEE: on purpose	 ::
+purr {v} (cat to make a vibrating sound in its throat)	 :: male
+purse {n} (small bag for carrying money)	 :: pung, pengepung
+purveyor {n} (supplier) SEE: supplier	 ::
+Pusan {prop} (Busan) SEE: Busan	 ::
+push {v} (transitive: apply a force to (an object) so that it moves away)	 :: dytte, skubbe
+pushpin {n} (thumbtack) SEE: thumbtack	 ::
+push scooter {n} (a child's foot-operated vehicle) SEE: scooter	 ::
+pushup {n} (push-up) SEE: push-up	 ::
+pussy {adj} (containing pus)	 :: pussfylt
+pussy {n} (informal: affectionate term for a cat)	 :: pus {m}, kattepus {m}, pusekatt {m}
+pussy {n} (informal: coward)	 :: pyse {c}, kylling {m}, jente {f}
+pussy {n} (slang: female genitalia)	 :: fitte {c}, kuse {c}, mus {c}
+pussy-cat {n} (affectionate term for a cat)	 :: kattepus {m}
+pussyfoot {v} (to act timidly)	 :: [figuratively] gå på gummisåler
+pussyfoot {v} (to use euphemistic language)	 :: [figuratively] gå på gummisåler, skjønnmale
+put {v} (to place something somewhere)	 :: sette
+putative {adj} (commonly believed or deemed to be the case)	 :: antatt, formentlig, formodet
+put in motion {v} (set in motion) SEE: set in motion	 ::
+put off {v} (to delay)	 :: [Bokmål] utsette; [Nynorsk] utsetje, utsette
+Putonghua {prop} (Chinese) SEE: Chinese	 ::
+Putonghua {prop} (Guoyu) SEE: Guoyu	 ::
+Putonghua {prop} (Mandarin) SEE: Mandarin	 ::
+put out {adj} (taking offense)	 :: satt ut
+put out {v} (extinguish)	 :: slokke, slukke
+put out {v} (place outside or eject)	 :: sette ut, slippe ut
+put out {v} (produce)	 :: lage, produsere
+putting green {n} (area on a golf course)	 :: [Bokmål] green {m}; [Nynorsk] green {m}
+put to death {v} (to kill as punishment) SEE: execute	 ::
+put to sleep {v} (to help someone to bed) SEE: put to bed	 ::
+put two and two together {v} (figure out)	 :: [Bokmål] legge to og to sammen; [Nynorsk] leggje to og to saman
+put up {v} (to put up with) SEE: put up with	 ::
+puukko {n} (a type of sharp, pointed knife of Nordic heritage)	 :: [Bokmål] tollekniv {m}
+puzzle {n} (crossword puzzle) SEE: crossword	 ::
+puzzle {n} (jigsaw puzzle) SEE: jigsaw puzzle	 ::
+PVC {initialism} ((organic compound) polyvinyl chloride) SEE: polyvinyl chloride	 ::
+pylon {n} (obelisk) SEE: obelisk	 ::
+pylon {n} (traffic cone) SEE: traffic cone	 ::
+pyometra {n} (pyometra)	 :: pyometra, livmorinfeksjon
+Pyongyang {prop} (capital of North Korea)	 :: Pyongyang
+pyorrhœa {n} (pyorrhea) SEE: pyorrhea	 ::
+pyorrhoea {n} (pyorrhea) SEE: pyorrhea	 ::
+pyramid {n} (pyramid scheme) SEE: pyramid scheme	 ::
+pyramid scheme {n} (illicit money-making scheme)	 :: pyramidespill {n}
+pyroclastic flow {n} (pyroclastic flow)	 :: pyroklastisk strøm
+pyrotechnics {n} (art and technology of fireworks)	 :: pyroteknikk
+pyrotechnics {n} (firework) SEE: firework	 ::
+Pyrrhic victory {n} (a costly victory)	 :: [Bokmål] pyrrhosseier {m}; [Nynorsk] pyrrhossiger {m}
+Pythagoras {prop} (Ancient Greek mathematician and philosopher)	 :: Pythagoras
+pythoness {n} (Pythoness) SEE: Pythoness	 ::

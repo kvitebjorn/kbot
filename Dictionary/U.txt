@@ -1,0 +1,402 @@
+﻿Ürümchi {prop} (Capital of Xinjiang) SEE: Ürümqi	 ::
+ubiquitous {adj} (being everywhere)	 :: allestedsnærværende
+Udi {prop} (language)	 :: udinsk
+uey {n} (U-turn) SEE: U-turn	 ::
+UFO {n} (alien spacecraft)	 :: [Bokmål] ufo {m}; [Nynorsk] ufo {m}
+UFO {n} (an unidentified flying object)	 :: [Bokmål] ufo {m}; [Nynorsk] ufo {m}
+Uganda {prop} (Republic of Uganda)	 :: Uganda
+Ugandan {adj} (Of, from, or pertaining to Uganda, the Ugandan people or the Ugandan language)	 :: [Bokmål] ugandisk; [Nynorsk] ugandisk
+Ugandan {n} (A person from Uganda or of Ugandan descent)	 :: [Bokmål] ugander {m}; [Nynorsk] ugandar {m}
+ugli {n} (cross between a tangerine and grapefruit)	 :: ugli
+ugli fruit {n} (ugli) SEE: ugli	 ::
+ugly {adj} (displeasing to the ear or some other sense)	 :: stygg, ekkel, vemmelig
+ugly {adj} (displeasing to the eye; not aesthetically pleasing)	 :: stygg, frastøtende
+ugly {adj} (offensive to one's sensibilities or morality)	 :: vemmelig, vond, stygg
+uh {interj} (expression of confusion or uncertainty)	 :: eh, øh
+uh {interj} (space filler or pause during conversation)	 :: eh, øh
+uhlan {n} (soldier with lance)	 :: ulan
+Ukraine {prop} (Eastern European country)	 :: Ukraina
+Ukrainian {adj} (relating to Ukraine or its people)	 :: [Bokmål] ukrainsk; [Nynorsk] ukrainsk
+Ukrainian {n} (ethnic/citizen)	 :: [Bokmål] ukrainer {m}; [Nynorsk] ukrainar {m}
+Ukrainian {prop} (language)	 :: [Bokmål] ukrainsk; [Nynorsk] ukrainsk
+ulcer {n} (peptic ulcer) SEE: peptic ulcer	 ::
+ulcus molle {n} (chancroid) SEE: chancroid	 ::
+Ulric {prop} (male given name)	 :: Ulrik
+Ulrica {prop} (female given name)	 :: Ulrike, Ulrikke
+ulterior motive {n} (alternative or hidden reason)	 :: baktanke {m}
+ultimate {adj} (final; last in a series)	 :: endelig
+ultimate {adj} (greatest or maximum)	 :: ultimat
+ultimate {n} (ultimate frisbee) SEE: ultimate frisbee	 ::
+ultracapacitor {n} (ultracapacitor) SEE: supercapacitor	 ::
+ultrasound {n} (sound with a frequency greater than the upper limit of human hearing)	 :: ultralyd {n}; [Nynorsk] ultraljod {n}
+ultraviolet {adj} (radiation with wavelengths from 380 nanometre - 10 nanometre)	 :: ultrafiolett
+Uluru {prop} (giant rock in Australia)	 :: Uluru
+Ulyanovsk {prop} (city)	 :: Uljanovsk
+Ulysses {prop} (Odysseus) SEE: Odysseus	 ::
+umber {n} (grayling) SEE: grayling	 ::
+umbilical cord {n} (cord between foetus and placenta)	 :: navlestreng {m}
+umbilicus {n} (navel) SEE: navel	 ::
+umbra {n} (shadow) SEE: shadow	 ::
+umbra {n} (the central region of a sunspot)	 :: [Bokmål] umbra {m}; [Nynorsk] umbra {m}
+umbrella {n} (anything that provides protection)	 :: paraply {m}
+umbrella {n} (cloth-covered frame used for protection against rain or sun)	 :: [Bokmål] paraply {m}; [Nynorsk] paraply {m}
+umbrella {n} (something that covers a wide range of concepts, ideas, etc.)	 :: paraply {m}
+umbrella organisation {n} (organisation that coordinates the activities of a number of member organisations)	 :: [Bokmål] paraplyorganisasjon {m}; [Nynorsk] paraplyorganisasjon {m}
+umbrella organization {n} (umbrella organisation) SEE: umbrella organisation	 ::
+umbrella pine {n} (stone pine) SEE: stone pine	 ::
+Ume Sami {prop} (language)	 :: umesamisk {c}
+umlaut {n} (diacritical mark)	 :: omlyd
+umpteen {determiner} (Relatively large but unspecified in number)	 :: ørten
+umpteenth {num} (informal: occurring in a relatively large but unspecified position in a series)	 :: ørtende
+un- {prefix} (denoting absence)	 :: u-
+unauthorised {adj} (not authorised) SEE: unauthorized	 ::
+unbeliever {n} (infidel) SEE: infidel	 ::
+unbibium {n} (element)	 :: unbibium
+unbinilium {n} (chemical element)	 :: unbinilium
+unbiunium {n}	 :: unbiunium
+unborn {adj} (not born)	 :: [Bokmål] ufødt
+unborn {adj} (still in mother's womb)	 :: [Bokmål] ufødt
+unbosom {v} (to confess a misdeed)	 :: lette sitt hjerte
+unbosom {v} (to tell about one's troubles)	 :: lette sitt hjerte
+unchilled {adj} (Not chilled)	 :: uavkjølt, ukjølt
+unciform {n} (hamate bone) SEE: hamate bone	 ::
+uncompromising {adj} (inflexible and unwilling to negotiate or make concessions)	 :: kompromissløs, egen
+uncompromising {adj} (principled)	 :: kompromissløs
+unconscious {adj} (not awake)	 :: bevisstløs
+uncountable {adj} (linguistics: about a noun which cannot be counted)	 :: [Bokmål] utellelig; [Nynorsk] uteljeleg
+uncountable {adj} (mathematics: incapable of being enumerated by natural numbers)	 :: [Bokmål] utellbar
+uncouth {adj} (clumsy, awkward)	 :: keitete, klossete
+uncouth {adj} (unfamiliar, strange, foreign)	 :: underlig
+uncouth {adj} (unrefined, crude)	 :: ukultivert
+uncurable {adj} (incurable) SEE: incurable	 ::
+undead {adj} (being animate, though non-living)	 :: vandød
+under {prep} (in a lower level than)	 :: under
+under {prep}	 :: under
+underage {adj} (below legal age)	 :: [Bokmål] mindreårig; [Nynorsk] mindreårig
+underage {adj} (still a minor)	 :: [Bokmål] mindreårig; [Nynorsk] mindreårig
+underage {n} (deficit in funds) SEE: deficit	 ::
+undercarriage {n} (landing gear) SEE: landing gear	 ::
+undercharge {v} (charge less than the correct amoun)	 :: ta for lite betalt
+underdone {adj} (insufficiently cooked) SEE: undercooked	 ::
+underestimate {v} (to perceive as having lower value)	 :: [Bokmål] undervurdere; [Nynorsk] undervurdere
+underestimated {v} (underrated) SEE: underrated	 ::
+underestimation {n} (underestimate) SEE: underestimate	 ::
+underfoot {adv} (in the way) SEE: in the way	 ::
+undergird {v} (lend moral support to)	 :: backe opp, oppbacke
+undergird {v} (provide supportive evidence for)	 :: understøtte
+undergird {v} (secure below, underneath)	 :: støtte opp under
+undergo {v} (to experience)	 :: [Bokmål] gjennomgå; [Nynorsk] gjennomgå
+undergo {v} (to suffer or endure)	 :: [Bokmål] gjennomgå; [Nynorsk] gjennomgå
+underground {n} (underground railway) SEE: underground railway	 ::
+undernourishment {n} (insufficient nourishment)	 :: [Bokmål] underernæring {m} {f}; [Nynorsk] underernæring {f}
+under one's hat {adj} (secret) SEE: secret	 ::
+underpad {n} (mattress protector) SEE: mattress protector	 ::
+underplot {n} (subplot) SEE: subplot	 ::
+understand {v} (to be aware of the meaning of)	 :: forstå, skjønne, kunne
+understand {v} (to believe, based on information)	 :: forstå, skjønne
+understand {v} (to impute meaning, character etc. that is not explicitly stated)	 :: forstå, fatte
+understandable {adj} (capable of being understood)	 :: [Bokmål] forståelig; [Nynorsk] forståeleg
+understeer {n}	 :: [Bokmål] understyring {m} {f}
+undertaker {n} (funeral director)	 :: [Bokmål] begravelsesagent {m}
+under-the-counter {adj} (under the counter) SEE: under the counter	 ::
+under the knife {adj} (undergoing a surgical procedure)	 :: under kniven
+under the weather {adj} (somewhat ill)	 :: hanglete, halvsjuk, halvsyk, klein, skranten, skrantete, tufs, tufsen, tufsete, uggen, urven
+underwear {n} (clothes worn next to the skin)	 :: [Bokmål] undertøy {n}; [Nynorsk] undertøy {n}, underty {n}
+underworld {n} (part of society engaged in crime or vice)	 :: [Bokmål] underverden {m}
+underworld {n} (world of the dead)	 :: [Bokmål] underverden {m}
+undesirable {adj} (objectionable or not likely to please)	 :: (bokmål): uønska/uønsket/uønskt; (nynorsk): uynskt/uønskt
+undies {n} (panties) SEE: panties	 ::
+undisclosed {adj} (not disclosed)	 :: hemmeligholdt
+undo {v} (to reverse)	 :: rette opp, angre
+undo {v} (to unfasten)	 :: løsne
+undoing {n} (That which defeats)	 :: undergang
+undoubtfully {adv} (without doubt) SEE: undoubtedly	 ::
+undulate {adj} (wavy in appearance or form)	 :: [Bokmål] bølget
+undulate {v} (intransitive: move in wavelike motions)	 :: [Bokmål] bølge
+unechoing {adj} (that does not echo) SEE: echoless	 ::
+unelegant {adj} (not elegant)	 :: uelegant
+unemployed {adj} (having no job)	 :: [Bokmål] arbeidsledig, arbeidsløs
+unemployment {n} (joblessness)	 :: [Bokmål] arbeidsledighet {m}; [Nynorsk] arbeidsløyse {f}
+unequivocal {adj} (without ambiguity)	 :: utvilsom
+unethical {adj} (not morally approvable)	 :: [Bokmål] uetisk
+uneven {adj} (not even)	 :: ujevn, kupert
+uneven {adj} (not level or smooth)	 :: ujevn
+unexpected {adj} (not expected, anticipated or foreseen)	 :: [Bokmål] uventet, uventa; [Nynorsk] uventa
+unexplainable {adj} (inexplicable) SEE: inexplicable	 ::
+unexplainably {adv} (inexplicably) SEE: inexplicably	 ::
+unexploded {adj} (Not exploded)	 :: ueksplodert
+unfairly {adv} (unjustly) SEE: unjustly	 ::
+unfavourable {adj} (unfavourable) SEE: unfavorable	 ::
+unfeasible {adj} (infeasible) SEE: infeasible	 ::
+unfired {adj} (Not fired)	 :: uavfyrt
+unfortunate {adj} (marked or accompanied by or resulting in misfortune)	 :: uheldig
+unfortunate {adj} (not favored by fortune)	 :: uheldig
+unfortunately {adv} (happening through bad luck)	 :: uheldigvis, dessverre
+unfreeze {v} (defrost) SEE: defrost	 ::
+unfreeze {v} (thaw) SEE: thaw	 ::
+unfriendly {adj} (not friendly; hostile)	 :: [Bokmål] uvennlig
+unfurl {v} (to unroll or release)	 :: folde ut, rulle ut
+ungrateful {adj} (not grateful)	 :: utakknemlig
+ungratefulness {n} (ingratitude) SEE: ingratitude	 ::
+ungulate {n} (hooved mammal)	 :: [Bokmål] hovdyr {n}; [Nynorsk] hovdyr {n}
+unhappy {adj} (not happy; sad)	 :: [Bokmål] ulykkelig
+unharness {v} (to liberate) SEE: liberate	 ::
+unhistoric {adj} (unhistorical) SEE: unhistorical	 ::
+Unicode {prop} (series of computer encoding standards)	 :: Unicode
+unicorn {n} (mythical beast)	 :: [Bokmål] enhjørning {m}
+unicycle {n} (one-wheeled pedaled cycle)	 :: etthjulssykkel {c}
+unidentified {adj} (not identified)	 :: [Bokmål] uidentifisert; [Nynorsk] uidentifisert
+unidentified flying object {n} (anything in the air not readily explainable)	 :: uidentifisert flygende objekt {n}
+uniform {n} (distinctive outfit as a means of identifying members of a group)	 :: [Bokmål] uniform {m} {f}; [Nynorsk] uniform {f}
+unify {v} (cause to become one)	 :: [Bokmål] forene
+unilateral {adj} (Done by one side only)	 :: unilateral
+unilaterally {adv} (in a unilateral way)	 :: ensidig, unilateral
+unilingualism {n} (condition of being able to speak only a single language)	 :: enspråklighet {m} {f}
+uninspiring {adj} (not inspiring)	 :: lite inspirerende, uinspirerende
+unintelligible {adj} (not intelligible)	 :: uforståelig
+uninvited {adj} (not invited)	 :: uinvitert
+uninviting {adj} (Not inviting)	 :: lite innbydende
+union {n} (the act of uniting or the state of being united)	 :: union {c}
+union {n} (trade union) SEE: trade union	 ::
+Union of Soviet Socialist Republics {prop} (a confederation of Communist states)	 :: Unionen av sosialistiske rådsrepublikker, Samveldet av sosialistiske rådsrepublikker
+unique {adj} (one of a kind)	 :: unik
+unit {n} (algebra: element of a ring)	 :: [Bokmål] enhet {m}; [Nynorsk] eining {m}
+unit {n} (international unit) SEE: international unit	 ::
+unit {n} (item which may be sold singly)	 :: [Bokmål] enhet {m}; [Nynorsk] eining {m}
+unit {n} (kilowatt-hour as recorded on an electricity meter) SEE: kilowatt-hour	 ::
+unit {n} (organized group comprising people and/or equipment)	 :: [Bokmål] enhet {m}; [Nynorsk] eining {m}
+unit {n} (standard measure of a quantity)	 :: [Bokmål] enhet {m}; [Nynorsk] eining {m}
+Unitarian {adj} (pertaining to Unitarianism)	 :: unitarisk
+Unitarian {n} (a Christian who does not ascribe to Trinitarian theology)	 :: unitarer {m}
+United Arab Emirates {prop} (country in the Middle East)	 :: De forente arabiske emirater
+United Kingdom {prop} (Kingdom in Europe, see also: Great Britain)	 :: Det forente kongerike Storbritannia og Nord-Irland
+United Kingdom of Great Britain and Northern Ireland {prop} (United Kingdom of Great Britain and Northern Ireland)	 :: [Bokmål] Det forente kongeriket Storbritannia og Nord-Irland {n}; [Nynorsk] Det sameinte kongeriket Storbritannia og Nord-Irland {n}
+United Nations {prop} (international coalition)	 :: [Bokmål] FN, De forente nasjoner; [Nynorsk] FN, De forente nasjoner, SN, Dei sameinte nasjonane
+United States {prop} (The United States)	 :: De Forente Stater {m-p}
+United States of America {prop} (Country in North America)	 :: Amerikas forente stater, De forente stater
+unit matrix {n} (identity matrix) SEE: identity matrix	 ::
+unit of measurement {n} (unit of measure) SEE: unit of measure	 ::
+unit vector {n} (vector with length 1)	 :: [Bokmål] enhetsvektor {m}; [Nynorsk] einingsvektor {m}
+unity {n} (the state of being one or undivided)	 :: [Bokmål] enhet {m} {f}; [Nynorsk] einskap {m}
+universe {n} (the Universe)	 :: univers {n}
+universe of discourse {n} (domain of discourse) SEE: domain of discourse	 ::
+university {n} (institution of higher education)	 :: [Bokmål] universitet {n}; [Nynorsk] universitet {n}
+university of life {n} (source of education by adverse experience) SEE: school of hard knocks	 ::
+unjustice {n} (injustice) SEE: injustice	 ::
+unknown {adj} (not known)	 :: ukjent
+unlabeled {adj} (Not labeled)	 :: merkeløs, merkefri, umerket
+unlabelled {adj} (Not labeled)	 :: merkeløs, merkefri, umerket
+unlawful {adj} (prohibited)	 :: rettsstridig
+unleaded {adj} (without lead)	 :: blyfri
+unless {conj} (except on a specified condition)	 :: hvis ikke
+unlike {adj} (dissimilar)	 :: ulik
+unlike {adj} (not likely) SEE: unlikely	 ::
+unlimited {adj} (limitless or without bounds; unrestricted)	 :: [Bokmål] ubegrenset, ubegrensa
+unmarketable {adj} (not marketable)	 :: uselgelig
+unmarried {adj} (having no husband or wife)	 :: ugift
+unmeaningness {n} (insignificance) SEE: insignificance	 ::
+unmeasured {adj} (not measured)	 :: umålt
+unmediated {adj} (not mediated)	 :: uformidlet, umediert
+unmentionable {adj} (not mentionable)	 :: unevnelig
+unmodified {adj} (not modified)	 :: umodifisert
+unnatural {adj} (not natural)	 :: [Bokmål] unaturlig; [Nynorsk] unaturleg
+unnecessary {adj} (not necessary)	 :: unødvendig
+unneeded {adj} (not needed, not)	 :: unødvendig
+unnoticeable {adj} (not noticeable)	 :: umerkelig
+unobjective {adj} (Not objective)	 :: uobjektiv
+unobtrusive {adj} (unobtrusive)	 :: ikke/lite påtrengende
+unorthodox {adj} (unusual, unconventional, or idiosyncratic)	 :: uortodoks
+unpainted {adj} (not painted)	 :: [Bokmål] umalt
+unpasteurized {adj} (not pasteurised)	 :: [Bokmål] upasteurisert; [Nynorsk] upasteurisert
+unpatriotic {adj} (not patriotic)	 :: upatriotisk
+unpeeled {adj}	 :: uskrellet
+unperformed {adj} (not performed)	 :: uframført
+unperturbed {adj} (not perturbed)	 :: uforstyrret
+unpolitical {adj} (not political)	 :: upolitisk
+unpopular {adj} (lacking popularity)	 :: [Bokmål] upopulær; [Nynorsk] upopulær
+unpracticed {adj} (not practiced)	 :: upraktisert, uøvd
+unprejudiced {adj} (not prejudiced)	 :: fordomsfri
+unpressed {adj} (not pressed)	 :: upresset
+unprintable {adj} (not printable)	 :: uprentelig
+unprocessed {adj} (not processed)	 :: ubearbeidet, uprosessert
+unprofessional {adj} (unbecoming of a professional)	 :: [Bokmål] uprofesjonell; [Nynorsk] uprofesjonell
+unpromising {adj} (not promising)	 :: lite lovende
+unprompted {adj} (not prompted)	 :: uoppfordret
+unproved {adj} (not proved)	 :: ikke bevist
+unquote {interj} (end of quotation)	 :: sitat slutt
+unravel {v} (to separate the threads (of))	 :: rakne
+unreal {adj} (fake)	 :: uvirkelig
+unreconcilable {adj} (irreconcilable) SEE: irreconcilable	 ::
+unrelated {adj} (not connected)	 :: uavhengig, uten sammenheng
+unrelated {adj} (not related)	 :: [Bokmål] ikke i slekt; [Nynorsk] ikkje i slekt
+unreliable {adj} (not reliable)	 :: [Bokmål] upålitelig; [Nynorsk] upåliteleg
+unrest {n} (state of trouble)	 :: uro {c}
+unrightwise {adj} (unrighteous) SEE: unrighteous	 ::
+unripe {adj} (not ripe)	 :: [Bokmål] umoden; [Nynorsk] umoden, umogen
+unrivalled {adj} (unrivaled) SEE: unrivaled	 ::
+unrobe {v} (disrobe) SEE: disrobe	 ::
+unsafe {adj} (not safe)	 :: [Bokmål] usikker; [Nynorsk] usikker
+unsaid {adj} (unspoken) SEE: unspoken	 ::
+unsatisfied {adj} (dissatisfied) SEE: dissatisfied	 ::
+unsavory {adj} (disreputable)	 :: smakløst
+unscrew {v} (loosen a screw etc.)	 :: [Bokmål] skru ut
+unscrupulous {adj} (contemptuous of what is right or honourable)	 :: [Bokmål] skruppelløs; [Nynorsk] skruppellaus
+unscrupulous {adj} (without scruples)	 :: [Bokmål] skruppelløs; [Nynorsk] skruppellaus
+UN Security Council {prop} (international organ)	 :: [Bokmål] Sikkerhetsrådet i FN {n}
+unseemly {adj} (inconsistent with standards, etc.)	 :: upassende
+unshaven {adj} (unkempt) SEE: unkempt	 ::
+unsolicited {adj} (not requested, welcome or invited)	 :: [Bokmål] uoppfordret, uønsket
+unsolvable {adj} (not solvable)	 :: [Bokmål] uløselig
+unsufferable {adj} (insufferable) SEE: insufferable	 ::
+unsurrounded {adj} (Not surrounded)	 :: uomringet
+unsustainable {adj} (Not sustainable)	 :: ikke bærekraftig
+unsweetened {adj} (Not sweetened)	 :: usøtet
+unsymmetrical {adj} (not symmetrical)	 :: usymmetrisk
+unsystematic {adj} (not systematic)	 :: usystematisk
+untactful {adj} (not tactful)	 :: taktløs
+untalented {adj} (not talented)	 :: talentløs
+untapped {adj} (not tapped)	 :: utappet
+untarnished {adj} (not tarnished)	 :: uplettet
+untasted {adj} (not tasted)	 :: usmakt
+untenable {adj} (Not able to be held, as of an opinion or position)	 :: [Bokmål] uholdbar
+until {prep}	 :: inntil, til, før
+untitled {adj} (having no title)	 :: [Bokmål] navnløs; [Nynorsk] namnlaus
+untouchable {n} (pariah) SEE: pariah	 ::
+untoward {adj} (unseemly, improper)	 :: ufin
+untranslated {adj} (not translated; in the original language)	 :: uoversatt
+untrue {adj} (false)	 :: [Bokmål] usann; [Nynorsk] usann
+untruism {n} (false statement) SEE: falsehood	 ::
+untruth {n} (lie or falsehood)	 :: [Bokmål] usannhet {m} {f}
+ununbium {n} (chemical element)	 :: ununbium
+ununennium {n} (chemical element)	 :: ununennium
+ununhexium {n} (element with atomic number 116)	 :: ununhexium
+ununoctium {n} (chemical element)	 :: ununoctium
+ununpentium {n} (chemical element)	 :: ununpentium
+ununquadium {n} (chemical element)	 :: ununquadium
+ununseptium {n} (element with atomic number 117)	 :: ununseptium
+ununtrium {n} (chemical element)	 :: ununtrium
+unvariable {adj} (invariable) SEE: invariable	 ::
+unveil {v} (to reveal one's self)	 :: blottstille
+unveil {v} (to uncover)	 :: avdekke; [Bokmål] avduke
+unvisible {adj} (invisible) SEE: invisible	 ::
+unvisibly {adv} (invisibly) SEE: invisibly	 ::
+unvoiced {adj} (linguistics: voiceless) SEE: voiceless	 ::
+unvoluntary {adj} (involuntary) SEE: involuntary	 ::
+unwieldy {adj} (difficult to carry, handle, manage or operate)	 :: tungvinn; [Bokmål] uhåndterlig; [Nynorsk] uhandterleg, uhandterlig, ulagleg
+unwrinkled {adj} (wrinkle-free) SEE: wrinkle-free	 ::
+unwritten rule {n} (unspoken rule) SEE: unspoken rule	 ::
+up {adj} (avaliable)	 :: oppe
+up {adj} (awake)	 :: oppe
+up {adj} (facing upwards)	 :: med ... opp
+up {adj} (finished)	 :: ute
+up {adj} (functional)	 :: oppe
+up {adj} (in a good mood)	 :: oppesen
+up {adj} (informed about)	 :: med [colloquial], oppdatert
+up {adj} (next)	 :: i tur
+up {adj} (on a higher level)	 :: oppe
+up {adj} (rail transport: traveling towards a major terminus)	 :: utgående
+up {adj} (ready, willing)	 :: klar
+up {adj} (standing)	 :: opp
+up {adv} (away from earth’s centre)	 :: opp
+up {adv} (completely, thoroughly)	 :: opp
+up {adv} (higher in pitch)	 :: opp
+up {adv} (higher, louder)	 :: opp
+up {adv} (north)	 :: opp
+up {prep} (further along)	 :: oppover
+up {prep} (toward the top)	 :: oppover
+up {v} (increase)	 :: høyne, øke
+up {v} (promote)	 :: forfremme
+upblow {v} (blow up) SEE: blow up	 ::
+update {n} (action of making something up to date)	 :: ajourføring
+upfront {adv} ( attacker) SEE: attacker	 ::
+upfront {adv} ( beforehand) SEE: beforehand	 ::
+upon {prep} (at a prescribed point in time)	 :: ved
+upon {prep} (being above and in contact with another)	 :: oppå
+upon {prep} (being directly supported by another)	 :: på
+upon {prep}	 :: oppå, på
+upper {adj}	 :: øvre
+upper chamber {n} (upper house) SEE: upper house	 ::
+upper class {n} (those people at the top of a social hierarchy)	 :: [Bokmål] overklasse {m} {f}; [Nynorsk] overklasse {m} {f}
+Upper Lusatian {prop} (Upper Sorbian) SEE: Upper Sorbian	 ::
+uppity {adj} (Presumptuous, above oneself)	 :: oppesen
+upright bass {n} (instrument) SEE: double bass	 ::
+uprighteous {adj} (righteous) SEE: righteous	 ::
+uproot {v} (eradicate) SEE: eradicate	 ::
+uproot {v} (extirpate) SEE: extirpate	 ::
+upscale {adj} (marked by wealth or quality) SEE: high-class	 ::
+upstart {n} (one who has suddenly gained wealth, power, or other prominence, but has not received social acceptance)	 :: oppkomling {m}
+up-to-date {adj} (current, recent)	 :: [Bokmål] oppdatert, [up to date] à jour [adverb]; [Nynorsk] [up to date] à jour [adverb]
+up-to-date {adj} (informed of the latest news)	 :: [Bokmål] [up to date] à jour [adverb], up-to-date; [Nynorsk] [up to date] à jour [adverb]
+upwelling {n} (deep sea water flow to surface)	 :: oppstrømning
+up yours {interj} (exclamation of contempt) SEE: shove it up your ass	 ::
+Ural owl {n} (Strix uralensis)	 :: [Bokmål] slagugle {c}, uralugle {c}
+Urals {prop} (Ural Mountains) SEE: Ural Mountains	 ::
+uranian {adj} (Uranian) SEE: Uranian	 ::
+uranium {n} (uranium (element))	 :: [Bokmål] uran {n}; [Nynorsk] uran {n}
+urbanism {n} (urbanization) SEE: urbanization	 ::
+urban myth {n} (widely circulated story) SEE: urban legend	 ::
+ureter {n} (narrow duct that carries urine from the kidneys)	 :: urinleder
+urethra {n} (anatomical tube)	 :: urinrør
+urge {n} (a strong desire; an itch to do something)	 :: trang {m}
+Ur-Germanic {prop} (hypothetical prehistoric ancestor language)	 :: urgermansk {m}
+urinary {adj} (urinary)	 :: urin-
+urinary break {n} (a rest period during the focused activity for the purpose of urinating)	 :: tissepause {m}
+urine {n} (liquid excrement)	 :: [Bokmål] urin {m}; [Nynorsk] urin {m}
+urn {n} (a vase with a footed base)	 :: urne {m} {f}
+urn {n} (a vessel for ashes or cremains of a deceased person)	 :: urne {m} {f}
+urogenital {adj} (relating to the urinary and/or the genital systems) SEE: genitourinary	 ::
+urological {adj} (of or pertaining to urology) SEE: urologic	 ::
+urticaria {n} (medical condition)	 :: [Bokmål] elveblest {m}
+Uruguay {prop} (country)	 :: Uruguay
+Uruguayan {adj} (of Uruguay)	 :: [Bokmål] uruguayansk; [Nynorsk] uruguayansk
+Uruguayan {n} (a person from Uruguay)	 :: [Bokmål] uruguayaner {m}; [Nynorsk] uruguayan {m}, uruguayanar {m}
+us {pron} (objective case of "we")	 :: oss
+USA {prop} (United States of America)	 :: USA
+U.S.A. {prop} (USA) SEE: USA	 ::
+usage {n} (habit or accepted practice)	 :: anvendelse {m}
+usage {n} (the manner or the amount of using; use)	 :: bruksområde {n}
+usage {n} (the way words are spoken or written in a community)	 :: bruk {m}
+use {n} (act of using)	 :: [Bokmål] bruk {m} {n}, anvendelse {m}; [Nynorsk] bruk {m} {n}
+use {n} (usefulness)	 :: nytte {m}
+use {v} (employ, apply)	 :: bruke
+use {v} (used to) SEE: used to	 ::
+useable {adj} (usable) SEE: usable	 ::
+used {adj} (that has or have previously been owned by someone else)	 :: brukt
+used {adj} (that is or has or have been used)	 :: brukt
+used to {adj} (accustomed to)	 :: ha for vane
+used to {adv} (formerly)	 :: pleide / brukte + verb in infinitive; I used to eat cheese - Jeg pleide/brukte å spise ost.
+useful {adj} (having a practical or beneficial use)	 :: nyttig
+useful idiot {n} (political sense)	 :: [Bokmål] nyttig idiot {m}
+useless {adj} (unable to do well)	 :: ubrukelig, unyttig
+useless {adj} (without use or possibility to be used)	 :: nytteløst, unyttig
+user {n} (one who uses something, a consumer)	 :: [Bokmål] bruker {m}; [Nynorsk] brukar {m}
+user {n} (person who uses a computer)	 :: bruker
+user interface {n} (the part of a software application that a user sees and interacts with)	 :: [Bokmål] brukergrensesnitt {n}; [Nynorsk] brukargrensesnitt {n}
+username {n} (a person's identification on an individual computer system)	 :: [Bokmål] brukernavn {n}
+use up {v} (exhaust) SEE: exhaust	 ::
+USSR {prop} (Union of Soviet Socialist Republics)	 :: Sovjetunionen, USSR, SSSR
+usual {adj} (most commonly occurring)	 :: vanlig
+usually {adv} (under normal conditions) SEE: normally	 ::
+usurer {n} (one who loans money at exorbitant interest rates)	 :: [Bokmål] ågerkar {m}, ågerkarl {m}; [Nynorsk] ågerkar {m}
+usurp {v} (to seize power)	 :: usurpere
+usury {n} (exorbitant rate of interest in excess of any legal rates)	 :: åger {m}, åger {n}
+usury {n} (practice of lending money at illegal or unfair rates)	 :: åger {m} {n}
+US Virgin Islands {prop} (Country in the Caribbean)	 :: Amerikanske Jomfruøyene {p}
+utensil {n} (device for domestic use, in the kitchen, or in war)	 :: [Bokmål] redskap {m} {n}; [Nynorsk] reiskap {m}
+uterine tube {n} (Fallopian tube) SEE: Fallopian tube	 ::
+uterus {n} (womb) SEE: womb	 ::
+utilization {n} (utilisation) SEE: utilisation	 ::
+utilize {v} (utilise) SEE: utilise	 ::
+utopia {n} (world in perfect harmony)	 :: utopi {m}
+utopian {adj} (ideal but often impractical; visionary)	 :: [Bokmål] utopisk; [Nynorsk] utopisk
+Utsjoki {prop} (municipality in Northern Finland)	 :: Utsjok, Utsjoki
+utter {adj} (absolute)	 :: [Bokmål] ren, fullstendig; [Nynorsk] rein, fullstendig
+utter {v} (say)	 :: [Bokmål] ytre; [Nynorsk] ytre
+utter {v} (use the voice)	 :: [Bokmål] utstøte, utstøyte
+utterly {adv} (in complete manner) SEE: completely	 ::
+uvula {n} (appendage that hangs from the palate)	 :: drøvel
+Uzbek {adj} (of, from, or pertaining to Uzbekistan, its people or language)	 :: [Bokmål] usbekisk; [Nynorsk] usbekisk
+Uzbek {n} (person)	 :: [Bokmål] usbeker {m}; [Nynorsk] usbekar {m}
+Uzbek {prop} (language)	 :: [Bokmål] usbekisk {m}; [Nynorsk] usbekisk {m}
+Uzbekistan {prop} (Republic of Uzbekistan)	 :: Usbekistan
+Uzhgorod {prop} (Uzhhorod) SEE: Uzhhorod	 ::

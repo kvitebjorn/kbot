@@ -1,0 +1,308 @@
+﻿Kaaba {prop} (cubical stone building in Mecca)	 :: Kaba
+Kabyle {prop} (language)	 :: [Bokmål] kabylsk {m}; [Nynorsk] kabylsk {m}
+kai-lan {n} (kailan) SEE: kailan	 ::
+kakke {n} (beriberi) SEE: beriberi	 ::
+kakorrhaphiophobia {n} (atychiphobia) SEE: atychiphobia	 ::
+kale {n} (edible plant: brassica oleracea acephala)	 :: grønnkål {c}
+kangaroo {n} (marsupial)	 :: kenguru {m}
+Kanji {prop} (kanji) SEE: kanji	 ::
+Kannada {prop} (language)	 :: kannada
+kaput {adj} (out of order)	 :: kaputt
+Karafuto {prop} (Sakhalin) SEE: Sakhalin	 ::
+karaoke {n} (a form of entertainment)	 :: [Bokmål] karaoke
+Karasjok {prop} (village in Norway)	 :: Karasjok; [Bokmål] Karasjok; [Nynorsk] Karasjok
+karate {n} (martial art)	 :: karate {m}
+Karelian {prop} (the language)	 :: karelsk
+Karin {prop} (female given name from a Swedish form of Catherine)	 :: Karin
+Karl {prop} (cognates) SEE: Charles	 ::
+Karl {prop} (transliterations) SEE: Carl	 ::
+Karnataka {prop} (state in southern India)	 :: Karnataka
+karst {n} (type of land formation)	 :: karstlandskap {n}
+Kartvelian {adj} (Georgian) SEE: Georgian	 ::
+Kartvelian {n} (Georgian) SEE: Georgian	 ::
+Kartvelian {prop} (Georgian) SEE: Georgian	 ::
+Kashi {prop} (Kashgar) SEE: Kashgar	 ::
+Kashubian {prop} (Slavic language spoken in the Pomeranian region of Poland)	 :: kasjubisk
+Kathleen {prop} (Catherine) SEE: Catherine	 ::
+Kavala {prop} (city)	 :: Kavala; [Nynorsk] Kavála, Kavala
+kazachok {n} (kozachok) SEE: kozachok	 ::
+Kazakh {adj} (pertaining to the Kazakh people or the Kazakh language)	 :: [Bokmål] kasakhstansk; [Nynorsk] kasakhstansk
+Kazakh {adj} (pertaining to the Kazakhstan) SEE: Kazakhstani	 ::
+Kazakh {n} (a person from Kazakhstan) SEE: Kazakhstani	 ::
+Kazakh {n} (a person of Kazakh descent)	 :: [Bokmål] kasakhstaner {m}; [Nynorsk] kasakhstanar {m}
+Kazakh {prop} (language)	 :: [Bokmål] kasakhstansk {m}; [Nynorsk] kasakhstansk {m}
+Kazakhstan {prop} (country in Central Asia)	 :: Kasakhstan
+Kazakhstani {adj} (of or pertaining to the Kazakh people or the Kazakh language) SEE: Kazakh	 ::
+Kazakhstani {n} (person of Kazakh origin) SEE: Kazakh	 ::
+Kōbe {prop} (Kobe) SEE: Kobe	 ::
+Kōchi {prop} (Kochi) SEE: Kochi	 ::
+keel {n} (rigid flat piece of material giving a ship greater control and stability)	 :: kjøl
+keep {n} (main tower)	 :: borgtårn
+keep {n} (support)	 :: forpleining {c}, underhold
+keep {v} (to continue)	 :: fortsette
+keep {v} (to maintain possession of)	 :: beholde
+keep {v} (to maintain the condition of; to preserve)	 :: bevare
+keep a cool head {v} (keep one's cool) SEE: keep one's cool	 ::
+keeper {n} (guardian of goal)	 :: keeper {m}
+keep in mind {v} (to remember; to be mindful of or pay attention) SEE: bear in mind	 ::
+keep quiet {v} (remain silent)	 :: [Bokmål] tie
+Kefalovrisi {prop} (Kefalovrissi) SEE: Kefalovrissi	 ::
+Kefalovrysi {prop} (Kefalovrissi) SEE: Kefalovrissi	 ::
+Kefalovryssi {prop} (Kefalovrissi) SEE: Kefalovrissi	 ::
+kegger {n} (keg party) SEE: keg party	 ::
+kennel {n} (shelter for a dog)	 :: hundehus {n}
+Kenya {prop} (country in Eastern Africa)	 :: Kenya
+Kenyan {adj} (Of, from, or pertaining to Kenya or the Kenyan people)	 :: [Bokmål] kenyansk; [Nynorsk] kenyansk
+Kenyan {n} (A person from Kenya or of Kenyan descent)	 :: [Bokmål] kenyaner {m}; [Nynorsk] kenyan {m}, kenyanar {m}
+Kerch Strait {prop} (Strait of Kerch) SEE: Strait of Kerch	 ::
+kerosene {n} (thin, colorless fuel)	 :: paraffin {m}
+kestrel {n} (any small falcon of genus Falco)	 :: falk, hauk
+kestrel {n} (Falco tinnunculus)	 :: tårnfalk
+Ket {prop} (language)	 :: ketisk
+ketose {n} (saccharide containing a ketone functional group)	 :: ketose {m}
+kettle {n} (kettledrum) SEE: kettledrum	 ::
+kettle {n} (kettle hole) SEE: kettle hole	 ::
+kettle {n} (pothole) SEE: pothole	 ::
+kettle {n} (steam locomotive) SEE: steam locomotive	 ::
+kettle {n} (teakettle) SEE: teakettle	 ::
+kettle of fish {n} (predicament) SEE: predicament	 ::
+key {n} (biology: information to correctly identify a taxon) SEE: clavis	 ::
+key {n} (button on a typewriter or computer keyboard)	 :: tast {m}
+key {n} (cryptography: piece of information used to encode or decode)	 :: nøkkel {m}
+key {n} (device designed to open and close a lock)	 :: nøkkel {m}
+key {n} (part of a piano or musical keyboard)	 :: tangent {m}
+keyboard {n} (component of many instruments)	 :: klaviatur {n}, tastatur {n}
+keyboard {n} (electronic device with keys of a musical keyboard)	 :: elektronisk orgel {n}, keyboard {n}
+keyboard {n} (set of keys used to operate a typewriter, computer etc.)	 :: tastatur {n}
+keychain {n} (chain or ring)	 :: [Bokmål] nøkkelring {m}; [Nynorsk] nøkkelring {m}
+keyhole {n} (a hole to lock/unlock with a key)	 :: [Bokmål] nøkkelhull {n}
+keyhole surgery {n} (laparoscopy) SEE: laparoscopy	 ::
+Kōfu {prop} (Kofu) SEE: Kofu	 ::
+khaki {n} (khaki green) SEE: khaki green	 ::
+khan {n} (a ruler over various Turkic, Tatar and Mongol peoples in the Middle Ages)	 :: [Bokmål] khan {m}
+Kharkov {prop} (Kharkiv) SEE: Kharkiv	 ::
+Khartoum {prop} (capital of Sudan)	 :: Khartoum
+khat {n} (Shrub (Catha edulis))	 :: khat
+Khazarian {adj} (of or pertaining to Khazaria) SEE: Khazar	 ::
+Khazarian {adj} (of or pertaining to Khazars) SEE: Khazar	 ::
+Khazarian {n} (an inhabitant of Khazaria) SEE: Khazar	 ::
+Khmelnitsky {prop} (Khmelnytskyi) SEE: Khmelnytskyi	 ::
+Khmer {prop} (the national language of Cambodia)	 :: khmer
+Khorgos {prop} (Khorgas) SEE: Khorgas	 ::
+Khrushchev {prop} (the leader of the Soviet Union from 1953 to 1964)	 :: Khrusjtsjov {m}
+kick {n} (action of swinging a foot or leg)	 :: spark
+kick {n} (hit or strike with the leg or foot)	 :: [Bokmål] spark {n}; [Nynorsk] spark {n}
+kick {v} (direct to a particular place by a blow with the foot or leg)	 :: sparke
+kick {v} (strike with or raise the foot or leg)	 :: sparke
+kick-ass {adj} (excellent) SEE: badass	 ::
+kick butt {v} (kick ass) SEE: kick ass	 ::
+kicker {n} (nautical: kicking strap) SEE: kicking strap	 ::
+kick-off {n} (opening kick in football)	 :: avspark {n}
+kick scooter {n} (a child's foot-operated vehicle) SEE: scooter	 ::
+kicksled {n} (type of small sled)	 :: [Bokmål] sparkstøtting {c}, spark; [Nynorsk] sparkstytting {c}, sparkstutting {c}
+kick the bucket {v} (to die)	 :: legge inn årene (pull one's oars in), gå i pennalet (hit the pencil-box)
+kid {n} (child (colloq.))	 :: barn {n}, unge {m}
+kid {n} (kidskin) SEE: kidskin	 ::
+kid {n} (young goat)	 :: killing {m}, kje {n}
+kid {n} (young person (colloq.))	 :: ungdom {m}
+kid {v} (make a fool of)	 :: lure
+kid {v} (make a joke with)	 :: tulle
+kid {v} (to joke)	 :: tulle, tøyse
+kidnap {v} (to seize and detain a person unlawfully)	 :: kidnappe
+kidnapper {n} (one who performs kidnap)	 :: barnenapper {m}; [Bokmål] kidnapper {m}
+kidnapping {n} (the crime of taking a person against their will, sometimes for ransom)	 :: [Bokmål] kidnapping {m} {f}; [Nynorsk] kidnapping {f}
+kidney {n} (an organ in the body)	 :: [Bokmål] nyre {m} {f} {n}; [Nynorsk] nyre {f} {n}
+kidney {n} (food)	 :: [Bokmål] nyre {m} {f} {n}; [Nynorsk] nyre {f} {n}
+kidney stone {n} (calculus in the kidney)	 :: nyrestein {m}
+Kiev {prop} (Ukrainian city)	 :: [Bokmål] Kiev
+Kievan Rus {prop} (medieval principality)	 :: Kiev-Rus; [Bokmål] Kiev-Rus
+Kievite {adj} (Kievan) SEE: Kievan	 ::
+Kievite {n} (Kievan) SEE: Kievan	 ::
+Kihnu {prop} (island)	 :: Kihnu
+kike {n} (non-offensive) SEE: Jew	 ::
+Kildin Sami {prop} (language)	 :: kildinsamisk {c}
+kill {n} (act of killing)	 :: drap {m}
+kill {n} (result of killing)	 :: drap {m}
+kill {v} (put to death)	 :: drepe
+kill {v} (render void)	 :: [Bokmål] tilintetgjøre
+kill {v} (to render inoperative)	 :: [Bokmål] drepe
+kill {v} (waste)	 :: [Bokmål] eliminere
+killer {n} (person who kills)	 :: morder {m}, drapsmann {m}
+killer T cell {n} (cytotoxic T cell) SEE: cytotoxic T cell	 ::
+killer whale {n} (A sea mammal, Orcinus orca)	 :: spekkhogger {m}
+killjoy {n} (someone who takes the fun out of a situation or activity) SEE: spoilsport	 ::
+kill the fatted calf {v} (begin a festive celebration)	 :: slakte gjøkalven
+kill time {v} (make time seem to pass more quickly by doing nothing important)	 :: slå ihjel tid
+kilometre {n} (unit of measure)	 :: [Bokmål] kilometer {m}; [Nynorsk] kilometer {m}
+kilo-watt {n} (kilowatt) SEE: kilowatt	 ::
+kilt {n} (traditional Scottish garment)	 :: kilt
+Kim {prop} (male given name)	 :: Kim
+kimono {n} (traditional Japanese clothing)	 :: kimono {m}
+kin {n} (relative) SEE: relative	 ::
+kind {adj} (affectionate, nice)	 :: snill, vennlig
+kind {n} (type, race, category)	 :: slag {n}
+kindred {n} (kin) SEE: kin	 ::
+kindred soul {n} (kindred spirit) SEE: kindred spirit	 ::
+kinematic {adj} (of or relating to motion or to kinematics)	 :: kinematisk
+kinematics {n} (the branch of mechanics concerned with objects in motion)	 :: kinematikk {m}
+kinesia {n} (motion sickness) SEE: motion sickness	 ::
+kinesthetics {n} (proprioception) SEE: proprioception	 ::
+kinetic energy {n} (energy from motion)	 :: kinetisk energi, bevegelsesenergi
+kinetosis {n} (motion sickness) SEE: motion sickness	 ::
+king {n} (a male of a royal family who is the supreme ruler of his nation)	 :: konge {m}, kong {m} [when used in title]
+king {n} (a playing card with the image of a king in it)	 :: konge {m}
+king {n} (a playing piece in chess)	 :: konge {m}
+King Charles Land {prop} (island)	 :: Kong Karls Land
+king cobra {n} (Ophiophagus hannah)	 :: kongekobra
+kingdom {n} (nation having as supreme ruler a king and/or queen)	 :: kongerike {n}, kongedømme {n}, kongeriket
+Kingdom of Norway {prop} (official name of Norway)	 :: [Bokmål] Kongeriket Norge {n}; [Nynorsk] Kongeriket Noreg {n}
+Kingdom of the Netherlands {prop} (official name of the Netherlands)	 :: [Bokmål] Kongeriket Nederlandene {n}; [Nynorsk] Kongeriket Nederlanda {n}
+king of clubs {n} (playing card)	 :: kløverkonge {m}
+king of diamonds {n} (playing card)	 :: ruterkonge {m}
+king of hearts {n} (playing card)	 :: hjerterkonge {m}
+king of spades {n} (playing card)	 :: sparkonge {m}
+kinky {adj} (marked by unconventional sexual preferences or behavior)	 :: kinky
+kiosk {n} (enclosed structure where cigarettes, magazines, etc are sold)	 :: kiosk {m}
+kiosk {n} (unattended stand)	 :: automat {m}
+Kirghiz {prop} (Kyrgyz) SEE: Kyrgyz	 ::
+Kiribati {prop} (Republic of Kiribati)	 :: Kiribati
+Kiribatian {adj} (of, from, or pertaining to Kiribati)	 :: [Bokmål] kiribatisk; [Nynorsk] kiribatisk
+Kiribatian {n} (a person from Kiribati or of Kiribatian descent)	 :: [Bokmål] kiribatier {m}; [Nynorsk] kiribatiar {m}
+Kirovograd {prop} (Kirovohrad) SEE: Kirovohrad	 ::
+kiss {n} (candy or sweet)	 :: pikekyss {n}
+kiss {n} (touch with the lips)	 :: kyss {n}
+kiss {v} (to touch each other’s lips)	 :: kysse
+kiss {v} (to touch lightly)	 :: kysse
+kiss {v} (to touch with the lips)	 :: kysse
+kiss-ass {n} (someone who kisses ass) SEE: asslicker	 ::
+kiss me {phrase} (kiss me)	 :: kyss meg
+kiss my arse {interj} (go away) SEE: kiss my ass	 ::
+kiss someone's ass {v} (to flatter someone) SEE: brownnose	 ::
+Kiswahili {n} (Swahili) SEE: Swahili	 ::
+kitchen {n} (room)	 :: [Bokmål] kjøkken {n}; [Nynorsk] kjøken {n}, kjøkken {n}
+kitchen cabinet {n} (Built-in cabinet found in a kitchen)	 :: kjøkkenskap {n}
+kitchen dresser {n} (kitchen cabinet) SEE: kitchen cabinet	 ::
+kitchen garden {n} (a garden used for growing fruits, vegetables for use in the kitchen) SEE: vegetable garden	 ::
+kitchen hood {n} (kitchen device) SEE: extractor hood	 ::
+kitchen sink {n} (basin) SEE: kitchen sink	 ::
+kitchen towel {n} (dish towel) SEE: dish towel	 ::
+kitchen towel {n} (sheet of kitchen paper) SEE: paper towel	 ::
+kitten {n} (a young cat)	 :: kattunge {m}
+kittiwake {n} (kittiwake)	 :: [Nynorsk] krykkje
+kitty {n} (kitten, small cat)	 :: kattunge
+kitty corner {adj} (situated diagonally across) SEE: catercorner	 ::
+kiwi {n} (bird)	 :: kivi; [Nynorsk] kivi
+kiwi {n} (kiwi fruit) SEE: kiwi fruit	 ::
+kleptarchy {n} (kleptocracy) SEE: kleptocracy	 ::
+Klingon {prop} (the language)	 :: klingonsk
+knead {v} (to work and press into a mass)	 :: kna
+knee {n} (blow made with the knee) SEE: kneeing	 ::
+knee {n} (joint in the middle of the leg and area around it)	 :: kne {n}
+knee-jerk {adj} (reacting spontaneously in the expected manner)	 :: forventet or forutsigelig or forutsigbar spontanreaksjon {m}
+knee-jerk {n} (a reflex extension of the lower leg)	 :: knerefleks {m}, patellarefleks {m}
+kneel {v} (to stoop down and rest on the knee)	 :: knele
+kneepan {n} (kneecap) SEE: kneecap	 ::
+knee pit {n} (shallow depression located at the back of the knee joint) SEE: poplit	 ::
+knickers {n} (panties) SEE: panties	 ::
+knife {n} (any blade-like part designed for cutting)	 :: knivblad {n}
+knife {n} (utensil or tool designed for cutting)	 :: [Bokmål] kniv {m}; [Nynorsk] kniv {m}
+knife {n} (weapon)	 :: [Bokmål] kniv {m}; [Nynorsk] kniv {m}
+knight {n} (chess piece)	 :: [Bokmål] springer {m}
+knight {n} (person on whom a knighthood has been conferred)	 :: ridder {m}
+knight {n} (warrior, especially of the Middle Ages)	 :: ridder; [Nynorsk] riddar; [Bokmål] ridder {m}
+knightlet {n} (small or petty knight) SEE: knightling	 ::
+Königsberg {prop} (former capital of East Prussia, see also: Kaliningrad)	 :: Königsberg
+knit {v} (to make fabric from thread or yarn)	 :: strikke
+knitting {n} (activity and process of knitting)	 :: strikking {m} {f}
+knitting {n} (knitted fabric)	 :: strikkeplagg {n}
+knitting needle {n} (thin rod used to knit yarn)	 :: strikkepinne {m}
+knock {n} (abrupt rapping sound)	 :: [Bokmål] banking {m}
+knock {n} (impact)	 :: [Bokmål] slag {n}
+knock {n} (Preignition)	 :: [Bokmål] banking {m}
+knock {v} (to bump or impact)	 :: støte, slå, dunke
+knock {v} (to rap one's knuckles against something)	 :: banke; [Bokmål] banke
+knock down {v} (demolish) SEE: demolish	 ::
+knocker {n} (device for knocking on a door) SEE: doorknocker	 ::
+knock knock {n} (knock-knock joke) SEE: knock-knock joke	 ::
+knock knock joke {n} (knock-knock joke) SEE: knock-knock joke	 ::
+knock on wood {v} (take a customary action to ward off misfortune)	 :: banke i bordet
+knorr {n} (merchant ship used in mediaeval Scandinavia)	 :: knarr {m}
+knot {n} (difficult situation)	 :: trøbbel
+knot {n} (firm swollen tissue caused by injury)	 :: kul
+knot {n}	 :: knop {c}
+knot {n} (looping)	 :: knute {m}
+knot {n} (nautical unit of speed)	 :: knop
+knot {n} (tangled clump)	 :: knute
+knot {v} (form into a knot; tie with knot(s))	 :: knyte
+knot {v} (form wrinkles in forehead)	 :: rynke rynker bekymringsrynker
+know {v} (be acquainted or familiar with)	 :: kjenne
+know {v} (be certain or sure about (something))	 :: vite
+know {v} (be informed about)	 :: vite
+know {v} (have knowledge of)	 :: kunne
+know {v} (have sexual relations with)	 :: kjenne
+know {v} (understand (a subject))	 :: forstå
+know-it-all {n} (someone who obnoxiously claims to be knowledgeable on a subject)	 :: [Bokmål] bedreviter {m}, viktigper {m}, forståsegpåer {m}, besserwisser {m}
+knowledge {n} (fact of knowing about something; understanding, familiarity with information)	 :: kunnskap
+knowledge {n}	 :: kunnskap
+knowledge {n} (Sexual intercourse) SEE: carnal knowledge	 ::
+knowledge is power {proverb} (knowledge is power)	 :: kunnskap/informasjon er makt
+know like the back of one's hand {v} (be intimately knowledgable about)	 :: kjenne som sin egen bukselomme
+known {adj} (that whom other people know, renowned, famous)	 :: kjent
+knuckle {n} (joint of the finger)	 :: knoke {m}
+knuckle duster {n} (weapon worn around the knuckles) SEE: brass knuckles	 ::
+knucks {n} (brass knuckles) SEE: brass knuckles	 ::
+koala {n} (a tree-dwelling marsupial that resembles a small bear)	 :: koala {m}
+kohlrabi {n} (cabbage variety)	 :: [Nynorsk] knutekål
+koine {n} (lingua franca)	 :: [Bokmål] koinéspråk {n}; [Nynorsk] koinéspråk {n}
+koine {n} (regional language that becomes standard)	 :: [Bokmål] koinéspråk {n}; [Nynorsk] koinéspråk {n}
+Koine {prop} (common Greek language)	 :: [Bokmål] koiné; [Nynorsk] koiné
+kolach {n} (kalach) SEE: kalach	 ::
+Kola Peninsula {prop} (peninsula in Russia)	 :: [Bokmål] Kolahalvøya
+kolkhoz {n} (farming collective)	 :: kolkos {m}
+Komotini {prop} (city)	 :: [Nynorsk] Komotiní
+Konstantinovka {prop} (Kostiantynivka) SEE: Kostiantynivka	 ::
+koph {n} (kaph) SEE: kaph	 ::
+Korea {prop} (ancient country or both Koreas as a whole)	 :: [Bokmål] Korea
+Korea {prop} (North Korea) SEE: North Korea	 ::
+Korea {prop} (South Korea) SEE: South Korea	 ::
+Korean {adj} (relating to the Korean Peninsula)	 :: [Bokmål] koreansk; [Nynorsk] koreansk
+Korean {n} (person)	 :: [Bokmål] koreaner {m}; [Nynorsk] koreanar {m}
+Korean {prop} (language)	 :: [Bokmål] koreansk {m}; [Nynorsk] koreansk {m}
+Kosovan {n} (person from Kosovo)	 :: [Bokmål] kosover {m}; [Nynorsk] kosovar {m}
+Kosovar {adj} (Kosovan) SEE: Kosovan	 ::
+Kosovar {n} (Kosovan) SEE: Kosovan	 ::
+Kosovo {prop} (disputed region in the Balkans)	 :: Kosovo
+Kostyantynivka {prop} (Kostiantynivka) SEE: Kostiantynivka	 ::
+kowtow {n} (kowtowing)	 :: kowtow
+kph {initialism} (Kilometres per hour) SEE: km/h	 ::
+K-pop {n} (Korean pop music)	 :: K-pop
+Kraut {n} (derogatory: German) SEE: Fritz	 ::
+Kraut {n} (German) SEE: German	 ::
+Kremlinologist {n} (person involved in Kremlinology)	 :: [Bokmål] kremlolog {m}; [Nynorsk] kremlolog {m}
+Kremlinology {n} (study of Soviet / Russian politics)	 :: [Bokmål] kremlologi {m}; [Nynorsk] kremlologi {m}
+krill {n} (small marine crustacean)	 :: krill
+Krivoy Rog {prop} (Kryvyi Rih) SEE: Kryvyi Rih	 ::
+króna {n} (currency)	 :: krone {m} {f}
+krona {n} (currency)	 :: krone {m} {f}
+krone {n} (currency)	 :: krone {m} {f}
+Krungthep {prop} (Bangkok) SEE: Bangkok	 ::
+Krung Thep {prop} (Bangkok) SEE: Bangkok	 ::
+krupuk {n} (prawn cracker) SEE: prawn cracker	 ::
+Krym {prop} (Crimea) SEE: Crimea	 ::
+krypton {n} (a chemical element)	 :: krypton
+kudos {n} (praise, accolades)	 :: [Bokmål] heder {m}, ros {m}; [Nynorsk] heider {m}, ros {m}
+Ku Klux Klan {prop} (Ku Klux Klan)	 :: Ku Klux Klan
+kulak {n} (a prosperous peasant)	 :: [Bokmål] kulakk {m}
+Kurd {n} (a member of the people inhabiting Kurdistan)	 :: [Bokmål] kurder {m}; [Nynorsk] kurdar {m}
+Kurdish {adj} (of, from, or pertaining to Kurdistan, the Kurdish people or the Kurdish language)	 :: [Bokmål] kurdisk; [Nynorsk] kurdisk
+Kurdish {prop} (language of Kurdistan)	 :: [Bokmål] kurdisk {m}; [Nynorsk] kurdisk {m}
+Kurdistan {prop} (a region in the Middle East inhabited mostly by the Kurds)	 :: [Bokmål] Kurdistan; [Nynorsk] Kurdistan
+Kuwait {prop} (country in the Middle East and capital city)	 :: Kuwait
+Kuwaiti {adj} (of, from, or pertaining to Kuwait or the Kuwaiti people)	 :: [Bokmål] kuwaitsk, kuwaitisk; [Nynorsk] kuwaitsk, kuwaitisk
+Kuwaiti {n} (A person from Kuwait or of Kuwaiti descent)	 :: [Bokmål] kuwaiter {m}; [Nynorsk] kuwaitar {m}
+Kyoto {prop} (Kyōto, Japan)	 :: Kyoto
+Kyrgyz {adj} (of, from, or pertaining to Kyrgyzstan, the Kyrgyz people or the Kyrgyz language)	 :: [Bokmål] kirgisisk; [Nynorsk] kirgisisk
+Kyrgyz {n} (person)	 :: [Bokmål] kirgiser {m}; [Nynorsk] kirgisar {m}
+Kyrgyz {prop} (language)	 :: [Bokmål] kirgisisk {m}; [Nynorsk] kirgisisk {m}
+Kyrgyzstan {prop} (Country in Central Asia)	 :: Kirgisistan
+Kyōto {prop} (Kyoto) SEE: Kyoto	 ::

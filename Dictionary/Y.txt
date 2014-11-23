@@ -1,0 +1,120 @@
+﻿Yael {prop} (female given name) SEE: Jael	 ::
+Yahweh {prop} (Jehovah) SEE: Jehovah	 ::
+Yair {prop} (male given name) SEE: Jair	 ::
+Yakut {prop} (language)	 :: jakutisk
+Yakutia {prop} (Sakha) SEE: Sakha	 ::
+Yalta {prop} (city in Ukraine)	 :: Jalta
+yam {n} (any Dioscorea vine)	 :: [Bokmål] jams {m}; [Nynorsk] jams {m}
+yam {n} (potato) SEE: potato	 ::
+yam {n} (sweet potato) SEE: sweet potato	 ::
+Yangtze {prop} (river)	 :: Chang Jiang
+Yap {prop} (an atoll in the Caroline Islands of western Micronesia)	 :: Yap
+yard {n} (three feet)	 :: yard {m}
+yardstick {n} (standard to which other measurements or comparisons are judged)	 :: [Bokmål] målestokk {m}
+yarn {n} (fiber strand for knitting or weaving)	 :: [Bokmål] garn {n}; [Nynorsk] garn {n}
+yarrow {n} (any of several pungent Eurasian and North American herbs, of the genus Achillea)	 :: ryllik {c}
+yautia {n} (cocoyam) SEE: cocoyam	 ::
+y-axis {n} (axis on a graph that is usually drawn from bottom to top)	 :: y-akse {m}
+yeah {adv} (yes)	 :: ja, yeah
+year {n} (time it takes for the Earth to complete one revolution of the Sun)	 :: [Bokmål] år {n}; [Nynorsk] år {n}
+yearly {adj} (happening once every year)	 :: [Bokmål] årlig
+yearly {adv} (once a year)	 :: [Bokmål] årlig
+-year-old {suffix} (suffix used to indicate the age of something or someone, in terms of years)	 :: år gammel {c}, år gammelt {n}, år gamle {p}, -åring {m}
+yeast {n} (cake or dried granules used to make bread dough rise)	 :: [no gender] gjær
+yeast {n} (froth used in medicine, baking and brewing)	 :: gjær {m}
+yeast {n} (fungus)	 :: gjær {m}
+yeast extract {n} (yeast product)	 :: [Bokmål] gjærekstrakt {m}
+yeast infection {n} (candidiasis) SEE: candidiasis	 ::
+Yehuda {prop} (male given name) SEE: Judah	 ::
+Yehudit {prop} (female given name) SEE: Judith	 ::
+Yekaterinburg {prop} (city in Russia)	 :: Jekaterinburg
+Yekaterinburg {prop} (Sverdlovsk) SEE: Sverdlovsk	 ::
+yell {v} (shout (verb))	 :: rope
+yellow {adj} (having yellow as its colour)	 :: gul
+yellow {n} (colour)	 :: gul
+yellow-billed loon {n} (Gavia adamsii)	 :: gulnebblom
+yellow-eyed penguin {n} (Penguin)	 :: guløyepingvin
+yellow hammer {n} (curve ball) SEE: curve ball	 ::
+yellowhammer {n} (a passerine bird, Emberiza citrinella)	 :: [Bokmål] gulspurv {m}
+yellow horde {n} (racially offensive term denoting East Asian nations or people)	 :: gule horde {m}
+yellowish {adj} (somewhat yellow)	 :: gulaktig
+Yellow Sea {prop} (Asian sea)	 :: Gulehavet
+Yemen {prop} (Republic of Yemen)	 :: Jemen
+Yemeni {adj} (Of, from, or pertaining to Yemen, or the Yemeni people)	 :: [Bokmål] jemenittisk; [Nynorsk] jemenittisk
+Yemeni {n} (A person from Yemen or of Yemeni descent)	 :: [Bokmål] jemenitt {m}; [Nynorsk] jemenitt {m}
+Yenakiyevo {prop} (Yenakiyeve) SEE: Yenakiyeve	 ::
+Yeniseian {adj} (Proto-Yeniseian) SEE: Proto-Yeniseian	 ::
+yeoman {n} (Yeoman Warder) SEE: Yeoman Warder	 ::
+Yerevan {prop} (the capital of Armenia)	 :: Jerevan
+yermulke {n} (yarmulke) SEE: yarmulke	 ::
+yes {interj} (expression of pleasure, joy or great excitement)	 :: yes {n}
+yes {particle} (word used to indicate agreement or acceptance)	 :: ja
+yes {particle} (word used to indicate disagreement or dissent in reply to a negative statement)	 :: jo
+yesterday {adv} (on the day before today)	 :: igår
+yesterday {n} (day before today)	 :: i går
+yesterday {n} (the recent past)	 :: [Bokmål] forleden dag
+yesterday night {n} (last night) SEE: last night	 ::
+yet {adv} (even) SEE: even	 ::
+yew {n} (tree or shrub of the genus Taxus)	 :: barlind
+Yiddish {adj} (Jewish) SEE: Jewish	 ::
+Yiddish {n} (language)	 :: jiddisch, jiddisk
+yield {n} (quantity of something produced)	 :: [potato yield] fold, [financial yield] utbytte
+yield {v} (to give as required)	 :: yte
+yield {v} (to give way)	 :: svikte, gi etter
+yield {v} (to produce as a result)	 :: resultere i
+yield {v} (to produce as return)	 :: multiplisere
+yield the ghost {v} (give up the ghost) SEE: give up the ghost	 ::
+yield up the ghost {v} (give up the ghost) SEE: give up the ghost	 ::
+Yitzchak {prop} (given name) SEE: Isaac	 ::
+-yne {suffix} (hydrocarbon with triple bonds)	 :: -yn
+yobbo {n} (yob) SEE: yob	 ::
+yobbo {n} (yob) SEE: yob	 ::
+yoctometer {n} (yoctometre) SEE: yoctometre	 ::
+yodel {v} (to sing in such a way that the voice fluctuates rapidly between the normal chest voice and falsetto)	 :: jodle
+yodeler {n} (one who yodels)	 :: [Bokmål] jodler {m}
+yoghurt cheese {n} (labneh) SEE: labneh	 ::
+yogurt {n} (a milk-based product thickened by a bacterium-aided curdling process)	 :: jogurt {m}, yoghurt {m}
+yoke {n} (wooden bar)	 :: åk {n}
+yolk {n} (yellow of egg)	 :: [Bokmål] eggeplomme {m} {f}, plomme {m} {f}; [Nynorsk] eggeplomme {f}
+yottaliter {n} (yottalitre) SEE: yottalitre	 ::
+yottameter {n} (yottametre) SEE: yottametre	 ::
+you {determiner}	 :: du, [polite] De
+you {determiner} (used before epithets for emphasis)	 :: din {s}
+you {pron} (object pronoun: the group being addressed)	 :: [Bokmål] [familiar] dere, [familiar, rare] eder, [polite] Dere; [Nynorsk] [familiar] dykk, [polite] Dykk
+you {pron} (object pronoun: the person being addressed)	 :: [Bokmål] [familiar] deg, [polite] Dem, [polite, rare] eder; [Nynorsk] [familiar] deg, [polite] Dykk
+you {pron} (one)	 :: [Bokmål] man, en, du; [Nynorsk] ein, du
+you {pron} (subject pronoun: the group being addressed)	 :: [Bokmål] [familiar] dere, [familiar, rare] I, [polite] Dere; [Nynorsk] [familiar] de, [polite] De
+you {pron} (subject pronoun: the person being addressed)	 :: [Bokmål] [familiar] du, [polite] De, [polite, rare] I; [Nynorsk] [familiar] du, [polite] De
+you are what you eat {proverb} (proverb)	 :: du er hva du spiser
+you can lead a horse to water but you can't make him drink {proverb} (you can show someone how to do something, but you can't make them do it)	 :: du kan lede en hest til vannet, men du kan ikke tvinge den til å drikke
+you can say that again {phrase} (that is very true)	 :: det er sikkert og visst
+you can't judge a book by its cover {proverb} (it is not possible to judge things by external appearances alone)	 :: man kan ikke dømme boken etter omslaget, man skal aldri skue hunden på hårene
+you can't make an omelette without breaking eggs {proverb} (you've got to crack a few eggs to make an omelette) SEE: you've got to crack a few eggs to make an omelette	 ::
+you can't teach an old dog new tricks {proverb} (too old to change)	 :: man kan ikke lære en gammel hund apport
+you don't say {interj} ((idiomatic) really? ; no kidding! ; Is that so?)	 :: sier du det?
+young {adj} (in the early part of life or growth)	 :: ung
+Young's modulus {n} (coefficient of elasticity of a solid)	 :: Youngs modul
+your {determiner} (belonging to you (plural; more owners))	 :: dine
+your {determiner} (belonging to you (singular; one owner))	 :: din
+you're welcome {phrase} (reply to thanks)	 :: bare hyggelig [just fine], ingen årsak [no matter], værsågod [be so good], velbekomme
+Your Majesty {pron} (Title of respect)	 :: Deres Majestet
+your mom {interj} (a general purpose insult)	 :: morra di
+your mother {interj} (insult)	 :: morra di
+your wish is my command {phrase} (what you wish for I will effect as if it were a command)	 :: ditt ønske er min lov
+you scratch my back and I'll scratch yours {proverb} (if you do me a favor then I will do you a favor)	 :: du klør meg på ryggen, og jeg klør deg på ryggen, du klør min rygg, og jeg klør din
+youth crime {n} (juvenile delinquency) SEE: juvenile delinquency	 ::
+youth hostel {n} (a supervised, inexpensive lodging place, primarily for young people)	 :: [Bokmål] vandrerhjem {n}, vandrerheim {m}, (dated) ungdomsherberge {n}; [Nynorsk] vandrarheim {m}, (dated) ungdomsherberge {n}
+you've got to crack a few eggs to make an omelette {proverb} (phrase)	 :: det må knuses noen egg for å lage omelett
+yowzah {adv} (yessir) SEE: yessir	 ::
+yo-yo {n} (toy)	 :: jojo {m}
+ytterbium {n} (chemical element)	 :: ytterbium
+yttrium {n} (chemical element)	 :: yttrium
+Yucatán {prop} (a penisula in southeast Mexico)	 :: Yucatán
+Yucatán {prop} (a state in Mexco)	 :: Yucatán
+yuck {interj} (uttered to indicate disgust)	 :: æsj
+yuck it up {v} (yuk it up) SEE: yuk it up	 ::
+yule {n} (Yule) SEE: Yule	 ::
+yup {particle} ((informal) yes)	 :: jupp
+Yup'ik {prop} (a language of the Eskimo-Aleut family)	 :: [Bokmål] alaskayupik; [Nynorsk] alaskayupik
+yurt {n} (large, round tent with vertical walls and conical roof)	 :: jurt
+Yvonne {prop} (female given name)	 :: Yvonne

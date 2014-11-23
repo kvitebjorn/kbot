@@ -1,0 +1,523 @@
+﻿oak {n} (tree or shrub of the genus Quercus)	 :: eik {f}
+oak {n} (wood)	 :: eik {f}
+oak apple {n} (oak gall) SEE: oak gall	 ::
+oak tree {n} (tree or shrub of the genus Quercus) SEE: oak	 ::
+oakum {n} (fibrous caulking material)	 :: drevgarn {n}
+oar {n} (implement used to row a boat)	 :: åre {c}
+oar {v} (to row) SEE: row	 ::
+oarsman {n} (man who rows a boat)	 :: roer {m}
+oasis {n} (quiet or peaceful place)	 :: oase {m}
+oasis {n} (well surrounded by fertile region)	 :: oase {m}
+oat {n} (a widely cultivated cereal grass)	 :: havre {m}
+oat {n} (seeds of the oat) SEE: oats	 ::
+oath {n} (affirmed statement)	 :: [Bokmål] ed {m}
+oath {n} (curse) SEE: curse	 ::
+oath {n} (solemn pledge)	 :: [Bokmål] ed {m}; [Nynorsk] eid {m}
+oatmeal {n} (breakfast cereal, see also: porridge)	 :: [Bokmål] havregrøt {m}; [Nynorsk] havregraut {m}
+Obadiah {prop} (book of the Old Testament)	 :: Obadja, Obadias
+obedience {n} (quality of being obedient)	 :: lydighet
+obediency {n} (being obedient)	 :: adlydenhet {m}, lydighet {m}
+obese {adj} (extremely overweight)	 :: korpulent
+obesity {n} (act or state of being obese)	 :: fedme
+obey {v} (to do as one is told)	 :: adlyde, være lydhør
+obey {v} (to do as ordered by)	 :: adlyde
+obfuscate {v} (alter code)	 :: obfuskere
+obfuscate {v} (make confusing)	 :: forkludre, forvirre, tåkelegge
+obfuscate {v} (make dark)	 :: formørke, overskygge
+obituary {n} (biography of a recently deceased person)	 :: minneord {n}, nekrolog {m}
+obituary {n} (brief notice of a person's death, as published in a newspaper)	 :: nekrolog {m}
+object {n} (in grammar)	 :: objekt {n}
+object {n} (in object-oriented programming)	 :: objekt {n}
+object {n} (person or thing to which an emotion is directed)	 :: gjenstand {m}
+object {n} (thing)	 :: objekt {n}, ting {m}, gjenstand {m}
+objection {n} (act of objecting)	 :: protest {m}, innvending {m} {f}
+objection {n} (statement expressing opposition)	 :: innvending {m} {f}
+objective case {n} (case of an object) SEE: accusative	 ::
+object language {n} (lexicography: language of headwords)	 :: objektspråk
+oblast {n} (a region or province)	 :: oblast
+obligatory {adj}	 :: obligatorisk
+obliged {adj} (Under an obligation to do something for someone)	 :: forpliktet
+obliquity {n} (quality of being obscure) SEE: obscurity	 ::
+oblivion {n}	 :: glemsel, bortglemt
+obnoxious {adj} (offensive, very annoying)	 :: ufyselig, utålelig
+oboe {n} (wind instrument)	 :: [Bokmål] obo {m}; [Nynorsk] obo {m}
+observation wheel {n} (Ferris wheel) SEE: Ferris wheel	 ::
+observe {v} (to notice, to watch)	 :: observere
+observer {n} (he who makes observations, monitors or takes notice)	 :: [Bokmål] observatør {m}, betrakter {m}
+obsess {v} (to be preoccupied with a single topic or emotion)	 :: være besatt
+obsession {n}	 :: besettelse {m}
+obsolescent {adj} (in the process of becoming obsolete, but not obsolete yet)	 :: På vei til å bli foreldet
+obtuse {adj} (of an angle)	 :: stump
+obtuse {adj} (of a triangle) SEE: obtuse-angled	 ::
+obverse {adj} (turned or facing toward the observer)	 :: vendt fram
+obverse {n} (the heads side of a coin, or the side of a medal or badge that has the principal)	 :: forside {m}
+obviate {v} (to bypass a requirement)	 :: [Bokmål] overflødiggjøre; [Nynorsk] overflødiggjere
+obvious {adj} (easily discovered or understood; self-explanatory)	 :: opplagt, innlysende
+obviously {adv} (in an obvious manner; clearly apparent)	 :: selvsagt, åpenbart; [Bokmål] åpenbar, åpenlys
+Occam's razor {n} (both principles)	 :: Ockhams barberkniv {m}
+occasion {v} (give occasion to)	 :: [Bokmål] forårsake, avstedkomme
+occasionally {adv} (from time to time; now and then; once in a while; at infrequent intervals)	 :: sporadisk, av og til, nå og da
+occult {adj} (related to the occult)	 :: okkult
+occult {adj} (secret; hidden from general knowledge; undetected)	 :: okkult, skjult
+occult {v} (to cover)	 :: okkultere
+occupation {n} (activity or task with which one occupies oneself)	 :: yrke {n}
+occupation {n} (act, process or state of possessing a place)	 :: okkupasjon {m}
+occupation {n} (control of a country or region by a hostile army)	 :: okkupasjon {m}
+occur {v} (be present or found)	 :: [Bokmål] forekomme
+occur {v} (present itself)	 :: inntreffe
+occurrence {n} (actual instance where a situation arises)	 :: tilfelle {n}
+ocean {n} (one of the five large bodies of water)	 :: [Bokmål] verdenshav {n}; [Nynorsk] verdshav {n}
+oceanographer {n} (person who studies oceanography, the science of oceans)	 :: [Bokmål] oseanograf {m}; [Nynorsk] oseanograf {m}
+oceanographic {adj} (relating to oceanography)	 :: [Bokmål] oseanografisk; [Nynorsk] oseanografisk
+oceanographical {adj} (oceanographical) SEE: oceanographic	 ::
+oceanography {n} (oceanic exploration and study)	 :: [Bokmål] oseanografi {m}; [Nynorsk] oseanografi {m}
+oceanology {n} (oceanography) SEE: oceanography	 ::
+octagenarian {n} (octogenarian) SEE: octogenarian	 ::
+octane {n} (isomeric aliphatic hydrocarbons)	 :: oktan {n}
+octangular {adj} (octagonal) SEE: octagonal	 ::
+octet {n} (byte of eight bits) SEE: byte	 ::
+octet {n} (composition for such a group)	 :: [Bokmål] oktett {m}
+octet {n} (group of eight musicians performing together)	 :: [Bokmål] oktett {m}
+October {prop} (tenth month of the Gregorian calendar)	 :: oktober
+octodontid {n} (any of the Octodontidae)	 :: [Bokmål] buskrotte {m} {f}, trompetrotte {m} {f}; [Nynorsk] buskrotte, trompetrotte {f}
+octopus {n} (mollusc)	 :: blekksprut {m}, akkar {m}
+octothorpe {n} (octothorpe) SEE: hash	 ::
+oculist {n} (ophthalmologist) SEE: ophthalmologist	 ::
+oculist {n} (optometrist) SEE: optometrist	 ::
+oddball {n} (eccentric person)	 :: eksentriker
+odd number {n} (whole number that is not divisible by two)	 :: [Bokmål] oddetall {n}; [Nynorsk] oddetal {n}
+odds {n} (the ratio of the probabilities of an event happening to that of it not happening)	 :: [Bokmål] odds {m}; [Nynorsk] odds {m}
+odds {n} (the ratio of winnings to stake in betting situations)	 :: [Bokmål] odds {m}; [Nynorsk] odds {m}
+Odense {prop} (City in southern Denmark)	 :: Odense
+Odesa {prop} (Odessa) SEE: Odessa	 ::
+Odessa {prop} (Ukrainian city)	 :: Odessa
+Odia {prop} (Oriya) SEE: Oriya	 ::
+Odin {prop} (in Norse mythology, the supreme god)	 :: Odin
+odious {adj} (arousing strong dislike)	 :: odiøs
+odor {n} (any smell) SEE: odour	 ::
+odor {n} (strong, pervasive quality)	 :: odør {m}, stank {m}, lukt
+odoriferous {adj} (having an odor) SEE: odorous	 ::
+odorless {adj} (having no odor)	 :: [Bokmål] luktfri; [Nynorsk] luktfri
+odourless {adj} (odourless) SEE: odorless	 ::
+Odyssey {prop} (epic poem describing the journey of Odysseus)	 :: Odysseen {f}
+oedema {n} (edema) SEE: edema	 ::
+Oedipus complex {n} (Freudian theory)	 :: ødipuskompleks
+oenology {n} (enology) SEE: enology	 ::
+oesophagus {n} (the tube that carries food from the pharynx to the stomach)	 :: øsofag {m}; [Bokmål] spiserør; [Nynorsk] matrøyr {n}
+oeuvre {n} (work of art)	 :: verk {n}
+of {prep} (connecting numeral or quantifier with quantified)	 :: av
+of {prep} (containing, comprising or made from)	 :: av; med (a glass of water = et glass (med) vann)
+of {prep} (objective genitive: connecting noun with object)	 :: av
+of {prep} (possessive genitive: belonging to)	 :: av, til, -s
+of age {adj} (old enough to be considered an adult)	 :: myndig
+of course {adv} (naturally)	 :: selvsagt, naturligvis, selvfølgelig
+off {adj}	 :: av
+off {adj} (inoperative, disabled)	 :: av, deaktivert
+off {adv}	 :: av
+offal {n} (a dead body)	 :: [Bokmål] lik {n}, kadaver {n}
+offal {n} (animal's organs as food)	 :: [Bokmål] innmat {m}; [Nynorsk] innmat {m}
+offal {n} (refuse)	 :: [Bokmål] avfall {n}
+offal {n} (rejected parts of an animal)	 :: [Bokmål] slakteavfall {n}
+off and on {adv} (intermittently)	 :: av og til
+offence {n} (offense) SEE: offense	 ::
+offend {v} (sin) SEE: sin	 ::
+offense {n}	 :: [Bokmål] fornærmelse {m}; [Nynorsk] fornærming
+offer {n}	 :: bud {n}
+offer {n} (law: invitation to enter binding contract)	 :: [Bokmål] anbud {n}; [Nynorsk] anbod {n}
+offer {n} (proposal)	 :: forslag {n}
+offer {n} (something put forth)	 :: [Bokmål] tilbud {n}, bud {n}; [Nynorsk] tilbod {n}, bod {n}
+offer {v} (place at disposal)	 :: tilby
+offer {v} (propose)	 :: foreslå
+office {n} (building or room)	 :: kontor {n}
+official {adj} (appointed to be used in medicine) SEE: officinal	 ::
+official {adj} (relating to an office; especially, to a subordinate executive officer or attendant)	 :: offisiell
+official {n}	 :: offentlig tjenestemann {m}
+officialese {n} (bureaucratese) SEE: bureaucratese	 ::
+officious {adj} (offensively intrusive or interfering)	 :: offisiøs
+off-licence {n} (liquor store) SEE: liquor store	 ::
+off-ramp {n} (roadway segment)	 :: [Bokmål] avkjøringsrampe {m} {f}
+offset {n} (offset printing)	 :: offsettrykk {n}
+offspring {n} (plural or collective offspring (only males, only females, both sexes or sex unspecified))	 :: [Bokmål] etterkommere {m-p}, ætlinger {m}, ættinger {n}, avkom {n} [collective sg]; [Nynorsk] etterkomarar {m-p}, etterkommarar {m-p}, ætling {m}, ætting {m}, avkom {n} [collective sg]
+offspring {n} (singular offspring (male, female or sex unspecified))	 :: [Bokmål] etterkommer {m}, avkom {n}, ætling {m}, ætting {m}, barn {n}; [Nynorsk] etterkomar {m}, etterkommar {m}, avkom {n}, ætling {m}, ætting {m}, barn {n}
+of record {prep} (authoritative) SEE: authoritative	 ::
+often {adv} (frequently, many times)	 :: ofte, hyppig
+oftenly {adv} (often) SEE: often	 ::
+oftentimes {adv} (frequently)	 :: ofte
+Oghuz {prop} (Oghuz people)	 :: oghuz-tyrkere
+oh {interj} (expression of surprise)	 :: oi, å, ai
+oh dear {interj} (An expression of dismay, concern, or worry; strongly suggesting disapproval)	 :: kjære, kjære vene
+oh my {interj} (good heavens) SEE: good heavens	 ::
+oh my God {interj} (excitement or shock)	 :: Herregud, herre gud
+oh no {interj} (exclamation of alarm or concern)	 :: åh, nei
+oil {n} (liquid fat)	 :: matolje, olje {m}
+oil {n} (Petroleum-based liquid)	 :: olje {m}, petroleum {m}
+oil {v} (lubricate with oil)	 :: olje
+oil {v} (to grease with oil for cooking)	 :: olje, smøre
+oil field {n} (area under which are reserves of petroleum)	 :: [Bokmål] oljefelt {n}; [Nynorsk] oljefelt {n}
+oil lamp {n} (a simple vessel used to produce light)	 :: oljelampe
+oil painting {n} (a painting done with oil paints)	 :: [Bokmål] oljemaleri {n}
+oil painting {n} (art of painting with oil paints)	 :: [Bokmål] oljemaling {m} {f}
+oil rig {n} (oil-drilling platform)	 :: borerigg
+oil-seed camellia {n} (Camellia oleifera) SEE: tea oil camellia	 ::
+oilskin {n} (foul-weather gear worn by sailors)	 :: oljehyre {m} {f}
+oilskin {n} (raincoat made from treated cotton fabric)	 :: oljehyre {m} {f}
+oil spot {n} (a spot consisting of oil)	 :: oljeflekk {m}
+oink {interj} (Representing the sound made by a pig)	 :: nøff
+oink {n} (sound made by a pig)	 :: grynt {n}
+oink {v} (to oink)	 :: grynte
+OK {n} (endorsement; approval)	 :: alt i orden
+Okinawan {prop} (Ryukyuan) SEE: Ryukyuan	 ::
+okroshka {n} (cold raw vegetable soup)	 :: [Bokmål] okrosjka
+Olaf {prop} (male given name)	 :: Olav
+old {adj} (former)	 :: gammel
+old {adj} (having existed or lived for the specified time)	 :: [Bokmål] gammel, gammal; [Nynorsk] gamal, gammal
+old {adj} (of a living being: having lived for relatively many years)	 :: [Bokmål] gammel, gammal; [Nynorsk] gamal, gammal
+old {adj} (of an object, concept, etc: having existed for a relatively long period of time)	 :: [Bokmål] gammel, gammal; [Nynorsk] gamal, gammal
+old boy {n} (alumnus) SEE: alumnus	 ::
+Old English {prop} (ancestor language of modern English)	 :: [Bokmål] gammelengelsk {m}, gammalengelsk {m}; [Nynorsk] gamalengelsk {m}, gammalengelsk {m}
+Old High German {prop} (a language)	 :: gammelhøytysk {m}
+Old Low German {prop} (Old Saxon) SEE: Old Saxon	 ::
+old maid {n} (elderly unmarried woman) SEE: spinster	 ::
+Old Norse {prop} (language of Scandinavia before 1400 CE)	 :: [Bokmål] gammelnordisk, gammalnordisk, norrønt, oldnordisk; [Nynorsk] gammalnordisk, norrønt {n}, oldnordisk
+Old Norwegian {prop} (the Old Norse language of Norway)	 :: gammelnorsk, gammalnorsk
+old salt {n} (seadog) SEE: seadog	 ::
+old stick {n} (chap) SEE: chap	 ::
+old wives' tale {n} (rumour, myth or superstition)	 :: kjerringsnakk
+Olga {prop} (female given name)	 :: Olga
+olive {n} (fruit)	 :: oliven
+olive {n} (olive tree) SEE: olive tree	 ::
+Oliver {prop} (male given name)	 :: Oliver
+Olivia {prop} (female given name)	 :: Olivia
+olorine {adj} (of or pertaining to swans) SEE: cygnine	 ::
+Olympic {adj} (of or pertaining to mountain Olympus)	 :: [Bokmål] olympisk; [Nynorsk] olympisk
+Olympic {adj} (of or pertaining to the Olympic Games)	 :: [Bokmål] olympisk, (Olympic Games) OL {p}, olympiske leker {m-p}; [Nynorsk] olympisk
+Olympic Games {prop} (modern sport event)	 :: Olympiske leker; [Nynorsk] Olympiske leikar
+Olympic Winter Games {prop} (Olympic Winter Games)	 :: [Bokmål] Olympiske vinterleker, Vinter-OL; [Nynorsk] Olympiske vinterleikar
+Oman {prop} (Country in the Middle East)	 :: Oman
+Omani {adj} (Of, from, or pertaining to Oman, the Omani people or the Omani language)	 :: [Bokmål] omansk; [Nynorsk] omansk
+Omani {n} (person from Oman or of Omani descent)	 :: [Bokmål] omaner {m}; [Nynorsk] omanar {m}
+ombudsman {n} (official who investigates complaints)	 :: ombudsmann {m}
+omega {n} (angular velocity) SEE: angular velocity	 ::
+omelette {n} (dish made with beaten eggs)	 :: omelett {m}
+omiai {n} (formal marriage interview) SEE: miai	 ::
+omit {v} (to leave out or exclude)	 :: unnta, hoppe over
+omnipotent {adj} (having unlimited power, force or authority)	 :: allmektig
+omnipresent {adj} (being everywhere)	 :: [Bokmål] allestedsnærværende
+omniscient {adj} (having total knowledge)	 :: allvitende
+omnium-gatherum {n} (collection of miscellaneous things) SEE: hodgepodge	 ::
+omnivorous {adj} (having the ability to eat both animal and vegetable food)	 :: [Bokmål] altetende
+on {adv} (to an operating state)	 :: på
+on {prep}	 :: av
+on {prep} (positioned at the upper surface of)	 :: på
+on accident {adv} (by accident) SEE: by accident	 ::
+on behalf of {prep} (speaking or acting for)	 :: på vegne av
+on board {adj} (on or in a means of transportation)	 :: om bord
+on board {adv} (aboard) SEE: aboard	 ::
+onboard {adj}	 :: ombords
+onboard {adv} (on a vehicle) SEE: on board	 ::
+once {adv} (formerly)	 :: [Bokmål] en gang, på et tidspunkt; [Nynorsk] eingong
+once {adv} (one and only one time)	 :: [Bokmål] én gang
+once {conj} (as soon as)	 :: så snart, med det første; [Bokmål] bare; [Nynorsk] berre
+once bitten, twice shy {proverb} (one is cautious in the future if hurt in the past)	 :: brent barn skyr ilden
+once upon a time {adv} (traditional beginning of children’s stories, especially fairy tales)	 :: det var en gang
+oncological {adj} (of or pertaining to oncology) SEE: oncologic	 ::
+one {num} (cardinal number 1)	 :: [Bokmål] én, ett; [Nynorsk] éin, éi, eitt
+one {num} (ordinal number) SEE: first and number one	 ::
+one and a half {num} (one and a half)	 :: halvannen, halvannet {n}
+on earth {adv} (expletive giving emphasis after interrogative word)	 :: i all verden
+one-child policy {n} (a policy of population control)	 :: ettbarnspolitikk {m}
+one day {adv} (at unspecified time in the future)	 :: en dag {m}
+one-eyed {adj} (having only a single eye)	 :: [Bokmål] enøyd; [Nynorsk] einøygd
+oneirology {n} (the study that relates with dreams)	 :: oneirologi
+one million {num} (cardinal number 1000000) SEE: million	 ::
+one-of-a-kind {n} (one of a kind) SEE: one of a kind	 ::
+one-off {adj} (occurring once; one-time)	 :: engangs-, enkelt-
+one-off {n} (something that is done only once)	 :: engangsforeteelse
+one's marbles {n} (sanity) SEE: sanity	 ::
+one swallow does not a summer make {proverb} (one instance of an event does not necessarily indicate a trend)	 :: en enslig svale gjør ingen sommer
+one thousand {num} (cardinal number 1000) SEE: thousand	 ::
+one too many {n} (other than as an idiom) SEE: one, too, many	 ::
+on foot {prep} (walking, jogging, running)	 :: [Bokmål] til fots; [Nynorsk] til fots
+onion {n} (a monocotyledonous plant of genus Allium allied to garlic, used as vegetable and spice.)	 :: løk {m}
+onion {n} (the bulb)	 :: [Bokmål] løk {m}; [Nynorsk] lauk {m}
+onlooker {n} (a spectator)	 :: tilskuer {f}
+only {adj} (alone in a category)	 :: [Bokmål] eneste; [Nynorsk] einaste
+only {adv}	 :: [Bokmål] bare, kun, utelukkende; [Nynorsk] berre, einast, einaste
+only {adv} (exclusively)	 :: bare
+only {conj}	 :: men, bare at
+only child {n} (a person who has no siblings)	 :: [Bokmål] enebarn {n}; [Nynorsk] einebarn {n}
+onomatopoeia {n} (word that sounds like what it represents)	 :: lydord, onomatopoetikon
+onomatopoetic {adj} (concerning onomatopoeia) SEE: onomatopoeic	 ::
+on purpose {prep} (purposely, with intention)	 :: med vilje, med overlegg
+onry {adj} (ornery) SEE: ornery	 ::
+onslaughter {n} (onslaught) SEE: onslaught	 ::
+on the other hand {adv} (from another point of view)	 :: på den annen side
+on the tip of one's tongue {prep} (known but not quite remembered)	 :: ha det på tungen
+ontic {adj}	 :: ontisk
+onto {adj} (surjective) SEE: surjective	 ::
+ontogenic {adj} (ontogenetic) SEE: ontogenetic	 ::
+ontologically {adv} (ontological manner)	 :: ontologisk
+ontology {n} (study of being)	 :: ontologi {m}
+ontology {n} (system model in computer science)	 :: ontologi {m}
+on top of {prep} (atop) SEE: atop	 ::
+-onym {suffix} (word)	 :: -onym {n}
+on your mark, get set, go {phrase} (three-command start of racing)	 :: klar, ferdig, gå, klare, ferdige, gå {p}
+onyx {n} (a banded variety of chalcedony)	 :: onyx {m}
+oofless {adj} (poor) SEE: poor	 ::
+oolong {n} (oolong tea) SEE: oolong tea	 ::
+ooze {v} (to give off a sense of (something))	 :: [Bokmål] ose; [Nynorsk] ose
+ooze {v} (to secrete or slowly leak)	 :: [Bokmål] ose; [Nynorsk] ose
+opaque {adj} (hindering light to pass through)	 :: opak, ugjennomsiktig, ugjennomskinnelig
+open {adj} (not closed)	 :: [Bokmål] åpen; [Nynorsk] open
+open {adj} (prepared to conduct business)	 :: åpen
+open {adj} (public)	 :: åpen
+open {adj} (receptive)	 :: åpen
+open {v} (to become open)	 :: åpnes
+open {v} (to begin conducting business)	 :: åpne
+open {v} (to bring up (a topic))	 :: ta opp
+open {v} (to make accessible to customers)	 :: åpne
+open {v} (to make something accessible)	 :: åpne, lukke opp
+open {v} (to start (a campaign))	 :: innlede
+open book {n} (mathematics) SEE: open book decomposition	 ::
+Open Game {n}	 :: [Bokmål] åpent spill {n}
+opening {n} (act or instance of making or becoming open)	 :: [Bokmål] åpning {m} {f}
+opening {n} (something that is open)	 :: [Bokmål] åpning {m} {f}
+opera {n} (theatrical work)	 :: opera
+operating system {n} (software which controls computer)	 :: operativsystem
+operation {n} (military campaign)	 :: operasjon {m}
+operation {n} (surgical procedure)	 :: operasjon {m}
+operator {n} (Chinese whispers) SEE: Chinese whispers	 ::
+operetta {n} (lighter version of opera with a frivolous story and spoken dialogue)	 :: [Bokmål] operette {m}; [Nynorsk] operette {m}
+ophidiophobia {n} (ophiophobia) SEE: ophiophobia	 ::
+opinion {n} (thought a person has formed about a topic)	 :: mening, synspunkt {n}
+opossum {n} (marsupial of the Didelphidae)	 :: pungrotte {f}
+opportunist {n} (someone who takes advantage of any opportunity)	 :: opportunist {m}
+opportunity {n}	 :: mulighet {f}, sjanse {f}
+opposite {adj} (facing the other way)	 :: motsatt
+opposite {adj} (located directly across from)	 :: motsatt
+opposite {adj} (of complementary or mutually exclusive things)	 :: motsatt
+op shop {n} (thrift shop) SEE: thrift shop	 ::
+optician {n} (a person who makes or sells lenses, spectacles)	 :: [Bokmål] optiker {m}; [Nynorsk] optikar {m}
+optics {n} (physics of light and vision)	 :: optikk {m}
+optics {n} (plural of optic) SEE: optic	 ::
+optimism {n} (a tendency to expect the best)	 :: optimisme {m}
+optimism {n} (the belief that good will eventually triumph over evil)	 :: optimisme {m}
+optimism {n} (the doctrine that this world is the best of all possible worlds)	 :: optimisme {m}
+optimist {n} (a believer in optimism)	 :: [Bokmål] optimist {m}; [Nynorsk] optimist {m}
+optimist {n} (a person who expects a favourable outcome)	 :: [Bokmål] optimist {m}; [Nynorsk] optimist {m}
+optimist {n} (a small centre-board sailing dinghy)	 :: Optimist {m}; [Bokmål] optimistjolle {m} {f}; [Nynorsk] optimistjolle {f}
+optimistic {adj} (expecting a good outcome)	 :: optimistisk
+option {n} (financial product)	 :: [Bokmål] opsjon {m}
+option {n} (one of the choices which can be made)	 :: valgmulighet {m}
+optional {adj} (not compulsory)	 :: valgfri
+optronic {adj} (optoelectronic) SEE: optoelectronic	 ::
+optronics {n} (optoelectronics) SEE: optoelectronics	 ::
+or {conj} (conjunction)	 :: eller
+orach {n} (saltbush) SEE: saltbush	 ::
+oral hygiene {n} (keeping the mouth clean)	 :: [Bokmål] munnhygiene {m}; [Nynorsk] munnhygiene {m}
+oral sex {n} (stimulation of the genitals using the mouth)	 :: oralsex {m}, munnsex {m}
+orange {adj} (having the colour of the fruit of an orange tree)	 :: oransje
+orange {n} (colour)	 :: oransje {m}
+orange {n} (fruit)	 :: appelsin {m}
+orange {n} (tree)	 :: appelsintre {n}
+orange peel {n} (the skin of an orange)	 :: [Bokmål] appelsinskall {n}; [Nynorsk] appelsinskal {n}
+oratory {n} (eloquence) SEE: eloquence	 ::
+orb {n} (circle) SEE: circle	 ::
+orb {n} (orbit) SEE: orbit	 ::
+orb {n} (period of time marked off by the revolution of a heavenly body) SEE: year	 ::
+orbit {n} (eye socket) SEE: eye socket	 ::
+orbit {n} (path of one object around another)	 :: bane {m}
+orbital cavity {n} (eye socket) SEE: eye socket	 ::
+orc {n} (evil monstrous humanoid creature)	 :: ork, orc
+orc {n} (Orcinus orca) SEE: orca	 ::
+orca {n} (Orcinus orca)	 :: spekkhogger {m}
+orchard {n} (land for cultivation of fruit or nut trees)	 :: [Bokmål] frukthage {m}; [Nynorsk] frukthage {m}
+orcharder {n} (orchardist) SEE: orchardist	 ::
+orchestra {n} (large group of musicians who play together on various instruments)	 :: [Bokmål] orkester {n}; [Nynorsk] orkester {n}
+orchestral {adj} (relating to an orchestra)	 :: [Bokmål] orkestral; [Nynorsk] orkestral
+orchestrate {v} (to arrange or direct diverse elements to achieve a desired effect)	 :: [Bokmål] iscenesette, arrangere
+orchestrate {v} (to arrange or score music for performance by an orchestra)	 :: [Bokmål] arrangere
+ordain {v} (admit into the ministry of a religion)	 :: [Bokmål] ordinere; [Nynorsk] ordinere
+ordeal {n} (a painful or trying experience)	 :: prøvelse {m}, slit {n}
+order {n} (arrangement, disposition)	 :: ordning {m}, orden {m}
+order {n} (awarded decoration)	 :: orden {m}
+order {n} (biology: taxonomical classification)	 :: orden {m}
+order {n} (command)	 :: ordre {m}
+order {n} (good arrangement)	 :: orden {m}
+order {n} (highest exponent in a polynomial)	 :: orden {m}
+order {n}	 :: rekkefølge {m} [arrangement]
+order {n} (religious group)	 :: orden {m}
+order {n} (request for some product or service)	 :: ordre {m}
+order {n} (society of knights)	 :: orden {m}
+order {v} (to issue a command)	 :: [Bokmål] befale, beordre; [Nynorsk] befale, beordre
+order {v} (to request some product or service)	 :: bestille
+order {v} (to set in (a good) order)	 :: ordne
+order {v} (to set in (any) order)	 :: ordne
+order of magnitude {n} (class of scale)	 :: [Bokmål] størrelsesorden {m}
+ordinal direction {n} (intercardinal direction) SEE: intercardinal direction	 ::
+ordinal number {n} (grammar: word used to denote relative position in a sequence)	 :: ordenstall {n}; [Nynorsk] rekkjetal {n}
+ordination {n} (act of ordaining)	 :: [Bokmål] ordinasjon {m}; [Nynorsk] ordinasjon {m}
+ordination {n} (ceremony)	 :: [Bokmål] ordinasjon {m}; [Nynorsk] ordinasjon {m}
+ore {n} (rock that contains materials that can be economically extracted and processed)	 :: malm
+oregano {n} (leaves used to flavour food)	 :: [Bokmål] oregano {m}; [Nynorsk] oregano {m}
+oregano {n} (plant)	 :: kung, bergmynte
+or else {phrase} (as an alternative)	 :: ellers, hvis ikke
+orfe {n} (Leuciscus idus) SEE: ide	 ::
+organ {n} (musical instrument)	 :: [Bokmål] orgel {n}; [Nynorsk] orgel {n}
+organ {n} (part of an organism)	 :: organ
+organ gun {n} (ribauldequin) SEE: ribauldequin	 ::
+organic {adj} (of food and food products: grown without agrichemicals)	 :: [Bokmål] økologisk; [Nynorsk] økologisk
+organic {n} (organic compound) SEE: organic compound	 ::
+organise {v} (organize) SEE: organize	 ::
+organism {n} (living thing)	 :: [Bokmål] organisme {m}; [Nynorsk] organisme {m}
+organization {n} (group of people or other legal entities with an explicit purpose and written rules)	 :: [Bokmål] organisasjon {m}; [Nynorsk] organisasjon {m}
+orgasm {n} (the peak of sexual pleasure)	 :: [Bokmål] orgasme {m}, utløsning {m}; [Nynorsk] orgasme {m}
+orgasmic {adj} (of or relating to orgasms)	 :: [Bokmål] orgastisk; [Nynorsk] orgastisk
+orgy {n} (sexual group activity)	 :: orgie {m}
+orienteering {n} (racing across unfamiliar countryside using a map and compass)	 :: [Bokmål] orientering
+origami {n} (the Japanese art of paper folding)	 :: origami {m}
+origin {n} (beginning of something)	 :: utgangspunkt
+origin {n} (point at which the axes of a coordinate system intersect)	 :: origo
+original {n} (archasm for an excentric) SEE: eccentric	 ::
+Orinoco {prop} (River)	 :: Orinoco
+Orissa {prop} (Odisha) SEE: Odisha	 ::
+Orkney Islands {prop} (group of islands)	 :: [Bokmål] Orknøyene; [Nynorsk] Orknøyane, Orknøyene
+ornate wolf {n} (Lycaon pictus) SEE: African hunting dog	 ::
+ornithologist {n} (expert in ornithology)	 :: [Bokmål] ornitolog {m}; [Nynorsk] ornitolog {m}
+ornithology {n} (scientific study of birds)	 :: ornitologi {m}; [Nynorsk] ornitologi {m}
+ornithopter {n} (aircraft that flaps its wings)	 :: Ornithopter
+orphan {n} (person whose (parent or) parents have died)	 :: foreldreløst barn {n}
+orphanage {n} (a public institution for the care and protection of orphans)	 :: [Bokmål] barnehjem {n}
+orphanarium {n} (orphanage) SEE: orphanage	 ::
+or so {phrase} (roughly, appoximately)	 :: eller noe
+orthodoxy {n} (correctness in doctrine and belief)	 :: ortodoksi
+orthodoxy {n} (the beliefs and practices of the Eastern Orthodox Church) SEE: Orthodoxy	 ::
+orthopedia {n} (orthopedics) SEE: orthopedics	 ::
+Oscar {prop} (male given name)	 :: Oskar
+Oslo {prop} (the capital and a county municipality of Norway)	 :: Oslo
+osmium {n} (chemical element)	 :: osmium
+Osmond {prop} (male given name)	 :: Åsmund
+Osmussaar {prop} (Island in northwest Estonia)	 :: Osmussaar
+osprey {n} (bird of prey)	 :: fiskeørn {c}
+ossify {v} (to calcify) SEE: calcify	 ::
+ossuary {n} (a place where the dead are buried)	 :: ossuarium
+ostensible {adj}	 :: tilsynelatende
+ostensibly {adv} (ostensibly)	 :: [Bokmål] tilsynelatende
+ostentatious {adj} (intended to attract notice)	 :: [Bokmål] prangende
+osteoarthritis {n} (form of arthritis caused by chronic degeneration of the cartilage and synovial membrane of the joints)	 :: slitasjegikt {m}
+ostrich {n} (large flightless bird)	 :: [Bokmål] struts {m}; [Nynorsk] struts {m}
+other {adj} (not the one)	 :: annen, andre {p}
+other {n} (an other one)	 :: andre
+otherwise {adv} (or else) SEE: or else	 ::
+otolaryngological {adj} (otorhinolaryngological) SEE: otorhinolaryngological	 ::
+otolaryngologist {n} (otorhinolaryngologist) SEE: otorhinolaryngologist	 ::
+otolaryngology {n} (otorhinolaryngology) SEE: otorhinolaryngology	 ::
+otter {n} (mammal)	 :: [Bokmål] oter {m}; [Nynorsk] oter {m}
+Otto {prop} (male given name)	 :: Otto
+Ouagadougou {prop} (capital of Burkina Faso)	 :: Ouagadougou
+ouch {interj} (expression in sympathy at another’s pain)	 :: au da, uff da
+ouch {interj} (expression of one's own physical pain)	 :: au
+ouchie {n} (owie) SEE: owie	 ::
+our {determiner} (belonging to us)	 :: vår
+-ous {suffix} (suffix to form adjectives)	 :: -øs
+out {adv} (at a distance)	 :: vekk, borte
+out {adv} (away from expected or default place)	 :: ute, borte
+out {adv} (away from the inside or the centre)	 :: ut
+out {adv} (into a state of non-operation or non-existence)	 :: av, ut
+out {adv} (of a player, disqualified)	 :: ute
+out {prep} (away from the inside)	 :: ut av
+outboard {n}	 :: kompressor
+outboard {n} (outboard motor) SEE: outboard motor	 ::
+outboard motor {n} (engine fitted over the transom of a boat)	 :: [Bokmål] påhengsmotor {m}, utabordsmotor {m}, utenbordsmotor {m} ; [Nynorsk] påhengsmotor {m}, utanbordsmotor {m}
+outdoors {adv} (in the open air)	 :: utendørs
+outfox {v} (outsmart) SEE: outsmart	 ::
+outguess {v} (outsmart) SEE: outsmart	 ::
+outhouse {n} (outbuilding)	 :: uthus {n}
+outhouse {n} (outdoor toilet)	 :: utedo {m}
+outing {n} (excursion) SEE: excursion	 ::
+outlier {n} (value outside pattern in a statistical sample)	 :: [Bokmål] uteligger {m}; [Nynorsk] uteliggjar {m}, uteliggar {m}
+out of {prep}	 :: av
+out of {prep} (from the inside to the outside of)	 :: ut av
+out of breath {adj} (breathing with difficulty)	 :: andpusten
+out of nowhere {adv} (unexpectedly ot unexplicably)	 :: ingensteds fra
+out of the blue {adv} (unexpectedly)	 :: ut av det blå, som lyn fra klar himmel
+out of the frying pan, into the fire {adv} (from an already bad situation to a worse one)	 :: [Bokmål] fra asken til ilden (out of the ashes into the fire)
+out of work {adj} (unemployed) SEE: unemployed	 ::
+outrage {n}	 :: skjenselsgjerning {c}
+outrageous {adj} (shocking)	 :: forferdelig
+outside {n} (outer surface)	 :: ytterside {c}
+outside {prep} (on the outside of)	 :: utside {c}
+outskirt {n} (periphery)	 :: utkant {m}
+outstanding {adj} (distinguished from others by its superiority)	 :: fremragende
+outstanding {adj} (not settled or finished)	 :: utestående
+outstanding {adj} (owed as a debt)	 :: utestående
+outstanding {adj} (projecting outwards)	 :: utstående
+outstanding {adj} (standing out from others)	 :: fremragende
+outwit {v} (outsmart) SEE: outsmart	 ::
+ovary {n} (female organ)	 :: eggstokk
+ovate {adj} (egg-shaped) SEE: egg-shaped	 ::
+oven {n} (chamber used for baking or heating)	 :: [Bokmål] ovn {m}; [Nynorsk] omn {m}
+oven mitt {n} (oven glove) SEE: oven glove	 ::
+over {adj} (ended)	 :: over, slutt
+over {prep} (by comparison: beyond, past, exceeding)	 :: over
+over {prep} (physical positioning: across or spanning)	 :: over
+over {prep} (physical positioning: on top of; above)	 :: over
+overall {n} (protective garment worn over clothing)	 :: overall {m}
+overblown {adj} (Of exaggerated importance)	 :: oppblåst
+overcharge {v} (to charge more than correct amount)	 :: ta for mye betalt
+overdraft {n} (act of overdrawing a bank account)	 :: overtrekk {n}
+overdraught {n} (overdraft) SEE: overdraft	 ::
+overdraw {v} (withdraw more money from an account than there is credit)	 :: overtrekke
+overdue abortion {n} (missed abortion) SEE: missed abortion	 ::
+overestimate {v} (to judge too highly)	 :: [Bokmål] overvurdere; [Nynorsk] overvurdere
+overestimated {v} (overrated) SEE: overrated	 ::
+overflow {v}	 :: oversvømme
+overflow {v} (to fill beyond the limits of)	 :: [Bokmål] renne over; [Nynorsk] renne over
+overgraze {v} (to graze land excessively, to the detriment of the land and its vegetation)	 :: overbeite
+overhaul {n} (a major repair, remake, renovation, or revision)	 :: [Bokmål] overhaling {m} {f}; [Nynorsk] overhaling {f}
+overhaul {v} (to modernize, repair, renovate, or revise completely)	 :: overhale
+overhead {n} (data or steps of computation that is only used to facilitate the computations in the system and is not directly related to the actual program code or data being processed)	 :: overhead
+overhead projector {n} (projector that projects an image over the heads of the viewers onto a screen)	 :: overheadprosjektør {m}
+overhear {v} (To hear something that wasn't meant for one's ears)	 :: overhøre
+overlay {v} (overwhelm) SEE: overwhelm	 ::
+overlook {v} (to fail to notice; to look over and beyond (anything) without seeing it)	 :: [Bokmål] overse
+overlook {v} (to pretend not to have noticed; to pass over without censure or punishment)	 :: [Bokmål] overse
+overmorrow {adv} (on the day after tomorrow) SEE: day after tomorrow	 ::
+overmorrow {n} (day after tomorrow) SEE: day after tomorrow	 ::
+over my dead body {adv} (absolutely not)	 :: over mitt lik
+overnourished {adj} (overweight) SEE: overweight	 ::
+overpopulation {n} (when the number of occupants of an area exceeds the ability of that area to provide for the occupants)	 :: [Bokmål] overbefolkning {m} {f}; [Nynorsk] overbefolkning {f}
+overpressure {n} (excess or markedly elevated pressure)	 :: overtrykk {n}
+overreact {v} (to react too much or too intensely)	 :: overreagere
+override {v} (to counteract the normal operation of something)	 :: motvirke, overstyre
+overripe {adj} (excessively ripe; spoiled; gone bad)	 :: [Bokmål] overmoden; [Nynorsk] overmoden, overmogen
+overshadow {v} (to cast a shadow over something)	 :: overskygge
+overshadow {v} (to dominate something and make it seem insignificant)	 :: overskygge
+overshoe {n} (protective shoe)	 :: kalosje {m} {f}
+oversleep {v} (to sleep for longer than planned)	 :: forsove seg
+oversteer {n}	 :: [Bokmål] overstyring {m} {f}
+overtake {v} (To pass a more slowly moving object)	 :: [Bokmål] kjøre forbi; [Nynorsk] køyre forbi
+over the moon {adj} (delighted, thrilled)	 :: overlykkelig
+over there {adv} (in that place)	 :: [Bokmål] der borte
+overtime {n} (pay for overtime work)	 :: [Bokmål] overtidsbetaling {m} {f}, overtidstillegg {n}; [Nynorsk] overtidsbetaling {f}, overtidstillegg {n}
+overtime {n} (worktime)	 :: [Bokmål] overtid {m} {f}; [Nynorsk] overtid {f}
+overtrump {v} (To play a higher trump card) SEE: overruff	 ::
+overweight {adj} (of a person, heavier than is healthy)	 :: overvektig
+overwhelming {adj} (overpowering)	 :: [Bokmål] overveldende
+oviduct {n} (duct through which an ovum passes)	 :: eggleder
+oviform {adj} (egg-shaped) SEE: egg-shaped	 ::
+ovoid {adj} (egg-shaped) SEE: egg-shaped	 ::
+ovulate {v} (produce eggs or ova)	 :: ha eggløsning
+owl {n} (a bird)	 :: ugle
+own {v} (defeat) SEE: defeat	 ::
+own {v} (have rightful possession of)	 :: eie
+owner {n} (one who owns)	 :: [Bokmål] eier {m}; [Nynorsk] eigar {m}
+oxalic acid {n} (the dicarboxylic acid (ethandioic acid))	 :: oksalsyre {f}
+oxalis {n} (any of various ornamental flowering plants of the genus Oxalis)	 :: [Bokmål] gjøkesyre, kløversyre {f}, siris {m}, skogsyre {f}, syreblad {n}, søtsyre {f}, vaffelhjerte {n} (and more); [Nynorsk] gauksyre {f}, gaukesyre {f}, gaukegras {n}, gaukvaffel {m}, syreblom {m} (and more)
+oxeye daisy {n} (flower)	 :: prestekrage
+oxidanium {n} (hydronium) SEE: hydronium	 ::
+oxidization {n} (oxidation) SEE: oxidation	 ::
+oxygen {n} (chemical element)	 :: [Bokmål] oksygen {n}, surstoff {n}; [Nynorsk] oksygen {n}, surstoff {n}
+oxymoron {n} (contradiction in terms) SEE: contradiction in terms	 ::
+oyster {n} (mollusk, see also: clam, see also: mollusc, see also: mussel)	 :: østers {m}
+oystercatcher {n} (bird)	 :: tjeld {m}

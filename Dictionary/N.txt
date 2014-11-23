@@ -1,0 +1,567 @@
+﻿n00b {n} (beginner) SEE: newbie	 ::
+n/a {initialism} (not applicable)	 :: [Bokmål] ikke anvendbar
+NaCl {n} (sodium chloride) SEE: sodium chloride	 ::
+NaCl {n} (table salt) SEE: table salt	 ::
+nada {n} (nothing) SEE: nothing	 ::
+naevus {n} (abnormal area on skin) SEE: mole	 ::
+naïf {n} (one who is naive) SEE: naif	 ::
+nag {v} (complain about insignificant matters)	 :: mase
+Nagorny Karabakh {prop} (Nagorno-Karabakh) SEE: Nagorno-Karabakh	 ::
+Nahum {prop} (book of the Bible)	 :: Nahum
+nail {n} (on fingers and toes)	 :: [Bokmål] negl {m}; [Nynorsk] nagl {m}
+nail {n} (spike-shaped metal fastener used for joining wood or similar materials)	 :: spiker {m}
+nail {v} (catch)	 :: fange, fakke
+nail {v} (employ a nail as a fastener)	 :: spikre
+nail {v} (hit a target effectively with some weapon)	 :: treffe
+nail polish {n} (cosmetic lacquer)	 :: [Bokmål] neglelakk {m}; [Nynorsk] naglelakk {m}
+nail trimmer {n} (nail clipper) SEE: nail clipper	 ::
+Naissaar {prop} (island in northern Estonia)	 :: Naissaar
+naive {adj} (lacking experience, wisdom, or judgement)	 :: naiv, godtroende
+naked {adj} (glib, without decoration, put bluntly)	 :: naken
+naked {adj} (not wearing any clothes)	 :: naken
+naked {adj} (unprotected)	 :: naken
+naked eye {n} (unaided eyesight)	 :: [Bokmål] det blotte øye (the naked eye)
+Nalchik {prop} (city in Russia)	 :: Naltsjik
+name {n} (reputation)	 :: navn {n}, ry {n}
+name {n} (word or phrase indicating a particular person, place, class or thing)	 :: navn
+name {v} (to designate for a role)	 :: utnevne
+name {v} (to give a name to)	 :: kalle, navngi
+name {v} (to identify, define, specify)	 :: nevne
+name {v} (to mention, specify)	 :: velge
+name {v} (to publicly implicate)	 :: [Bokmål] navngi
+name card {n} (business card) SEE: business card	 ::
+named {adj} (having a name)	 :: navngitt
+name day {n} (feast day of a saint)	 :: navnedag; [Nynorsk] namnedag
+namesake {n} (person with the same name as another)	 :: [Nynorsk] namne {m}
+nametag {n} (tag with one's name on it)	 :: navnelapp
+Namibia {prop} (Republic of Namibia)	 :: Namibia
+Namibian {adj} (of, from, or pertaining to Namibia)	 :: [Bokmål] namibisk; [Nynorsk] namibisk
+Namibian {n} (a person from Namibia or of Namibian descent)	 :: [Bokmål] namibier {m}; [Nynorsk] namibiar {m}
+nanny {n} (child's nurse)	 :: barnepike {m}
+nanny {n} (female goat) SEE: nanny goat	 ::
+nanometer {n} (nanometre) SEE: nanometre	 ::
+Naomi {prop} (biblical character)	 :: No'omi
+nape {n} (back part of the neck)	 :: nakke {m}
+napkin {n} (diaper) SEE: diaper	 ::
+napkin {n} (serviette)	 :: serviett {m}
+nappy {n} (diaper) SEE: diaper	 ::
+narrative present tense {n} (tense) SEE: historical present tense	 ::
+narrator {n} (in film and television)	 :: [Bokmål] forteller {m}, stemme {m}; [Nynorsk] forteljar {m}
+narrator {n} (in story)	 :: [Bokmål] forteller {m}; [Nynorsk] forteljar {m}
+narrow {adj} (having a small width)	 :: smal
+narrow-minded {adj} (having restricted or rigid views, and being unreceptive to new ideas)	 :: bornert, innskrenket, trangsynt
+narrow-minded {adj} (intolerant, bigoted or prejudiced)	 :: bornert, innskrenket, trangsynt
+narrow-mindedness {n} (the state of being narrow-minded)	 :: bornerthet {c}, trangsynthet {c}
+Narva {prop} (City in Estonia)	 :: Narva
+narwhal {n} (Arctic cetacean)	 :: [Bokmål] narhval {m}; [Nynorsk] narkval {m}
+nascent {adj} (emerging; just coming into existence)	 :: nyfødt
+nascent {adj} (in chemistry)	 :: nydannet
+natal cleft {n} (groove between buttocks) SEE: anal cleft	 ::
+Natalia {prop} (female given name) SEE: Natalie	 ::
+Natalie {prop} (female given name)	 :: Natalie
+Nathanael {prop} (biblical Apostle)	 :: Natanael
+Nathaniel {prop} (cognate of the name) SEE: Nathanael	 ::
+nation {n} (community of people)	 :: nasjon {m}
+national {adj} (of or having to do with a nation)	 :: [Bokmål] nasjonal; [Nynorsk] nasjonal
+national anthem {n} (official song of a nation or country)	 :: [Bokmål] nasjonalsang {m}; [Nynorsk] nasjonalsong {m}
+national day {n} (day marking a country's establishment)	 :: [Bokmål] nasjonaldag {m}; [Nynorsk] nasjonaldag {m}
+nationalism {n} (idea of supporting one's country and culture)	 :: nasjonalisme
+nationalistic {adj} (of, relating to, or advocating nationalism) SEE: nationalist	 ::
+nationality {n} (nationalism) SEE: nationalism	 ::
+nationalization {n} (nationalisation) SEE: nationalisation	 ::
+national park {n} (national park)	 :: [Bokmål] nasjonalpark {m}; [Nynorsk] nasjonalpark {m}
+native companion {n} (brolga) SEE: brolga	 ::
+NATO {prop} (North Atlantic Treaty Organization)	 :: NATO
+natural {adj} (as expected)	 :: normal
+natural {adj} (relating to nature)	 :: naturlig
+natural {adj} (without additives)	 :: naturlig
+natural {n} (someone with innate ability)	 :: [Bokmål] naturtalent
+natural disaster {n} (natural phenomenon)	 :: [Bokmål] naturkatastrofe {m}; [Nynorsk] naturkatastrofe {m}
+natural gas {n} (mixture of gaseous hydrocarbons associated with petroleum deposits)	 :: [Bokmål] naturgass {m}; [Nynorsk] naturgass {m}
+naturalize {v} (to acclimatize an animal or plant) SEE: acclimatize	 ::
+natural log {n} (natural logarithm) SEE: natural logarithm	 ::
+naturally {adv} (in a natural manner)	 :: naturlig
+naturally {adv} (inherently or by nature)	 :: naturlig
+naturally {adv} (surely)	 :: naturligvis, selvfølgelig
+natural preserve {n} (nature reserve) SEE: nature reserve	 ::
+natural reserve {n} (nature reserve) SEE: nature reserve	 ::
+natural resource {n} (source of wealth that occurs naturally)	 :: [Bokmål] naturressurs {m}; [Nynorsk] naturressurs {m}
+natural selection {n} (an evolutionary process)	 :: [Bokmål] naturlig seleksjon {m}, naturlig utvalg {n}; [Nynorsk] naturleg seleksjon {m}, naturleg utval {n}
+nature {n} (environment)	 :: natur {f}
+nature {n} (essential characteristics)	 :: natur {f}
+nature {n} (everything related to biological and geographical states)	 :: natur {f}
+nature {n} (primitive state of being)	 :: natur {f}
+nature preserve {n} (nature reserve) SEE: nature reserve	 ::
+nature strip {n} (tree lawn) SEE: tree lawn	 ::
+naught {pron} (nothing)	 :: [Bokmål] null {m}
+naughty {adj} (bad; tending to misbehave or act badly)	 :: uskikkelig
+naughty {adj} (risqué, sexually suggestive)	 :: frekk, uforskamma
+Nauru {prop} (Republic of Nauru)	 :: Nauru
+Nauruan {adj} (pertaining to Nauru)	 :: [Bokmål] naurisk; [Nynorsk] naurisk
+Nauruan {n} (person from Nauru)	 :: [Bokmål] nauruer {m}; [Nynorsk] nauruar {m}
+Navarran {adj} (Navarrese) SEE: Navarrese	 ::
+Navarran {n} (Navarrese) SEE: Navarrese	 ::
+nave {n} (hub of a wheel)	 :: [Bokmål] nav {n}; [Nynorsk] nav {n}
+nave {n} (the middle or body of a church)	 :: [Bokmål] midtskip {n}; [Nynorsk] midskip {n}, midtskip {n}
+navel {n} (remnant of umbilical cord)	 :: navle {m}
+navigate {v} (travel over water)	 :: navigere
+navigation {n} (canal) SEE: canal	 ::
+navy {adj} (Belonging to the navy)	 :: marine
+navy {adj} (Having a navy colour)	 :: marineblå
+navy {n} (department)	 :: marine {m}
+navy {n} (navy blue colour)	 :: marineblå
+navy {n} (sea force)	 :: marine {m}
+Naypyidaw {prop} (capital of Myanmar)	 :: Naypyidaw
+Nay Pyi Taw {prop} (Naypyidaw) SEE: Naypyidaw	 ::
+nazi {adj} (Nazi) SEE: Nazi	 ::
+nazi {n} (Nazi) SEE: Nazi	 ::
+NB {initialism} (Nota bene; used in written English to introduce something to be noted)	 :: NB, Notabene
+N-bomb {n} (neutron bomb) SEE: neutron bomb	 ::
+neanderthal {n} (a Homo neanderthalensis specimen) SEE: Neanderthal	 ::
+Neanderthal {adj} (of or pertaining to Homines neanderthalenses) SEE: neanderthal	 ::
+Neanderthal {n} (a primitive person) SEE: neanderthal	 ::
+neap tide {n} (tide which occurs when the moon is in its first or third quarter)	 :: [Bokmål] nippflo {m} {f}
+near {adj} (physically close)	 :: [Bokmål] nær
+near {adv} (nearly) SEE: nearly	 ::
+nearsightedness {n} (myopia) SEE: myopia	 ::
+neat {adj} (tidy, free from dirt)	 :: ryddig
+neat {n} (cattle) SEE: cattle	 ::
+nebula {n} (a space cloud)	 :: [Bokmål] stjernetåke
+nebulosity {n} (cloudiness) SEE: cloudiness	 ::
+necessarily {adv} (of necessity)	 :: nødvendigvis
+necessary {adj} (needed, required)	 :: nødvendig
+necessity is the mother of innovation {proverb} (necessity is the mother of invention) SEE: necessity is the mother of invention	 ::
+necessity is the mother of invention {proverb} (a person in need will find a way)	 :: nød lærer naken kvinne å spinne (need teaches (a) naked woman how to spin)
+neck {n} (the extension of any stringed instrument on which a fingerboard is mounted)	 :: hals {m}
+neck {n} (the part of a shirt, dress etc., which fits a person's neck)	 :: hals {m}
+neck {n} (the part of body connecting the head and the trunk found in humans and some animals)	 :: hals {m}
+neck {n} (the tapered part of a bottle toward the opening)	 :: hals {m}
+necklace {n} (jewelry)	 :: [Bokmål] halsbånd {n}, halskjede {m} {n}; [Nynorsk] halskjede {f}
+necktie {n} (strip of cloth worn around the neck and tied in the front)	 :: slips {n}
+necrophilia {n}	 :: nekrofil
+need {v} (to have an absolute requirement for)	 :: trenge
+need {v} (to want strongly)	 :: trenge
+needle {n} (implement for sewing etc.)	 :: [Bokmål] nål {m} {f}, synål {m} {f}, [knitting needle] strikkepinne {m} ; [Nynorsk] nål {f}, synål {f}, [knitting needle] strikkepinn {m}, strikkepinne {m}
+needless to say {adv} (obviously)	 :: selvsagt, selvfølgelig
+ne'er-do-well {n} (good-for-nothing) SEE: good-for-nothing	 ::
+nefarious {adj} (sinful, villainous, criminal, or wicked, especially when noteworthy or notorious for such characteristics)	 :: avskyelig, skjendig
+negation {n} (act of negating something)	 :: [Bokmål] nektelse {m}
+negation {n} (denial or contradiction)	 :: [Bokmål] nektelse {m}, avvisning {m}
+negation {n} (negation in logic)	 :: [Bokmål] negasjon {m}
+negative {adj} (not positive or neutral)	 :: negativ
+negative {adj} (of electrical charge)	 :: negativ
+negativeness {n} (negativity) SEE: negativity	 ::
+neglectful {adj} (tending to neglect)	 :: [Bokmål] forsømmelig, skjødesløs
+negotiate {v} (arrange a mutual agreement (transitive))	 :: forhandle, drøfte
+negotiate {v} (confer to reach an agreement (intransitive))	 :: forhandle
+negotiation {n} (process of achieving agreement)	 :: forhandling {c}
+negro {n} (Negro) SEE: Negro	 ::
+Negro {n} (person with dark skin)	 :: neger
+Nehemiah {prop} (book of the Bible)	 :: Nehemja
+Neiden {prop} (village in Norway)	 :: Neiden; [Bokmål] Neiden; [Nynorsk] Neiden
+neigh {n} (the cry of a horse)	 :: knegg, vrinsk
+neigh {v}	 :: vrinske
+neighborhood {n}	 :: [Bokmål] omgivelse {m}
+neighborhood {n} (division of a municipality or region)	 :: boområder {p}
+neighborhood {n} (inhabitants of a residential area)	 :: naboer {p}
+neighborhood {n} (largely obsolete: quality of being a neighbor)	 :: naboskap {n}
+neighborhood {n} (nearby area)	 :: naboskap {n}
+neighbour {n} (a person living on adjacent or nearby land)	 :: nabo {m}
+Nei Mongol {prop} (Inner Mongolia) SEE: Inner Mongolia	 ::
+neither {conj} (not either (used with nor): neither X nor Y)	 :: [Bokmål] hverken, verken X eller Y; [Nynorsk] korkje X eller Y
+neither {determiner} (not one of two; not either)	 :: ingen av
+nemesis {n} (archenemy) SEE: archenemy	 ::
+Nenets {prop} (language)	 :: nenetsisk
+neoclassicism {n} (movement)	 :: [Bokmål] nyklassisisme {m}; [Nynorsk] nyklassisisme {m}
+neodymium {n} (chemical element)	 :: [Bokmål] neodym {n}; [Nynorsk] neodym {n}
+neologism {n} (recently coined word)	 :: [Bokmål] neologisme {m}, nyord {n}; [Nynorsk] neologisme {m}
+neologism {n} (schizophrenic meaningless word)	 :: neologisme {m}
+neon {n} (element)	 :: neon; [Nynorsk] neon
+neo-Nazi {n} (person who believes in a Nazi ideology)	 :: nynazist
+neotenous {adj} (babyfaced) SEE: babyfaced	 ::
+Nepal {prop} (Federal Democratic Republic of Nepal)	 :: Nepal
+Nepalese {adj} (Nepali) SEE: Nepali	 ::
+Nepalese {n} (Nepali) SEE: Nepali	 ::
+Nepalese {prop} (Nepali) SEE: Nepali	 ::
+Nepali {adj} (pertaining to Nepal)	 :: [Bokmål] nepalsk; [Nynorsk] nepalsk
+Nepali {n} (person)	 :: [Bokmål] nepaler {m}; [Nynorsk] nepalar {m}
+Nepali {prop} (language)	 :: [Bokmål] nepalsk {m}, nepali {m}; [Nynorsk] nepalsk {m}, nepali {m}
+nephrolith {n} (kidney stone) SEE: kidney stone	 ::
+Neptune {prop} (eighth planet of the solar system)	 :: Neptun
+Neptune {prop} (Roman god of the ocean)	 :: Neptun
+neptunium {n} (chemical element)	 :: neptunium
+nerd {n} (intellectual, skillful person, generally introverted)	 :: nerd {m}
+nerve {n} (bundle of neurons)	 :: nerve
+nerve {v} (encourage) SEE: encourage	 ::
+nerve {v} (strengthen) SEE: strengthen	 ::
+nerve agent {n} (weapon of mass destruction) SEE: nerve gas	 ::
+nerve fibre {n} (axon) SEE: axon	 ::
+nerve-wracking {adj} (intensely distressing)	 :: [Bokmål] nervepirrende; [Nynorsk] nervepirrande
+nervosity {n} (nervousness) SEE: nervousness	 ::
+ness {n} (a promontory; a cape or headland)	 :: nes {n}
+-ness {suffix} (appended to adjectives to form nouns meaning "the state of ...", "the quality of ...", or "the measure of ...")	 :: -het
+nest {n} (bird-built structure)	 :: [Bokmål] fuglerede {n}, fuglereir {n}; [Nynorsk] fuglereir {n}
+nested {v} (embedded) SEE: embedded	 ::
+net {n} (interconnecting system)	 :: nett
+Netherlands {adj} (pertaining to the Netherlands)	 :: nederlandsk
+Netherlands {prop} (country in northwestern Europe)	 :: Nederland, Holland
+nettle {n} (deadnettle) SEE: deadnettle	 ::
+nettle {n} (stinging herb of genus Urtica)	 :: nesle {c}
+nettle-rash {n} (itchy areas of the skin) SEE: urticaria	 ::
+network {n} (fabric or structure of fibrous elements)	 :: nett {n}
+network {n} (interconnected group or system)	 :: nettverk {n}
+network {n} (multiple computers and other devices connected together)	 :: [Bokmål] nettverk
+network {n}	 :: nettverk
+neuter {adj}	 :: nøytral , intetkjønn
+neutral {adj} ((chemistry) neither acidic nor alkaline)	 :: nøytral
+neutral {adj} (having no obvious colour; gray)	 :: nøytral
+neutral {adj} (not taking sides in a conflict such as war)	 :: nøytral
+neutral {adj} ((physics) neither positive nor negative)	 :: nøytral
+neutralisation {n} (neutralization) SEE: neutralization	 ::
+neutralise {v} (to make inactive or ineffective)	 :: [Bokmål] nøytralisere; [Nynorsk] nøytralisere, nøytralisera
+neutrino {n} (en elementary particle with extremely small mass and no electric charge)	 :: neutrino {m}
+neutron {n} (subatomic particle)	 :: [Bokmål] nøytron {n}; [Nynorsk] nøytron {m} {n}
+neutron star {n} (star composed of neutrons)	 :: [Bokmål] nøytronstjerne {m} {f}; [Nynorsk] nøytronstjerne {f}, nøytronstjerna {f}
+never {adv} (at no time)	 :: aldri
+nevermore {adv} (never again) SEE: never again	 ::
+never say never {phrase} (never say never)	 :: [Bokmål] aldri si aldri; [Nynorsk] aldri sei aldri
+nevertheless {adv} (in spite of what preceded)	 :: likevel
+nevus {n} (benign lesion on skin) SEE: mole	 ::
+new {adj} (additional, recently discovered)	 :: ny
+new {adj} (current or later)	 :: ny, nåværende
+new {adj} (distinguishing something established more recently)	 :: ny
+new {adj} (inexperienced, unaccustomed)	 :: ny
+new {adj} (in original condition, pristine)	 :: ny
+new {adj} (of recent origin)	 :: ny
+new {adj} (recently arrived or appeared)	 :: ny
+new {adj} (recently made or created)	 :: ny
+new {adj} (refreshed, reinvigorated)	 :: ny
+new {adj} (strange, unfamiliar)	 :: ny
+new {adj} (young)	 :: nyfødt
+new age {adj} (Of or relating to the New Age)	 :: newage
+new age {n} (a modern spiritual and religious movement)	 :: New Age
+New Age {adj} (Of or relating to the New Age)	 :: newage
+New Age {n} (a modern spiritual and religious movement)	 :: New Age
+newb {n} (newbie) SEE: newbie	 ::
+newbie {n} (new (inexperienced) user or participant)	 :: nybegynner, newbie {m}
+newborn {adj} (reborn) SEE: reborn	 ::
+newborn {adj} (recently born)	 :: [Bokmål] nyfødt; [Nynorsk] nyfødd
+New Caledonian {adj} (of, from, or pertaining to New Caledonia)	 :: [Bokmål] kaledonsk; [Nynorsk] kaledonsk, kaledonisk
+newcomer {n} (new participant in some activity)	 :: [Bokmål] nykommer {m}; [Nynorsk] nykomar {m}
+newcomer {n} (one who has recently arrived in a community)	 :: [Bokmål] nykommer {m}; [Nynorsk] nykomar {m}
+New Delhi {prop} (capital of India)	 :: New Delhi
+newfangled {adj} (modern, unfamiliar or different)	 :: nymotens
+New Guinea {prop} (large island)	 :: Ny-Guinea
+New High German {prop} (modern German language )	 :: [Bokmål] nyhøgtysk {m}, nyhøytysk {m}; [Nynorsk] nyhøgtysk {m}
+New Ireland {prop} (island)	 :: New Ireland
+New Jersey {prop} (a northeast state of the United States of America)	 :: New Jersey
+newlywed {adj} (recently married)	 :: nygift
+Newman {prop} (surname meaning "new man")	 :: Nyman
+new moon {n} (phase of moon when in conjunction with sun)	 :: [Bokmål] nymåne {m}; [Nynorsk] nymåne {m}
+new potato {n} (one of the earliest potatoes of a new crop)	 :: [Bokmål] nypotet {m}; [Nynorsk] nypotet {m} {f}
+news {n} (new information of interest)	 :: [Bokmål] nyhet {m} {f}; [Nynorsk] nyheit {f}
+news {n} (reports of current events)	 :: [Bokmål] nyheter {m-p} {f-p}; [Nynorsk] nyheiter {f-p}
+news anchor {n} (presenter of news broadcasts)	 :: [Bokmål] nyhetsanker {n}
+newsfeed {n} (a feed of news content)	 :: nyhetsstrøm {m}
+New South Wales {prop} (one state of Australia)	 :: New South Wales
+newspaper {n} (paper on which newspapers are printed)	 :: avispapir {n}
+newspaper {n} (publication)	 :: avis
+Newspeak {n} (newspeak) SEE: newspeak	 ::
+Newspeak {prop} (fictional language)	 :: nytale
+newsreader {n} (news anchor) SEE: news anchor	 ::
+newsroom {n} (the office of a news organisation)	 :: [Bokmål] redaksjon {m}
+New World Order {n} (vision for the world)	 :: ny verdensorden
+New Year {n} (January 1 in the Julian and Gregorian calendar and the days following)	 :: nyttår {m}
+New York {prop} (city) SEE: New York City	 ::
+New York City {prop} (large city in the USA)	 :: (Bokmål): New York
+New Zealand {prop} (country in Oceania)	 :: New Zealand, Ny-Zealand
+New Zealander {n} (a person from New Zealand or of New Zealand descent)	 :: [Bokmål] newzealender {m}, newzealending {m}, nyzealender {m}, nyzealending {m}; [Nynorsk] newzealendar {m}, newzealending {m}, nyzealendar {m}, nyzealending {m}
+next {adj} (being closer to the present location than all other items)	 :: neste, nærmest
+next {adj} (following in a sequence)	 :: neste
+next {adj} (nearest date, time, space or order)	 :: neste, følgende
+next {adv} (In a time, place or sequence closest or following)	 :: nærmest
+next {adv} (On the first subsequent occasion)	 :: som neste
+next {n} (the one that follows after this one (in languages with a definite article that is generally required in this sense))	 :: neste {m}, nestemann {m}
+next {prep} (next to) SEE: next to	 ::
+next {prep} (on the side of)	 :: ved siden av, attmed
+nextly {adv} (next) SEE: next	 ::
+next of kin {n} (closest blood relative, often heir to inheritance)	 :: [Bokmål] nærmeste pårørende {m}; [Nynorsk] næraste pårørande {m}
+next to {prep} (beside; alongside)	 :: ved siden av, hos
+Nicaragua {prop} (A country in Central America)	 :: Nicaragua
+Nicaraguan {adj} (pertaining to Nicaragua)	 :: [Bokmål] nicaraguansk; [Nynorsk] nicaraguansk
+Nicaraguan {n} (person from Nicaragua)	 :: [Bokmål] nicaraguaner {m}; [Nynorsk] nicaraguan {m}, nicaraguanar {m}
+nice {adj} (attractive)	 :: pen
+nice {adj} (pleasant)	 :: hyggelig, sympatisk
+nice {adj} (showing or requiring great precision or sensitive discernment)	 :: fin
+nice to meet you {phrase} (pleased to meet you) SEE: pleased to meet you	 ::
+Nicholas {prop} (male given name)	 :: Nils
+nick {n} (nickname) SEE: nickname	 ::
+nickel {n} (element)	 :: [Bokmål] nikkel {m} {n}; [Nynorsk] nikkel {m} {n}
+nickname {n} (byname)	 :: [Bokmål] tilnavn {n}; [Nynorsk] tilnamn {n}
+nickname {n} (familiar, invented given name)	 :: kallenavn {n}
+Nicole {prop} (female given name) SEE: Nicola	 ::
+nicotine {n} (addictive alkaloid derived from tobacco)	 :: [Bokmål] nikotin {m} {n}; [Nynorsk] nikotin {m} {n}
+niece-in-law {n} (Niece of someone's husband.) SEE: niece	 ::
+niece-in-law {n} (Niece of someone's wife.) SEE: niece	 ::
+nief {n} (fist) SEE: fist	 ::
+nifty {adj} (good, useful)	 :: flink, hendig
+Niger {prop} (country)	 :: Niger
+Nigeria {prop} ( in Western Africa)	 :: Nigeria
+Nigerian {adj} (of, from, or pertaining to Nigeria, the Nigerian people or culture)	 :: [Bokmål] nigeriansk; [Nynorsk] nigeriansk
+Nigerian {n} (a person from Nigeria)	 :: [Bokmål] nigerianer {m}; [Nynorsk] nigerian {m}, nigerianar {m}
+Nigerien {adj} (pertaining to Niger)	 :: [Bokmål] nigersk; [Nynorsk] nigersk
+Nigerien {n} (person)	 :: [Bokmål] nigerer {m}; [Nynorsk] nigerar {m}
+niggard {n} (a miser or stingy person) SEE: skinflint	 ::
+niggardly {adv} (in a parsimonious way) SEE: stingily	 ::
+nigger {n} (negro person)	 :: svarting, sotrør
+night {n} (darkness)	 :: mørke {n}
+night {n} (evening or night spent at a particular activity)	 :: aften {m}
+night {n} (nightfall)	 :: skumring {m}
+night {n} (night spent at a hotel)	 :: overnatting {m}
+night {n} (period between sunset and sunrise)	 :: natt {m}; [Nynorsk] natt {m}
+night {n} (quality of sleep obtained during a night)	 :: nattesøvn {m}
+night and day {adv} (day and night) SEE: day and night	 ::
+nightdress {n} (sleeping garment worn by women) SEE: nightgown	 ::
+night emission {n} (nocturnal emission) SEE: nocturnal emission	 ::
+nightfall {n} (the close of the day; the coming of night)	 :: mørkets frambrudd, skumring {m}
+nightie {n} (sleeping garment worn by women) SEE: nightgown	 ::
+nightingale {n} (bird)	 :: sørnattergal
+nightjar {n} (nocturnal bird of the family Caprimulgidae)	 :: [Bokmål] nattravn {m}; [Nynorsk] natteramn {m}
+nightmare {n} (a bad or difficult experience)	 :: mareritt {n}
+nightmare {n} (a very bad or frightening dream)	 :: mareritt {n}
+nightshade {n} (deadly nightshade, Atropa belladonna)	 :: belladonnaurt {c}
+nightshirt {n} (shirt-like garment) SEE: nightgown	 ::
+nighttime {n} (hours of darkness)	 :: natt {m} {f}
+Nikolayev {prop} (Mykolaiv) SEE: Mykolaiv	 ::
+Nile {prop} (river)	 :: Nilen {m}
+Nilean {adj} (Nilotic) SEE: Nilotic	 ::
+nimble {adj} (quick and light in movement or action)	 :: kjapp, rask
+nimble {adj} (quick-witted and alert)	 :: rask
+Nina {prop} (female given name)	 :: Nina
+nincompoop {n} (silly or foolish person)	 :: tullebukk {m}
+nine {num} (cardinal number)	 :: ni
+nineteen {num} (cardinal number)	 :: nitten
+ninetieth {adj} (ordinal form of ninety)	 :: nittinde
+ninety {num} (90)	 :: nitti
+ninety-seven {num} (97)	 :: nittisyv
+ninja {n} (person trained in stealth, espionage, assassination and ninjutsu)	 :: ninja {m}
+ninth {adj} (ordinal form of nine)	 :: nionde
+niobium {n} (chemical element)	 :: niob
+Nip {n} (offensive: a Japanese person) SEE: Jap	 ::
+nipple {n} (projection of mammary gland)	 :: patte {f}
+Nipponese {adj} (Japanese) SEE: Japanese	 ::
+Nipponese {prop} (Japanese) SEE: Japanese	 ::
+niqab {n} (veil) SEE: yashmak	 ::
+niqqud {n} (nikud) SEE: nikud	 ::
+nit {n} (egg of a louse)	 :: gnett
+nitpicker {n} (one who nitpicks)	 :: kverulant {m}
+nitric acid {n} (HNO3)	 :: [Bokmål] salpetersyre {m} {f}; [Nynorsk] salpetersyre {f}
+nitrogen {n} (chemical element)	 :: nitrogen; [Bokmål] kvelstoff; [Nynorsk] nitrogen, kvelstoff, kvæve
+nitrogen monoxide {n} (nitric oxide) SEE: nitric oxide	 ::
+nitro-hydrochloric acid {n} (aqua regia) SEE: aqua regia	 ::
+nitroxyl {n} (aminoxyl) SEE: aminoxyl	 ::
+nix {n} (colloquial: nothing)	 :: niks
+Nkore {prop} (Nyankole) SEE: Nyankole	 ::
+no {determiner} (not any)	 :: ingen
+no {determiner} (used to show an activity is forbidden)	 :: [preceded by a verbal noun] forbudt
+no {n} (a negating expression)	 :: nei {n}
+no. {n} (number)	 :: nr, nº
+no {particle} (used to show disagreement or negation)	 :: nei
+No {n} (Noh) SEE: Noh	 ::
+Noah {prop} (biblical character)	 :: Noa
+Noah {prop} (male given name)	 :: Noah
+Noah's ark {prop} (the vessel built by Noah under God's instructions, as described in Genesis)	 :: Noas ark {m}
+nobelium {n} (chemical element)	 :: nobelium
+Nobel Prize {n} (international prize)	 :: [Bokmål] nobelpris {m}; [Nynorsk] nobelpris {m}
+noble {adj} (having honorable qualities)	 :: edel
+noble gas {n} (element of group 18 of the periodic table)	 :: edelgass {m}
+nobleman {n} (man of noble rank, title, or status; peer; aristocrat)	 :: [Bokmål] adelsmann {m}; [Nynorsk] adelsmann {m}
+noble metal {n} (metal resistant to corrosion)	 :: edelmetall {n}
+nobody {pron} (not any person; the logical negation of somebody) SEE: no one	 ::
+noctilucin {n} (fat-like substance) SEE: noctilucine	 ::
+nocturne {n} (a dreamlike or pensive composition)	 :: [Bokmål] nocturne
+nod {n} (instance of moving one's head)	 :: nikk {n}
+nod {v} (incline the head up and down)	 :: nikke
+noisy {adj} (making a noise)	 :: støyende
+no matter what {pron} (anything)	 :: uansett
+nominative {n} (the nominative case) SEE: nominative case	 ::
+nonaligned {adj} (not allied)	 :: alliansefri, nøytral
+nonane {n} (nonane)	 :: nonan {n}
+nonce {n} (a stupid or worthless person) SEE: goof	 ::
+nonce word {n} (word invented for the occasion)	 :: engangsord
+noncombined {adj} (uncombined) SEE: uncombined	 ::
+noncommissioned officer {n} (non-commissioned officer) SEE: non-commissioned officer	 ::
+non-commissioned officer {n} (person of authority in the military who has not received a commission)	 :: [Bokmål] underoffiser {m} [historical military grade]
+noncontroversial {adj} (uncontroversial) SEE: uncontroversial	 ::
+non-determinism {n} (non-determinism) SEE: nondeterminism	 ::
+non-deterministic {adj} (non-deterministic) SEE: nondeterministic	 ::
+nonempty {adj} (of set, such that it contains at least one element) SEE: non-empty	 ::
+nonentity {n} (nonexistence) SEE: nonexistence	 ::
+non-governmental organization {n} (organization with no government participation)	 :: ikke-statlig organisasjon
+non-iron {adj} (not needing to be ironed)	 :: [Bokmål] strykefri; [Nynorsk] strykefri
+nonkilling {n} (A precept or worldview)	 :: ikkedrap
+nonpolitical {adj} (not political)	 :: [Bokmål] upolitisk; [Nynorsk] upolitisk
+non-smoker {n} (somebody who does not smoke tobacco)	 :: [Bokmål] ikke-røyker {m}, ikke-røker {m}; [Nynorsk] ikkje-røykjar {m}
+nonsymmetric {adj} (asymmetrical) SEE: asymmetrical	 ::
+noob {n} (newbie)	 :: noob {m}, nabb {m}
+noodle {n} (fool) SEE: fool	 ::
+noon {n} (midday)	 :: non {m} [archaic]; [Bokmål] middag {m}; [Nynorsk] middag {m}
+noon {n} (midnight) SEE: midnight	 ::
+no one {pron} (not even a single person)	 :: ingen
+noose {n} (an adjustable loop or rope)	 :: renneløkke {c}, rennesnare {c}
+no problem {interj} (it does not pose a problem)	 :: ikke noe problem
+no problem {interj} (no thanks or apology is necessary)	 :: ikke noe problem
+nor {conj} (nor)	 :: eller, heller ikke
+nordic {adj} (Nordic) SEE: Nordic	 ::
+Nordic {adj} (of or relating to cross-country skiing) SEE: nordic	 ::
+Nordic combined {n} (cross-country skiing and ski jumping)	 :: kombinert {m}
+Nordic countries {prop} (group of countries)	 :: Norden
+norm {n} (that which is normal)	 :: norm
+normal {adj} (usual, ordinary)	 :: normal, ordinær, vanlig, alminnelig
+normality {n} (state of being normal)	 :: normalitet {m}
+Norse {prop} (speakers of any North Germanic language)	 :: Norrøns {m-p}
+north {adj}	 :: nord
+north {n} (compass point)	 :: nord
+North African {adj} (of or pertaining to North Africa)	 :: [Bokmål] nordafrikansk; [Nynorsk] nordafrikansk
+northeast {n} (compass point)	 :: [Bokmål] nordøst; [Nynorsk] nordaust
+North East England {prop} (official region of England)	 :: [Bokmål] Nordøst-England; [Nynorsk] Nordaust-England
+North East Land {prop} (island)	 :: Nordaustlandet
+northern bilberry {n} (shrub)	 :: blokkebær {n}
+Northern England English {n} (Northern English) SEE: Northern English	 ::
+Northern Europe {prop} (sociopolitical region of Europe)	 :: Nord-Europa; [Nynorsk] Nord-Europa
+northern house martin {n} (common house martin) SEE: common house martin	 ::
+Northern Ireland {prop} (Northern Ireland)	 :: Nord-Irland
+northern lights {n} (the aurora of the northern hemisphere)	 :: [Bokmål] nordlys {n}; [Nynorsk] nordlys {n}, nordljos {n}
+Northern Marianas {prop} (Northern Marianas)	 :: Nord-Marianene
+northern raven {n} (common raven) SEE: common raven	 ::
+northern red oak {n} (red oak) SEE: red oak	 ::
+Northern Sea Route {prop} (a shipping lane in the Arctic Ocean)	 :: Nordøstpassasjen, Nordlige sjørute
+Northern Territory {prop} (Territory in northern Australia)	 :: Nordterritoriet
+North Korea {prop} (Democratic People's Republic of Korea)	 :: Nord-Korea
+North Korean {adj} (pertaining to North Korea)	 :: [Bokmål] nordkoreansk; [Nynorsk] nordkoreansk
+North Korean {n} (person from North Korea)	 :: [Bokmål] nordkoreaner {m}; [Nynorsk] nordkorean {m}, nordkoreanar {m}
+north-northeast {n} (compass point)	 :: nord-nordøst
+north-northwest {n} (compass point)	 :: [Bokmål] nord-nordvest; [Nynorsk] nord-nordvest
+North Ossetia {prop} (North Ossetia-Alania) SEE: North Ossetia-Alania	 ::
+North Sea {prop} (an inlet of the Atlantic Ocean betwwen Britain, Scandinavia and Germany, the Neatherlands, Belgium and France)	 :: Nordsjøen
+North Star {prop} (Pole Star) SEE: Pole Star	 ::
+northwest {n} (compass point)	 :: [Bokmål] nordvest; [Nynorsk] nordvest
+Norway {prop} (Scandinavian country)	 :: [Bokmål] Norge {n}; [Nynorsk] Noreg {n}
+Norway pine {n} (Pinus resinosa) SEE: red pine	 ::
+Norwegian {adj} (of or pertaining to Norway)	 :: [Bokmål] norsk; [Nynorsk] norsk
+Norwegian {adj} (of or pertaining to Norwegians)	 :: [Bokmål] norsk; [Nynorsk] norsk
+Norwegian {adj} (of or pertaining to the Norwegian language)	 :: [Bokmål] norsk; [Nynorsk] norsk
+Norwegian {n} (native of Norway)	 :: [Bokmål] nordmann {m}; [Nynorsk] nordmann {m}
+Norwegian {prop} (language of Norway)	 :: [Bokmål] norsk {m}; [Nynorsk] norsk {m}
+Norwegian Sea {prop} (part of the Atlantic)	 :: Norskehavet {n}
+nose {n} (length of a horse’s nose)	 :: [Bokmål] mulelengde; [Nynorsk] mulelengd {f}
+nose {n} (protuberance on the face)	 :: [Bokmål] nese {m} {f}; [Nynorsk] nase {m}
+nose {n} (skill in recognising bouquet)	 :: [Bokmål] nese {m} {f}; [Nynorsk] nase {m}
+nose {n} (snout, nose of an animal)	 :: [Bokmål] snute {m} {f}, mule {m}, tryne {n}; [Nynorsk] snute {m} {f}, mule {m}, tryne {n}
+nose {n} (tip of an object)	 :: [Bokmål] neseparti {n}; [Nynorsk] naseparti {n}
+nose {v} (to nuzzle) SEE: nuzzle	 ::
+nosh {n} (blowjob) SEE: blowjob	 ::
+nosh {n} (slang: food) SEE: grub	 ::
+nosh {n} (snack) SEE: snack	 ::
+nosh {v} (snack) SEE: snack	 ::
+nosh {v} (to perform fellatio (on)) SEE: blow	 ::
+no smoking {phrase} (phrase used in notices indicating that the smoking of cigarettes is not permitted)	 :: røyking forbudt
+nostalgic {adj} (pertaining to nostalgia)	 :: [Bokmål] nostalgisk; [Nynorsk] nostalgisk
+nostrificate {v} (nostrify) SEE: nostrify	 ::
+not {adv} (negates meaning of verb)	 :: [Bokmål] ikke, ei; [Nynorsk] ikkje, ei
+not {conj} (And not)	 :: [Bokmål] ikke; [Nynorsk] ikkje
+not {interj}	 :: [Bokmål] ikke; [Nynorsk] ikkje
+not dog {n} (imitation sausage or sandwich) SEE: veggie dog	 ::
+note {n} (banknote) SEE: banknote	 ::
+notebook {n} (book)	 :: skrivebok
+not-for-profit {adj} (not aiming for profit) SEE: nonprofit	 ::
+not guilty {n}	 :: [Bokmål] ikke skyldig; [Nynorsk] ikkje skuldig, ikkje skyldig
+no thank you {interj} (polite way of saying no)	 :: nei takk
+nothing {pron} (not any thing)	 :: ingenting, inget
+nothing {pron} (something trifling)	 :: ingenting
+nothingness {n} (state of nonexistence; the condition of being nothing)	 :: ingenting; [Bokmål] intet {n}
+nothing ventured, nothing gained {proverb} (if one takes no risks, one will not gain any benefits)	 :: den som intet våger, intet vinner
+notice board {n} (bulletin board) SEE: bulletin board	 ::
+notify {v} ((transitive) To give (someone) notice of (something))	 :: meddele
+not in the slightest {adv} (not in the least) SEE: not in the least	 ::
+not to mention {conj} (much less)	 :: for ikke å snakke om
+nougat {n} (a confection of honey and roasted nuts)	 :: nougat {m}
+noun {n} (grammatical category)	 :: substantiv {n}; [Nynorsk] substantiv
+noun adjunct {n} (attributive noun) SEE: attributive noun	 ::
+noun phrase {n} (phrase that can serve as the subject or the object of a verb)	 :: substantivfrase
+nourishment {n} (something that nourishes; food)	 :: ernæring {m} {f}
+Novaya Zemlya {prop} (archipelago in Russia)	 :: Novaja Semlja, Gåselandet
+novel {n} (work of prose fiction)	 :: [Bokmål] roman {m}
+November {prop} (eleventh month of the Gregorian calendar)	 :: november
+novice {n} (beginner)	 :: nybegynner {m}, novise {m}, novise {f}
+novice {n} (new member of a religious order)	 :: novise {m}, novise {f}
+novity {n} (novity) SEE: novelty	 ::
+Novorossiysk {prop} (city)	 :: Novorossijsk
+now {adv} (at the present time)	 :: [Bokmål] nå; [Nynorsk] no, nå
+now {conj} (since, because)	 :: nå som
+now {n} (the present time)	 :: [Bokmål] nå {n}, nu {n}; [Nynorsk] no {n}, nå {n}
+nowadays {adv}	 :: nå til dags; [Nynorsk] no til dags
+now and again {adv} (now and then) SEE: now and then	 ::
+now and then {adv} ((idiomatic) sometimes; occasionally; intermittently)	 :: av og til, nå og da
+nowheres {adv} (nowhere) SEE: nowhere	 ::
+Nowheresville {n} (a geographical location that is deemed obscure or unimportant)	 :: Gokk
+no wonder {n} (small wonder) SEE: small wonder	 ::
+no worries {interj} (you're welcome) SEE: you're welcome	 ::
+n-tuple {n} (-tuple) SEE: -tuple	 ::
+nuance {n} (minor distinction)	 :: nyanse {m}
+Nubian {adj} (pertaining to Nubia, its people or its language)	 :: [Bokmål] nubisk; [Nynorsk] nubisk
+Nubian {n} (inhabitant of the ancient Nubia or a person of Nubian descent)	 :: [Bokmål] nubier; [Nynorsk] nubiar
+nuclear {adj} (involving atomic energy)	 :: kjerne-/atom-, kjernekraft-/atomkraft
+nuclear {adj} (involving atomic or hydrogen bombs)	 :: kjærne-/atom-
+nuclear {adj} (relating to the nucleus of a cell)	 :: nukleær
+nuclear family {n} (a family unit consisting of a father, mother and children)	 :: [Bokmål] kjernefamilie {m}; [Nynorsk] kjernefamilie {m}
+nuclear physics {n} (Nuclear physics)	 :: [Bokmål] kjernefysikk {m}; [Nynorsk] kjernefysikk {m}
+nuclear war {n} (war fought using nuclear weapons)	 :: atomkrig {m}
+nuclear waste {n} (type of waste) SEE: radioactive waste	 ::
+nuclear weapon {n} (explosive device)	 :: [Bokmål] atomvåpen {n}; [Nynorsk] atomvåpen {n}
+nucleolus {n} (part of nucleus of a cell)	 :: [Nynorsk] kromosomar
+nucleus {n} (core, central part of something)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+nucleus {n} (cytology: large organelle found in cells)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+nucleus {n} (physics: massive, positively charged core of an atom)	 :: [Bokmål] kjerne {m}; [Nynorsk] kjerne {m}
+nude {adj} (without clothing or other covering)	 :: naken
+null and void {adj} (invalid, cancelled, unenforceable)	 :: død og maktesløs
+nullary sum {n} (empty sum) SEE: empty sum	 ::
+null set {n} (empty set) SEE: empty set	 ::
+numb {adj} (without the power of sensation)	 :: [Bokmål] nummen
+number {n} (abstract entity)	 :: [Bokmål] antall, tall; [Nynorsk] tal {n}
+number {n} (grammar: state of being singular, dual or plural)	 :: numerus {m}
+number {n} (mathematical number)	 :: [Bokmål] tall {n}; [Nynorsk] tal {n}
+number {n} (numeral)	 :: [Bokmål] tall {n}; [Nynorsk] tal {n}
+number {n} (used to show the rank of something in a list or sequence)	 :: [Bokmål] nummer {n}; [Nynorsk] nummer {n}
+number plate {n} (license plate) SEE: license plate	 ::
+number sign {n} (hash) SEE: hash	 ::
+number theoretician {n} (number theorist) SEE: number theorist	 ::
+numerable {adj} (numerous) SEE: numerous	 ::
+numeral {n} (non-word symbol that represents a number)	 :: [Bokmål] tall {n}; [Nynorsk] tal {n}
+numeral {n} (word or symbol representing a number)	 :: [Bokmål] tall {n}; [Nynorsk] tal {n}
+numerator {n} (in a fraction)	 :: teller
+numeric {adj} (of, or relating to numbers)	 :: numerisk
+nun {n} (member of a Christian religious community of women)	 :: nonne {m}
+nurse {n} (person trained to provide care for the sick)	 :: sykepleier {m}, sykesøster {f}, søster {f}, pleier {m}, pleierske {m}
+nurse {n} (wet nurse) SEE: wet nurse	 ::
+nursery rhyme {n} (short poem or song for children)	 :: barneregle {m} {f}
+nursing {n} (breastfeeding) SEE: breastfeeding	 ::
+nut {n} (hard-shelled fruit)	 :: [Bokmål] nøtt {m} {f}; [Nynorsk] nøtt {f}
+nut {n} (slang: insane person)	 :: galning {m}, gærning {m}
+nut {n} (slang: testicle)	 :: ball {m}
+nut {n} (slang: the head)	 :: [Bokmål] nøtt {m} {f}; [Nynorsk] nøtt {f}
+nut {n} (that fits on a bolt)	 :: mutter {m}
+nutcracker {n} (implement for cracking nuts)	 :: nøtteknekker
+Nutcracker {prop} (ballet)	 :: Nøtteknekkeren
+nutfarm {n} (informal term for lunatic asylum) SEE: madhouse	 ::
+nuthouse {n} (informal term for lunatic asylum) SEE: madhouse	 ::
+nutmeg {n} (seed)	 :: muskat, muskatnøtt
+nutria {n} (coypu) SEE: coypu	 ::
+nutrient {n} (substance that provides nourishment)	 :: [Bokmål] næringsstoff {n}; [Nynorsk] næringsstoff {n}
+nutrition {n} (nutrition)	 :: ernæring
+nutritious {adj} (providing nutrients)	 :: næringsrik
+nuts {n} (nut) SEE: nut	 ::
+Nuuk {prop} (capital of Greenland)	 :: Godthåb
+nychthemeron {n} (one day and one night)	 :: døgn {n}
+nyctalopia {n} (night blindness) SEE: night blindness	 ::
+Nynorsk {prop} (one of the two major Norwegian (written) languages)	 :: [Bokmål] nynorsk; [Nynorsk] nynorsk

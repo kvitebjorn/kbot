@@ -1,0 +1,816 @@
+﻿lab {n} (laboratory) SEE: laboratory	 ::
+labia {n} (folds of tissue at opening of vulva)	 :: kjønnslepper {c-p}
+laborious {adj} (industrious) SEE: industrious	 ::
+labor relations {n} (industrial relations) SEE: industrial relations	 ::
+labor union {n} (labor union) SEE: trade union	 ::
+labour relations {n} (industrial relations) SEE: industrial relations	 ::
+labyrinth {n} (maze)	 :: labyrint {m}
+labyrinthal {adj} (like a labyrinth) SEE: labyrinthine	 ::
+labyrinthian {adj} (mazelike) SEE: labyrinthine	 ::
+labyrinthiform {adj} (having the form of a labyrinth) SEE: labyrinthine	 ::
+lac {n} (lakh) SEE: lakh	 ::
+lace {n} (cord for fastening a shoe or garment)	 :: lisse {f}, skolisse {f}
+lace {n} (fabric)	 :: knipling {m}
+lace {v} (fasten with laces)	 :: snøre
+lack {n} (deficiency, need)	 :: mangel {m}
+lack {v} (be without, need, require)	 :: mangle
+lackey {n} (a fawning, servile follower)	 :: lakei {m}
+lackey {n} (liveried male servant)	 :: lakei {m}
+lacrosse {n} (the sport)	 :: lacrosse
+lactose {n} (disaccharide sugar of milk and dairy products)	 :: [Bokmål] laktose, melkesukker; [Nynorsk] laktose, mjølkesukker
+lad {n} (a boy)	 :: ladd {m}
+laden {adj} (weighed down with a load, burdened)	 :: nedlastet
+ladies and gentlemen {n} (used to address an audience)	 :: mine damer og herrer
+ladies first {proverb} (A phrase encouraging gentlemanliness)	 :: [Bokmål] damene først
+ladle {n} (deep-bowled spoon with a long, usually curved, handle)	 :: [Bokmål] øse {m} {f}; [Nynorsk] ause {f}
+lady {n} (polite term referring a woman)	 :: dame
+ladybird {n} (member of Coccinellidae)	 :: marifly, marihøne
+ladybug {n} (ladybird) SEE: ladybird	 ::
+lady's man {n} (man who attracts women and enjoys their company)	 :: damenes jens {m}
+lady's man {n} (womanizer) SEE: womanizer	 ::
+lag {n} ((Internet) bad connection, loss of connection)	 :: forsinkelse {m}, lagg {m}
+lagoon {n} (shallow body of water)	 :: [Bokmål] lagune {m}, strandsjø {m}; [Nynorsk] lagune {m} {f}, strandsjø {m}
+lagopode {n} (ptarmigan) SEE: ptarmigan	 ::
+lair {n} (of an animal)	 :: [Bokmål] hi {n}; [Nynorsk] hi {n}
+lake {n} (body of water)	 :: [Bokmål] innsjø {m}, tjern {n}, vann {n}, ferskvann {n}; [Nynorsk] innsjø {m}, tjern {n}, tjørn {f}, vatn {n}
+lake {n} (coloring agent)	 :: fargestoff {n}
+Lake Ladoga {prop} (Ladoga) SEE: Ladoga	 ::
+lamb {n} (flesh of lamb as food)	 :: [Bokmål] lammekjøtt {n}; [Nynorsk] lammekjøt {n}, lammekjøtt {n}
+lamb {n} (young sheep)	 :: lam {n}
+lament {n} (expression of grief, suffering, or sadness)	 :: sorg {m}
+lament {v} (express grief)	 :: sørge
+Lamentations {prop} (book of the Bible)	 :: Syrgjesongane {m-p}
+lamia {n} (monster in mythology)	 :: lamia
+lammergeier {n} (bird)	 :: [Bokmål] lammegribb
+lammergeyer {n} (vulture) SEE: lammergeier	 ::
+lamp {n} (electric device producing light)	 :: lampe {m} {f}
+lamp {n} (oil device producing light)	 :: [Bokmål] lampe {m} {f}; [Nynorsk] lampe {m} {f}
+lampoon {v} (satirize) SEE: satirize	 ::
+lamprey {n} (a fish)	 :: niøye {n}, lamprett; [Nynorsk] niauge
+lampshade {n} (cover over a lamp)	 :: lampeskjerm
+land {n} (fright) SEE: fright	 ::
+land {n} (part of Earth which is not covered by oceans or other bodies of water)	 :: land {n}
+-land {suffix} (territory, country or region (suffix))	 :: [Bokmål] -land
+land {v} (to bring to land)	 :: lande
+land {v} (to deliver) SEE: deliver	 ::
+land {v} (to descend to a surface, especially from the air)	 :: lande
+-landia {suffix} (territory, country or region (suffix)) SEE: -land	 ::
+landlocked {adj} (surrounded by land)	 :: innlands-
+landlord {n} (person who owns and rents land such as a house, apartment, or condo)	 :: utleier {m}
+landlouper {n} (vagabond) SEE: vagabond	 ::
+landlubber {n} (someone unfamiliar with the sea or seamanship)	 :: [Bokmål] [informal] landkrabbe {m} {f}; [Nynorsk] [informal] landkrabbe {m} {f}
+land mine {n} (mine that is placed on land)	 :: landmine {c}
+landslide {n} (natural disaster)	 :: steinras {n}; [Bokmål] jordras {n}, jordskred {n}; [Nynorsk] jordras {n}, jordskred {n}
+Langobard {n} (Lombard) SEE: Lombard	 ::
+language {n} (computer language (see also computer language))	 :: språk {n}, programmeringsspråk {n}
+language {n} (nonverbal communication)	 :: språk {n}
+language {n} (particular words used)	 :: språk {n}
+language {n} (system of communication using words or symbols)	 :: språk {n}, talemål {n} [oral only], tunge {f}, tungemål {n}
+language {n} (the ability to communicate using words)	 :: taleevne {m} {f}
+language {n} (vocabulary of a particular field)	 :: språk ({n}), terminologi ({m})
+language family {n} (set of languages)	 :: språkfamilie {m}
+language swap {n} (language exchange) SEE: language exchange	 ::
+lanichol {n} (lanolin) SEE: lanolin	 ::
+laniol {n} (lanolin) SEE: lanolin	 ::
+lanky {adj} (tall, slim)	 :: hengslete, skabelonaktig, slåpen
+lantern {n} (case of transparent material made to protect a flame, or light)	 :: lanterne {m}
+lanthanum {n} (metallic element)	 :: lantan
+Lao {n} (person)	 :: [Bokmål] laot {m}; [Nynorsk] laot {m}
+Laocoön {prop} (The Trojan and the Argonaut)	 :: Laokoon; [Nynorsk] Laokoon
+Laos {prop} (country in Southeast Asia)	 :: Laos
+Laotian {adj} (of, from, or pertaining to Laos)	 :: [Bokmål] laotisk; [Nynorsk] laotisk
+Laotian {n} (Laotian person) SEE: Lao	 ::
+Laotian {prop} (language)	 :: [Bokmål] lao {m}, laotisk {m}; [Nynorsk] lao {m}, laotisk {m}
+lap {n} (Sports: One circuit around a race track)	 :: runde {m}
+lap {n} (the upper legs of a seated person)	 :: fang {n}
+lap dog {n} (a small dog) SEE: lapdog	 ::
+lapdog {n} (a small and tame dog)	 :: skjødehund {m}
+lapel {n} (each of the two triangular pieces of cloth on a suit)	 :: jakkeslag {n}
+lapidarian {adj} (lapidary) SEE: lapidary	 ::
+lapidarian {n} (lapidary) SEE: lapidary	 ::
+Lapland {prop} (region in Scandinavia)	 :: Finnmark, Lappland {n}, Sameland
+lappet moth {n} (eggar) SEE: eggar	 ::
+Lappland {prop} (Lapland) SEE: Lapland	 ::
+laptop computer {n} (laptop) SEE: laptop	 ::
+larch {n} (a coniferous tree)	 :: lerk; [Nynorsk] lerk
+lard {n} (bacon) SEE: bacon	 ::
+lard {n} (fat from the abdomen of a pig)	 :: [Bokmål] smult {n}; [Nynorsk] smult {n}
+larder {n} (cool room used as food storage)	 :: spiskammer {n}
+large {adj} (of greater size, see also: big)	 :: stor
+large bonito {n} (skipjack tuna) SEE: skipjack tuna	 ::
+largen {n} (enlarge) SEE: enlarge	 ::
+lark {n} (bird)	 :: [Bokmål] lerke {m} {f}; [Nynorsk] lerke {f}
+larva {n} (an animal in such stage of growth)	 :: [Bokmål] larve {m} {f}; [Nynorsk] larve {m} {f}
+larynx {n} (the organ)	 :: strupehode
+lascivious {adj} (wanton)	 :: lidderlig, vellystig
+laser {n} (device producing beam of light)	 :: laser {m}
+laser printer {n} (computer printer)	 :: laserskriver {m}
+lash {n} (eyelash; hair growing from the eyelid) SEE: eyelash	 ::
+lass {n} (sweetheart) SEE: sweetheart	 ::
+last {adj} (Final)	 :: sist, senest
+last {adj} (Most recent)	 :: senest, nyest
+last {adv} (after everything else)	 :: sist
+last but not least {adv} (An expression to start the last item of a list)	 :: [Bokmål] sist, men ikke minst; [Nynorsk] sist, men ikkje minst
+Last Judgment {prop} (judgment day)	 :: [Bokmål] dommedag {m}; [Nynorsk] dommedag {m}
+last name {n} (surname) SEE: surname	 ::
+last night {adv} (during the night before today)	 :: i går kveld
+last year {adv} (year before this one)	 :: i fjor
+latch-key child {n} (A child who returns to an empty house)	 :: nøkkelbarn {n}
+late {adj} (euphemism for dead)	 :: som har gått bort, som har gått fra oss
+late {adj} (near the end of a period of time)	 :: sein
+lately {adv} (recently) SEE: recently	 ::
+later {adv} (more late)	 :: senere
+lathe {n} (machine tool used to shape a piece of material)	 :: [Bokmål] dreiebenk {m}; [Nynorsk] dreiebenk {m}
+lather {n} (foam of soap and water)	 :: skum {n}
+Latin {adj} (of ancient Rome)	 :: [Bokmål] romersk; [Nynorsk] romersk
+Latin {adj} (of descendants from ancient Romans)	 :: [Bokmål] romersk; [Nynorsk] romersk
+Latin {adj} (of/from Latin America)	 :: [Bokmål] latinsk; [Nynorsk] latinsk
+Latin {adj} (of the language)	 :: [Bokmål] latinsk; [Nynorsk] latinsk
+Latin {adj} (of the script)	 :: [Bokmål] latinsk; [Nynorsk] latinsk
+Latin {adj} (Roman Catholic) SEE: Roman Catholic	 ::
+Latin {prop} (language of the ancient Romans)	 :: latin latinsk
+Latinize {v} (to transliterate to Latin script) SEE: romanize	 ::
+latitude {n} (angular distance north or south from the equator)	 :: latitude {m}, breddegrad {m}
+latitude {n} (angular distance of a heavenly body from the ecliptic)	 :: latitude {m}
+latitude {n} (freedom from restrictions)	 :: handlingsrom {n}
+latitude {n} (imaginary line parallel to the equator)	 :: latitude {m}
+lats {n} (currency of Latvia) SEE: lat	 ::
+latter {adj} (near (or nearer) to the end)	 :: sist
+latter {adj} (relating to or being the second of two items)	 :: sistnevnte
+latter {adj}	 :: sistnevnte
+Latvia {prop} (Republic of Latvia)	 :: Latvia
+Latvian {adj} (pertaining to Latvia or the Latvian language)	 :: [Bokmål] latvisk; [Nynorsk] latvisk
+Latvian {n} (language)	 :: [Bokmål] latvisk {m}; [Nynorsk] latvisk {m}
+Latvian {n} (person)	 :: [Bokmål] latvier {m}; [Nynorsk] latviar {m}
+laugh {n} (expression of mirth peculiar to the human species)	 :: latter {m}, lått {m}
+laugh {n} (something that provokes mirth or scorn)	 :: vits {m}
+laugh {v} (be or appear cheerful)	 :: le
+laugh {v} (express by, or utter with, laughter)	 :: le
+laugh {v} (make an object of laughter or ridicule)	 :: le
+laugh {v} (show mirth by peculiar movement of the muscles of the face and emission of sounds)	 :: le, skratte
+laughing hyena {n} (spotted hyena) SEE: spotted hyena	 ::
+laughter {n} (sound (as) of laughing)	 :: latter
+launch {v} (cause to move or slide from the land into the water)	 :: [Bokmål] sjøsette; [Nynorsk] sjøsetje, sjøsette
+launching {n} (act by which something is launched)	 :: [Bokmål] [nautical] sjøsetting {m} {f}, sjøsetning {m} {f}; [Nynorsk] [nautical] sjøsetjing {f}, sjøsetting {f}
+launder {n} (washerwoman) SEE: washerwoman	 ::
+laundromat {n} (launderette) SEE: launderette	 ::
+laundry {n} (laundering; washing)	 :: klesvask {m}, vaskerom {n}
+laundry {n} (place or room where laundering is done)	 :: vaskerom {n}
+laundry {n} (that which needs to be laundered)	 :: skittentøy {n}
+Laura {prop} (female given name)	 :: Laura
+laurel {n} (crown of laurel)	 :: laurbærkrans {m}
+laurel {n} (evergreen shrub, of the genus Laurus)	 :: laurbær {n}
+Laurence {prop} (male given name)	 :: Lars, Laurits
+lava {n} (magma) SEE: magma	 ::
+lava {n} (melted rock)	 :: lava
+law {n} (body of rules and standards to be applied by courts)	 :: lov {m}
+law {n} (body of rules from the legislative authority)	 :: lov {m}
+law {n} (observed physical behavior)	 :: lov {m}
+law {n} (slang: the police)	 :: loven
+law {n} (statement that is true under specified conditions)	 :: lov {m}
+law {n} (written or understood rule)	 :: lov {m}
+lawless {adj} (not governed by the law)	 :: [Bokmål] lovløs, lovlaus; [Nynorsk] lovlaus
+lawless {adj} (not restrained by the law)	 :: [Bokmål] lovløs, lovlaus; [Nynorsk] lovlaus
+lawlessness {n} (a lack of law and order)	 :: [Bokmål] lovløshet {m} {f}
+lawmaker {n} (legislator) SEE: legislator	 ::
+lawn {n} (ground covered with grass)	 :: gressplen {m}, plen {m}
+lawn bowling {n} (bowls) SEE: bowls	 ::
+lawn mower {n} (machine for cutting grass)	 :: gressklipper {m}, plenklipper {m}
+lawn-mower {n} (lawnmower) SEE: lawnmower	 ::
+lawnmower {n} (machine)	 :: [Bokmål] gressklipper {m}; [Nynorsk] grasklippar {m}, grasklyppar {m}
+law of nature {n} (natural law) SEE: natural law	 ::
+law of nature {n} (physical law) SEE: physical law	 ::
+Lawrence {prop} (male given name) SEE: Laurence	 ::
+lawrencium {n} (chemical element)	 :: lawrencium
+lawyer {n} (professional person authorized to practice law)	 :: advokat {m}, [archaic] sakfører {m}
+lay {v} (to deposit an egg)	 :: legge
+lay {v} (to install certain building materials)	 :: legge
+lay {v} (to leave something somewhere)	 :: legge igjen
+lay {v} (to place something down in a position of rest)	 :: legge
+lay {v} (to prepare groundwork, table etc.)	 :: [lay a plan] legge, [lay a table] dekke
+lay figure {n} (jointed model) SEE: dummy	 ::
+lay figure {n} (unimportant person) SEE: Joe Average	 ::
+layman {n} (someone who is not an ordained cleric)	 :: [Bokmål] lekmann {m}; [Nynorsk] lekmann {m}
+layman {n} (someone who is not a professional in a given field)	 :: [Bokmål] lekmann {m}; [Nynorsk] lekmann {m}
+Lazarus {prop} (New Testament characters)	 :: Lasarus
+laze {v} (be lazy, waste time)	 :: late seg
+Lazio {prop} (Italian province)	 :: [Bokmål] Latium; [Nynorsk] Lazio
+lazurite {n} (lapis lazuli) SEE: lapis lazuli	 ::
+lazy eye {n} (amblyopia) SEE: amblyopia	 ::
+lead {n} (chemical element)	 :: bly
+leader {n} (one having authority)	 :: leder {m}, fører {m}
+leading diagonal {n} (main diagonal) SEE: main diagonal	 ::
+lead poisoning {n} (chronic intoxiction caused by lead) SEE: plumbism	 ::
+leaf {n} (anything resembling the leaf of a plant)	 :: blad {n}
+leaf {n} (computing, mathematics: tree node without descendants)	 :: løv
+leaf {n} (flat section used to extend a table)	 :: blad {n}
+leaf {n} (layer supporting the kidney of a pig) SEE: leaf fat	 ::
+leaf {n} (part of a plant)	 :: [Bokmål] blad {n}, løv {n} (dead); [Nynorsk] blad {n}, lauv {n}
+leaf {n} (sheet of a book)	 :: ark {n}
+leaf {n} (sheet of any substance beaten or rolled until very thin)	 :: folie {m}
+leaf {n} (tea leaves) SEE: tea leaves	 ::
+League of Nations {prop} (International organization)	 :: Folkeforbundet
+Leah {prop} (elder daughter of Laban)	 :: Lea
+leak {n}	 :: en som lekker
+leak {n} (entrance or escape of a fluid)	 :: lekkasje {m}
+leak {n} (hole which admits water or other fluid, or lets it escape)	 :: lekkasje {m}
+leak {v} (to allow fluid to escape or enter)	 :: lekke
+leak {v} (to reveal secret information)	 :: lekke
+lean {adj} (being slim and muscular)	 :: slank
+lean {adj} (having more air than necessary to burn all the fuel)	 :: mager
+lean {adj} (of meat, having little fat)	 :: mager
+lean {v} (to hang outwards)	 :: [Bokmål] lene; [Nynorsk] lene
+lean {v} (to press against)	 :: [Bokmål] lene; [Nynorsk] bikke
+lean-to {n} (type of shelter)	 :: gapahuk
+leap {v} (to jump)	 :: sprang, hopp, hoppe
+leapfrog {n} (children's game)	 :: hoppe bukk
+leap to mind {v} (spring to mind) SEE: spring to mind	 ::
+leap year {n} (366-day year in the Gregorian calendar)	 :: skuddår {n}
+learn {v} (to acquire knowledge or ability)	 :: lære
+leash {n} (long cord for dogs)	 :: leiebånd {n}, kobbel {n}, lenke {f}
+least weasel {n} (Mustela nivalis)	 :: snømus
+leather {n} (material produced by tanning animal skin)	 :: [Bokmål] lær {n}
+leave {n} (permission)	 :: tillatelse {m}, løyve
+leave {v} (To cause to remain as available, not take away, refrain from depleting)	 :: etterlate
+leave {v} (To depart from, end one's connection or affiliation with)	 :: forlate
+leave {v} (To depart (intransitive))	 :: forlate
+leave {v} (To transfer possession after death)	 :: etterlate
+leaven {n} (any agent used to make dough rise)	 :: hevingsmiddel {n}
+leaven {v} (to cause to rise by fermentation)	 :: heve
+leave of absence {n} (absence from work) SEE: leave	 ::
+leave out {v} (to leave out or to not include) SEE: omit	 ::
+leave someone in the lurch {v} (to abandon somebody and leave him or her in a difficult situation)	 :: la i stikken
+Lebanese {adj} (of, from, or pertaining to Lebanon, its people or language)	 :: [Bokmål] libanesisk; [Nynorsk] libanesisk
+Lebanese {n} (A person from Lebanon)	 :: [Bokmål] libaneser {m}; [Nynorsk] libanesar {m}
+Lebanon {prop} (Lebanese Republic)	 :: Libanon
+lecture {n} (a spoken lesson)	 :: [Bokmål] forelesning
+LED {n} (light-emitting diode)	 :: lysdiode {c}
+ledger {n} (collection of accounting entries)	 :: reskontro {m}
+leech {n} (aft edge of a triangular sail)	 :: lik
+leech {n} (annelid)	 :: igle {m} {f}
+leech {n} (person who derives profit from others)	 :: blodsuger {m}, parasitt {m}, utsuger {m}
+leech {n} (physician) SEE: physician	 ::
+leek {n} (vegetable)	 :: purre, purreløk
+leeway {n} (degree or amount of freedom or flexibility)	 :: [Bokmål] slingringsmonn {m} {n}
+left {adj} (pertaining to the political left; liberal)	 :: venstre
+left {adj} (the west side of the body when one is facing north)	 :: venstre
+left {n} (the ensemble of left-wing political parties)	 :: venstresiden {c}
+left {n} (the left side)	 :: venstresiden {c}
+left {v} (remaining)	 :: igjen, til overs
+left wing {n} (ice hockey)	 :: venstreving {m}
+left wing {n} (politics)	 :: [Bokmål] venstreside {m} {f}; [Nynorsk] venstreside {f}
+left wing {n} (sports)	 :: venstreving {m}
+lefty {n} (left-hander) SEE: left-hander	 ::
+leg {n} (game played in a tournament)	 :: spill {n}, kamp {m}, parti {n}
+leg {n} (lower limb from groin to ankle)	 :: bein {n}
+leg {n} (part of garment covering the leg)	 :: bein {n}
+leg {n} (side in a triangle)	 :: side {c}, sidekant {m}
+leg {n} (stage of journey)	 :: etappe {m}
+legacy {adj} (Left behind, old or no longer in active use)	 :: foreldet
+legacy {n} (money or property bequeathed to someone in a will)	 :: [Bokmål] arv {m}, legat {n}
+legacy {n} (Something inherited from a predecessor; a heritage)	 :: arv {m}
+legal age {n} (age of majority) SEE: age of majority	 ::
+legalize {v} (legalise) SEE: legalise	 ::
+legal person {n} (organization or group of people)	 :: [Bokmål] juridisk person {m}; [Nynorsk] juridisk person {m}
+legato {adv} (music: smoothly, in a connected manner)	 :: legato
+legend {n} (key to the symbols and color codes on a map)	 :: [Bokmål] symboler {p}, tegnforklaring {m}
+legend {n} (story of unknown origin describing plausible but extraordinary past events)	 :: [Bokmål] legende {m}; [Nynorsk] legende {f}
+legendary {adj} (of or pertaining to a legend)	 :: [Bokmål] legendarisk; [Nynorsk] legendarisk
+legislative {adj} (Making or having the power to make laws)	 :: lovgivende, legislativ
+legist {n} (legislator) SEE: legislator	 ::
+legwork {n} (Skillful or vigorous use of the legs)	 :: fotarbeid {n}
+legwork {n} (Work, especially research, that involves significant walking)	 :: fotarbeid {n}
+Leipzig {prop} (City in Saxony, Germany)	 :: Leipzig
+lek {n} (an aggregation of male animals for the purposes of courtship and display)	 :: spill {n} [capercaillie, woodcock]; [Bokmål] lek {m} [capercaillie, woodcock]
+lemma {n} (linguistics: canonical form of a term)	 :: lemma, oppslagsord, stikkord
+lemma {n} (linguistics: lexeme) SEE: lexeme	 ::
+lemming {n} (rodent)	 :: [Bokmål] lemen {n}; [Nynorsk] lemen {n}
+lemon {n} (citrus fruit)	 :: [Bokmål] sitron {m}; [Nynorsk] sitron {m}
+lemon {n} (taste)	 :: [Bokmål] sitronsmak {m}
+lemonade {n} (carbonated beverage)	 :: sitronbrus {m}
+lemonade {n} (still beverage)	 :: limonade {m}
+lemon balm {n} (Melissa officinalis)	 :: hjertensfryd, sitronmelisse
+lemon juice {n} (lemonade) SEE: lemonade	 ::
+lemur {n} (strepsirrhine primate of the infraorder Lemuriformes, superfamily Lemuroidea)	 :: lemur {m}
+lend {v} ((proscribed) to borrow) SEE: borrow	 ::
+lend {v} (to allow to be used temporarily)	 :: låne
+length {n} (measurement of distance)	 :: [Bokmål] lengde {m} {f}; [Nynorsk] lengd {f}, lengde {f}
+Leninian {adj} (of or pertaining to Lenin) SEE: Leninist	 ::
+Leninism {n} (the political philosophy named after Vladimir Lenin)	 :: leninisme
+lens {n} (anatomy: transparent crystalline structure in the eye)	 :: [Bokmål] linse {m} {f}; [Nynorsk] linse {f}
+lens {n} (biology: genus of the legume family; its bean)	 :: linse {m} {f}
+lens {n} (object focusing or defocusing the light passing through it)	 :: [Bokmål] linse {m} {f}, objektiv {n}; [Nynorsk] linse {f}, objektiv {n}
+lenticular {n} (lenticular galaxy) SEE: lenticular galaxy	 ::
+lenticular {n} (lenticular image) SEE: lenticular image	 ::
+lentigo {n} (pigmented spot on the skin) SEE: freckle	 ::
+lentil {n} (plant Lens culinaris)	 :: [Bokmål] linse {m} {f}; [Nynorsk] linse {f}
+lentil {n} (seed used as food)	 :: [Bokmål] linse {m} {f}; [Nynorsk] linse {f}
+Leo {n} (Someone with a Leo star sign)	 :: løve
+Leo {prop} (astrological sign)	 :: [Bokmål] Løven {m} {f}; [Nynorsk] Løva {f}
+Leo {prop} (constellation)	 :: [Bokmål] Løven {m} {f}; [Nynorsk] Løva {f}
+Leo {prop} (male given name)	 :: Leo
+Leo Minor {prop} (a spring constellation of the northern sky)	 :: [Bokmål] Den lille løve; [Nynorsk] Vesle løve
+leopard {n} (a large wild cat with a spotted coat, Panthera pardus)	 :: [Bokmål] leopard {m}; [Nynorsk] leopard {m}
+leprosarium {n} (institution or place to quarantine and treat leprous people)	 :: leprosarium {n}
+leprosy {n} (infectious disease caused by infection by Mycobacterium leprae)	 :: spedalskhet {m}, lepra {m}
+-leptic {suffix} (of or relating to a condition of seizing)	 :: -leptisk
+lesbian {adj} (between two women; pertaining to female homosexuality)	 :: [Bokmål] lesbisk
+lesbian {n} (female homosexual)	 :: lesbe {m} {f}
+Lesbian {adj} (lesbian) SEE: lesbian	 ::
+Lesbian {n} (lesbian) SEE: lesbian	 ::
+lesbo {n} (lesbian) SEE: lesbian	 ::
+Lesotho {prop} (country in Southern Africa)	 :: Lesotho
+less {adj} (comparative form of "little" for numbers)	 :: mindre
+less {adj} (not as much)	 :: mindre
+less {adj} (smaller number of)	 :: færre
+less {adv} (to smaller extent)	 :: mindre
+less {prep} (not including)	 :: minus, fratrukket
+-less {suffix} (lacking (suffix))	 :: -løs
+lesser panda {n} (Ailurus fulgens) SEE: red panda	 ::
+lesser spotted woodpecker {n} (Picoides minor)	 :: dvergspett
+lesson {n} (section of learning or teaching)	 :: lekse, lærepenge, undervisningstime
+Lesviot {n} (A person from, or an inhabitant of, Lesvos)	 :: lesver {m}
+let {v} (to allow)	 :: la
+let {v} (to put up for rent)	 :: leie ut
+let alone {v} (leave alone) SEE: leave alone	 ::
+let go {v}	 :: slippe
+Leto {prop} (mother of Apollo)	 :: Leto
+letter {n} (letter of the alphabet)	 :: [Bokmål] bokstav {m}; [Nynorsk] bokstav {m}
+letter {n} (written message)	 :: [Bokmål] brev {n}; [Nynorsk] brev {n}
+let the cat out of the bag {phrase} (to disclose a secret, often inadvertently)	 :: slippe katta ut av sekken
+let there be light {phrase} (let there be light)	 :: det bli lys
+let the sleeping dogs lie {v} (to avoid igniting a conflict) SEE: let sleeping dogs lie	 ::
+Lettish {prop} (Latvian) SEE: Latvian	 ::
+lettuce {n} (an edible plant, Lactuca)	 :: bladsalat
+leukemia {n} (cancer of blood forming tissue)	 :: leukemi {m}
+Levant {prop} (the countries bordering the eastern Mediterranean Sea)	 :: [Bokmål] Levanten; [Nynorsk] Levanten
+level {adj} (at the same height as some reference)	 :: vatret
+level {adj} (same height at all places)	 :: vatret
+level {n} (degree or amount)	 :: nivå {n}
+level {n} (distance relative to a given reference elevation)	 :: nivå {n}
+level {n} (one of several discrete segments of a game (gaming))	 :: nivå {n}
+level {n} (tool for finding whether a surface is level)	 :: vater {n}
+lever {adv} (rather) SEE: rather	 ::
+leverage {v} (take full advantage of an existing thing)	 :: dra fordel av, profittere på, utnytte
+Levi {prop} (third son of Jacob)	 :: Levi
+levitation {n}	 :: levitasjon
+levity {n} (lack of steadiness) SEE: instability	 ::
+Lewis {prop} (male given name) SEE: Louis	 ::
+lexicography {n} (art or craft of writing dictionaries)	 :: leksikografi
+Lezghian {prop} (Lezgi) SEE: Lezgi	 ::
+LGBT {initialism} (Lesbian, Gay, Bisexual, Transgender/Transexual)	 :: LHBT
+liar {n} (one who tells lies)	 :: løgner {m}, løgnhals {m}
+libation {n} (act of pouring a liquid as a sacrifice)	 :: drikkofferet
+liberate {v} (to free)	 :: frigjøre
+Liberia {prop} (country in Western Africa)	 :: Liberia
+Liberian {adj} (pertaining to Liberia)	 :: [Bokmål] liberisk; [Nynorsk] liberisk
+Liberian {n} (A person from Liberia)	 :: [Bokmål] liberier {m}; [Nynorsk] liberiar {m}
+liberty cap {n} (Psilocybe semilanceata)	 :: [Bokmål] fleinsopp {m}, spiss fleinsopp {m}; [Nynorsk] fleinsopp {m}, spiss fleinsopp {m}
+Libra {n} (Someone with a Libra star sign)	 :: vekt
+Libra {prop} (astrological sign)	 :: [Bokmål] Vekten {m}, Vekta {f}; [Nynorsk] Vekta {f}
+Libra {prop} (constellation)	 :: [Bokmål] Vekten {m}, Vekta {f}; [Nynorsk] Vekta {f}
+librarian {n} (one who cares for the publications etc. in a library)	 :: bibliotekar {m}
+librarian {n} (the manager of a library)	 :: bibliotekar {m}
+library {n}	 :: bibliotek {n}
+library {n} (institution which holds books etc.)	 :: bibliotek {n}
+libretto {n} (text of a dramatic musical work, such as an opera)	 :: libretto {m}
+Libya {prop} (country in Northern Africa)	 :: Libya
+Libyan {adj} (Of, from, or pertaining to Libya, the Libyan people or the Libyan language)	 :: [Bokmål] libysk; [Nynorsk] libysk
+Libyan {n} (person)	 :: [Bokmål] libyer {m}; [Nynorsk] libyar {m}
+licence {n} (license) SEE: license	 ::
+licence {v} (license) SEE: license	 ::
+license plate {n} (an identifying plate attached to a vehicle)	 :: registreringsskilt {n}, nummerskilt {n}
+lichen {n} (something which spreads across something else, causing damage) SEE: cancer	 ::
+lickpot {n} (the forefinger)	 :: slikkepott {m}
+lick someone's ass {v} (to flatter someone) SEE: brownnose	 ::
+lickspittle {v} (a fawning toady)	 :: spyttslikker {m}
+lie {n} (intentionally false statement)	 :: løgn {m}
+lie {n} (position of fetus)	 :: leie {n}
+lie {v} (be in horizontal position)	 :: ligge
+lie {v} (be situated)	 :: ligge
+lie {v} (tell an intentional untruth)	 :: lyve, ljuge
+Liechtenstein {prop} (Principality of Liechtenstein)	 :: Liechtenstein
+Liechtensteiner {n} (A person from Liechtenstein or of Liechtenstein descent)	 :: [Bokmål] liechtensteiner {m}; [Nynorsk] liechtensteinar {m}
+lie detector {n} (polygraph (informal))	 :: løgndetektor {m}
+lien {n}	 :: heftelse
+lieu {n} (in lieu, in lieu of) SEE: in lieu and in lieu of	 ::
+lieutenant {n} (lowest commissioned officer rank)	 :: løytnant {m}
+life {n} (a status given to an entity with the properties of replication and metabolism)	 :: liv {n}
+life {n} (A worthwhile existence)	 :: liv {n}
+life {n} (duration)	 :: levetid {m} {f}
+life {n} (life sentence)	 :: livstid {m}
+life {n} (the essence of the manifestation and the foundation of the being)	 :: liv {n}
+life {n} (The state between birth and death)	 :: [Bokmål] liv {n}; [Nynorsk] liv {n}
+life {n} (the subjective and inner manifestation of the individual)	 :: liv {n}
+lifeboat {n} (a boat to save shipwrecked people)	 :: [Bokmål] livbåt {m}
+life-buoy {n} (life preserver) SEE: life preserver	 ::
+life ring {n} (life preserver) SEE: life preserver	 ::
+lifesize {adj} (life-size) SEE: life-size	 ::
+life-sized {adj} (life-size) SEE: life-size	 ::
+life style {n} (style of living)	 :: livsstil {m}
+life-style {n} (life style) SEE: life style	 ::
+lifestyle {n} (life style) SEE: life style	 ::
+life-threatening {adj} (used to describe something that endangers life)	 :: [Bokmål] livstruende
+lift {n} (an upward force)	 :: løft {n}
+lift {n} (mechanical device for vertically transporting goods or people)	 :: heis {m}
+lift {n} (the act of transporting someone in a vehicle)	 :: skyss {m}
+lift {v} (to raise)	 :: løfte, heve
+lift {v} (to steal)	 :: loppe
+lifter {n} (spatula) SEE: spatula	 ::
+lifter {n} (weightlifter) SEE: weightlifter	 ::
+lifting {n} (weightlifting) SEE: weightlifting	 ::
+liftshaft {n} (shaft for a lift)	 :: [Bokmål] heissjakt {m} {f}; [Nynorsk] heisesjakt {f}, heissjakt {f}
+light {adj} (having light)	 :: lyst, opplyst, belyst
+light {adj} (low in fat, calories, alcohol, salt, etc.)	 :: lett-
+light {adj} (of little significance)	 :: banal, enkel
+light {adj} (of low weight)	 :: lys
+light {adj} (pale in colour)	 :: lys, blek
+light {n} (electromagnetic wave)	 :: lys {n}
+light {n} (flame or something used to create fire)	 :: flamme {m}
+light {n} (source of light)	 :: lys {n}
+light {n} (spiritual truth)	 :: lys {n}
+light {v} (to illuminate)	 :: opplyse
+light {v} (to start (a fire))	 :: tenne
+light {v} (unload a ship)	 :: losse
+light at the end of the tunnel {n} (a better situation after long hardship)	 :: [Bokmål] [[lys i enden av tunnelen]]
+light bulb {n} (evacuated glass bulb containing a metal filament that produces light)	 :: [Bokmål] lyspære {m} {f}; [Nynorsk] lyspære {f}, ljospære {f}
+light-emitting diode {n} (a rectifying semiconductor device)	 :: lysdiode {c}
+light globe {n} (light bulb) SEE: light bulb	 ::
+lighthouse {n} (building containing a light to warn or guide ships)	 :: fyr {n}, fyrtårn {n}
+lightning {n} (flash of light)	 :: lynglimt, blink
+lightning bug {n} (firefly) SEE: firefly	 ::
+lightning conductor {n} (metallic conductor) SEE: lightning rod	 ::
+lightning rod {n} (metallic conductor that protects from lightning)	 :: [Bokmål] lynavleder {m}; [Nynorsk] lynavleiar {m}
+lightsaber {n} (a fictional type of sword)	 :: lyssabel
+lights, camera, action {phrase} (tradicional cue at a beginning of a take)	 :: lys, kamera, action
+light source {n} (a source of illumination)	 :: lyskilde
+light year {n} (astronomical distance)	 :: [Bokmål] lysår {n}; [Nynorsk] lysår {n}, ljosår {n}
+lignite {n} (coal)	 :: [Bokmål] brunkull {n}, brunkol {n}; [Nynorsk] brunkol {n}
+like {prep} (somewhat similar to)	 :: lik, som
+like {v} (enjoy)	 :: like, synes om
+like {v} (find attractive)	 :: like, synes om
+like a dog on heat {prep} (like a dog in heat) SEE: like a dog in heat	 ::
+like a million dollars {prep} (like a million bucks) SEE: like a million bucks	 ::
+like father, like son {proverb} (a son will have traits similar to his father)	 :: som far, så sønn
+likely {adj} (displaying the qualities or characteristics that make something probable)	 :: sannsynlig
+likely {adj} (plausible; within the realm of credibility)	 :: sannsynlig
+likely {adj} (probable; having a greater-than-even chance of occurring)	 :: sannsynlig
+likely {adv} (probably) SEE: probably	 ::
+likely {adv} (similarly) SEE: similarly	 ::
+likeness {n} (similarity) SEE: similarity	 ::
+likewise {adv} (also; moreover; too) SEE: too	 ::
+likewise {adv} (the same to you)	 :: i like måte
+lilac {n} (flower)	 :: syrin
+Lilian {prop} (female given name)	 :: Lillian
+Liliana {prop} (female given name) SEE: Lilian	 ::
+Lillian {prop} (female given name) SEE: Lilian	 ::
+lily {n} (flower in the genus Lilium)	 :: [Bokmål] lilje {m} {f}; [Nynorsk] lilje {f}
+limber {adj} (flexible) SEE: flexible	 ::
+Limburgian {prop} (Limburgish) SEE: Limburgish	 ::
+lime {n} (linden tree) SEE: linden	 ::
+lime juice {n} (limeade) SEE: limeade	 ::
+limelight {n} (attention or notice)	 :: [Bokmål] rampelys {n}; [Nynorsk] rampelys {n}
+limelight {n} (type of stage lighting)	 :: [Bokmål] kalklys {n}; [Nynorsk] kalklys {n}
+limestone {n} (abundant rock of marine and fresh-water sediments)	 :: kalkstein
+limitation {n} (a restriction that limits something)	 :: [Bokmål] begrensning {m} {f}
+limitation {n} (the act of limiting)	 :: [Bokmål] begrensning {m} {f}
+limited {adj} (with certain limits placed upon it)	 :: [Bokmål] begrenset, begrensa
+limnodophyte {n} (helophyte) SEE: helophyte	 ::
+limo {n} (limousine) SEE: limousine	 ::
+limp {adj} (Flaccid; flabby)	 :: slapp {n}, pløsete {n}
+limp {adj} (Lacking stiffness; flimsy)	 :: slapp {n}, pløsete {n}, løs {n}, spinkel
+limp {n} (An irregular, jerky or awkward gait)	 :: haltende gange {n}
+limp {v} (To walk lamely, as if favouring one leg)	 :: halte, hinke
+linchpin {n} (a securing pin)	 :: sikring {m}, splint {m}
+lindworm {n} (a wingless bipedal dragon)	 :: linnorm, lindorm, sjøslanger
+line {n} (path through two or more points, threadlike mark)	 :: linje {m} {f}
+linear {adj} (in mathematics, of first-degree polynomial)	 :: lineær
+linear algebra {n} (branch of mathematics)	 :: lineær algebra
+linear space {n} (vector space) SEE: vector space	 ::
+linen {n} (material)	 :: lin
+linesman {n} (soccer: previous name of an assistant referee)	 :: [Bokmål] linjemann {m}; [Nynorsk] linemann {m}, linjemann {m}
+ling {n} (Molva molva) SEE: common ling	 ::
+linger {v} (to consider or contemplate)	 :: [Bokmål] dvele
+lingonberry {n} (berry)	 :: [Bokmål] tyttebær {n}; [Nynorsk] tytebær {n}
+lingonberry {n} (shrub)	 :: tyttebærlyng {m}
+linguistic {adj} (Relating to human language)	 :: språklig
+linguistic {adj} (Relating to linguistics)	 :: lingvistisk, språkvitenskapelig
+linguistics {n} (scientific study of language)	 :: lingvistikk {m}
+lining {n} (covering for the inside of something)	 :: fôr {n}
+lining {n} (material used for inside covering)	 :: [Bokmål] fôring {m} {f}; [Nynorsk] fôring {f}
+linkage {n} (connection or relation between things or ideas) SEE: link	 ::
+lint {n} (a fine material made by scraping cotton or linen cloth)	 :: lo {n}
+lint {n} (fuzzy fluff)	 :: lo {n}
+lintel {n} (horizontal structural beam)	 :: dekkstein {m}, dekning {f}, overdekning {f}, overligger over {m}, vindusbjelke {m}
+lion {n} (big cat Panthera leo)	 :: [Bokmål] [♂♀] løve {m} {f}, [♀] løvinne {m} {f}; [Nynorsk] [♂♀] løve {f}, [♀] løvinne {f}
+lion {n} (famous person)	 :: løve {m}
+lion {n} (heraldic charge)	 :: løve
+lioness {n} (female lion)	 :: [Bokmål] løvinne {m} {f}; [Nynorsk] løvinne {f}
+lion's share {n} (A generous portion)	 :: brorpart {m}
+lip {n} (fleshy protrusion framing the mouth)	 :: leppe {c}
+lip {n} (part of body resembling a lip)	 :: leppe {c}
+lip bear {n} (Melursus ursinus) SEE: sloth bear	 ::
+lip service {n} (cunnilingus) SEE: cunnilingus	 ::
+lip service {n} (Empty talk; words absent of action or intention)	 :: tomprat, tomt prat
+lipstick {n} (make-up for the lips)	 :: [Bokmål] leppestift {m}; [Nynorsk] leppestift {m}, lepestift {m}
+lipstick {n} (stick of this make-up)	 :: [Bokmål] leppestift {m}; [Nynorsk] leppestift {m}, lepestift {m}
+liquescent {adj} (liquescent) SEE: melting	 ::
+liquid {adj} (fluid; not solid and not gaseous)	 :: flytende
+liquid {adj} ((of an asset) easily sold or disposed of)	 :: likvid
+liquid {n} (substance that is liquid)	 :: [Bokmål] væske {m} {f}; [Nynorsk] væske {f}
+liquor {n} (strong alcoholic drink derived from fermentation and distillation)	 :: brennevin {n}, sprit {m}
+liquorice {n} (confection)	 :: [Bokmål] lakris {m}; [Nynorsk] lakris {m} {n}
+liquorice {n} (plant)	 :: lakris {m}
+liquor store {n} (liquor store, bottle shop)	 :: vinmonopol {n}, [slang] pol
+Lisbon {prop} (capital of Portugal)	 :: Lisboa, Lissabon
+lisp {n} (The habit or an act of lisping.)	 :: lesping
+list {n} (register or roll of paper)	 :: [Bokmål] liste {m} {f}; [Nynorsk] liste {f}
+list {v} (to create or recite a list)	 :: [Bokmål] liste; [Nynorsk] liste
+list box {n} (dropdown list) SEE: dropdown list	 ::
+listen {v} (to accept advice or obey instruction)	 :: lystre
+listen {v} (to expect or wait for a sound)	 :: lytte
+listen {v} (to hear (something))	 :: høre
+listen {v} (to pay attention to a sound)	 :: lytte
+listener {n} (someone who listens)	 :: lytter {m}
+list price {n} (retail)	 :: [Bokmål] listepris {m}
+litany {n}	 :: litani {m}
+litchi {n} (lychee) SEE: lychee	 ::
+liter {n} (cubic decimeter) SEE: litre	 ::
+literally {adv} (not metaphorically)	 :: [Bokmål] bokstavelig; [Nynorsk] bokstaveleg
+literary {adj} (relating to literature)	 :: [Bokmål] litterær; [Nynorsk] litterær
+literary {adj} (relating to writers, or the profession of literature)	 :: [Bokmål] litterær; [Nynorsk] litterær
+Literary Chinese {prop} (Classical Chinese) SEE: Classical Chinese	 ::
+literature {n} (body of all written works)	 :: [Bokmål] litteratur {m}; [Nynorsk] litteratur {m}
+lithium {n} (chemical element)	 :: litium; [Nynorsk] litium
+lithographical {adj} (lithographic) SEE: lithographic	 ::
+Lithuania {prop} (country)	 :: Litauen
+Lithuanian {adj} (referring to Lithuania)	 :: [Bokmål] litauisk; [Nynorsk] litauisk
+Lithuanian {n} (person from Lithuania)	 :: [Bokmål] litauer {m}; [Nynorsk] litauar {m}
+Lithuanian {prop} (language)	 :: [Bokmål] litauisk {m}; [Nynorsk] litauisk {m}
+litre {n} (unit of fluid measure)	 :: [Bokmål] liter {m}; [Nynorsk] liter {m}
+litter {n} (animals born in one birth)	 :: [Bokmål] kull {n}; [Nynorsk] kull {n}
+little {adj} ((of a sibling) younger)	 :: lille-
+little {adj} (small in size)	 :: liten, liten
+little {adj} (very young)	 :: liten
+little brother {n} (a sibling's younger brother)	 :: [Bokmål] lillebror {m}
+little by little {adv} (a small amount at a time)	 :: [Bokmål] litt etter hvert; [Nynorsk] litt etter kvart
+little finger {n} (outermost and smallest finger of the hand)	 :: lillefinger {m}
+little owl {n} (species of owl)	 :: kirkeugle
+Little Red Riding Hood {prop} (a folktale)	 :: Rødhette og ulven
+little sister {n} (a sibling's younger sister)	 :: [Bokmål] lillesøster {m} {f}
+little wonder {n} (small wonder) SEE: small wonder	 ::
+littoral {n} (the zone of a coast between high tide and low tide levels) SEE: foreshore	 ::
+liturgic {adj} (liturgical) SEE: liturgical	 ::
+live {adv} (as it happens)	 :: direkte, live (English loanword)
+live {v} (be alive)	 :: leve
+live {v} (have permanent residence)	 :: bo
+live and let live {v} (be tolerant)	 :: lev og la leve
+liveforever {n} (houseleek) SEE: houseleek	 ::
+livelihood {n} (means of supporting oneself)	 :: [Bokmål] utkomme {n}, livsopphold {n}; [Nynorsk] utkome {f}, livsopphald {n}
+liver {n} (organ as food)	 :: [Bokmål] lever {m} {f}; [Nynorsk] lever {f}
+liver {n} (organ of the body)	 :: [Bokmål] lever {m} {f}; [Nynorsk] lever {f}
+liverwort {n} (bryophyte with a leafy stem)	 :: levermose {m}
+livery {n} (taxicab, limousine) SEE: taxicab, limousine	 ::
+livestock {n} (farm animals)	 :: husdyr {n}, fe {n}
+living room {n} (room in a private house)	 :: stue {c}
+living standard {n} (standard of living) SEE: standard of living	 ::
+Livonian {prop} (language)	 :: livisk
+lizard {n} (Reptile)	 :: firfisle {c}; [Bokmål] øgle {m} {f}; [Nynorsk] øgle {f}
+lizard's tail {n} (Crassula muscosa) SEE: rattail crassula	 ::
+lizard's tail {n} (Houttuynia cordata) SEE: chameleon plant	 ::
+llama {n} (South Americal mammal of the camel family, Llama glama)	 :: llama
+loader {n} (person or device that loads)	 :: [Bokmål] laster {m}; [Nynorsk] lastar {m}
+loader {n} (tractor with a scoop)	 :: [Bokmål] hjullaster {m}; [Nynorsk] hjullastar {m}
+loadstone {n} (lodestone) SEE: lodestone	 ::
+loan {n} (borrowed sum of money or other valuables)	 :: lån
+loan shark {n} (money lender; usurer)	 :: [Bokmål] lånehai {m}, ågerkar {m}, ågerkarl {m}; [Nynorsk] lånehai {m}, ågerkar {m}
+loanword {n} (word taken from another language)	 :: lånord {n}
+lob {n} (lump) SEE: lump	 ::
+lobby group {n} (advocacy group) SEE: advocacy group	 ::
+lobscouse {n} (meat dish stewed with vegetables and ship biscuit)	 :: lapskaus {m}
+lobster {n} (crustacean)	 :: hummer
+local {adj} (of a nearby location)	 :: lokal
+localization {n} (act of localizing)	 :: lokalisering {f}
+localization {n} (state of being localized)	 :: lokalisering {f}
+localize {v} (make local)	 :: lokalisere
+location {n} (place)	 :: [Bokmål] sted {n}, beliggenhet {m}; [Nynorsk] stad {m}
+locative case {n} (case used to indicate place, or the place where)	 :: lokativ
+lock {n} (something used for fastening)	 :: [Bokmål] lås {m} {n}; [Nynorsk] lås {m} {n}
+locker {n} (storage compartment)	 :: skap {n}
+locker room {n} (changing room) SEE: changing room	 ::
+locket {n} (chained ornament)	 :: medaljong {m}
+lockup {n} (prison) SEE: prison	 ::
+locomotive {n} (self-propelled vehicle that runs on rails)	 :: [Bokmål] lokomotiv {n}; [Nynorsk] lokomotiv {n}
+locoweed {n} (plant of genus Astragalus) SEE: milk-vetch	 ::
+locust {n} (type of grasshopper)	 :: gresshoppe {m}
+lode {n} (loadstone) SEE: lodestone	 ::
+Lode Star {prop} (Polaris) SEE: Polaris	 ::
+lodge {n} (inn) SEE: inn	 ::
+loess {n} (sediment of eolian origin)	 :: løss
+log {n} (logbook) SEE: logbook	 ::
+log {n} (logbook) SEE: logbook	 ::
+log {n} (rolled cake) SEE: Swiss roll	 ::
+log {n} (surfing: longboard) SEE: longboard	 ::
+log {n} (very dumb person) SEE: blockhead	 ::
+logbook {n} (nautical: book in which details from journey are recorded)	 :: loggbok {m} {f}
+log drive {n} (transport)	 :: tømmerrenne {f}
+loge {n} (booth) SEE: booth	 ::
+loge {n} (stall) SEE: stall	 ::
+logic {n} (any system of thought, irrespective of its rigor or productiveness)	 :: logikk {m}
+logic {n} (formal or informal language)	 :: logikk {m}
+logic {n} (mathematical study)	 :: logikk {m}
+logic {n} (method of human thought)	 :: logikk {m}
+-logic {suffix} (-logical) SEE: -logical	 ::
+logical {adj} (in agreement with the principles of logic)	 :: logisk
+logical {adj} (of or pertaining to logic)	 :: logisk
+logical {adj} (reasonable)	 :: logisk
+log in {v} (gain access to a computer system)	 :: [Bokmål] logge på
+login {n} (user's identification)	 :: [Bokmål] pålogging {m}
+logion {n}	 :: logion {n}
+logistics {n} (planning and implementing the flow of goods and services)	 :: logistikk
+log off {v} (log out) SEE: log out	 ::
+logomachy {n} (conflict waged only as a battle of words)	 :: ordduell {m}
+log on {v} (log in) SEE: log in	 ::
+log out {v} (to exit an account in a computing system)	 :: logge ut
+-logy {suffix} (branch of learning)	 :: -logi {c}
+loin {n} (part of the body)	 :: lende {m}
+loins {n} (plural form of loin) SEE: loin	 ::
+Loki {prop} (god of mischief and trickery)	 :: [Bokmål] Loke; [Nynorsk] Loke
+lol {interj} (Used to express laughter) SEE: LOL	 ::
+LOL {initialism} (Expression of laughter)	 :: lol
+lolly {n} (confection) SEE: confection	 ::
+lolly {n} (lollipop) SEE: lollipop	 ::
+lolly {n} (money) SEE: money	 ::
+Lombard {n} (banker or moneylender) SEE: banker	 ::
+Lombardic {adj} (related to the Lombards)	 :: lombardisk
+London {prop} (in the United Kingdom)	 :: London
+Londoner {n} (A person from, or an inhabitant of, London)	 :: londoner {m}
+Londonian {n} (Londoner) SEE: Londoner	 ::
+lonely {adj} (of person: dejected by feelings)	 :: ensom
+lonely {adj} (solitary) SEE: solitary	 ::
+loner {n} (one who lacks or avoids company)	 :: einstøing {m}
+lonesome {adj} (unhappy due to being alone)	 :: [Bokmål] ensom {m}
+lone wolf {n} (loner) SEE: loner	 ::
+long {adj} (having great duration)	 :: lang
+long {adj} (having much distance from one point to another)	 :: lang
+long {adj} (not short) SEE: tall	 ::
+long {v} (to wait, to aspire)	 :: lengte
+longboard {v} (spine board) SEE: spine board	 ::
+longbow {n} (large bow)	 :: [Bokmål] langbue {m}
+longcase clock {n} (grandfather clock) SEE: grandfather clock	 ::
+longe {v} (work a horse in a circle)	 :: longere
+long-eared owl {n} (Asio otus)	 :: hornugle
+long for {v} (to have desire for; to yearn)	 :: lange
+long-haired {adj} (Having long, uncut hair on the head)	 :: langhåret
+longing {n} (melancholic desire)	 :: [Bokmål] lengsel {m}; [Nynorsk] lengsel {m}, lengsle {f}
+longship {n}	 :: [Bokmål] langskip {n}; [Nynorsk] langskip {n}
+long-standing {adj} (having existed for a long time)	 :: [Bokmål] årelang; [Nynorsk] årelang
+longstanding {adj} (longstanding) SEE: long-standing	 ::
+long time no see {interj} (idiomatic: I haven't seen you for a long time)	 :: [Bokmål] lenge siden sist
+Longyearbyen {prop} (settlement)	 :: Longyearbyen
+loo {n} (toilet)	 :: do {m}
+look {n} (action of looking)	 :: blikk {n}
+look {n} (facial expression)	 :: uttrykk {n}, blikk {n}
+look {n} (physical appearance)	 :: utseende {n}
+look {v} (to appear, to seem)	 :: se ut, synes
+look {v} (to expect)	 :: se ut
+look {v} (to face)	 :: oppsøke
+look {v} (to search)	 :: se etter, søke, leite; [Nynorsk] leite, leita
+look {v} (to try to see)	 :: se, skue; [Nynorsk] lita
+look at {v}	 :: se
+look down on {v} (to regard or treat as inferior)	 :: se ned på
+look for {v} (search; seek)	 :: [Bokmål] lete, leite, se etter, søke, lete; [Nynorsk] leite, sjå etter
+look forward {v} (to anticipate or expect) SEE: look forward to	 ::
+looking glass {n} (mirror) SEE: mirror	 ::
+look up to {v} (To show respect for)	 :: se opp til
+loom {n} (bird of order Gaviformes) SEE: loon	 ::
+loon {n} (bird of order Gaviiformes)	 :: [Bokmål] lom {m}
+looper {n} (measuring worm) SEE: measuring worm	 ::
+loophole {n} (method of escape)	 :: smutthull {n}
+loophole {n} (slit in a castle wall)	 :: skyteskår {n}
+loo roll {n} (toilet roll) SEE: toilet roll	 ::
+loose {adj} (not leashed) SEE: unleashed	 ::
+loosen {v} (to make less tight)	 :: [Bokmål] løsne, løse; [Nynorsk] løyse
+loot {v}	 :: [Bokmål] plyndre; [Nynorsk] plyndre
+loquacious {adj} (talkative, chatty)	 :: plaprende
+Lord {n} (British aristocratic title)	 :: herre {m}
+Lord {prop} (God)	 :: Herre {m}
+Lord {prop} (Jesus)	 :: Herre {m}
+lordosis {n} (excessive curvature of the spine)	 :: svaie ryggen
+Lord's Prayer {prop} (the prayer taught by Jesus Christ to his disciples)	 :: Fader vår
+lorry {n} (motor vehicle) SEE: truck	 ::
+lorry driver {n} (person employed to drive a truck) SEE: truck driver	 ::
+lose {v} (cause (something) to cease to be in one's possession or capability)	 :: miste
+lose face {v} (lose respect of others)	 :: [Bokmål] tape ansikt, miste ansikt; [Nynorsk] miste andlet, miste ansikt
+lose one's way {v} (get lost) SEE: get lost	 ::
+lose weight {v} (to become less heavy)	 :: gå ned i vekt
+loss {n}	 :: tap
+lost property {n} (lost and found) SEE: lost and found	 ::
+lot {n} (large quantity or number) SEE: a lot	 ::
+lot {n} (that which happens without human design or forethought)	 :: skjebne
+loth {adj} (reluctant) SEE: loath	 ::
+lottery {n} (scheme for the distribution of prizes by lot or chance)	 :: [Bokmål] lotteri {n}
+lottery ticket {n} (slip of paper drawn in a lottery)	 :: lodd {n}
+loud {adj} (of a sound)	 :: høy
+loudness race {n} (public backlash) SEE: loudness war	 ::
+loudspeaker {n} (encasing)	 :: [Bokmål] høgtaler {m}, høytaler {m}, høyttaler {m}; [Nynorsk] høgtalar {m}
+loudspeaker {n} (transducer)	 :: [Bokmål] høgtaler {m}, høytaler {m}, høyttaler {m}; [Nynorsk] høgtalar {m}
+Louis {prop} (male given name)	 :: Ludvig
+Louisa {prop} (female given name) SEE: Louise	 ::
+Louise {prop} (feminine form of Louis)	 :: Lovise
+loukoumades {n} (lokma) SEE: lokma	 ::
+louse {n} (insect)	 :: lus {c}; [Nynorsk] lus {f}
+love {n} (darling or sweetheart)	 :: elskling {m}, kjæreste, min elskede, kjære
+love {n} (romantic feelings)	 :: kjærlighet {m}
+love {n} (strong affection)	 :: kjærlighet; [Nynorsk] kjærleik
+love {n} (zero)	 :: null
+love {v} (be strongly inclined towards doing)	 :: elske, like
+love {v} (care about; will good for)	 :: elske
+love {v} ((euphemistic): to have sex with)	 :: elske med
+love {v} (have a strong affection for)	 :: elske
+lovebird {n} (an affectionate couple (or a person thereof))	 :: turtelduer {m-p} {f-p} (turteldue {m} {f})
+love bite {n} (swelling on the skin)	 :: sugemerke {n}
+lovechild {n} (child born out of wedlock) SEE: love child	 ::
+loved one {n} (very close friend or family member)	 :: kjære
+love handle {n} (a protruding area of fat on the side of the body)	 :: bilring {m}
+loveless {adj} (without love)	 :: kjærlighetsløst
+love potion {n} (philter) SEE: philter	 ::
+love rat {n} (adulterer) SEE: adulterer	 ::
+low {adj} (in a position comparatively close to the ground)	 :: lav
+low {n} (area of low pressure)	 :: lågtrykksområde {n}
+low {n} (flame) SEE: flame	 ::
+low {v} (moo) SEE: moo	 ::
+lower chamber {n} (lower house) SEE: lower house	 ::
+Lower Lusatian {prop} (Lower Sorbian) SEE: Lower Sorbian	 ::
+Low German {prop} (West Germanic language)	 :: nedertysk {m}, plattysk {m}
+low tide {n} (the time of day when the sea has recded to its lowest level)	 :: lavvann {n}
+loxodrome {n} (A line which crosses successive meridians at a constant angle) SEE: rhumb line	 ::
+loyal {adj} (firm in allegiance to a person or institution)	 :: lojal
+loyalness {n} (loyalty) SEE: loyalty	 ::
+loyalty {n} (faithfulness or devotion to some person, cause or nation)	 :: loyalitet {m}
+loyalty {n} (the state of being loyal; fidelity)	 :: loyalitet {m}
+lube {n} (lubricant) SEE: lubricant	 ::
+lube {v} (lubricate) SEE: lubricate	 ::
+Lucas {prop} (male given name) SEE: Luke	 ::
+Lucia {prop} (female given name) SEE: Lucy	 ::
+Lucian {prop} (sophist of Syrian origin)	 :: Lukian
+luckily {adv} (in a lucky manner)	 :: lykkelig
+lucky streak {n} (winning streak) SEE: winning streak	 ::
+ludicrous {adj} (idiotic or unthinkable, often to the point of being funny)	 :: latterlig
+Lugansk {prop} (Luhansk) SEE: Luhansk	 ::
+luge {n} (A racing sled)	 :: slede {m}
+Lukas {prop} (given name) SEE: Luke	 ::
+Lukas {prop} (surname) SEE: Lucas	 ::
+Luke {prop} (evangelist)	 :: Lukas
+Luke {prop} (given name)	 :: Lukas
+Luke {prop} (gospel of Luke)	 :: Evangeliet etter Lukas , Luk
+lukewarm {adj} (not very enthusiastic)	 :: lunken
+lukewarm {adj} (temperature)	 :: lunken
+Lule Sami {prop} (language)	 :: lulesamisk {c}
+lumberjack {n} (person who fells trees)	 :: tømmerhugger {m}
+lumbermill {n} (mill for processing lumber) SEE: sawmill	 ::
+lumiphore {n} (luminophore) SEE: luminophore	 ::
+lumpfish {n} (lumpsucker) SEE: lumpsucker	 ::
+lumpsucker {n} (scorpaeniform fish)	 :: rognkall, rognkjaeks, rognkjeks
+lump sum {n} (large one-time payment)	 :: engangssum {m}
+Luna {prop} (Earth's moon) SEE: Moon	 ::
+lunacy {n} (state of being mad)	 :: galskap {m}
+lunar eclipse {n} (when the Earth casts its shadow over the Moon)	 :: [Bokmål] måneformørkelse; [Nynorsk] måneformørking
+lunar phase {n} (any one of the aspects presented by the moon)	 :: [Bokmål] månefase {m}; [Nynorsk] månefase {m}
+lunatic asylum {n} (mental hospital) SEE: mental hospital	 ::
+lunch {n} (meal around midday)	 :: [Bokmål] lunsj {m}; [Nynorsk] lunsj {m}
+luncheon {n}	 :: [Bokmål] lunsj {m}, middag {m}, middagsmat {m}; [Nynorsk]
+luncheon meat {n} (lunch meat) SEE: lunch meat	 ::
+lung {n} (organ that extracts oxygen from the air)	 :: [Bokmål] lunge {m} {f}; [Nynorsk] lunge {f}
+lung capacity {n} (lung capacity) SEE: lung capacity	 ::
+lung capacity {n} (lung volume) SEE: lung volume	 ::
+lunge {n} (long rope) SEE: lunge line	 ::
+lupine {n} (lupin) SEE: lupin	 ::
+lure {n} (artificial fishing bait)	 :: agn {n}
+luster {n} (A period of five years, lustrum) SEE: lustrum	 ::
+lustre {n} (luster) SEE: luster	 ::
+lustre {n} (lustrum) SEE: lustrum	 ::
+lustre {v} (luster) SEE: luster	 ::
+lute {n} (stringed instrument)	 :: lutt {m}
+lutefisk {n} (Traditional Nordic dish)	 :: lutefisk
+lutetium {n} (chemical element with atomic number of 71)	 :: lutetium
+Lutheran {n} (member of a Lutheran church)	 :: [Bokmål] lutheraner {m}
+luxate {v} (to dislocate)	 :: luksere
+Luxembourg {prop} (country, city, province, district)	 :: Luxembourg, Luxemburg
+Luxembourger {n} (person from Luxembourg)	 :: [Bokmål] luxemburger {m}, luxembourger {m}; [Nynorsk] luxemburgar {m}, luxembourgar {m}
+Luxembourgian {adj} (of Luxembourg)	 :: [Bokmål] luxemburgsk, luxembourgsk; [Nynorsk] luxemburgsk, luxembourgsk
+Luxembourgian {n} (person)	 :: [Bokmål] luxemburger {m}, luxembourger {m}; [Nynorsk] luxemburgar {m}, luxembourgar {m}
+Luxembourgish {adj} (pertaining to Luxembourg)	 :: [Bokmål] luxemburgsk, luxembourgsk; [Nynorsk] luxemburgsk, luxembourgsk
+Luxembourgish {prop} (language of Luxembourg)	 :: [Bokmål] luxemburgsk {m}, luxembourgsk {m}; [Nynorsk] luxemburgsk {m}, luxembourgsk {m}
+Luxemburger {n} (Luxembourger) SEE: Luxembourger	 ::
+luxurious {adj} (being very fine and comfortable)	 :: [Bokmål] luksuriøs; [Nynorsk] luksuriøs
+lychee {n} (fruit)	 :: litchi
+lychee {n} (tree)	 :: litchi
+Lydia {prop} (biblical woman)	 :: Lydia
+Lydia {prop} (female given name)	 :: Lydia
+lye {n} (caustic alkaline solution)	 :: lut
+lymph {n} (the fluid carried by the lymphatic system)	 :: lymfe {m} {f}
+lynchpin {n} (a securing pin)	 :: sikring {m}, splint {m}
+lynx {n} (wild cat)	 :: gaupe
+lyric {n} (lyrics) SEE: lyrics	 ::
+lyrics {n} (the words to a song)	 :: tekst {m} {f}

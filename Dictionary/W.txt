@@ -1,0 +1,743 @@
+﻿wacky {adj} (zany) SEE: zany	 ::
+wade {v} (to walk through water or something that impedes progress)	 :: vade, vasse
+waffle {n} (flat pastry)	 :: [Bokmål] vaffel {m}; [Nynorsk] vaffel {m}
+waffle {v} (vacillate) SEE: vacillate	 ::
+waffle iron {n} (a cooking appliance used to make waffles)	 :: [Bokmål] vaffeljern {n}; [Nynorsk] vaffeljarn {n}, vaffeljern {n}
+wag {v} (to not go to school)	 :: skulke
+wag {v} (to swing from side to side)	 :: logre
+wage {n} (money paid to a worker)	 :: [Bokmål] lønn
+waggon {n} (wagon) SEE: wagon	 ::
+wagon {n} (cart)	 :: vogn {m} {f}
+wail {v} (to cry out)	 :: jamre
+waist {n} (part of the body between the pelvis and the stomach)	 :: midje
+wait {v} (delay until some event)	 :: [Bokmål] vente; [Nynorsk] venta
+wait {v} (transitive: delay until) SEE: await	 ::
+waiter {n} (a server in a restaurant or similar)	 :: kelner {m}; [Bokmål] servitør {m}; [Nynorsk] servitør {m}
+waiter {n} (someone who waits)	 :: ventende {m}
+waiting {n} (The act of staying or remaining in expectation)	 :: vente
+waiting list {n} (ordered list of people waiting to obtain a good or service)	 :: [Bokmål] venteliste {m} {f}; [Nynorsk] venteliste {f}
+waitlist {n} (waiting list) SEE: waiting list	 ::
+wakeful {adj} (restless)	 :: vaken {m}
+wake up {v} (to (become) awake)	 :: våkne; [Bokmål] stå opp
+wake up on the wrong side of bed {v} (to be irritable) SEE: get up on the wrong side of the bed	 ::
+Waldemar {prop} (male given name)	 :: Valdemar
+waldmeister {n} (herb) SEE: sweet woodruff	 ::
+walk {v} (colloquial: to leave, resign)	 :: gå
+walk {v} (law: colloquial: to go free)	 :: slippe løs
+walk {v} (move on the feet)	 :: gå, spasere
+walk {v} (to take for a walk)	 :: gå på tur med, gå ut med hunden [walk the dog]
+walk {v} (to travel a distance by walking)	 :: gå, vandre, spasere
+walkaway {n} (easy victory) SEE: walkover	 ::
+walker {n} (walking frame) SEE: walking frame	 ::
+walking cane {n} (walking stick) SEE: walking stick	 ::
+walking stick {n} (insect) SEE: stick insect	 ::
+walk-on {n} (actor with a small part)	 :: statist
+walk-on {n}	 :: ekstra
+wall {n} (anatomy, zoology, botany usage)	 :: skillevegg {m}
+wall {n} (defensive rampart built up of earth, stone etc.)	 :: voll {m}
+wall {n} (permanent, substantial side or division in a building)	 :: [Bokmål] vegg {m}; [Nynorsk] vegg {m}
+wall {n} (structure built for defense surrounding or separating an area)	 :: [Bokmål] mur {m}; [Nynorsk] mur {m}
+wall {n} (temporary impediment)	 :: forhindring {m}
+wallet {n} (case for keeping money)	 :: [Bokmål] lommebok {m} {f}; [Nynorsk] lommebok {f}
+wallflower {n} (socially awkward person)	 :: veggpryd {m}
+Wallis and Futuna {prop} (an overseas territory of France in Oceania)	 :: Wallis- og Futunaøyene {f-p}; [Nynorsk] Wallis- og Futunaøyane {f-p}
+wall socket {n} (electricity power point)	 :: stikkontakt {m}, stikk {n}
+Walpurgis night {n} (Walpurgis Night)	 :: [Bokmål] Valborgsnatten {m}, Valborgsnatta {f}; [Nynorsk] Valborgsnatta {f}
+walrus {n} (large Arctic marine mammal)	 :: [Bokmål] hvalross {m}, kvalross {m}; [Nynorsk] kvalross {m}
+wand {n} (stick or staff, used to perform a useful function)	 :: stav {m}, vånd {m}
+wangle {v} (falsify) SEE: falsify	 ::
+wank {n} (act of masturbation)	 :: ronk {m}, runk {m}
+wank {v} (intransitive: to masturbate)	 :: runke, onanere, masturbere
+wank {v} (transitive: to masturbate)	 :: runke
+wanker {n} (idiot)	 :: dust {m}, idiot {m}, [archaic] tølper {m}
+wanker {n} (person who wanks)	 :: runker {m}
+wannabe {n} (someone who wishes something but lacks the qualifications)	 :: wannabe {m}
+want {n} (lack (of))	 :: mangel
+want {n} (poverty)	 :: behov
+want {v} (desire)	 :: ville, ønske
+want {v} (lack) SEE: lack	 ::
+war {n} (card game)	 :: krig
+war {n} (conflict involving organized use of arms)	 :: krig {m}
+war crime {n} (offense for violations of the law of war)	 :: krigsforbrytelse {m}
+warden {n} (a chief administrative officer of a prison)	 :: fengselsdirektør {m}
+wardrobe {n} (cabinet in which clothes may be stored)	 :: garderobeskap {n}
+wardrobe {n} (collection of clothing)	 :: garderobe {m}
+wardrobe malfunction {n} ((euphemism) an accidental instance of indecent exposure)	 :: funksjonsfeil garderobe
+warehouse {n} (A place for storing large amounts of products)	 :: [Bokmål] lager {n}; [Nynorsk] lager {n}
+warfare {n}	 :: krigføring {c}
+war game {n} (military simulation)	 :: [Bokmål] militærøvelse {m}, militærøving {c}; [Nynorsk] militærøving {f}
+warm {adj} (having a temperature slightly higher than usual)	 :: varm
+warm {v} (to make or keep warm)	 :: [Bokmål] varme; [Nynorsk] varme
+warn {v} (to make someone aware of impending danger)	 :: advare
+warning {n} (instance of warning someone)	 :: [Bokmål] advarsel {m}; [Nynorsk] åtvaring {f}
+war of conquest {n} (war of conquest)	 :: erobringskrig {m}
+warp {n} (threads)	 :: renning {m} {f}, varp {n}
+warrant {n} (warrant officer) SEE: warrant officer	 ::
+warrant {v} (to authorize) SEE: authorize	 ::
+warrant {v} (to guarantee)	 :: garantere, forsikre
+warrant {v} (to justify) SEE: justify	 ::
+warrior {n} (person actively engaged in battle, conflict or warfare)	 :: kriger {m}
+warrior {n} (person aggressively, courageously, or energetically involved in an activity)	 :: [Bokmål] kriger {m}
+Warsaw {prop} (Capital city of Poland)	 :: Warszawa
+warship {n} (type of watercraft)	 :: orlogsfartøy {n}; [Bokmål] krigsskip {n}; [Nynorsk] krigsskip {n}
+Warsovian {adj} (Varsovian) SEE: Varsovian	 ::
+Warsovian {n} (Varsovian) SEE: Varsovian	 ::
+wart {n} (type of growth occurring on the skin)	 :: vorte {c}
+wash {v} (to clean with water)	 :: tvette, vaske
+washbasin {n} (sink)	 :: [Bokmål] vaskeservant {m}, servant {m}; [Nynorsk] vaskeservant {m}, servant {m}
+washbowl {n} (a basin for washing the face and hands)	 :: vaskevannsfat {n}
+washbowl {n} (a sink in a bathroom, connected to a supply of water and a drain)	 :: vaskeservant {m}
+washer {n} (face cloth)	 :: ansiktsklut {m}
+washer {n} (flat disk)	 :: stoppskive {m}, skive {m}
+washer {n} (person who washes for a living)	 :: vaskehjelp {m}, vaskekone {m}, vasker {m}
+washer {n} (something that washes)	 :: vaskemaskin {m}, (dishwasher) oppvaskmaskin {m}
+washing machine {n} (machine that washes clothes)	 :: [Bokmål] vaskemaskin {m}; [Nynorsk] vaskemaskin {m} {f}
+washing-up {n} (washing of dishes etc.)	 :: [Bokmål] oppvask {m}; [Nynorsk] oppvask {m} {n}
+washroom {n} (toilet) SEE: toilet	 ::
+wash up {v} (clean utensils, dishes, etc.) SEE: do the dishes	 ::
+wash with {v} (have an effect on (a person))	 :: bite på
+wasp {n} (insect)	 :: [Bokmål] veps {m}; [Nynorsk] veps {m}, kvefs {m}
+wastebasket {n} (garbage can) SEE: garbage can	 ::
+wastebasket {n} (wastepaper basket) SEE: wastepaper basket	 ::
+watch {n} (particular time period)	 :: vakt {c}
+watch {n} (period of time on duty)	 :: vakt {c}
+watch {n} (person or group of people who guard)	 :: vakt {c}
+watch {n} (portable or wearable timepiece)	 :: klokke {c}, ur {c}; [Bokmål] armbåndsur
+watch {v} (to attend or guard)	 :: passe på
+watch {v} (to be wary)	 :: passe på
+watch {v} (to look at for a period of time)	 :: observere, passe på, se på
+watch {v} (to observe)	 :: observere, passe på
+watchtower {n} (observation tower)	 :: [Bokmål] vakttårn {n}
+water {n} (amniotic fluid) SEE: amniotic fluid	 ::
+water {n} (body of water, or specific part of it)	 :: vann {m}
+water {n} (clear liquid H₂O)	 :: [Bokmål] vann {n}; [Nynorsk] vatn {n}
+water {n} (mineral water) SEE: mineral water	 ::
+water {n} (serving of water)	 :: drikkevann
+water {n} (urine)	 :: tiss {n}
+water {v} (colloquial: to urinate)	 :: tisse
+water {v} (to fill with or secrete water)	 :: gråte, felle tårer
+water {v} (to pour water into the soil surrounding (plants))	 :: vanne
+water {v} (to provide (animals) with water)	 :: vanne
+waterbed {n} (bed with a mattress filled with water)	 :: [Bokmål] vannseng {m} {f}
+waterbody {n} (significant accumulation of water) SEE: body of water	 ::
+water buffalo {n} (large ungulate)	 :: [Bokmål] vannbøffel {m}, vassbøffel {m}; [Nynorsk] vassbøffel {m}
+water clock {n} (clepsydra) SEE: clepsydra	 ::
+water closet {n} (flush toilet)	 :: toalett {n}, vannklosett {n}, wc
+watercolor {adj} (pertaining to the methods or products of watercolor) SEE: watercolour	 ::
+watercolor {n} (an artwork) SEE: watercolour	 ::
+watercolor {n} (any paint used in this method) SEE: watercolour	 ::
+watercolor {n} (a painting technique) SEE: watercolour	 ::
+watercourse {n} (Channel through which water flows)	 :: vannløp {n}
+watercress {n} (Nasturtium microphyllum)	 :: brønnkarse
+water cycle {n}	 :: vannets kretsløp {n}
+water diviner {n} (water diviner) SEE: dowser	 ::
+water dog {n} (water dog)	 :: vannhund
+waterfall {n} (flow of water over the edge of a cliff)	 :: foss {m}
+waterfall {n} (waterfall-like outpouring)	 :: foss {m}
+watering can {n} (utensil for watering plants)	 :: [Bokmål] vannkanne {m} {f}
+watering pot {n} (watering can) SEE: watering can	 ::
+watermark {n} (translucent design impressed on paper)	 :: [Bokmål] vannmerke {n}, vassmerke {n}; [Nynorsk] vassmerke {n}
+watermelon {n} (fruit)	 :: [Bokmål] vannmelon {m}
+watermill {n} (mill powered by water)	 :: [Bokmål] vannmølle {m} {f}
+water park {n} (aquapark) SEE: aquapark	 ::
+water pipe {n} (water conduit)	 :: vannledning {m}, vannrør {n}, vannpipe {f}
+water power {n} (hydropower) SEE: hydropower	 ::
+water pox {n}	 :: [Nynorsk] vasskoppar ; [Bokmål] vannkopper
+watershed {n} (boundary between adjacent catchment basins)	 :: vannskille {n}
+water strider {n} (any of a number of predatory insects in the family Gerridae)	 :: vannløpere
+waterway {n} (navigable body of water)	 :: [Bokmål] vassdrag {n}
+watery {adj} (tearful) SEE: tearful	 ::
+watt {n} (derived unit of power)	 :: [Bokmål] watt {m}; [Nynorsk] watt {m}
+waulk {v} (full) SEE: full	 ::
+wave {n} (moving disturbance, undulation)	 :: [Bokmål] bølge {m} {f}; [Nynorsk] bølgje {f}, bylgje {f}, bølge {f}
+wave {v} (to wave one’s hand)	 :: vinke
+waveform {n} (physics)	 :: bølgeform {m}
+wavefunction {n} (notion in quantum mechanics)	 :: [Bokmål] bølgefunksjon {m}
+wavelength {n} (the length of a single cycle of a wave)	 :: [Bokmål] bølgelengde {m} {f}; [Nynorsk] bølgjelengd {f}, bylgjelengd {f}, bølgelengd {f}, bølgelengde {f}
+wax {n} (beeswax) SEE: beeswax	 ::
+wax {n} (earwax) SEE: earwax	 ::
+wax {n} (oily, water-resistant substance)	 :: [Bokmål] voks {m} {n}; [Nynorsk] voks {m} {n}
+wax {v} (literary: grow)	 :: vokse {n}
+wax gourd {n} (fuzzy melon fruit) SEE: winter melon	 ::
+wax gourd {n} (vine) SEE: winter melon	 ::
+waxing {n} (cosmetic procedure)	 :: voksing
+waxing {n} (the action of the verb to wax)	 :: voksing
+waxlike {adj} (waxy) SEE: waxy	 ::
+waxwing {n} (songbird of genus Bombycilla)	 :: sidensvans
+way {adv} (far) SEE: far (adverb)	 ::
+way {adv} (much) SEE: much (adverb)	 ::
+way {n} (method)	 :: måte
+way {n} (wide path)	 :: [Bokmål] vei {m}; [Nynorsk] veg {m}
+way out {n} (exit) SEE: exit	 ::
+way out {n} (solution) SEE: solution	 ::
+we {pron} (the speakers, or the speaker(s) and other person(s) not being addressed (exclusive we: he or she or they and I))	 :: [Bokmål] vi; [Nynorsk] me, vi
+weakness {n} (condition of being weak)	 :: svakhet {f}
+weakness {n} (special fondness)	 :: svakhet {f}
+wean {v}	 :: avvenne
+weaning {n}	 :: avvenning {c}
+weapon {n} (instrument of attack or defense in combat)	 :: [Bokmål] våpen {n}; [Nynorsk] våpen {n}
+weapon of mass destruction {n} (weapon designed to kill or injure many civilians)	 :: masseøydeleggingsvåpen
+wear the pants {v} (wear the trousers) SEE: wear the trousers	 ::
+weasel {n}	 :: snømus, vesel
+weather {n} (situation) SEE: situation	 ::
+weather {n} (state of the atmosphere)	 :: vær {n}, vêr {n}
+weather forecast {n} (prediction of future weather)	 :: [Bokmål] værvarsel {n}; [Nynorsk] vêrvarsel {n}
+weather forecasting {n} (science of using meteorology to predict future weather)	 :: [Bokmål] værvarsling {m} {f}
+weatherize {v} (to protect against weather) SEE: weatherproof	 ::
+weatherperson {n} (weatherman) SEE: weatherman	 ::
+weave {n} (a type or way of weaving)	 :: vev {m} {f}
+weave {v} (to form something by passing strands of material over and under one another)	 :: veve
+weave {v} (to spin a cocoon or a web)	 :: veve, spinne
+weave {v} (to weave)	 :: kjøre sikksakk, traversere, sno seg gjennom
+web {n}	 :: nett {n}, vev {n}
+web {n} (spiderweb) SEE: spiderweb	 ::
+web {v}	 :: nettverke
+web application {n} (computer application)	 :: [Bokmål] webapplikasjon {m}
+web browser {n} (a computer program used to navigate the World Wide Web)	 :: [Bokmål] nettleser {m}; [Nynorsk] nettlesar {m}
+webcam {n} (video camera viewed over a network)	 :: [Bokmål] nettkamera {n}
+weblog {n} (blog) SEE: blog	 ::
+web site {n} (a collection of pages on the World Wide Web)	 :: nettside {m}
+wed {v} (intransitive: to take a spouse)	 :: gifte seg
+wed {v} (to join in matrimony)	 :: vie, ektevie [formally; somewhat dated]
+wed {v} (transitive: to take as one's spouse)	 :: ekte, gifte seg med
+Wed {n} (abbreviation of Wednesday)	 :: [Bokmål] ons; [Nynorsk] ons
+wedding {n} (marriage ceremony)	 :: [Bokmål] bryllup {n}; [Nynorsk] bryllaup {n}
+wedding cake {n} (cake used as part of a wedding ceremony)	 :: [Bokmål] bryllupskake {m} {f}; [Nynorsk] bryllaupskake {f}
+wedding dress {n} (the clothing worn by a bride during a wedding ceremony)	 :: [Bokmål] brudekjole {m} ; [Nynorsk] brudekjole {m}, brurkjole {m}, brurekjole {m}
+wedding gown {n} (wedding dress) SEE: wedding dress	 ::
+wedding ring {n} (a ring symbolizing marriage)	 :: [Bokmål] giftering {m}; [Nynorsk] giftering {m}
+wedge-tailed eagle {n} (eaglehawk) SEE: eaglehawk	 ::
+wedgie {n} (prank in which a person's underpants are pulled up sharply)	 :: truserøsk {m}[wedgie on a woman]
+wedgy {adj} (shaped like a wedge) SEE: wedgelike	 ::
+Wednesday {n} (day of the week)	 :: [Bokmål] onsdag {m}; [Nynorsk] onsdag {m}
+wee {n} (act of urination)	 :: tisse
+wee {n} (urine)	 :: tiss {n}
+weed {n} (slang: marijuana)	 :: hasj, pot
+weed {n} (unwanted plant)	 :: ugress {n}
+weed eater {n} (string trimmer) SEE: string trimmer	 ::
+week {n} (period of seven days)	 :: [Bokmål] uke {c}; [Nynorsk] veke {f}
+weekday {n} (weekday)	 :: hverdag {m}
+weekend {n} (break in the working week)	 :: [Bokmål] helg {m} {f}; [Nynorsk] helg {f}
+weep {v} (to cry, shed tears)	 :: [Bokmål] gråte
+weeping willow {n} (Peking willow) SEE: Peking willow	 ::
+weft {n} (horizontal threads)	 :: veft {m}, innslag {n}, islett {n}
+weighted average {n} (arithmetic mean of values biased according to agreed weightings) SEE: weighted mean	 ::
+weightlifter {n} (person who competes for maximum weight lifted)	 :: [Bokmål] vektløfter {m}
+weightlifting {n} (sport in which competitors lift heavy weights)	 :: [Bokmål] vektløfting {m} {f}; [Nynorsk] vektløfting {f}, vektlyfting {f}
+weir {n} (adjustable dam)	 :: [Bokmål] overløp {n}; [Nynorsk] overløp {n}, overlaup {n}
+weird {adj} (having an unusually strange character or behaviour)	 :: [Bokmål] underlig, merkelig
+welcome {interj} (greeting given upon someone's arrival)	 :: velkommen
+welder {n} (item of equipment)	 :: [Bokmål] sveiseapparat {n}; [Nynorsk] sveiseapparat {n}
+welder {n} (one who welds)	 :: [Bokmål] sveiser {m}; [Nynorsk] sveisar {m}
+welding {n} (action or process of welding)	 :: sveising {m}
+welfare state {n} (a social system in which the state takes overall responsibility for the welfare of its citizens)	 :: velferdsstat
+welfare state {n} (a state or nation in which such a system operates)	 :: velferdsstat
+welkin {n} (sky) SEE: sky	 ::
+well {adv} (accurately; competently)	 :: bra
+well {n} (cockpit of a sailing boat) SEE: cockpit of a sailing boat	 ::
+well {n} (hole sunk into the ground)	 :: brønn
+well-behaved {adj} (having good manners and acting properly)	 :: veloppdragen
+well done {adj} (well cooked)	 :: [Bokmål] godt stekt
+well done {interj} (exclamation of praise)	 :: godt gjort
+well-groomed {adj} (neat and well-dressed)	 :: nydelig
+Wellington {n} (Wellington boot) SEE: Wellington boot	 ::
+Wellington boot {n} (Wellington boot) SEE: Wellington boots	 ::
+Wellington boots {n} (waterproof rubber boot)	 :: [Bokmål] gummistøvel {m}, gummistøvler {p}; [Nynorsk] gummistøvel {m}, gummistøvlar {p}
+well-known {adj} (familiar, widely known)	 :: [Bokmål] kjent, velkjent; [Nynorsk] kjend, kjent, velkjend, velkjent
+well-mannered {adj} (having good manners)	 :: beleven, veloppdragen
+well-ordering {n} (a type of total order)	 :: [Bokmål] velordning {m} {f}; [Nynorsk] velordning {f}
+well-read {adj} (well informed and knowledgeable because of having read extensively)	 :: belest
+well-spoken {adj} (eloquent and able with regards to speech)	 :: [Bokmål] språkmektig {m} {f} {n}, språkmektige {m-p} {f-p} {n-p}
+welly {n} (Wellington boot) SEE: Wellington boot	 ::
+Welsh {adj} (of or pertaining to the Welsh language)	 :: [Bokmål] walisisk; [Nynorsk] walisisk
+Welsh {adj} (of or pertaining to Wales)	 :: [Bokmål] walisisk; [Nynorsk] walisisk
+Welsh {prop} (collectively, people of Wales)	 :: [Bokmål] walisere {m}; [Nynorsk] walisarar {m}
+Welsh {prop} (language)	 :: [Bokmål] walisisk {m}, velsk {m}, kymrisk {m}; [Nynorsk] walisisk {m}, velsk {m}, kymrisk {m}
+Welshman {n} (native or inhabitant of Wales)	 :: [Bokmål] waliser {m}; [Nynorsk] walisar {m}
+weltanschauung {n} (worldview) SEE: worldview	 ::
+Wenceslas {prop} (male given name) SEE: Wenceslaus	 ::
+wench {n} (a promiscuous woman)	 :: ludder {n}, tøs {m} {f}
+wench {n} (a young woman)	 :: jente {f}, tøs {m} {f}
+Wendish {adj} (Sorbian) SEE: Sorbian	 ::
+Wendish {prop} (Sorbian) SEE: Sorbian	 ::
+were- {prefix} (man)	 :: var-
+werewolf {n} (wolflike human)	 :: varulv {m}
+west {adj} (western)	 :: vestlig
+west {n} (compass point)	 :: [Bokmål] vest; [Nynorsk] vest
+West Bank {prop} (territory)	 :: [Bokmål] Vestbredden
+western {adj} (blowing from the west)	 :: vestlig
+western {adj} (pertaining to the west)	 :: vestlig
+western {n} (film or other dramatic work)	 :: western {m}
+Western {adj} (of, situated in, or related to the West) SEE: western	 ::
+Western {n} (work of a genre dealing with Old West) SEE: western	 ::
+Western Europe {prop} (Western Europe)	 :: [Bokmål] Vest-Europa {n}; [Nynorsk] Vest-Europa {n}
+Western European {adj} (Western European)	 :: [Bokmål] vesteuropeisk; [Nynorsk] vesteuropeisk
+Western Sahara {prop} (a territory in northern Africa)	 :: Vest-Sahara
+west-northwest {n} (compass point)	 :: [Bokmål] vest-nordvest; [Nynorsk] vest-nordvest
+west-southwest {n} (compass point)	 :: [Bokmål] vest-sørvest; [Nynorsk] vest-sørvest
+wet {adj} (made of liquid or moisture)	 :: våt, fuktig
+wet {adj} (of an object: covered with or impregnated with liquid)	 :: våt, bløt
+wet {adj} (of weather: rainy (See rainy))	 :: vått ; [Bokmål] regnfull; [Nynorsk] regnfull
+wet behind the ears {adj} (inexperienced, not seasoned)	 :: våt bak ørene
+wet job {n}	 :: våtjobb {m}
+wet nurse {n} (woman hired to suckle another woman's child)	 :: amme {m} {f}
+wet oneself {v} (lose control of one's bladder)	 :: tisse på seg, tisse seg ut, tisse i buksa
+wet season {n} (rainy season) SEE: rainy season	 ::
+wet t-shirt competition {n} (event) SEE: wet t-shirt contest	 ::
+whack {v} (To hit, slap or strike)	 :: drefse
+whack {v} (To kill, bump off)	 :: kverke, knerte, ekspedere
+whale {n} (large sea mammal)	 :: [Bokmål] hval {m}, kval {m}; [Nynorsk] kval {m}
+whaler {n} (person who hunts whales)	 :: [Bokmål] hvalfanger {m}; [Nynorsk] kvalfangar {m}
+whale shark {n} (Rhincodon typus)	 :: [Bokmål] hvalhai {m}, kvalhai {m}; [Nynorsk] kvalhai {m}
+whaling {n} (practice of hunting whales)	 :: hvalfangst
+whaling {n} (whale watching) SEE: whale watching	 ::
+wham, bam, thank you ma'am {interj} (hit it and quit it) SEE: hit it and quit it	 ::
+wharf {n} (man-made landing place)	 :: brygge {c}; [Bokmål] kai {m} {f}; [Nynorsk] kai {f} {m}
+what {determiner}	 :: hvilken
+what {pron} (interrogative pronoun)	 :: hva
+what {pron} (that which; those that; the thing that)	 :: hva
+what are you doing {phrase} (what are you doing)	 :: hva gjør du?
+whatever {interj} (indicating the matter is not worthy of further discussion)	 :: samma det!, [teenage slang] whatever!
+what goes around comes around {proverb} (actions have consequences)	 :: man høster som man sår
+what goes around comes around {proverb} (the status returns to its original value)	 :: man høster som man sår
+what is that {phrase} (what is that?)	 :: [Bokmål] hva er det?; [Nynorsk] kva er det?
+what is your name {phrase} (what is your name?)	 :: hva heter du?
+what is your phone number {phrase} (what's your phone number?) SEE: what's your phone number?	 ::
+what languages do you speak {phrase} (what languages do you speak?)	 :: [Bokmål] hvilke språk snakker du?
+what's on your mind {phrase} (what is bothering you?)	 :: hva har du på hjertet?
+what's your name {phrase} (what's your name?)	 :: [Bokmål] hva heter du?
+what the fuck {phrase} (An intensive form of what)	 :: hva faen, hva i helvete
+what the hell {phrase} (an intensive form of what)	 :: hva i helvete?, hva faen?
+what the hell {phrase} (why not?)	 :: faen heller, søren heller
+what time is it {phrase} (what is the time of day?)	 :: hvor meget er klokken?
+wheal {n} (small raised swelling on the skin) SEE: weal	 ::
+wheat {n} (grain)	 :: [Bokmål] hvete; [Nynorsk] kveite
+wheater {n} (bird)	 :: [Bokmål] steinskvett {m}
+wheelbarrow {n} (a small cart)	 :: [Bokmål] trillebår {m} {f}; [Nynorsk] trillebår {f}
+wheelchair {n} (a chair mounted on large wheels for the transportation or use of a sick or disabled person)	 :: rullestol {f}
+wheelhouse {n} (compartment for navigating)	 :: [Bokmål] styrehus {n}; [Nynorsk] styrehus {n}, styrhus {n}
+when {adv} (direct question)	 :: når
+when {conj} (as soon as)	 :: når
+when {conj} (at a time in the past)	 :: da
+when {conj} (at such time as)	 :: når
+when {conj} (at what time)	 :: når
+when {pron} (what time; which time)	 :: når
+whence {adv} (from where; from which place or source)	 :: [Bokmål] hvorfra; [Nynorsk] kvar ifrå, kor ifrå
+when Hell freezes over {adv} (never)	 :: når Helvetet fryser
+when it rains, it pours {proverb} (if a person encounters bad luck, more bad luck will follow)	 :: en ulykke kommer sjelden alene [an accident seldom comes alone]
+when the cat's away the mice will play {proverb} (in the absence of a controlling entity, subordinates will take advantage of circumstances)	 :: når katten er borte, danser musene på bordet (when the cat’s away, the mice are dancing on the table)
+where {adv} (at what place; to what place; from what place)	 :: [Bokmål] hvor; [Nynorsk] kor, kvar
+where {conj} (at or in which place)	 :: hvor
+where {pron} (the place in which)	 :: hvor
+where are we {phrase} (where are we)	 :: hvor er vi?
+where are you from {phrase} (in which country or region were you born or raised)	 :: [Bokmål] hvor kommer du fra?, hvor er du fra?; [Nynorsk] kvar kjem du frå?, kvar er du frå?
+where do you live {phrase} (where do you live?)	 :: hvor bor du?
+wherefore {conj} (because of which)	 :: hvorfor; [Nynorsk] korfor, kvifor
+where is the toilet {phrase} (where is the toilet?)	 :: hvor er toalettet?, hvor finner jeg toalettet?
+wherenot {n} (wherever) SEE: wherever	 ::
+whether {conj} (if, whether or not)	 :: enten
+whether {conj} (introducing adverbial clause; no matter whether or not)	 :: [Bokmål] enten
+whether {conj} (introducing indirect questions)	 :: om, hvorvidt
+whey {n} (liquid remaining after milk has been curdled)	 :: myse {m}
+which {determiner} ((relative) the one(s) that)	 :: som
+which {pron} ((relative) who, whom, what)	 :: som
+whiff {v} (baseball sense) SEE: strike out	 ::
+while {conj} (during the same time that)	 :: [Bokmål] mens; [Nynorsk] medan
+while {conj} (until) SEE: until	 ::
+while {n} (uncertain duration of time, a period of time)	 :: stund {m}
+whimbrel {n} (a large wading bird, Numenius phaeopus)	 :: småspove
+whimper {n} (a low intermittent sob)	 :: klynk {n}
+whimper {v} (to cry or sob softly and intermittently)	 :: klynke
+whimsical {adj} (Given to whimsy; capricious; odd; peculiar; playful; light-hearted or amusing)	 :: rar, sær
+whimsicality {n} (caprice) SEE: caprice	 ::
+whine {n} (a long-drawn, high-pitched complaining cry or sound)	 :: hvin {n}, hyl {n}
+whine {v} (to complain or protest with a whine or as if with a whine)	 :: sutre, syte, jamre
+whine {v} (to utter a whine)	 :: hvine, hyle
+whip {n} (rod or rope)	 :: pisk
+whip {n} (whipped cream) SEE: whipped cream	 ::
+whipper snipper {n} (string trimmer) SEE: string trimmer	 ::
+whirl {v} (To rotate, revolve, spin rapidly)	 :: virvle, snurre
+whisk {n} (kitchen utensil)	 :: [Bokmål] visp {m}; [Nynorsk] visp {m}
+whisk {n} (quick, light sweeping motion)	 :: [Bokmål] visp {m}
+whisk {v} (in cooking, to whip e.g. eggs or cream)	 :: [Bokmål] vispe, piske; [Nynorsk] vispe
+whisk {v} (to move something with quick light sweeping motions)	 :: [Bokmål] vispe
+whiskey {n} (alcoholic drink)	 :: whisky {c}
+whisky {n} (whiskey) SEE: whiskey	 ::
+whisper {n} (act of speaking in a quiet voice)	 :: [Bokmål] hvisking {m} {f}; [Nynorsk] kviskring {f}
+whisper {v} (to talk in a quiet voice)	 :: [Bokmål] hviske; [Nynorsk] kviskre
+whistle {n} (device used to make a whistling sound)	 :: [Bokmål] fløyte {m} {f}; [Nynorsk] fløyte {f}
+whistle {n} (slang: a suit) SEE: suit	 ::
+whistle-blower {n} (one who reports a problem or violation to the authorities)	 :: fløyteblåser {m}, varsler {m}
+whistleblowing {n} (the disclosure to the public or to authorities, usually by an employee, of wrongdoing)	 :: fløyteblåsing {f}, varsling {f}
+whistler {n} (whistling marmot) SEE: hoary marmot	 ::
+white {adj} (bright and colourless)	 :: [Bokmål] hvit, kvit; [Nynorsk] kvit
+white {n} (albumen)	 :: [Bokmål] hvite {m}, kvite {m}; [Nynorsk] kvite {m}
+white {n} (color/colour)	 :: [Bokmål] hvit, kvit; [Nynorsk] kvit
+white {n} (white wine) SEE: white wine	 ::
+white alder {n} (American winterberry) SEE: American winterberry	 ::
+white as a sheet {adj} (pale as if suffering from shock)	 :: [Bokmål] hvit som et laken; [Nynorsk] kvit som eit laken
+white beech {n} (American beech) SEE: American beech	 ::
+whitefish {n} (beluga) SEE: beluga	 ::
+whitefish {n} (menhaden) SEE: menhaden	 ::
+whitefish {n} (whiting) SEE: whiting	 ::
+white fox {n} (arctic fox) SEE: arctic fox	 ::
+white gourd {n} (fuzzy melon fruit) SEE: winter melon	 ::
+white gourd {n} (vine) SEE: winter melon	 ::
+white-handed gibbon {n} (lar gibbon) SEE: lar gibbon	 ::
+white hole {n} (singularity)	 :: hvitt hull {n}
+White House {prop} (The official residence of the President of the United States of America)	 :: Det hvite hus
+White Island {prop} (island)	 :: Kvitøya
+white lie {n} (untrue, good-willed statement)	 :: [Bokmål] hvit løgn {m}
+white lightning {n} (illegally distilled whiskey) SEE: moonshine	 ::
+white man {n} (Caucasian) SEE: Caucasian	 ::
+white paper {n} (marketing document)	 :: [Bokmål] hvitbok
+white paper {n}	 :: stortingsmelding {f}, [Nynorsk] stortingsmelding {f}
+white petrolatum {n} (petroleum jelly) SEE: petroleum jelly	 ::
+white pointer {n} (great white shark) SEE: great white shark	 ::
+white roe {n} (milt) SEE: milt	 ::
+White Russian {n} (Belarusian language) SEE: Belarusian	 ::
+White Russian {n} (Belarusian person) SEE: Belarusian	 ::
+white sauce {n} (béchamel sauce) SEE: béchamel sauce	 ::
+white sauce {n} (mayonnaise) SEE: mayonnaise	 ::
+White Sea {prop} (a sea to the northwest of Russia)	 :: Kvitsjøen {m}
+white wagtail {n} (bird in the wagtail family)	 :: linerle
+whitewash {v} (cover errors)	 :: [Bokmål] hvitvaske, kvitvaske; [Nynorsk] kvitvaske
+whitewash {v} (paint)	 :: hvitkalke
+white whale {n} (a cetacean, Delphinapterus leucas) SEE: beluga	 ::
+white wine {n} (light coloured wine)	 :: hvitvin {m}
+whither {adv} (to which place)	 :: [Bokmål] hvor, hvor hen; [Nynorsk] kor, kvar
+whiting {n} (fish, Merlangius merlangus)	 :: [Bokmål] hvitting {m}; [Nynorsk] kviting {m}
+whittle {v} (cut or shape wood with a knife)	 :: spikke
+who {pron} (who? (interrogative pronoun))	 :: hvem
+who cares {phrase} (reply to an unimportant statement) SEE: so what	 ::
+who knows {phrase} (a rhetorical question asked to show that the asker neither knows the answer nor who might know it)	 :: hvem vet?
+who knows {phrase} (asked to express the idea that anything is possible)	 :: hvem vet?
+whole {adj} (entire)	 :: hel
+whole {adv} (colloquial: in entirety)	 :: helt
+whole {n} (something complete)	 :: helhet {m}
+whole milk {n} (milk from which nothing has been removed)	 :: [Bokmål] helmelk {m} {f}, helmjølk {m} {f}, heilmelk {m} {f}, heilmjølk {m} {f}
+whole note {n} (semibreve) SEE: semibreve	 ::
+wholesale {adj} (in bulk or large quantity)	 :: en gros {p}
+wholesale {adv} (in bulk or large quantity)	 :: en gros {p}
+wholesale {n} (sale of products, often in large quantities, to retailers or other merchants)	 :: engroshandel {m}
+wholesaler {n} (person or company that sells goods wholesale to retailers)	 :: [Bokmål] grossist {m}; [Nynorsk] grossist {m}
+whole tone {n} (interval of two-twelfths of an octave)	 :: heltone {m}
+wholly {adv} (to the fullest extent) SEE: completely	 ::
+whoopee do {interj} (sarcastic expression) SEE: so what	 ::
+whooper {n} (whooper swan) SEE: whooper swan	 ::
+whooper {n} (whooping crane) SEE: whooping crane	 ::
+whooper swan {n} (the species of swan Cygnus cygnus)	 :: sangsvane {m} {f}
+whooping cough {n} (a contagious disease)	 :: kikhoste
+whore {n} (prostitute)	 :: hore {f}
+whore {n} (sexually promiscuous person)	 :: ludder {n}, tøs {f}
+whore {v} (to pimp) SEE: pimp	 ::
+whoremaster {n} (pimp) SEE: pimp	 ::
+whose {pron} (of which (relative))	 :: hvis
+whose {pron} (of whom (interrogative))	 :: hvem sin, hvems, hvis
+whose {pron} (of whom (relative))	 :: hvis
+why {adv}	 :: [Bokmål] hvorfor; [Nynorsk] korfor, kvifor
+why {adv} (for what reason)	 :: [Bokmål] hvorfor; [Nynorsk] korfor, kvifor
+why {interj} (exclamation of surprise)	 :: hvorfor
+why {n} (the reason)	 :: derfor
+wick {n} (the porous cord that draws up liquid fuel for burning)	 :: veke {m}
+wicker {n} (wickerwork) SEE: wickerwork	 ::
+wide {adj} (having a large physical extent from side to side)	 :: vid, bred
+wide {adv} (completely (with awake))	 :: vid
+wide {adv} (extensively)	 :: vidt, bredt
+widget {n} (component of a graphical user interface that the user interacts with)	 :: widget
+widow {n} (a woman whose husband has died)	 :: [Bokmål] enke {m} {f}; [Nynorsk] enkje {f}
+widower {n} (a man whose wife has died and who has not remarried)	 :: [Bokmål] enkemann {m}; [Nynorsk] enkjemann {m}, enkemann {m}
+Wiener schnitzel {n} (veal cutlet)	 :: wiener schnitzel {m}
+wife {n} (married woman)	 :: hustru, kone, frue
+wig {n} (head of artificial hair)	 :: [Bokmål] parykk {m}; [Nynorsk] parykk {m}
+wiggle {n} (wiggling movement)	 :: vrikk {n}
+wiggle {v} (to move with irregular motions)	 :: vrikke
+wiki {n} (collaborative website)	 :: wiki
+wikify {v} (to adapt (text) to a wiki, see also: wiki, see also: -ify)	 :: wikifisere
+Wikipedia {prop} (online encyclopedia)	 :: Wikipedia
+Wikipedian {n} (a person who uses, edits, or contributes to Wikipedia)	 :: wikipedant {m}
+wild {adj} (not domesticated or tamed)	 :: vill
+wild {adj} (raucous, unruly, and savage)	 :: vill
+wild animal {n} (animal living in a natural, undomesticated state)	 :: [Bokmål] villdyr {n}; [Nynorsk] villdyr {n}
+wild boar {n} (Sus scrofa)	 :: [Bokmål] villsvin {n}; [Nynorsk] villsvin {n}
+wildcat {n} (unauthorized industrial action)	 :: villkatt, skogkatt
+wildebeest {n} (gnu) SEE: gnu	 ::
+wildfire {n} (Greek fire) SEE: Greek fire	 ::
+wild goose {n} (species of wildlife goose)	 :: grågås
+Wild Hunt {n} (folk myth)	 :: Oskoreia
+wildlife reserve {n} (nature reserve) SEE: nature reserve	 ::
+wildlife sanctuary {n} (nature reserve) SEE: nature reserve	 ::
+wild strawberry {n} (The wood strawberry, Fragaria vesca.)	 :: markjordbær
+wild turkey {n} (Meleagris gallopavo)	 :: kalkun
+will {n} (intent or volition)	 :: vilje {m}, ønske {n}
+will {n} (legal document)	 :: testament {n}
+will {v} (indicating future action)	 :: vil, kommer til å, skal
+will {v} (To bequeath)	 :: testamentere
+will {v} (to wish strongly)	 :: ville
+William {prop} (male given name)	 :: Vilhelm
+will o' the wisp {n} (strange light)	 :: lyktemann
+willow {n} (tree)	 :: vier {m}, vierslekt {m}, viere {p}
+willow grouse {n} (Lagopus lagopus)	 :: [Bokmål] lirype {f} {m}, skogsrype {f} {m}; [Nynorsk] lirype {f}, skogsrype {f}
+willow ptarmigan {n} (Lagopus lagopus) SEE: willow grouse	 ::
+wilt {v} (to droop)	 :: visne
+wimp {n} (someone who lacks confidence)	 :: [Bokmål] pyse {m} {f}; [Nynorsk] pyse {m} {f}
+wimple {n} (Cloth used to cover a nun's head)	 :: [Bokmål] hakelin {n}
+wimple {n} (Ripple)	 :: [Bokmål] rifle {m} {f}
+win {n} (individual victory)	 :: seier {m}
+win {v} (intransitive: achieve by winning)	 :: vinne, overvinne
+win {v} (obtain (someone) by wooing)	 :: vinne
+win {v} (transitive: achieve victory in)	 :: vinne
+wince {v} (to flinch as if in pain)	 :: krympe seg
+winch {n} (machine)	 :: [Bokmål] vinsj {m}; [Nynorsk] vinsj {m}
+winch {v} (use a winch)	 :: [Bokmål] vinsje
+wind {n} (flatus)	 :: fjert {m}, fis {m}, promp {m}
+wind {n} (movement of air)	 :: vind {m}
+windcheater {n} (a heavy weatherproof jacket) SEE: windbreaker	 ::
+windfall {n} (fruit fallen off a tree naturally)	 :: nedfallsfrukt {m}
+windfall {n} (something that has been blown down by the wind)	 :: vindfall {n}
+windfall {n} (sudden large benefit)	 :: uventet hell
+wind farm {n} (collection of wind turbines)	 :: vindpark
+windflower {n} (Anemone nemorosa) SEE: wood anemone	 ::
+wind harp {n} (aeolian harp) SEE: aeolian harp	 ::
+windhover {n} (common kestrel) SEE: common kestrel	 ::
+windle {n} (redwing) SEE: redwing	 ::
+windles {n} (windlass) SEE: windlass	 ::
+windmeter {n} (an instrument for measuring and recording the speed of the wind) SEE: anemometer	 ::
+windmill {n} (child's toy)	 :: vindmølle {m} {f}
+windmill {n} (machinery)	 :: vindmølle {m} {f}
+windmill {n} (structure)	 :: vindmølle {m} {f}
+window {n} (area on a computer screen)	 :: [Bokmål] vindu {n}; [Nynorsk] vindauge {n}, vindauga {n}
+window {n} (opening for light and air)	 :: [Bokmål] vindu {n}; [Nynorsk] vindauge {n}, vindauga {n}
+window {n} (period of time)	 :: [Bokmål] vindu {n}; [Nynorsk] vindauge {n}, vindauge {n}
+window {n} (shop window) SEE: shop window	 ::
+window cleaner {n} (person)	 :: [Bokmål] vinduspusser {m}
+windpipe {n} (anus) SEE: anus	 ::
+windproof {adj} (providing protection from the wind)	 :: [Bokmål] vindtett; [Nynorsk] vindtett
+windscreen {n} (windshield) SEE: windshield	 ::
+windscreen wiper {n} (a device to clear a windscreen) SEE: windshield wiper	 ::
+windshield {n} (screen located in front of a vehicle to protect from wind and weather)	 :: frontrute {f}
+wind tunnel {n} (test facility)	 :: [Bokmål] vindtunnel {m}, vindtunell {m}; [Nynorsk] vindtunnel {m}
+windy {adj} (orally verbose) SEE: long-winded	 ::
+windy {n} (fart) SEE: fart	 ::
+wine {n} (alcoholic beverage made from grapes)	 :: vin
+winemaker {n} (a person or company that makes wine) SEE: vintner	 ::
+wing {n} (extension to a main body)	 :: [Bokmål] fløy {m} {f}; [Nynorsk] fløy {f}
+wing {n} (fraction of a political movement)	 :: [Bokmål] fløy {m} {f}; [Nynorsk] fløy {f}
+wing {n} (part of an aircraft)	 :: [Bokmål] vinge {m}; [Nynorsk] veng {m}
+wing {n} (part of an animal)	 :: [Bokmål] vinge {m}; [Nynorsk] veng {m}
+wing {v} (to fly) SEE: fly	 ::
+wing {v} (to throw) SEE: throw	 ::
+wing chair {n} (chair)	 :: ørelappstol {m}
+wingspan {n} (the distance from left wingtip to right)	 :: [Bokmål] vingespenn {n}
+wink {n} (a period of sleep) SEE: forty winks	 ::
+winkle {n} (gastropod) SEE: periwinkle	 ::
+winner {n} (one who has won or often wins)	 :: [Bokmål] vinner {m}; [Nynorsk] vinnar {m}
+Winnie the Pooh {prop} (the fictional bear)	 :: Ole Brumm
+win over {v} (to persuade) SEE: persuade	 ::
+winter {n} (fourth season, marked by short days and lowest temperatures)	 :: [Bokmål] vinter {m}; [Nynorsk] vinter {m}
+winterberry {n} (American winterberry) SEE: American winterberry	 ::
+winterberry holly {n} (American winterberry) SEE: American winterberry	 ::
+winter cherry {n} (bladder cherry) SEE: bladder cherry	 ::
+wintergreen {n} (evergreen) SEE: evergreen	 ::
+winter solstice {n} (the moment when the hemisphere is most inclined away from the sun)	 :: [Bokmål] vintersolverv {n}; [Nynorsk] vintersolkverv {m}
+wintertide {n} (wintertime) SEE: wintertime	 ::
+wintry {adj} (suggestive or characteristic of winter; cold, stormy)	 :: vinterlig
+win-win {adj} (of a situation that benefits two parties)	 :: [Bokmål] vinn-vinn; [Nynorsk] vinn-vinn
+wipe {v} (erase a computer disk)	 :: slette
+wipe {v} (remove surface substance)	 :: tørke av, viske; [Nynorsk] turka
+wire {n} (device used to keep the score in billiards) SEE: score string	 ::
+wire {n} (informal: message transmitted by telegraph) SEE: telegram	 ::
+wire {n} (informal: telegraph) SEE: telegraph	 ::
+wire {n} (thin thread of metal)	 :: ledning {m}
+wireless {adj} (not having any wires)	 :: [Bokmål] trådlaus, trådløs; [Nynorsk] trådlaus
+wire netting {n} (hexagonal network of interwoven wire)	 :: gjerdenetting
+wisdom {n} (ability to apply relevant knowledge in an insightful way)	 :: visdom {m}
+wisdom {n} (ability to know and apply spiritual truths)	 :: visdom {m}
+wisdom {n} (ability to make a decision based on the combination of knowledge, experience, and intuitive understanding)	 :: visdom {m}
+wisdom {n} (discretionary use of knowledge for the greatest good)	 :: visdom {m}
+wisdom {n} (element of personal character)	 :: visdom {m}
+wisdom {n} (piece of wise advice)	 :: visdom {m}
+wisdom tooth {n} (rearmost molar in humans)	 :: visdomstann {m}
+wise {adj} (showing good judgement)	 :: vis
+wise guy {n} (member of the Mafia) SEE: mafioso, mobster	 ::
+wisent {n} (The European bison, Bison bonasus)	 :: visent
+wish list {n} (list of desired things)	 :: [Bokmål] ønskeliste {m} {f}; [Nynorsk] ynskeliste {f}, ynskjeliste {f}, ønskeliste {f}, ønskjeliste {f}
+wistful {adj} (full of longing)	 :: lengselsfull, vemodig
+wit {n} (intellectual ability)	 :: forstand {m}, intellekt {n}
+wit {n} (intelligence) SEE: intelligence	 ::
+wit {n} (mind; sanity)	 :: vett {n}
+wit {n} (Spoken humour, particularly that thought of quickly)	 :: vidd {n}
+witch {n} (derogatory: ugly or unpleasant woman)	 :: [Bokmål] heks {m} {f}; [Nynorsk] heks {f}
+witch {n} (Glyptocephalus cynoglossus) SEE: Torbay sole	 ::
+witch {n} (person who uses magic)	 :: [Bokmål] heks {m} {f}; [Nynorsk] heks {f}
+witch {n} (Wiccan) SEE: Wiccan	 ::
+witchcraft {n} (the practice of witches)	 :: heksekunst {m}; [Bokmål] hekseri {n}; [Nynorsk] hekseri {n}
+witch-hunt {n} (campaign to punish dissident persons)	 :: heksejakt {m} {f}
+witch-hunt {n} (persecution of persons believed to be using magic)	 :: heksejakt {m} {f}
+with {prep} (in addition to)	 :: med
+with {prep} (in the company of)	 :: med
+with all due respect {adv} (phrase used before disagreeing with someone)	 :: [Bokmål] med respekt å melde
+withdrawal symptoms {n} (withdrawal symptom) SEE: withdrawal symptom	 ::
+within {prep} (before the specified duration ends)	 :: innen
+within {prep} (inclusion within scope of)	 :: innenfor
+within {prep} (spatial enclosure)	 :: innenfor
+without {prep} (not having)	 :: uten
+without a doubt {prep} (certainly) SEE: certainly	 ::
+without a doubt {prep} (probably) SEE: probably	 ::
+witness {n} (someone called to give evidence in a court)	 :: vitne {n}
+witness box {n} (place where a witness gives evidence in a courtroom)	 :: [Bokmål] vitneboks {m}; [Nynorsk] vitneboks {m}
+witness stand {n} (witness stand) SEE: witness box	 ::
+wits' end {n} (at (one's) wits' end) SEE: perplexed	 ::
+witty {adj} (full of wit)	 :: vittig
+wizard {n} (computing: program or script used to simplify complex operations)	 :: assistent {m}
+wizard {n} (person skilled with magic)	 :: trollmann
+wobbler {n} (tantrum) SEE: tantrum	 ::
+woe {n} (grief; sorrow; misery; heavy calamity)	 :: sorg {m}
+wolf {n} (animal)	 :: ulv {m}, varg {m}
+wolf {n} (constellation) SEE: Lupus	 ::
+wolf cub {n} (young wolf)	 :: ulvunge {m}
+wolffish {n} (fish)	 :: [Bokmål] steinbit {m}; [Nynorsk] steinbit {m}
+Wolfgang {prop} (male given name)	 :: [Bokmål] Wolfgang; [Nynorsk] Wolfgang
+wolf in sheep's clothing {n} (a disguised danger)	 :: ulv i fåreklær
+wolfkin {n} (young or small wolf) SEE: wolf cub	 ::
+wolfling {n} (wolf cub) SEE: wolf cub	 ::
+wolfram {n} (tungsten) SEE: tungsten	 ::
+wolfram {n} (wolframite) SEE: wolframite	 ::
+wolf whelp {n} (young, esp. infant, wolf) SEE: wolf cub	 ::
+wollastonite {n} (grey inosilicate mineral)	 :: wollastonitt
+wolverine {n} (Gulo gulo)	 :: jerv {m}
+woman {n} (adult female human being)	 :: kvinne {c}, dame {c}
+woman {n} (wife) SEE: wife	 ::
+womanish {adj} (characteristic of a woman)	 :: kvinnelig
+womb {n} (belly) SEE: belly	 ::
+women's refuge {n} (women's shelter) SEE: women's shelter	 ::
+wonder {v} (to ponder about something)	 :: undres
+wonderful {adj} (excellent, extremely impressive)	 :: underfull; [Bokmål] vidunderlig; [Nynorsk] vidunderleg
+wonderous {adj} (wondrous) SEE: wondrous	 ::
+wondrous {adj} (amazing, inspiring awe)	 :: underfull, vidunderlig
+wood {n} (firewood)	 :: ved {m}
+wood {n} (substance)	 :: tre {n}, treverk {n}
+wood {n} (wood from a particular species)	 :: treslag {n}, tresort {m}, [less frequently] ved {m}
+wood {n} (woodland)	 :: skog {m}
+wood anemone {n} (Anemone nemorosa)	 :: [Bokmål] hvitveis; [Nynorsk] kvitveis
+woodcutter {n} (lumberjack) SEE: lumberjack	 ::
+woodlouse {n} (any species of suborder Oniscidea)	 :: skrukketroll, kaffebiller, munkelus, tussalus; [Nynorsk] skrukketroll, kaffebiller, munkelus, tusselus
+wood mouse {n} (European rodent)	 :: liten skogmus {c}
+woodpecker {n} (bird in Picinae)	 :: hakkespett {m}
+woods {n} (forest) SEE: forest	 ::
+wood sorrel {n} (a white-flowered woodland plant, Oxalis acetosella)	 :: [Bokmål] gjøkesyre, kløversyre {f}, siris {m}, skogsyre {f}, syreblad {n}, søtsyre {f}, vaffelhjerte {n} (and more); [Nynorsk] gauksyre {f}, gaukesyre {f}, gaukegras {n}, gaukvaffel {m}, syreblom {m} (and more)
+woodwind instrument {n} (musical instrument)	 :: treblåseinstrument
+woody {n} (erection) SEE: erection	 ::
+woof {n} (set of yarns placed crosswise in a loom)	 :: veft {m}, innslag {n}, islett {n}
+woof {n} (sound of a dog)	 :: voff, vov
+wool {n} (cloth or yarn)	 :: [Bokmål] ull {m} {f}; [Nynorsk] ull {f}
+wool {n} (hair of sheep, etc.)	 :: [Bokmål] ull {m} {f}; [Nynorsk] ull {f}
+woolen {adj} (made of wool)	 :: [Bokmål] ullen; [Nynorsk] ullen
+woolens {n} (woolens) SEE: woollens	 ::
+woolgrass bulrush {n} (Scirpus atrovirens) SEE: green bulrush	 ::
+woomera {n} (atlatl) SEE: atlatl	 ::
+word {n} (an angry debate; argument)	 :: krangel {m}
+word {n} (computing: fixed-size group of bits handled as a unit)	 :: ord {n}
+word {n} (promise)	 :: ord {n}, lovnad {m}
+word {n} (proverb) SEE: proverb	 ::
+word {n} (the word of God)	 :: ord {n}
+word {n} (unit of language)	 :: ord {n}
+word {n} (watchword) SEE: watchword	 ::
+word of honor {n} (a promise, or a pledge of one's good faith)	 :: [Bokmål] æresord {n}
+word of honour {n} (word of honor) SEE: word of honor	 ::
+word order {n} (order of syntactic constituents)	 :: ordstilling
+work {n} (labour, employment, occupation, job)	 :: arbeid {n}, jobb, verk {n}
+work {v} (effect by gradual degrees (transitive))	 :: arbeide
+work {v} (function correctly)	 :: fungere, virke, gå
+work {v} (to do a specific task)	 :: arbeide, jobbe
+worker {n} (person)	 :: [Bokmål] arbeider {m}; [Nynorsk] arbeidar {m}
+workers of the world, unite {phrase} (workers of the world, unite)	 :: [Bokmål] arbeidere i alle land, foren dere!; [Nynorsk] arbeidarar i alle land, samein dykk!
+working class {n} (social class doing physical work)	 :: [Bokmål] arbeiderklasse {m} {f}; [Nynorsk] arbeidarklasse {m} {f}
+working week {n} (range of days of the week) SEE: workweek	 ::
+work-intensive {adj} (labor-intensive) SEE: labor-intensive	 ::
+work placement {n} (practicum) SEE: practicum	 ::
+worksome {adj} (industrious) SEE: industrious	 ::
+worksome {adj} (laborious) SEE: laborious	 ::
+work someone's arse off {v} (to work excessively) SEE: work someone's ass off	 ::
+workstead {n} (laboratory) SEE: laboratory	 ::
+work the crowd {v} (work the room) SEE: work the room	 ::
+world {n} (human collective existence)	 :: verden {m}
+world {n} (individual or group perspective or social setting)	 :: verden {m}
+world {n} (inhabited planet)	 :: verden {m}
+world {n} (the earth)	 :: verden {m}
+world champion {n} (winner of world cup or world championship)	 :: [Bokmål] verdensmester {m}
+World Exposition {n} (a regular international exposition)	 :: Verdensutstilling, Expo
+worldly {adj} (versed in the ways of the world)	 :: verdensvant
+world record {n} (the world's best score or time)	 :: [Bokmål] verdensrekord {m}; [Nynorsk] verdsrekord {m}
+world's oldest profession {n} (a euphemism for prostitution)	 :: verdens eldste yrke
+World Trade Organization {prop} (World Trade Organization)	 :: Verdens handelsorganisasjon
+worldview {n} (personal view of the world)	 :: verdensanskuelse {m}
+world war {n} (a war involving the major nations of the world)	 :: [Bokmål] verdenskrig {m}; [Nynorsk] verdskrig {m}
+World War I {prop} (war)	 :: første verdenskrig {m}
+World War II {prop} (war from 1939 to 1945)	 :: [Bokmål] andre verdenskrig {m}; [Nynorsk] andre verdskrigen {m}
+World War III {prop} (hypothetical world war (World War III))	 :: tredje verdenskrig {m}
+World War One {prop} (World War I) SEE: World War I	 ::
+World War Two {prop} (World War II) SEE: World War II	 ::
+World Wide Web {prop} (An information space on the Internet)	 :: [Bokmål] verdensveven; [Nynorsk] verdsveven
+worm {n} (animal)	 :: mark {m}, makk {m}, orm {m}
+worm {n} (contemptible being)	 :: orm {m}
+worm {n} (dragon or mythological serpent)	 :: orm {m}
+worm {n} (self-replicating program)	 :: orm {m}
+worm {v} (to move with one's body dragging the ground)	 :: krype, kravle, åle
+wormwood {n} (Artemisia absinthium)	 :: [Bokmål] malurt {m}; [Nynorsk] malurt {m}
+worry {v} (disturb the peace of mind of)	 :: uroe
+worry {v} (strangle) SEE: strangle	 ::
+worrywart {n} (person who worries excessively)	 :: [Bokmål] svartseer
+worse {adj} (comparative form of bad)	 :: verre
+worst comes to worst {adv} (if a bad situation develops)	 :: i verste fall
+worsted {n} (yarn made from wool)	 :: kamgarn {n}
+worth {prep} (equal in value to)	 :: verdt
+worth {prep} (obsolete: valuable, worthwhile) SEE: worthwhile	 ::
+worthless {adj} (not having worth and use, without value, inconsequential)	 :: [Bokmål] verdiløs, verdilaus; [Nynorsk] verdilaus, verdlaus
+worthwhile {adj} (good and important enough to spend time, effort, or money on)	 :: umaken verd
+worthwhile {adj}	 :: verdifull
+would like {v} (intransitive)	 :: vil gjerne
+wound {n} (an injury to a person by which the skin is divided)	 :: sår {n}
+wound {n} (injury)	 :: sår {n}, skade {m}
+wound {n} (something that offends a person’s feelings)	 :: sår {n}
+wound {v} (hurt or injure)	 :: skade
+wound {v} (hurt (someone's feelings))	 :: såre
+wrack {v} (rack) SEE: rack	 ::
+wrath {n} (great anger)	 :: vrede {m}, sinne {n}
+wrathful {adj} (possessed of great wrath)	 :: olm
+wreck {n} (remains)	 :: vrak {n}
+wrecker {n} (tow truck) SEE: tow truck	 ::
+wren {n} (bird of family Troglolytidae)	 :: gjerdesmett {m}
+wrench {n} (screw) SEE: screw	 ::
+wrest {v} (to obtain by pulling or violent force)	 :: fravriste
+wretch {n} (exile) SEE: exile	 ::
+wrinkleless {adj} (wrinkle-free) SEE: wrinkle-free	 ::
+wrist {n} (wrist)	 :: [Bokmål] håndledd {n}; [Nynorsk] handledd {n}
+wristwatch {n} (watch worn on the wrist)	 :: [Bokmål] armbåndsur {n}
+write {v} (to be an author)	 :: skrive
+write {v} (to be the author of)	 :: skrive
+write {v} (to form letters, etc.)	 :: skrive
+write {v} (to send a letter to)	 :: skrive
+writer {n} (person who writes; an author)	 :: forfatter {m}, skribent {m}
+writer's block {n} (the temporary inability to write)	 :: skrivesperre {f}
+writer's cramp {n} (cramp in the writing hand)	 :: [Bokmål] skrivekrampe {m}; [Nynorsk] skrivekrampe {m}
+written {adj}	 :: skrevet, skriftlig
+Wroclaw {prop} (a city in southwestern Poland)	 :: Wrocław, Breslau [historical, signifying "Breslau"]
+wrong {adj} (designed to be worn or placed inward)	 :: vrang
+wrong {adj} (immoral)	 :: galt
+wrong {adj} (improper)	 :: gal
+wrong {adj} (incorrect)	 :: galt, feil, uriktig
+wrong {adj} (not working)	 :: feil
+wrong {adv} (done incorrectly)	 :: galt
+wrought iron {n} (form of iron that is not cast)	 :: [Bokmål] smijern {n}; [Nynorsk] smijarn {n}, smijern {n}
+wryneck {n} (torticollis) SEE: torticollis	 ::
+wuderove {n} (herb) SEE: sweet woodruff	 ::
+Wulumuqi {prop} (Capital of Xinjiang) SEE: Ürümqi	 ::
+wunderkind {n} (child prodigy)	 :: vidunderbarn {n}
+wunderkind {n} (highly talented individual who is successful at a young age)	 :: vidunderbarn {n}
+wuss out {v} (chicken out) SEE: chicken out	 ::
+wussy {n} (wuss) SEE: wuss	 ::
+WW1 {abbr} (World War I) SEE: World War I	 ::
+WW2 {abbr} (WWII) SEE: WWII	 ::
+wy {n} (name of the letter Y, y) SEE: wye	 ::
+wynkernel {n} (common moorhen) SEE: common moorhen	 ::

@@ -1,0 +1,2600 @@
+﻿Saami {prop} (Saami language)	 :: Samisk språk
+Sabbath {prop} (Biblical seventh day)	 :: [Bokmål] sabbat {m}; [Nynorsk] sabbat {m}
+Sabbath {prop} (Sunday)	 :: [Bokmål] søndag {m}; [Nynorsk] sundag {m}, søndag {m}
+Sabbath {prop} (witches' Sabbath)	 :: [Bokmål] heksesabbat {m}; [Nynorsk] heksesabbat {m}
+sabbatical {n} (extended period of leave)	 :: sabbatsår {n}
+saber {n} (sabre) SEE: sabre	 ::
+saber-toothed tiger {n} (sabre-toothed tiger) SEE: sabre-toothed tiger	 ::
+sabotage {n}	 :: sabotasje
+sabre {n} (light sword, sharp along the front edge, part of the back edge, and at the point)	 :: sabel {m}
+sabre {n} (modern fencing sword modeled after the sabre)	 :: sabel {m}
+sabre-toothed tiger {n} (prehistoric cat)	 :: sabeltanntiger {m}, sabeltannkatt {m}
+sac fungus {n} (fungus of the phylum Ascomycota) SEE: ascomycete	 ::
+sack {n} (bag for commodities or items)	 :: [Bokmål] sekk {m}, pose {m}; [Nynorsk] sekk {m}, pose {m}
+sack {n} (informal: dismissal from employment)	 :: sparken
+sack {v}	 :: sparke, kicke [slang]
+sack {v} (to plunder)	 :: plyndre
+sacrament {n} (sacred act or ceremony)	 :: sakrament {n}
+sacred {adj} (made holy)	 :: hellig
+sacred baboon {n} (Papio hamadryas) SEE: hamadryas	 ::
+sacredize {v} (to make sacred) SEE: sacralize	 ::
+sacrifice {n} (something sacrificed)	 :: offer {n}
+sacrifice {v} (to give away something valuable in order to gain something else of value)	 :: ofre
+sacrifice {v} (to offer as a gift to a deity)	 :: ofre
+sacrosanct {adj}	 :: sakrosankt, fredlyst, hellig og ukrenkelig
+sad {adj} (dialect: soggy) SEE: soggy	 ::
+sad {adj} (feeling sorrow)	 :: trist, lei seg
+sad {adj}	 :: trist , rørende
+Saïda {prop} (port city in Lebanon) SEE: Sidon	 ::
+saddle {n} (seat on a bicycle etc)	 :: [Bokmål] sete {n}, sykkelsete {n}; [Nynorsk] sete {n}, sykkelsete {n}
+saddle {n} (seat on an animal)	 :: [Bokmål] sal {m}, sadel {m}; [Nynorsk] sal {m}
+saddle {v} (to put a saddle on)	 :: sale
+saddlebag {n} (covered pouch)	 :: saltaske {f}, sykkelveske {f}
+saddlemaker {n} (saddler) SEE: saddler	 ::
+sadly {adv} (unfortunately) SEE: unfortunately	 ::
+sadness {n} (state/emotion)	 :: sorg {m}, melankoli {m}
+sad to say {adv} (unfortunately) SEE: unfortunately	 ::
+safe {adj} (free from risk)	 :: sikker, trygg
+safe {adj} (not in danger)	 :: sikker, trygg
+safe {adj} (properly secured)	 :: sikker
+safe {adj} (providing protection from danger)	 :: trygg
+safe {n} (box in which valuables can be locked for safekeeping)	 :: safe {m}
+safeguard {n} (something that serves as a guard or protection; a defense)	 :: sikring {m} {f}
+safely {adv} (in a safe manner)	 :: trygt
+safety {n}	 :: sikkerhet , trygghet , sikring {m}
+safety pin {n} (pin, in the form of a clasp)	 :: [Bokmål] sikkerhetsnål {m} {f}
+safety pin {n} (pin of a hand grenade)	 :: splint {m}
+saffron {n} (colour)	 :: safran
+saffron {n} (dye)	 :: [Bokmål] safran {m}; [Nynorsk] safran {m}
+saffron {n} (plant)	 :: [Bokmål] safrankrokus {m}; [Nynorsk] safrankrokus {m}
+saffron {n} (spice)	 :: [Bokmål] safran {m}; [Nynorsk] safran {m}
+sage {adj} (wise)	 :: klok, vis
+sage {n} (wise person)	 :: vismann {m}
+Sagittarius {n} (Someone with a Sagittarius star sign)	 :: skytte {m}
+Sagittarius {prop} (astrological sign)	 :: Skytten {m}
+Sagittarius {prop} (constellation)	 :: Skytten
+Sahara {prop} (desert)	 :: Sahara {m}
+said and done {adj} (agreed to and accomplished or finished)	 :: sagt og gjort
+Saigon {prop} (Ho Chi Minh City) SEE: Ho Chi Minh City	 ::
+sail {n} (a piece of fabric attached to a boat)	 :: seil
+sail {n} (a trip in a boat)	 :: seiltur
+sail {n} (sailfish) SEE: sailfish	 ::
+sail {v} (to move briskly and gracefully through the air)	 :: seile
+sail {v} (to move briskly)	 :: seile
+sail {v} (to ride in a boat, especially sailboat)	 :: seile
+sailboat {n} (a boat propelled by sails)	 :: kutter, seilbåt
+sailing {adj} (travelling by ship)	 :: seilende
+sailing {n} (motion across water)	 :: seilas {n}, seiltur {m}
+sailing ship {n} (type of ship)	 :: seilskip {n}
+sailor {n} (worker on a ship)	 :: matros {m}, sjømann {m}, seiler {m}
+saint {n} ((figuratively) a person with positive qualities)	 :: [Bokmål] helgen {m}; [Nynorsk] helgen {m}
+saint {n} (one who is sanctified or made holy)	 :: [Bokmål] helgen {m}; [Nynorsk] helgen {m}
+saint {n} (person proclaimed as saint)	 :: [Bokmål] helgen {m}, sankt; [Nynorsk] helgen {m}
+saint {v} (formally recognize as a saint)	 :: kanonisere
+Saint Helena {prop} (island, United Kingdom overseas territory in the Atlantic Ocean)	 :: Sankt Helena, St. Helena
+Saint Kitts and Nevis {prop} (A country in the Caribbean)	 :: Saint Kitts og Nevis
+Saint Lucia {prop} (country in the Caribbean)	 :: Saint Lucia
+Saint Nicholas {prop} (Santa Claus) SEE: Santa Claus	 ::
+saintpaulia {n} (African violet) SEE: African violet	 ::
+Saint Petersburg {prop} (city)	 :: [Bokmål] St. Petersburg
+Saint Vincent and the Grenadines {prop} (country in the Caribbean)	 :: Saint Vincent og Grenadinene
+sake {n} (Japanese rice wine)	 :: sake {m}
+sake {n}	 :: skyld {f}
+sakura {n} (cherry blossom) SEE: cherry blossom	 ::
+sakura {n} (cherry) SEE: cherry	 ::
+sakura {n} (cherry tree) SEE: cherry tree	 ::
+salad {n} (a food made primarily of a mixture of raw ingredients, typically vegetables)	 :: salat {m}
+salary {n} (fixed amount of money paid on monthly or annual basis)	 :: lønn {c}
+sale {n} (act of putting up for auction to the highest bidder)	 :: auksjon {m}
+sale {n} (exchange of goods or services for currency or credit)	 :: [Bokmål] salg {n}
+sale {n} (sale of goods at reduced prices)	 :: [Bokmål] salg {n}
+salesman {n} (man whose job it is to sell things)	 :: selger {m}
+saline {adj} (salty)	 :: saltholdig
+saline {n} (solution)	 :: saltløsning {c}
+salineness {n} (salineness) SEE: salinity	 ::
+saliva {n} (liquid secreted into the mouth)	 :: spytt {n}
+sally {n} (willow) SEE: willow	 ::
+salmon {adj} (made with salmon)	 :: lakse-
+salmon {n} (fish)	 :: laksfisk {m}
+salmon trout {n} (rainbow trout) SEE: rainbow trout	 ::
+salon {n}	 :: sal {m}
+saloon {n} (sedan) SEE: sedan	 ::
+salpinx {n} (Fallopian tube) SEE: Fallopian tube	 ::
+salt {adj} (saline)	 :: saltholdig
+salt {adj} (salty)	 :: salt
+salt {n} (compound of an acid and a base)	 :: salt {n}
+salt {n} (salt marsh) SEE: salt marsh	 ::
+salt {n} (sodium chloride)	 :: salt {n}, bordsalt {n}
+salt {v} (to add salt to)	 :: salte
+salting {n} (salt marsh) SEE: salt marsh	 ::
+saltire {n} (Saint Andrew's cross) SEE: Saint Andrew's cross	 ::
+salt water {n} (any water containing dissolved salt)	 :: [Bokmål] saltvann {n}, saltvatn {n}; [Nynorsk] saltvatn {n}
+salt water {n} (brine) SEE: brine	 ::
+salty {adj}	 :: salt
+salty dog {n} (seadog) SEE: seadog	 ::
+salubrious {adj}	 :: helsebringende
+salute {n}	 :: hilsen {m}, honnør {m}
+salute {v}	 :: hilse
+Salvadoran {adj} (of or pertaining to El Salvador)	 :: [Bokmål] salvadoransk; [Nynorsk] salvadoransk
+Salvadoran {n} (a person from El Salvador)	 :: [Bokmål] salvadoraner {m}; [Nynorsk] salvadoran {m}, salvadoranar {m}
+Salvadorian {adj} (Salvadoran) SEE: Salvadoran	 ::
+Salvadorian {n} (Salvadoran) SEE: Salvadoran	 ::
+salvage {n}	 :: berging {f} , bergingslønn {f}
+salvage {v}	 :: redde, berge
+salvation {n} (the process of being saved (religion))	 :: frelse {m}
+Salvation Army {prop} (protestant Christian charitable and evangelical organization)	 :: [Bokmål] Frelsesarmeen; [Nynorsk] Frelsesarmeen
+samarium {n} (chemical element)	 :: samarium
+same {adj} (not different as regards self; identical)	 :: samme
+same {adj} (similar, alike)	 :: lignende
+same {pron} (something similar, something of the identical type)	 :: samme, lignende
+same {pron} (the identical thing)	 :: samme
+same-sex marriage {n} (gay marriage) SEE: gay marriage	 ::
+same to you {phrase} (I wish to you what you have just wished to me)	 :: i like måte
+Sami {adj} (relating to the Sami people or languages)	 :: [Bokmål] samisk; [Nynorsk] samisk
+Sami {n} (member of indigenous people of Lapland)	 :: same {m}
+Sami {prop} (Sami language)	 :: [Bokmål] samisk {m}; [Nynorsk] samisk {m}
+samisen {n} (shamisen) SEE: shamisen	 ::
+Samland {prop} (peninsula which juts into the Baltic)	 :: Samland
+samlaw {n} (pedicab) SEE: pedicab	 ::
+Samoa {prop} (Independent State of Samoa)	 :: Samoa
+Samoan {adj} (of or pertaining to Samoa)	 :: [Bokmål] samoansk; [Nynorsk] samoansk
+Samoan {n} (person)	 :: [Bokmål] samoaner {m}; [Nynorsk] samoanar {m}
+Samoan {prop} (Samoan language)	 :: [Bokmål] samoansk {m}; [Nynorsk] samoansk {m}
+Samogitian {adj} (Of, from, or pertaining to the region of Samogitia, or its people)	 :: samogitisk
+Samogitian {prop} (Baltic language spoken in Samogitia)	 :: samogitisk
+samogon {n} (moonshine) SEE: moonshine	 ::
+Samos {prop}	 :: Samos
+Samosata {prop} (city in Commagene)	 :: Samosata
+samovar {n} (metal urn with a spigot, for boiling water for making tea)	 :: samovar
+sampan {n} (Chinese boat)	 :: sampan
+sample {n} (part taken for inspection)	 :: prøve {m} , sample {n} , eksempel {n}
+sample {v} (to take or to test a sample or samples of)	 :: ta prøve av
+Samson {prop} (Israelite judge)	 :: Samson
+Samuel {prop} (male given name)	 :: Samuel
+samurai {n} (feudal Japanese warrior)	 :: samurai {m}
+sanctify {v} (to endorse)	 :: velsigne
+sanctify {v} (to make holy)	 :: vigsle, helliggjøre
+sanctify {v} (to purify)	 :: rense, tilgi
+sanctimonious {adj} (making a show of being morally better than others, especially hypocritically)	 :: [Bokmål] skinnhellig; [Nynorsk] skinheilag
+sanction {n} (approval, by an authority, that makes something valid)	 :: godkjennelse {m}, tillatelse {m}
+sanction {n} (penalty, coercive measure)	 :: sanksjon {m}
+sanction {n} (stipulation specifying the above)	 :: sanksjon {m}
+sanction {v} (To give authorization or approval to)	 :: godkjenne, tillate
+sanction {v} (To penalize a state, especially for violating international law)	 :: sanksjonere, straffe
+sanctuary {n} (area set aside for protection)	 :: reservat {n}
+sanctuary {n} (place of safety or protection)	 :: tilfluktssted {n}
+sanctuary {n} (state of being protected)	 :: asyl {n}, fristed {n}
+sand {n} (beach)	 :: sandstrand, strand
+sand {n} (colour)	 :: sandfarget
+sand {n} (finely ground rock)	 :: [Bokmål] sand {m}; [Nynorsk] sand {m}
+sandal {n} (sandalwood) SEE: sandalwood	 ::
+sandal {n} (type of footwear)	 :: [Bokmål] sandal {m}; [Nynorsk] sandal {m}
+sandbag {n} (a bag filled with sand)	 :: [Bokmål] sandsekk {m}; [Nynorsk] sandsekk {m}
+sandbank {n} (ridge of sand)	 :: [Bokmål] sandbanke {m}; [Nynorsk] sandbanke {m}
+sandblast {v} (to spray with sand)	 :: sandblåse
+sandbox {n}	 :: sandkasse {m}
+sand dune {n} (mound of windblown sand)	 :: [Bokmål] sanddyne {m}; [Nynorsk] sanddyne {f}
+sander {n} (machine for sanding)	 :: slipemaskin {f}
+sanding sheet {n} (sheet of sanding paper)	 :: slipeark
+sandpaper {n} (a sheet)	 :: sandpapir {n}, slipeark
+sandpaper {n} (paper coated with abrasive material)	 :: [Bokmål] sandpapir {n}; [Nynorsk] sandpapir {n}
+sandpaper {v} (to polish or grind a surface)	 :: slipe
+sandpit {n} (children's play area)	 :: sandkasse {f}
+sandstone {n} (sand/clay sedimentary rock)	 :: [Bokmål] sandstein {m}; [Nynorsk] sandstein {m}
+sandwich {n} (open sandwich) SEE: open sandwich	 ::
+sandwich {n} (snack consisting of two slices of bread)	 :: sandwich, smørbrød
+sandy {adj} (sand-coloured)	 :: sandfarget
+sane {adj} (mentally healthy)	 :: tilregnelig, fornuftig
+sangfroid {n} (composure, self-possession or imperturbability)	 :: kaldblodig, uberørt
+sanguine {adj} (anticipating the best)	 :: optimistisk; [Bokmål] sangvinsk; [Nynorsk] sangvinsk
+sanguine {adj} (warm; ardent)	 :: [Bokmål] sangvinsk; [Nynorsk] sangvinsk
+sanitary {adj} (hygienic)	 :: hygienisk
+sanitary {adj} (of health)	 :: sanitær
+sanitary towel {n} (pad of cotton) SEE: sanitary napkin	 ::
+sanity {n}	 :: tilregnelighet, fornuft {m}
+San Marino {prop} (capital city)	 :: San Marino
+San Marino {prop} (Republic of San Marino)	 :: San Marino
+sans {prep} (without)	 :: uten
+Sanskrit {prop} (language)	 :: sanskrit
+Santa {prop} (Santa Claus) SEE: Santa Claus	 ::
+Santa Claus {prop} (A modern mythological figure)	 :: julenissen
+sap {n} (juice of plant)	 :: sevje {f}
+sap {n} (slang: saphead)	 :: tosk {m}
+Sapphic {adj} (sapphic) SEE: sapphic	 ::
+sapphire {adj} (colour)	 :: safirblå
+sapphire {n} (gem)	 :: safir {m}
+Sara {prop} (female given name) SEE: Sarah	 ::
+Sarah {prop} ( given name from Hebrew)	 :: Sara
+Sarah {prop} (Wife of Abraham)	 :: Sara
+sarcasm {n} (derision, facetiousness)	 :: sarkasme
+sardine {n} (fish)	 :: [Bokmål] sardin {m}; [Nynorsk] sardin {m}
+sardonic {adj} (scornfully mocking)	 :: bitter
+sarong {n} (garment made of printed cloth wrapped about the waist)	 :: sarong {m}
+Satan {prop} (the Devil)	 :: Satan
+satanical {adj} (satanic) SEE: satanic	 ::
+Satanism {n} (a religion founded by Anton Szandor LaVey)	 :: satanisme {m}
+Satanism {n} (devil worship)	 :: satanisme {m}
+satchel {n} (bag or case with one or two shoulder straps)	 :: skulderveske, ransel
+satellite {n} (man-made apparatus designed to be placed in orbit around a celestial body)	 :: satelitt
+satellite dish {n} (parabolic antenna)	 :: [Bokmål] parabolantenne {m} {f}; [Nynorsk] parabolantenne {f}
+satellite town {n} (self-contained town near a metropolis)	 :: [Bokmål] drabantby {m}; [Nynorsk] drabantby {m}
+satiate {v}	 :: tilfredsstille, mette
+satire {n} (literary technique)	 :: satire {m}
+satiric {adj} (satirical) SEE: satirical	 ::
+satirical {adj} (of or pertaining to satire)	 :: satirisk
+satisfaction {n}	 :: tilfredsstillelse {m} , oppreisning
+satisfactory {adj} (adequate or sufficient)	 :: [Bokmål] tilfredsstillende, tilstrekkelig, fyllestgjørende, fullgod
+satisfied {adj} (in a state of satisfaction)	 :: tilfreds, fornøyd, mett
+satisfy {v} (to meet needs, to fulfill)	 :: tilfredsstille
+saturate {v} (to become penetrated or soaked)	 :: gjennomvæte
+saturate {v} (to cause a substance to become inert by chemical combination with all that it can hold)	 :: mette
+saturated {adj} (chemistry: having all available valence bonds filled)	 :: mettet
+saturated {adj} (full; unable to hold or contain any more)	 :: mettet
+saturated {adj} (of a solution: containing all the solute that can normally be dissolved)	 :: mettet
+saturated {adj} (soaked or drenched with moisture)	 :: mettet
+saturation {n}	 :: metning
+Saturday {n} (day of the week)	 :: [Bokmål] lørdag {m}; [Nynorsk] laurdag {m}
+Saturn {prop} (god)	 :: Saturn {m}
+Saturn {prop} (planet)	 :: Saturn {m}
+saturnism {n} (lead poisoning) SEE: plumbism	 ::
+sauce {n} (liquid condiment)	 :: saus {m}
+saucepan {n} (deep cooking vessel)	 :: kasserolle {m}, gryte {f}
+saucer {n} (object shaped like a saucer)	 :: tallerken {m}
+saucer {n} (small dish)	 :: asjett {m}
+saucy {adj} (impertinent or disrespectful)	 :: frekk
+saucy {adj} (impudently bold)	 :: frekk
+saucy {adj} (mildly erotic)	 :: dristig
+Saudi {adj} (pertaining to Saudi Arabia)	 :: saudiarabisk, saudisk; [Bokmål] saudisk, saudiarabisk; [Nynorsk] saudisk, saudiarabisk
+Saudi {n} (person from Saudi Arabia)	 :: [Bokmål] saudier {m}, saudiaraber {m}; [Nynorsk] saudiar {m}, saudiarabar {m}
+Saudi Arabia {prop} (country in the Middle East)	 :: Saudi-Arabia
+Saudi Arabian {adj} (pertaining to Saudi Arabia)	 :: [Bokmål] saudisk, saudiarabisk; [Nynorsk] saudisk, saudiarabisk
+Saudi Arabian {n} (person from Saudi Arabia)	 :: [Bokmål] saudier {m}, saudiaraber {m}; [Nynorsk] saudiar {m}, saudiarabar {m}
+sauerkraut {n} (a dish made by fermenting finely chopped cabbage)	 :: [Bokmål] surkål {m}; [Nynorsk] surkål {m}
+Saul {prop} (first king of Israel)	 :: Saul
+Saul {prop} (original name of Paul)	 :: Saulus
+sauna {n} (sauna room or house)	 :: badstue {f}
+saunter {n} (a leisurely walk or stroll)	 :: spasertur {m}
+saunter {v} (stroll or walk at a leisurely pace)	 :: slentre
+sausage {n} (for slicing)	 :: pølse {c}
+sausage {n} (small, uncooked)	 :: pølse {c}, sosiss {m}
+savage {adj} (Barbaric, not civilized)	 :: barbarisk
+savage {adj} (Brutal, vicious or merciless)	 :: brutal, grusom
+savage {adj} (Fierce and ferocious)	 :: rasende
+savage {adj} (Wild, not cultivated)	 :: vill
+savage {n} (uncivilized or feral person)	 :: villmann {m}
+savage {v} (To criticise vehemently)	 :: slakte
+savagery {n} (Act of cruelty)	 :: grusomhet {m}
+savagery {n} (Being savage)	 :: villskap {m}
+savagery {n} (Savage or brutal behaviour)	 :: brutalitet {m}
+savanna {n} (tropical grassland with scattered trees)	 :: savanne {m}
+savannah {n} (savanna) SEE: savanna	 ::
+save {n} (block that prevents an opponent from scoring)	 :: redning
+save {prep} (except, with the exception of)	 :: unntatt
+save {v} (accumulate money)	 :: spare
+save {v} (economize)	 :: spare
+save {v} (store for future use)	 :: spare, lagre
+save {v} (to help someone to survive)	 :: redde
+save {v} (to write a file to a disk)	 :: lagre
+saving {n} (reduction in cost)	 :: besparelse {m}, økonomisering {c}
+saving {n} (something saved)	 :: besparelser {m}
+savior {n} (a person who rescues another from harm)	 :: redningsmann {m} ; [Bokmål] frelser {m}; [Nynorsk] frelsar {m}
+savor {n} (a distinctive sensation)	 :: smak {m}, nytelse {m}
+savor {n} (the specific taste or smell of something)	 :: aroma {m}, smak {m}, lukt {c}
+savor {v} (to appreciate, enjoy or relish something)	 :: nyte
+savor {v} (to possess a particular taste or smell, or a distinctive quality)	 :: smake
+savour {v} (savour) SEE: savor	 ::
+Savoy {n} (Savoy cabbage) SEE: Savoy cabbage	 ::
+saw {n} (musical saw) SEE: musical saw	 ::
+saw {n} (sawtooth wave) SEE: sawtooth	 ::
+saw {n} (tool)	 :: [Bokmål] sag {m} {f}; [Nynorsk] sag {f}
+sawmill {n} (machine, building or company)	 :: sagbruk {n}, sag {m} {f}
+sawtooth {n} (sawtooth wave) SEE: sawtooth wave	 ::
+Saxony {prop} (state)	 :: Sachsen
+say {v} (to communicate verbally or in writing)	 :: [Bokmål] si; [Nynorsk] seia, seie
+say {v} (to indicate in a written form)	 :: [Bokmål] si; [Nynorsk] seia, seie
+say {v} (to pronounce)	 :: [Bokmål] si; [Nynorsk] seia, seie
+say goodbye {v} (wish someone farewell upon their leaving)	 :: ta adjø, ta avskjed, ta farvel
+scab {n} (mange) SEE: mange	 ::
+scab {n} (scabies) SEE: scabies	 ::
+scab {n} (strikebreaker) SEE: strikebreaker	 ::
+scabies {n} (an infestation of parasitic mites, Sarcoptes scabiei)	 :: reveskabb
+scaffold {n} (platform for executions)	 :: skafott {n}
+scaffold {n} (structure made of scaffolding, for workers to stand on while working on a building)	 :: stillas {n}
+scaffolding {n} (system of tubes or poles used to support people and material)	 :: stillas {n}
+scale {n} (assigning a magnitude)	 :: [Bokmål] skala {m}; [Nynorsk] skala {m}
+scale {n} (device)	 :: vekt {f}
+scale {n} (keratin pieces covering the skin of certain animals)	 :: [Bokmål] skjell; [Nynorsk] skjell
+scale {n} (limescale) SEE: limescale	 ::
+scale {n} (ordered numerical sequence)	 :: [Bokmål] skala {m}; [Nynorsk] skala {m}
+scale {n} (ratio of distances)	 :: [Bokmål] skala {m}; [Nynorsk] skala {m}
+scale {n} (series of notes)	 :: [Bokmål] skala {m}; [Nynorsk] skala {m}
+scale {n} (size or scope)	 :: [Bokmål] skala {m}; [Nynorsk] skala {m}
+scales {n} (device for weighing goods for sale)	 :: vekt {f}
+scalp {n} (bed of shellfish) SEE: scaup	 ::
+scalpel {n} (small straight knife)	 :: skalpell {m}
+scaly anteater {n} (pangolin) SEE: pangolin	 ::
+scam {n} (fraudulent deal)	 :: bondefangeri
+Scandinavia {prop} (Denmark, Norway, and Sweden)	 :: Skandinavia
+Scandinavia {prop} (Scandinavian Peninsula) SEE: Scandinavian Peninsula	 ::
+Scandinavian {adj} (of Scandinavia)	 :: skandinavisk
+Scandinavian {n} (someone from Scandinavia)	 :: [Bokmål] skandinav {m}; [Nynorsk] skandinav {m}
+Scandinavian Peninsula {prop} (peninsula in Northern Europe, see also: Scandinavia)	 :: Skandinavia
+scandium {n} (chemical element)	 :: scandium
+Scanian {adj} (of a Scanian, Scanian)	 :: skånsk
+Scanian {adj} (of Scania)	 :: skånsk
+Scanian {prop} (dialect)	 :: skånsk {m}
+Scanian {prop} (person)	 :: skåning {m}
+scapegoat {n} (a goat imbued with the sins of the people)	 :: syndebukk {m}
+scapegoat {n} (someone punished for someone else's error(s))	 :: syndebukk {m}
+scaphoid {n} (scaphoid bone) SEE: scaphoid bone	 ::
+scapula {n} (large flat bone) SEE: shoulder blade	 ::
+scar {n} (a permanent mark on the skin sometimes caused by the healing of a wound)	 :: arr {n}
+scarecrow {n} (an effigy made to scare the birds away)	 :: [Bokmål] fugleskremsel {n}; [Nynorsk] fugleskremsel {n}, fugleskremsle {f}
+scared {adj} (afraid, frightened)	 :: redd
+scared shitless {adj} (terrified) SEE: scared stiff	 ::
+scarf {n} (headscarf) SEE: headscarf	 ::
+scarf {n} (long garment worn around the neck)	 :: skjerf {n}
+scarlatina {n} (scarlet fever) SEE: scarlet fever	 ::
+scarlet {adj} (colour)	 :: skarlagen
+scarlet {n} (colour)	 :: skarlagen {n}
+scarlet fever {n} (streptococcal infection)	 :: [Bokmål] skarlagensfeber {m}
+scatter {v} (physics: to deflect)	 :: [Bokmål] spre; [Nynorsk] spreie
+scatter {v} (to cause to separate)	 :: [Bokmål] spre; [Nynorsk] spreie
+scatter {v} (to disperse)	 :: [Bokmål] spre; [Nynorsk] spreie
+scatter {v} (to distribute loosely)	 :: strø
+scatterbrained {adj} (absent-minded) SEE: absent-minded	 ::
+scavenger {n} (animal feeding on decaying matter)	 :: [Bokmål] åtseleter {m}; [Nynorsk] åtseletar {m}
+scene {n} (landscape, scenery) SEE: scenery	 ::
+scene {n} ((theater) the stage) SEE: stage	 ::
+sceptic {n} (skeptic) SEE: skeptic	 ::
+schadenfreude {n} (malicious enjoyment derived from observing someone else's misfortune)	 :: skadefryd {m}
+schedule {n} (time-based plan of events)	 :: timeplan {m}
+Scheldt {prop} (river)	 :: Schelde; [Nynorsk] Schelde
+schistous {adj} (schistose) SEE: schistose	 ::
+schizophrenia {n} (illness)	 :: [Bokmål] schizofreni {m}; [Nynorsk] schizofreni {m}
+schmo {n} (schmuck) SEE: schmuck	 ::
+schnoz {n} (schnozzle) SEE: schnozzle	 ::
+schnoz {n} (schnozzle) SEE: schnozzle	 ::
+scholar's mate {n} (checkmate which occurs after the moves 1.e4 e5 2.Qh5 Nc6 3.Bc4 Nf6 4.Qxf7#)	 :: skolematten
+school {n} (a department/institute at a college or university)	 :: fakultet {n}
+school {n} (a group of fish)	 :: stim {m}
+school {n} (an institution dedicated to teaching and learning)	 :: skole {m}
+school {n} (a particular doctrine)	 :: skole {m}
+school {v} (educate, teach, or train)	 :: skole, skolere, lære opp, utdanne
+schoolbag {n} (satchel)	 :: [Bokmål] skoleveske {m} {f}; [Nynorsk] skoleveske {f}, skuleveske {f}
+school band {n} (a musical ensemble associated with a school)	 :: skolekorps {n}
+schoolie {n} (schoolteacher) SEE: teacher	 ::
+school sores {n} (impetigo) SEE: impetigo	 ::
+schoolteacher {n} (teacher) SEE: teacher	 ::
+schooner {n} (sailing ship)	 :: skonnert
+Schrödinger's cat {prop} (thought experiment)	 :: Schrödingers katt
+science {n} (collective discipline of learning acquired through the scientific method)	 :: [Bokmål] vitenskap {m}; [Nynorsk] vitskap {m}
+science {n} (knowledge gained through study or practice)	 :: kunskap {c}
+science {n} (particular discipline or branch of learning)	 :: [Bokmål] vitenskap {m}; [Nynorsk] vitskap {m}
+scientific {adj} (of or having to do with science)	 :: [Bokmål] vitenskapelig
+scientifically {adv} (methodically) SEE: methodically	 ::
+scientificity {n} (quality or state of being scientific)	 :: [Bokmål] vitenskaplighet {f} {m}; [Nynorsk] vitskaplegheit {f}
+scientist {n} (one whose activities make use of scientific method)	 :: [Bokmål] forsker, vitenskapsmann; [Nynorsk] forskar, vitskapsmann
+scion {n} (descendant)	 :: etterkommer {m}
+scion {n} ((detached) shoot or twig)	 :: podekvist {m}, skudd {n}
+scion {n} (heir to a throne)	 :: ætling {m}
+scissor {v} (to cut using scissors)	 :: klippe
+scissors {n} (tool used for cutting)	 :: [Bokmål] saks {m} {f}; [Nynorsk] saks {f}
+sclerosis {n} (abnormal hardening of body tissues)	 :: [Bokmål] sklerose {m}; [Nynorsk] sklerose {m}
+scold {v} (rebuke) SEE: rebuke	 ::
+scooter {n} (a child's foot-operated vehicle)	 :: sparkesykkel {m}, sparksykkel {m}
+scooter {n} (motor-scooter)	 :: moped {m}, scooter
+score {n} (musical composition in a format indicating how the composition is to be played)	 :: partitur {n}
+score {n} (number of points earned)	 :: poengsum {m}
+score {n} (twenty)	 :: [Bokmål] snes {n}; [Nynorsk] sneis {f} {n}, tjug {n}
+scorer {n} (scorekeeper) SEE: scorekeeper	 ::
+Scorpio {prop} (astrological sign)	 :: Skorpionen {m}
+Scorpio {prop} (constellation) SEE: Scorpius	 ::
+scorpion {n} (any of various arachnids of the order Scorpiones)	 :: skorpion {m}
+Scorpius {prop} (astrological sign) SEE: Scorpio	 ::
+Scorpius {prop} (constellation)	 :: Skorpionen {m}
+scorzonera {n} (black salsify) SEE: black salsify	 ::
+Scot {n} (a person born in or native to Scotland)	 :: skotte {m}
+Scotch {n} (uncountable: whisky made in Scotland)	 :: [Bokmål] skotsk whisky {m}; [Nynorsk] skotsk whisky {m}
+Scotch crow {n} (hooded crow) SEE: hooded crow	 ::
+Scotch tape {prop} (adhesive tape)	 :: selvklebende tape {f}
+Scotch whisky {n} (alcoholic drink)	 :: [Bokmål] skotsk whisky {m}; [Nynorsk] skotsk whisky {m}
+scotfree {adv} (scot-free) SEE: scot-free	 ::
+Scotland {prop} (country in northwest Europe to the north of England)	 :: Skottland
+Scots {adj} (Scottish)	 :: [Bokmål] skotsk; [Nynorsk] skotsk
+Scots {prop} (Lowland Scots language)	 :: [Bokmål] skotsk {m}; [Nynorsk] skotsk {m}
+Scots Gaelic {prop} (Scottish Gaelic) SEE: Scottish Gaelic	 ::
+Scotsman {n} (a man from Scotland)	 :: skotte {m}
+Scottish {adj} (of a person)	 :: [Bokmål] skotsk; [Nynorsk] skotsk
+Scottish {adj} (of a thing or concept)	 :: [Bokmål] skotsk; [Nynorsk] skotsk
+Scottish English {prop} (dialect of English spoken in Scotland)	 :: skotsk engelsk {m}
+Scottish Gaelic {prop} (The Gaelic language of Scotland)	 :: skotsk-gælisk
+scour {v} (to clean, polish, or wash something by scrubbing it vigorously)	 :: skrubbe, skure
+scour {v} (to search an area thoroughly)	 :: finkjemme
+scourge {n} (a persistent pest, illness, or source of trouble)	 :: [Bokmål] svøpe {m}
+scourge {n} (a whip often of leather)	 :: [Bokmål] svøpe {m}
+scouring pad {n} (abrasive pad) SEE: scourer	 ::
+scrabble {v} (to scribble) SEE: scribble	 ::
+scrambled egg {n} (scrambled eggs) SEE: scrambled eggs	 ::
+scrambled eggs {n} (dish)	 :: eggerøre {f}
+scrapheap {n} (junkyard) SEE: junkyard	 ::
+scratch {n} (disruption or mark on a surface)	 :: risp {n}
+scratch card {n} (lottery ticket)	 :: skrapelodd {n}
+scratch together {v} (collect small amounts) SEE: scrape together	 ::
+scrawny {adj} (Thin, malnourished and weak)	 :: tynn, radmager, skrinn/skrant, skranglet
+scream {v} (to make the sound of a scream)	 :: skrike, hyle
+screech owl {n} (Megascops)	 :: lundugle
+screech owl {n} (Tyto alba)	 :: tårnugle
+screen {n} (informational viewing area)	 :: [Bokmål] skjerm {m}; [Nynorsk] skjerm {m}
+screen {n} (physical divider)	 :: [Bokmål] skjerm {m}; [Nynorsk] skjerm {m}
+screen {n} (viewing area of a movie)	 :: [Bokmål] skjerm {m}, lerret {n}; [Nynorsk] skjerm {m}, lerret {n}, lereft {n}
+screencap {n} (screenshot) SEE: screenshot	 ::
+screen capture {n} ( picture or image captured from a computer screen; a screenshot)	 :: skjermskudd {n}, skjermutklipp {n}, skjermutskrift {m}
+screw {n} (act of screwing)	 :: skruing {m}
+screw {n} (Archimedes screw) SEE: Archimedes screw	 ::
+screw {n} (backspin) SEE: backspin	 ::
+screw {n} (fastener)	 :: skrue {m}
+screw {v} (to connect or assemble pieces using a screw)	 :: [Bokmål] skru
+screwdriver {n} (drink)	 :: screwdriver {m}
+screwdriver {n} (tool)	 :: skrujern, skrutrekker
+script {n} (procedure or program in computing)	 :: [Bokmål] skript
+Scripture {n} (Bible) SEE: Bible	 ::
+Scripture {n} (Edda) SEE: Edda	 ::
+Scripture {n} (Koran) SEE: Koran	 ::
+Scripture {n} (Tanakh) SEE: Tanakh	 ::
+scriptwriter {n} (screenwriter) SEE: screenwriter	 ::
+scrounge {n} (scrounger) SEE: scrounger	 ::
+scrub {n} (cancellation) SEE: cancellation	 ::
+scrub {v} (to rub hard)	 :: skrubbe
+scrummaging machine {n} (scrum machine) SEE: scrum machine	 ::
+scrump {v} (to steal fruit, especially apples, from a garden or orchard)	 :: gå på slang/epleslang
+scruple {n} (hesitation from the difficulty of determining what is right)	 :: [Bokmål] skruppel {m}
+scrupulous {adj} (having principles)	 :: [Bokmål] skrupuløs, prinsippfast
+scrupulous {adj} (having scruples)	 :: [Bokmål] skrupuløs, samvittighetsfull
+scrupulous {adj} (meticulous)	 :: [Bokmål] skrupuløs, nøye, grundig, omhyggelig
+scrutinise {v} (scrutinize) SEE: scrutinize	 ::
+scrutinize {v} (to examine with great care)	 :: granske
+scrutiny {n} (intense study)	 :: finlesing; [Bokmål] nøye undersøkelse
+scrutore {n} (escritoire) SEE: escritoire	 ::
+scull {n} (small boat)	 :: singelsculler
+Sculptor {prop} (constellation)	 :: [Bokmål] Billedhuggeren; [Nynorsk] Bilethoggaren, Bildehoggaren
+sculpture {n} (art of sculpting)	 :: [Bokmål] skulptur {m}; [Nynorsk] skulptur {m}
+sculpture {n} (work of art created by sculpting)	 :: [Bokmål] skulptur {m}; [Nynorsk] skulptur {m}
+scumbag {n} (condom) SEE: condom	 ::
+scutch grass {n} (Bermuda grass) SEE: Bermuda grass	 ::
+scythe {n} (farm tool)	 :: ljå {m}
+Scythia {prop} (region of Central Eurasia)	 :: Skytia
+Sczedrzik {prop} (Szczedrzyk) SEE: Szczedrzyk	 ::
+sea {n} (body of water)	 :: hav {n}
+seabird {n} (any bird that spends most of its time in coastal waters)	 :: [Bokmål] sjøfugl {m}; [Nynorsk] sjøfugl {m}
+seaborgium {n} (chemical element with atomic number 106)	 :: seaborgium
+seadog {n} (dogfish) SEE: dogfish	 ::
+seadog {n} (sailor accustomed to the sea)	 :: [lit.: sea bear] sjøbjørn {c}
+sea eagle {n} (Haliaeetus albicilla) SEE: white-tailed eagle	 ::
+seafarer {n} (sailor) SEE: sailor	 ::
+seafaring {adj} (fit to travel on the sea) SEE: seagoing	 ::
+seafood {n} (seafood)	 :: sjømat
+seagoing {adj} (made for or used on the high seas)	 :: [Bokmål] sjøgående
+sea green {adj} (of a bluish green colour)	 :: [Bokmål] sjøgrønn
+seagull {n} (bird of the family Laridae)	 :: [Bokmål] måke {f} {m}, måse {m}; [Nynorsk] måke {f} {m}, måse {m}
+seal {n} (pattern, design)	 :: [Nynorsk] segl
+seal {n} (pinniped)	 :: sel {m}
+seal {n} (security against leakage)	 :: segl {n}
+seal {n} (something designed to prevent liquids or gasses from leaking)	 :: forsegling {m}
+sea leopard {n} (Hydrurga leptonyx) SEE: leopard seal	 ::
+sea lettuce {n} (beach cabbage) SEE: beach cabbage	 ::
+sea lettuce {n} (sand lettuce) SEE: sand lettuce	 ::
+sea lettuce {n} (slender sea lettuce) SEE: slender sea lettuce	 ::
+sea lion {n} (member of the Otariidae family)	 :: sjøløve {m}
+seaman {n} (mariner or sailor)	 :: [Bokmål] sjømann {m}; [Nynorsk] sjømann {m}
+seamanship {n} (skill and knowledge used in handling a vessel)	 :: [Bokmål] sjømannskap {m} {n}; [Nynorsk] sjømannskap {m} {n}
+sea oats {n} (Chasmanthium latifolium) SEE: river oats	 ::
+Sea of Japan {prop} (Asian sea)	 :: Japanhavet
+sea-parrot {n} (puffin) SEE: puffin	 ::
+seaplane {n} (an aircraft)	 :: sjøfly {n}
+search {v} ((followed by "for") to look thoroughly)	 :: lete
+search {v} (to look throughout (a place) for something)	 :: [Bokmål] søke, lete
+search engine {n} (application that searches for data)	 :: [Bokmål] søkemotor {m}; [Nynorsk] søkemotor {m}
+sea serpent {n} (sea monster)	 :: sjøorm {m}
+seashell {n} (shell)	 :: [Bokmål] skjell
+seashore {n} (foreshore) SEE: foreshore	 ::
+sea-sickness {n} (seasickness) SEE: seasickness	 ::
+seaside resort {n} (coastal holiday resort)	 :: [Bokmål] badeby {m}; [Nynorsk] badeby {m}
+season {n} (part of year with something special)	 :: sesong {m}, løpetid {m} {f} [mating season]
+season {n} (quarter of a year)	 :: årstid {m} {f}, sesong {m}
+season {v} (to become mature)	 :: modnes
+season {v} (to flavour food)	 :: krydre, smaksette
+sea trout {n} (Salmo trutta morpha trutta)	 :: sjøaure; [Bokmål] sjøørret
+sea urchin {n} (any of many marine echinoderms of the class Echinoidea)	 :: kråkebolle {m}; [Bokmål] sjøpiggsvin {n}, sjøpinnsvin {n}, kråkebolle {m}; [Nynorsk] sjøpiggsvin {n}, kråkebolle {m}
+Sebastian {prop} (given name)	 :: Sebastian
+secession {n} (The act of seceding)	 :: løsrivelse
+second {adj} (second (numeral))	 :: andre
+second {adj} (that which comes after the first)	 :: andre {n}
+second {n} (attendant of a duel or boxing match standing in for a contestant)	 :: sekundant {m}
+second {n} (manufactured item that fails to meet quality control standards)	 :: feilvare {m}
+second {n} (one who agrees in addition)	 :: støtte
+second {n} (short, indeterminate amount of time)	 :: sekund {n}, øyeblikk {n}
+second {n} (SI unit of time)	 :: sekund {n}
+second {n} (unit of angular measure)	 :: sekund {n}
+secondary smoking {n} (passive smoking) SEE: passive smoking	 ::
+second cousin {n} (grandnephew or grandniece of a grandparent)	 :: tremenning {m}, nestsyskenbarn {n}
+second fiddle {n} (music: fiddle part in harmony to the first fiddle)	 :: annenfiolin {m}, andrefiolin {m}
+second fiddle {n} (music: person playing second fiddle)	 :: annenfiolin {m}, andrefiolin {m}
+second-half {n} (second half) SEE: second half	 ::
+second hand {adj} (secondhand) SEE: secondhand	 ::
+second hand {n} (the hand or pointer that shows the number of seconds that have passed)	 :: [Bokmål] sekundviser {m}; [Nynorsk] sekundvisar {m}
+second-hand smoke {n} (smoke from cigarettes, that any person including non-smokers could breathe in)	 :: passivrøyking {m} {f}
+second language {n} (language spoken other than the mother tongue)	 :: [Bokmål] andrespråk {n}; [Nynorsk] andrespråk {n}
+second person {n} (the form of a verb used when the subject of a sentence is the audience)	 :: andre person
+second-person {adj} (in the second person)	 :: andre person
+Second World War {prop} (World War II) SEE: World War II	 ::
+secret {adj} (being or kept hidden.)	 :: hemmelig, skjult
+secret {n} (knowledge that is hidden)	 :: [Bokmål] hemmelighet {m} {f}, løyndom {m}; [Nynorsk] løyndom {m}, hemmelegheit {f}
+secretion {n} (secreted substance)	 :: [Bokmål] sekret {n}; [Nynorsk] sekret {n}
+secretive {adj} (having an inclination to secrecy)	 :: hemmelighetsfull
+sect {n} (religious movement)	 :: sekt {m}
+section {n} (image that shows an object as if cut along a plane) SEE: cross-section	 ::
+section {v} (to commit to mental hospital)	 :: tvangsinnlegge
+secure {adj} (Firm and not likely to fail; stable)	 :: sikker
+secure {adj} (free from anxiety or doubt; unafraid)	 :: sikker
+secure {adj} (free from attack or danger; protected)	 :: sikker
+secure {adj} (free from the danger of theft; safe)	 :: sikker
+secure {adj} (free from the risk of eavesdropping, interception or discovery; secret)	 :: sikker
+secure {adj} (Free from the risk of financial loss; reliable)	 :: sikker
+securely {adv} (in a secure manner)	 :: sikkert
+security {n}	 :: [1,4] sikkerhet {m}, [2] sikkerhetstjeneste {m}, [3] obligasjon {m}, [3] gjeldsbrev {n}
+Security Council {prop} (UN Security Council) SEE: UN Security Council	 ::
+security guard {n} (person employed to provided security)	 :: [Bokmål] sikkerhetsvakt {m} {f}; [Nynorsk] sikkerheitsvakt {f}
+sedentary {adj} (not moving, migratory)	 :: stillesittende
+Sedna {prop} (planetoid)	 :: Sedna
+see {v} (perceive with the eyes)	 :: [Bokmål] se; [Nynorsk] sjå
+see {v} (understand)	 :: skjønne, forstå
+seed {n} (fertilized grain)	 :: [Bokmål] frø {n}; [Nynorsk] frø {n}
+seed grain {n} (seed corn) SEE: seed corn	 ::
+seeing-eye dog {n} (seeing-eye dog) SEE: guide dog	 ::
+seek {v} (to try to find)	 :: [Bokmål] søke, lete
+seel {v} (To blind) SEE: blind	 ::
+seem {v} (to appear)	 :: [Bokmål] synes
+seemingly {adv} (apparently) SEE: apparently	 ::
+see off {v} (to defeat) SEE: defeat	 ::
+seesaw {n} (structure)	 :: dumphuske {m}
+seesaw {v} (to fluctuate)	 :: svinge
+seesaw {v} (to use a seesaw)	 :: dumpe
+see the forest for the trees {v} (to be overwhelmed by detail to the point where it obscures the overall situation)	 :: ikke se skogen for bare trær
+see the light of day {v}	 :: [Bokmål] se dagens lys
+see-through {adj} (translucent) SEE: translucent	 ::
+see-through {adj} (transparent) SEE: transparent	 ::
+see ya {interj} (see you) SEE: see you	 ::
+segment {n} (circular segment) SEE: circular segment	 ::
+segment {n} (line segment) SEE: line segment	 ::
+segregate {v} (to separate)	 :: segregere
+seine {n} (fishing net)	 :: [Bokmål] not {m} {f}; [Nynorsk] not {f}
+seismologic {adj} (relating to the field of seismology) SEE: seismological	 ::
+seismology {n} (the study of the vibration of the Earth's interior)	 :: [Bokmål] seismologi {m}; [Nynorsk] seismologi {m}
+sei whale {n} (whale of the rorqual family)	 :: seihval {m}
+seize {v} (grab)	 :: gripe
+seize {v} (take advantage)	 :: gripe
+seize the day {v} (enjoy the present)	 :: gripe dagen
+seizure {n} (act of taking possession, as by force or right of law)	 :: inndragning {m}
+seizure {n} (sudden attack or convulsion)	 :: krampe {m} {f}
+seizure {n} (sudden onset of pain or emotion)	 :: [Bokmål] smerteanfall {n}; [Nynorsk] smerteåtak
+sejunct {adj} (separate) SEE: separate	 ::
+seldom {adv} (infrequently, rarely)	 :: [Bokmål] sjelden; [Nynorsk] sjeldan
+selection {n} (process or act of selecting)	 :: utvalg {n}, utvelgelse {m}
+selenium {n} (chemical element)	 :: selen
+selenology {n} (the study of the moon and several satellites)	 :: selenologi {m}
+self {n} (individual person as the object of his own reflective consciousness)	 :: selv
+self-adhesive {adj} (adhesive)	 :: [Bokmål] selvklebende
+self-control {n} (ability to control one's desires and impulses)	 :: selvkontroll {m}
+self-educated {adj} (having learned without the direction of a teacher)	 :: autodidakt {m}, selvlært {m}
+selfie {n} (photographic self-portrait)	 :: [Bokmål] selfie {m}
+self-sufficient {adj} (able to provide for oneself independently of others)	 :: [Bokmål] selvberget, selvforsørgende
+self-sufficient {adj} (too confident)	 :: [Bokmål] innbilsk, selvopptatt
+self-taught {adj} (educated by oneself) SEE: self-educated	 ::
+sell {v} (to agree to transfer goods or provide services)	 :: selge
+sell {v} (to be sold)	 :: få solgt, bli solgt
+seller {n} (someone who sells)	 :: [Bokmål] selger {m}, selgerinne {m} {f}; [Nynorsk] seljar {m}, seljarinne {f}
+Selma {prop} (female given name)	 :: Selma
+semantics {n} (individual meanings of words)	 :: semantikk {m}
+semantics {n} (science of the meaning of words)	 :: semantikk {m}
+semantics {n}	 :: semantikk {c}
+semantics {n} (study of the relationship between words and their meanings)	 :: semantikk {m}
+semblance {n} (likeness, similarity)	 :: [Bokmål] likhet {m}
+semen {n} (male reproductory fluid)	 :: sæd {m}
+semi- {prefix} (half (prefix))	 :: halv-
+semiacetal {n} (hemiacetal) SEE: hemiacetal	 ::
+semiannual {adj} (half-yearly)	 :: halv årlig
+semicolon {n} (punctuation mark ';')	 :: semikolon {c}
+semigroud {n} (semiheap) SEE: semiheap	 ::
+seminar {n} (class held for advanced studies)	 :: seminar {n}
+seminar {n} (meeting held for the exchange of useful information)	 :: seminar {n}
+seminude {adj} (half-naked) SEE: half-naked	 ::
+semi-nude {adj} (seminude) SEE: seminude	 ::
+semi-official {adj} (having some degree of official authority)	 :: offisiøs
+semitone {n} (interval between adjacent keys)	 :: halvtone {m}
+semivowel {n} (sound in speech)	 :: [Nynorsk] halvvokal
+semla {n} (pastry)	 :: fastelavnsbolle
+senate {n} (the upper house in some bicameral legislative systems)	 :: senat
+send {v} (make something go somewhere)	 :: sende
+Seneca {prop} (tribe)	 :: senecaene
+Senegal {prop} (Republic of Senegal)	 :: Senegal
+Senegalese {adj} (pertaining to Senegal)	 :: [Bokmål] senegalsk; [Nynorsk] senegalsk
+Senegalese {n} (person from Senegal)	 :: [Bokmål] senegaleser {m}; [Nynorsk] senegalesar {m}
+sense {n} (method to gather data)	 :: sens {m}
+sent {v} (past participle of "to send")	 :: sendt
+sentence {n} (decision of a jury)	 :: [Bokmål] domsslutning {m}, dom {m}
+sentence {n} (grammatically complete series of words consisting of a subject and predicate)	 :: setning {c}
+sentence {n} (judicial order for punishment, conviction)	 :: dom {m}
+sentence {n} (punishment imposed on a person convicted of a crime)	 :: straff {m}
+sentence {v} (declare a sentence on a convicted person)	 :: dømme
+sentient {adj} (conscious or aware)	 :: [Bokmål] sansende
+separately {adv} (in a separate manner)	 :: særskilt
+September {prop} (ninth month of the Gregorian calendar)	 :: september
+septic tank {n} (slang: Yank) SEE: Yank	 ::
+Septuagint {prop} (an ancient translation of the Hebrew Bible into Greek)	 :: Septuaginta
+sequent {adj} (that comes after) SEE: subsequent	 ::
+sequent {adj} (that follows on) SEE: consequent	 ::
+sequester {v} (to separate from all external influence)	 :: sekvestrere
+seraph {n} (highest order of angels)	 :: seraf
+Serb {n} (person of Serb descent)	 :: [Bokmål] serber {m}
+Serbia and Montenegro {prop} (former country on the Balkan Peninsula)	 :: Serbia og Montenegro
+Serbian {adj} (pertaining to Serbia and Serbians)	 :: [Bokmål] serbisk; [Nynorsk] serbisk
+Serbian {adj} (pertaining to the Serbian language)	 :: serbisk
+Serbian {n} (person from Serbia; see also Serb#Translations, see also: Serb)	 :: [Bokmål] serber {m}; [Nynorsk] serbar {m}
+Serbian {n} (Serb) SEE: Serb	 ::
+Serbian {prop} (the standardized variety of Serbo-Croatian)	 :: [Bokmål] serbisk {m}; [Nynorsk] serbisk {m}
+serf {n} (semifree peasant)	 :: [Bokmål] leilending {m}, livegen; [Nynorsk] leiglending {m}, liveigen
+serfdom {n} (feudal system)	 :: livegenskap
+series {n} (in analysis: sum of the terms of a sequence)	 :: rekke {m} {f}
+serif {n} (short line in a font)	 :: serif
+serigraphy {n} (screen printing) SEE: screen printing	 ::
+serious {adj} (important; weighty; not trifling; leaving no room for play)	 :: alvorlig, seriøs
+serous {adj} (containing, secreting, or resembling serum)	 :: serøs
+serpent {n}	 :: slange
+Serpentarius {prop} (Ophiuchus) SEE: Ophiuchus	 ::
+serve {n} (AUS: portion of food) SEE: serving	 ::
+server {n}	 :: tjener {m}
+serve time {v} (to be in prison) SEE: do time	 ::
+Servian {adj} (Serbian) SEE: Serbian	 ::
+Servian {n} (Serbian) SEE: Serbian	 ::
+service {n} (economics: work performed)	 :: [Bokmål] tjeneste; [Nynorsk] teneste
+service station {n} (gas station) SEE: gas station	 ::
+serviette {n} (napkin) SEE: napkin	 ::
+sesterce {n} (sestertius) SEE: sestertius	 ::
+set {n} (badger’s home) SEE: sett	 ::
+set {n} (plural: set theory) SEE: set theory	 ::
+set {v} (of a heavenly body: to disappear below the horizon)	 :: gå ned
+set {v} (to adjust)	 :: stille, justere
+set {v} (to arrange with dishes and cutlery)	 :: dekke
+set {v} (to compile, to make (a crossword))	 :: sette sammen
+set {v} (to determine)	 :: bestemme, fastlegge
+set {v} (to introduce)	 :: introdusert
+set {v} (to locate, to backdrop)	 :: sette, plassere
+set {v} (to prepare (a stage or film set))	 :: stille opp
+set {v} (to put something down)	 :: putte, sette, plassere, stille
+set {v} (to sit) SEE: sit	 ::
+set {v} (to solidify)	 :: stivne, størkne
+Seth {prop} (the third son of Adam and Eve)	 :: Set
+set off {v} (To offset) SEE: offset	 ::
+Setswana {prop} (Tswana) SEE: Tswana	 ::
+sett {n} (home of a badger)	 :: grevlinghi {n}
+set theory {n} (mathematical theory of sets)	 :: mengdelære
+settlement agreement {n}	 :: forlik
+settler {n} (someone who settles in a new location, especially one who makes a previously uninhabited place his home)	 :: [Bokmål] nybygger {m}; [Nynorsk] nybyggjar {m}
+Sevastopol {prop} (city)	 :: [Bokmål] Sevastopol
+seven {n} (the figure seven)	 :: sjutall {n}, syvtall {n}
+seven {num} (cardinal number 7)	 :: sju, syv
+seven deadly sins {n} (the cardinal sins)	 :: syv dødssynder {p}
+sevennight {n} (period of seven consecutive days and nights) SEE: week	 ::
+seventeen {num} (cardinal number)	 :: sytten
+seventh {adj} (ordinal form of the number seven)	 :: (abbreviation 7.); [Bokmål] sjuende, syvende; [Nynorsk] sjuande
+Seventh-day Adventist {n} (member of the Seventh-day Adventist Church)	 :: [Bokmål] syvendedagsadventist {m}
+seventieth {adj} (ordinal form of the number seventy (70))	 :: syttinde
+seventy {num} (cardinal number)	 :: sytti
+seventy-nine {num} (79)	 :: syttini
+several {determiner} (consisting of a number more than two, but not very many)	 :: [Bokmål] flere, fler
+severance {n} (severance payment) SEE: severance pay	 ::
+severance payment {n} (money paid to employee in case of layoff) SEE: severance pay	 ::
+Sevettijärvi {n} (village in Finland)	 :: Sevettijärvi; [Bokmål] Sevettijärvi; [Nynorsk] Sevettijärvi
+sew {v} ((intransitive) use a needle)	 :: [Bokmål] sy; [Nynorsk] sy
+sew {v} ((transitive) use a needle)	 :: [Bokmål] sy; [Nynorsk] sy
+sewer {n} (pipes used to remove human waste and to provide drainage)	 :: [Bokmål] kloakk
+sewerage {n} (sewage) SEE: sewage	 ::
+sewing circle {n} (social meeting of women)	 :: syklubb {m}
+sewing machine {n} (device)	 :: [Bokmål] symaskin {m}; [Nynorsk] symaskin {m} {f}
+sex {n} (act of sexual intercourse)	 :: [Bokmål] sex {m}, samleie {n}; [Nynorsk] sex {m}, samlege {f}, samleie {n}
+sex {n} (gender (female or male))	 :: kjønn {n}
+sex economy {n}	 :: seksualøkonomi
+sexism {n} (gender discrimination or dislike)	 :: [Bokmål] sexisme {m}
+sexless {adj} (not having gender)	 :: [Bokmål] kjønnsløs, kjønnslaus; [Nynorsk] kjønnslaus
+sex life {n} (part of a person's life that is directly concerned with sexual activity)	 :: sexliv {n}
+sex offender {n} (somebody who has committed a crime of a sexual nature)	 :: sexforbryter {m}
+sexology {n} (The study of sex and sexuality)	 :: sexologi {m}
+sex position {n} (sex position)	 :: [Bokmål] samleiestilling {c}
+sexton {n} (church official)	 :: [Bokmål] klokker {m}; [Nynorsk] klokkar {m}
+sex toy {n} (sex aid)	 :: sexleketøy {n}
+sextuplet {n} (one of six born together)	 :: [Bokmål] seksling {m}; [Nynorsk] seksling {m}
+sexual {adj} (of or relating to having sex)	 :: [Bokmål] seksuell; [Nynorsk] seksuell
+sexual {adj} (of or relating to sexuality)	 :: [Bokmål] seksuell; [Nynorsk] seksuell
+sexual intercourse {n} (sexual interaction)	 :: kjønnslig omgang {m}, samleie {n}
+sexuality {n} (sexual orientation) SEE: sexual orientation	 ::
+sexuality {n} (that which is characterized or distinguished by sex)	 :: [Bokmål] seksualitet {m}; [Nynorsk] seksualitet {m}
+sexually {adv} (by means of intercourse)	 :: [Bokmål] seksuelt; [Nynorsk] seksuelt
+sexually {adv} (in a sexual manner)	 :: [Bokmål] seksuelt; [Nynorsk] seksuelt
+sexual orientation {n} (sexual orientation)	 :: seksuell orientering
+sexy {adj} (having sexual appeal)	 :: sexy, kjønnslig, seksuell
+Seychelles {prop} (country in East Africa)	 :: Seychellene
+Seychellois {n} (Someone from the Seychelles of Seychellois descent)	 :: [Bokmål] seycheller {m}
+shackle {n} (a restraint fit over an appendage)	 :: jern {n}
+shadbush {n} (serviceberry) SEE: serviceberry	 ::
+shadow {n} (dark image projected onto a surface)	 :: skygge {m}
+shadow-box {n} (diorama) SEE: diorama	 ::
+shadowbox {n} (diorama) SEE: diorama	 ::
+shadow-box {v} (shadowbox) SEE: shadowbox	 ::
+Shadow Cabinet {n} (a senior group of opposition politicians who shadow the members of the government)	 :: [Bokmål] skyggekabinett {n}, skyggeregjering {m} {f}
+shaft {n} (long narrow passage sunk into the earth)	 :: [Bokmål] sjakt {m} {f}; [Nynorsk] sjakt {f}
+shaft {n} (vertical passage housing a lift)	 :: [Bokmål] sjakt {m} {f}; [Nynorsk] sjakt {f}
+shag {n} (act of sexual intercourse)	 :: knull {n}
+shag {v} (to have sexual intercourse with)	 :: knulle
+shah {n} (king of Persia)	 :: sjah
+shahada {n} (Islamic declaration of belief)	 :: sjahádah, shahada, shahada, shahadah
+shaheed {n} (martyr) SEE: martyr	 ::
+shake {n} (beverage made of ice cream and carbonated drink) SEE: float	 ::
+shake {v} (intransitive: to dance)	 :: shake
+shake {v} (intransitive: to shake hands)	 :: handhilse; [Bokmål] håndhilse
+shake {v}	 :: riste
+shake {v} (to move one's head from side to side)	 :: riste; [Bokmål] ryste
+shake {v} (transitive: to cause to move)	 :: riste
+shake {v} (transitive: to disturb emotionally)	 :: [Bokmål] ryste
+shale {n} (sedimentary rock)	 :: [Bokmål] leirskifer {m}; [Nynorsk] leirskifer {m}
+shale gas {n} (natural gas)	 :: [Bokmål] skifergass {m}; [Nynorsk] skifergass {m}
+shall {v} (indicating determination or obligation)	 :: skulle
+shall {v} (indicating the simple future tense)	 :: skal
+shall {v} (in questions to suggest a possible future action)	 :: skulle
+shallow {adj} (concerned mainly with superficial matters)	 :: [Bokmål] overfladisk, overflatisk; [Nynorsk] overflatisk
+shallow {adj} (extending not far downward)	 :: [Bokmål] grunn; [Nynorsk] grunn
+shallow {adj} (having little depth and significantly less deep than wide)	 :: [Bokmål] flat, lav, grunn; [Nynorsk] flat, lav, grunn
+shallow {adj} (lacking interest or substance)	 :: [Bokmål] overfladisk, overflatisk; [Nynorsk] overflatisk
+shame {n} (something to regret)	 :: [Bokmål] synd {m}; [Nynorsk] synd {f}
+shame {n} (uncomfortable or painful feeling)	 :: skam
+shameful {adj} (causing or meriting shame or disgrace)	 :: skamfull
+shaming {n} (the activity of shaming)	 :: [Bokmål] skampåføring {c}
+shampoo {n} (product for washing the hair or other fibres)	 :: [Bokmål] sjampo {m}
+shamrock {n} (any of several small plants, forms of clover) SEE: clover	 ::
+shapeshifter {n} (A creature capable of changing its appearance)	 :: [Bokmål] hamløper {m}; [Nynorsk] hamløypar {m}
+sharaga {n} (sharashka) SEE: sharashka	 ::
+shard {n} (piece)	 :: [Bokmål] skår {n}; [Nynorsk] skar {n}
+share {n} (financial instrument)	 :: aksje {m}
+share {n} (plowshare) SEE: plowshare	 ::
+shareholder {n} (one who owns shares of stock)	 :: aksjonær, aksjeeier
+shari'a {n} (Islamic religious law)	 :: sharia
+shark {n} (scaleless cartilaginous fish)	 :: [Bokmål] hai {m}; [Nynorsk] hai {m}
+sharp {adj} (able to cut easily)	 :: skarp
+sharp {adj} (intelligent)	 :: skarp, smart
+sharp {adj} (intense and sudden (of pain))	 :: skarp
+sharp {adj} (of a note, played a semitone higher than usual)	 :: -iss
+sharp {adj} (pointed, able to pierce easily)	 :: spiss
+sharpen {v} (to make sharp)	 :: [Bokmål] skjerpe, kvesse, hvesse; [Nynorsk] skjerpe, kvesse
+sharp-shinned hawk {n} (a small hawk)	 :: tverrhalehauk {m}
+shashlik {n} (skewered dish)	 :: sjasjlyk
+shave {v}	 :: barbere
+shaver {n} (barber) SEE: barber	 ::
+shaver {n} (boy) SEE: boy	 ::
+shaver {n} (pillager) SEE: pillager	 ::
+shaver {n} (sharper) SEE: sharper	 ::
+shaw {n} (thicket) SEE: thicket	 ::
+shchi {n} (a type of Russian soup)	 :: sjtsji
+she {pron} (person)	 :: hun {f}
+shea butter {n} (fat extracted from the fruit of the shea tree)	 :: [Bokmål] sheasmør {n}
+sheaf {n} (mathematical construct)	 :: knippe {n}
+shear {n} (a cutting tool similar to scissors)	 :: bøylesaks {c}
+shear {n} (a force that produces a shearing strain)	 :: klipp {n}
+shear {n} (the act of shearing, or something removed by shearing)	 :: klipp {m}
+shear {v} (to cut)	 :: klippe
+shear {v} (to deform because of shearing forces)	 :: klippe
+shear {v} (to remove the fleece from a sheep)	 :: klippe
+sheath {n} (condom) SEE: condom	 ::
+sheath {n} (scabbard)	 :: slire {m} {f}, skjede {m}
+sheathe {v} (to put something, such as a knife, into a sheath)	 :: stikke i sliren
+she-cat {n} (a female cat)	 :: [Bokmål] hunnkatt {m}, hunkatt {m}, katte {f} {m}, kjette {f} {m}; [Nynorsk] hokatt {f}, katte {f}, katta {f}, kjette {f}
+sheep {n} (animal)	 :: sau {m}, får {n}
+sheepdog {n} (dog used for herding sheep)	 :: fårehund {c}
+sheepherder {n} (shepherd) SEE: shepherd	 ::
+sheer {adj} (pure; unmixed)	 :: [Bokmål] ren, ublandet; [Nynorsk] rein, ublanda
+sheer {adj} (straight up and down; vertical; perpendicular)	 :: [Bokmål] rett, vertikal, bratt
+sheer {adj} (very thin or transparent)	 :: [Bokmål] gjennomskinnelig
+sheesh {interj} (An expression of exasperation)	 :: jøss, jøsses
+sheet {n} (bedsheet) SEE: bedsheet	 ::
+sheet {n} (sheet of paper)	 :: papir
+sheik {n} (Islamic religious clergy)	 :: [Bokmål] sjeik {m}; [Nynorsk] sjeik {m}
+sheik {n} (leader of an Arab village, family or small tribe)	 :: [Bokmål] sjeik {m}; [Nynorsk] sjeik {m}
+shekel {n} (sheqel) SEE: sheqel	 ::
+shelf {n} (structure)	 :: [Bokmål] hylle {m} {f}; [Nynorsk] hylle {f}
+shelter {n} (a refuge or other protection)	 :: ly
+shelve {v} (to store, set aside, quit, or halt)	 :: henlegge {c-p}
+shenanigan {n} (shenanigans) SEE: shenanigans	 ::
+Sheremetyevo {prop} (airport in Russia)	 :: Sjeremetjevo
+sheriff {n} (all meanings)	 :: sheriff {m}, lensmann {m}
+she-tiger {n} (tigress) SEE: tigress	 ::
+Shetland {prop} (Shetland Islands) SEE: Shetland Islands	 ::
+Shetland Islands {prop} (group of islands)	 :: [Bokmål] Shetlandsøyene; [Nynorsk] Shetlandsøyane, Shetlandsøyene
+shield {n} (anything that protects or defends)	 :: skjold, skjerm {m}, vern
+shield {n} (armor)	 :: skjold {n}
+shield {v} (to protect, to defend)	 :: skjerme, verne
+shift {n} (type of women's undergarment) SEE: slip	 ::
+shimmer {v} (to shine with a veiled light; to gleam faintly; to glisten; to glimmer)	 :: skimre, skimra
+Shimon {prop} (male given name) SEE: Simeon	 ::
+Shimshon {prop} (given name) SEE: Samson	 ::
+shin {n} (front part of the leg below the knee)	 :: [Bokmål] skinneben {n}, skinnebein, tibia; [Nynorsk] skinnebein {n}, tibia
+shinbone {n} (tibia)	 :: skinneben
+shine {n} (shoeshine) SEE: shoeshine	 ::
+shine {n} (slang: moonshine) SEE: moonshine	 ::
+shine {n} (sunshine) SEE: sunshine	 ::
+shiner {n} (black eye) SEE: black eye	 ::
+shingles {n} (herpes zoster)	 :: helvetesild
+shinkansen {n} (bullet train) SEE: bullet train	 ::
+Shintoism {prop} (Shinto) SEE: Shinto	 ::
+ship {n} (large water vessel)	 :: [Bokmål] skip {n}; [Nynorsk] skip {n}
+shipyard {n} (place to build and repair ships)	 :: verft {n}
+Shiraz {n} (variety of black grape)	 :: Syrah
+shirt {n} (article of clothing)	 :: [Bokmål] skjorte {m} {f}; [Nynorsk] skjorte {f}
+shit {interj} (expression of worry, failure)	 :: faen
+shit {n} (definite plural: diarrhea)	 :: diaré {m}
+shit {n} (not anything, nothing)	 :: en dritt
+shit {n} (solid excretory product evacuated from the bowel)	 :: dritt {m}, skitt {m}, avføring {m}, bæsj {m}, skit {m}, møkk {c}, ekskrement {n}, lort {m}
+shit ass {n} (shitass) SEE: shitass	 ::
+shit happens {phrase} (expression of acceptance of misfortune) SEE: such is life	 ::
+shitter {n} (anus (vulgar)) SEE: ass	 ::
+shive {n} (shiva) SEE: shiva	 ::
+Shlomo {prop} (given name) SEE: Solomon	 ::
+shoal {n} (group of fish)	 :: stim {m}
+shoal {n} (sandbank)	 :: sandbanke {m}
+shock {n} (arrangement of sheaves for drying) SEE: stook	 ::
+shock {n} (life-threatening medical emergency)	 :: [Bokmål] sjokk {n}; [Nynorsk] sjokk {n}
+shock {n} (something surprising)	 :: [Bokmål] sjokk {n}; [Nynorsk] sjokk {n}
+shock absorber {n} (device to absorb shocks)	 :: [Bokmål] støtdemper {m}, støytdemper {m}; [Nynorsk] støytdempar {m}
+shock wave {n} (A powerful compression wave)	 :: [Bokmål] sjokkbølge {m} {f}; [Nynorsk] sjokkbølgje {f}, sjokkbylgje {f}
+shoddy {adj} (exhibiting poor quality)	 :: slurvet, slurvete (not about objects)
+shoe {n} (piece of metal designed to be attached to a horse’s foot) SEE: horseshoe	 ::
+shoe {n} (protective covering for the foot)	 :: [Bokmål] sko {m}; [Nynorsk] sko {m}
+shoe {v} (to put horseshoes on a horse)	 :: sko
+shoeblack {n} (shoeshiner) SEE: shoeshiner	 ::
+shoehorn {n} (tool used to assist the foot)	 :: [Bokmål] skohorn {n}; [Nynorsk] skohorn {n}
+shoelace {n} (for fastening a shoe)	 :: skolisse {f}
+shoemaker {n} (a person who makes shoes)	 :: [Bokmål] skomaker {m}; [Nynorsk] skomakar {m}
+shoeshine boy {n} (shoeshiner) SEE: shoeshiner	 ::
+shoeshine girl {n} (shoeshiner) SEE: shoeshiner	 ::
+shoe tree {n} (device to preserve the shape of a shoe)	 :: [Bokmål] skoblokk {m}
+shoetree {n} (device to preserve the shape of a shoe) SEE: shoe tree	 ::
+shoo {v} (usher) SEE: usher	 ::
+shoot {v} (to fire a shot)	 :: skyte
+shoot {v} (to fire multiple shots)	 :: skyte
+shoot {v} (to hit with a shot)	 :: skyte
+shooting {n} (the sport or activity of firing a gun)	 :: [Bokmål] skyting {m} {f}; [Nynorsk] skyting {f}
+shooting star {n} (meteor)	 :: [Bokmål] stjerneskudd {n}, stjerneskott {n}
+shoot oneself in the foot {v}	 :: skyte seg selv i foten
+shoot oneself in the foot {v} (to act against one's own interest)	 :: skyte seg selv i foten
+shoot the moon {v} (to achieve the lowest score possible)	 :: storeslem
+shoot the shit {v} (chat casually) SEE: shoot the breeze	 ::
+shop {n} (a class taught typically in junior high school, teaching vocational skill)	 :: sløyd {m}
+shop {n} (establishment that sells goods)	 :: butikk {m}, forretning {m}
+shop {v} (to visit shops)	 :: handle, shoppe
+shoppe {n} (shop) SEE: shop	 ::
+shopping {n} (activity of buying)	 :: shopping {m}, handling {m}
+shopping {n} (things bought)	 :: varer {m-p}, matvarer {m-p}
+shopping center {n} (shopping centre) SEE: shopping centre	 ::
+shopping centre {n} (large retail outlet)	 :: kjøpesenter {n}
+shopping list {n} (list of items that need to be bought)	 :: handleliste {m} {f}
+shopping mall {n} (shopping centre) SEE: shopping centre	 ::
+shopping trolley {n} (shopping cart) SEE: shopping cart	 ::
+shop window {n} (large window at the front of a shop)	 :: butikkvindu {n}
+shore {v} (support) SEE: shore up	 ::
+shore bird {n} (shorebird) SEE: shorebird	 ::
+shore pine {n} (lodgepole pine) SEE: lodgepole pine	 ::
+short {v} (shortchange) SEE: shortchange	 ::
+short of {phrase} (except) SEE: except	 ::
+shorts {n} (pants worn primarily in the summer that do not go lower than the knees)	 :: [Bokmål] kortbukse {m} {f}, shorts {m}; [Nynorsk] kortbukse {f}, shorts {m}
+shorts {n} (plural of short) SEE: short	 ::
+short-sighted {adj} (myopic) SEE: myopic	 ::
+short story {n} (work of fiction)	 :: [Bokmål] novelle {m} {f}; [Nynorsk] novelle {f}
+Shoshone {prop} (Amerind people)	 :: shoshone
+shot {n} (small metal balls used as ammunition)	 :: hagl {n}
+shotgun {n} (gun)	 :: hagle {c}
+should {v} (expressing likelihood)	 :: burde
+should {v} (expressing obligation)	 :: burde
+should {v} (If; in case of)	 :: skulle
+shoulder {n} (joint between arm and torso)	 :: [Bokmål] skulder {m} {f}; [Nynorsk] skulder {f}
+shoulder bag {n} (bag suspended from the shoulder)	 :: [Bokmål] skulderveske {m} {f}; [Nynorsk] skulderveske {f}
+shoulder blade {n} (bone)	 :: skapula {m}; [Bokmål] skulderblad {n}; [Nynorsk] skulderblad {n}
+shoulder joint {n} (glenohumeral joint) SEE: glenohumeral joint	 ::
+shout {n} (a loud burst of voice)	 :: rop {m}
+shout {v} (to enter a text message in upper case)	 :: rope
+shout {v} (to utter a sudden and loud outcry)	 :: rope
+shout {v} (to utter with a shout)	 :: rope
+shovel {n} (spade) SEE: spade	 ::
+shovel {n} (tool for moving portions of material)	 :: skuffe
+shovel {v} (to move materials with a shovel)	 :: [Bokmål] skuffe, måke (snow); [Nynorsk] skuffe, moke (snow)
+show {n} (broadcast program(me))	 :: show {m}, program {m}
+show {v} (display)	 :: vise
+show {v} (indicate (a fact) to be true)	 :: vise
+showcase {n} (a setting for displaying something favorably)	 :: PR-jippo {n}
+shower {n} (baby shower) SEE: baby shower	 ::
+shower {n} (bridal shower) SEE: bridal shower	 ::
+shower {n} (brief fall of rain)	 :: dusj {m}
+shower {n} (device for bathing)	 :: dusj
+showman {n} (person who produces or presents shows as a profession) SEE: impresario	 ::
+show of hands {n} (A vote by raising a hand)	 :: [Bokmål] handsopprekking {m} {f}, handsopprekning {m} {f}, håndsopprekking {m} {f}, håndsopprekning {m} {f}; [Nynorsk] handsopprekking {f}
+shrapnel {n} (loose change) SEE: loose change	 ::
+shredder {n} (machine that tears up objects into smaller pieces)	 :: [Bokmål] makuleringsmaskin {m}; [Nynorsk] makuleringsmaskin {m} {f}
+shrew {n} (mouselike animal)	 :: spissmus {c}
+shrine {n} (a holy place dedicated to a specific figure of respect)	 :: skrin, helgenskrin
+shrine {v} (enshrine) SEE: enshrine	 ::
+shrink {v} (transitive: to cause something to shrink)	 :: krympe
+shrive {v} (confess) SEE: confess	 ::
+shroud {n} (mast support)	 :: vant
+shrub {n} (woody plant)	 :: busk {m}
+shudder {n}	 :: skrekkblandet fryd
+shufti {n} (glance) SEE: glance	 ::
+shun {v} (to avoid)	 :: unngå
+shut {v} (to close)	 :: [Bokmål] stenge
+shutter {n} (part of a camera)	 :: [Bokmål] blender {m}; [Nynorsk] blendar {m}
+shuttle {n} (part of a loom)	 :: skyttel {m}
+shuttle {n} (transport service)	 :: skytteltrafikk
+shuttlecock {n} (badminton ball)	 :: [Bokmål] fjærball {m}; [Nynorsk] fjørball {m}
+shut up {v} (close (a building) so that no one can enter)	 :: låse, låse av, stenge
+shut up {v} (enclose (a person, animal or thing) in a room or other place so that it cannot leave)	 :: låse inn
+shut up {v} ("I don't believe it!")	 :: det mener du ikke
+shut up {v} (imperative: "Shut up!")	 :: hold kjeft, hold tåta, kjeften, kjeft, hold munn, hold kjeft
+shut up {v} (intransitive: to stop talking or making noise)	 :: ti stille, holde kjeft
+shut up {v} (terminate (a business))	 :: avslutte
+shvitz {n} (sweat) SEE: sweat	 ::
+shy {adj} (reserved)	 :: sjenert
+shy {v} (to avoid due to timidness or caution) SEE: shy away	 ::
+shylock {n} (loan shark) SEE: loan shark	 ::
+shylock {v} (to lend at exorbitant rates)	 :: [Bokmål] ågre; [Nynorsk] ågre
+Siamese fighting fish {n} (a freshwater fish)	 :: siamesisk kampfisk
+sib {n} (kindred) SEE: kindred	 ::
+sib {n} (kinsman) SEE: kinsman	 ::
+sib {n} (sibling) SEE: sibling	 ::
+Siberia {prop} (region of Russia)	 :: Sibir
+Siberian Husky {n} (Siberian Husky dog)	 :: sibirsk husky
+sibilant {n} (phonetics: a hissing sound)	 :: [Bokmål] hvislelyd {m}, sibilant {m}; [Nynorsk] kvislelyd {m}, sibilant {m}
+sibling {n} (person who shares same parents)	 :: søsken {n}
+Sicily {prop} (island)	 :: Sicilia
+sick {adj} (in poor health)	 :: syk
+sick {n} (sick people)	 :: syke
+sick and tired {adj} (frustrated and annoyed) SEE: fed up	 ::
+sickle {n} (agricultural implement)	 :: sigd {m}
+sickle cell anaemia {n} (sickle cell anaemia) SEE: sickle-cell anemia	 ::
+sickle-cell anaemia {n} (sickle-cell anaemia) SEE: sickle-cell anemia	 ::
+sickle-cell disease {n} (sickle-cell disease) SEE: sickle-cell anemia	 ::
+side {n} (bounding straight edge of an object)	 :: side {m}, kant {m}
+side {n} (flat surface of an object)	 :: side
+side {n} (group having a particular allegiance in a war)	 :: side {c}
+side {n} (left or right half)	 :: side
+side {n} (region in a specified position with respect to something)	 :: side
+side {n} (set of opponents in a game)	 :: lag {n}
+side {n} (side dish) SEE: side dish	 ::
+side {n} (surface of a sheet of paper)	 :: side
+side {n} (television channel) SEE: channel	 ::
+sideburn {n} (sideburns) SEE: sideburns	 ::
+sideburns {n} (facial hair reaching from the top of the head down the side of the face to the side of the chin)	 :: kinnskjegg {n}
+sidedish {n} (side dish) SEE: side dish	 ::
+side effect {n} (medicine: an adverse effect)	 :: [Bokmål] bivirkning {m} {f}
+side order {n} (accompaniment to main course) SEE: side dish	 ::
+sideproduct {n} (byproduct) SEE: byproduct	 ::
+side-straddle hop {n} (jumping jack) SEE: jumping jack	 ::
+sidewalk {n} (paved footpath)	 :: [Bokmål] fortau {n}; [Nynorsk] fortau {n}
+sidewards {adj} (sideward) SEE: sideward	 ::
+sidewards {adv} (sideward) SEE: sideward	 ::
+Sidon {prop} (city state of Phoenicia)	 :: Sidon
+siege {n} (military blockade of settlement)	 :: beleiring {m}
+siege {v} (to assault with the intent of conquering by force or attrition)	 :: beleire
+Sierra Leone {prop} (Republic of Sierra Leone)	 :: Sierra Leone
+Sierra Leonean {adj} (from or of Sierra Leone)	 :: [Bokmål] sierraleonsk; [Nynorsk] sierraleonsk
+Sierra Leonean {n} (someone from Sierra Leone)	 :: [Bokmål] sierraleoner {m}; [Nynorsk] sierraleonar {m}
+siesta {n} (an afternoon nap)	 :: [Bokmål] siesta {m}; [Nynorsk] siesta {m}
+sieve {n} (device to separate larger objects)	 :: sikt {c}, såld {c}, sil {c}
+sieve {v}	 :: sikte, sålde
+Sif {prop} (wife of Thor)	 :: Siv
+sigh {n} (a deep and prolonged audible inspiration or respiration of air, as when fatigued, frustrated, or grieved; the act of sighing)	 :: sukk {n}
+sigh {v} (to exhale in sighs)	 :: sukke
+sigh {v} (to express by sighs; to utter in or with sighs)	 :: sukke
+sigh {v} (to express frustration)	 :: sukke
+sigh {v} (to inhale a larger quantity of air than usual, and immediately expel it)	 :: sukke
+sigh {v} (to make a sound like sighing)	 :: sukke
+sigil {n} (seal, signature or signet)	 :: segl {n}
+sign {n} (any of several specialized non-alphabetic symbols)	 :: [Bokmål] tegn {n}; [Nynorsk] teikn {n}
+sign {n} (astrological sign)	 :: [Bokmål] tegn {n}, stjernetegn {n}; [Nynorsk] teikn {n}, stjerneteikn {n}
+sign {n} (flat object bearing a message)	 :: [Bokmål] skilt {n}; [Nynorsk] skilt {n}
+sign {n} (linguistic unit in sign language)	 :: [Bokmål] tegn; [Nynorsk] teikn {n}
+sign {n} (meaningful gesture)	 :: [Bokmål] tegn; [Nynorsk] teikn {n}
+sign {n} (omen)	 :: [Bokmål] tegn {n}; [Nynorsk] teikn {n}
+sign {n} (positive or negative polarity)	 :: [Bokmål] fortegn {n}; [Nynorsk] forteikn {n}
+sign {n} (sign language in general)	 :: [Bokmål] tegnspråk {n}; [Nynorsk] teiknspråk {n}
+sign {n} (traffic sign)	 :: [Bokmål] skilt; [Nynorsk] skilt {n}
+sign {n} (visible indication)	 :: [Bokmål] tegn {n}; [Nynorsk] teikn {n}
+sign {v} (to make (a document) official by writing one's signature)	 :: [Bokmål] skrive under; [Nynorsk] skrive under
+sign {v} (to write one's signature on a document)	 :: [Bokmål] signere, skrive under; [Nynorsk] signere, skrive under
+sign {v} (to write one's signature somewhere)	 :: [Bokmål] signere; [Nynorsk] signere
+signal {n} (device to give indication)	 :: [Bokmål] signal {n}; [Nynorsk] signal {n}
+signal {n} (electric or electromagnetic action that conveys information)	 :: [Bokmål] signal {n}; [Nynorsk] signal {n}
+signal {n} (indication)	 :: [Bokmål] signal {n}; [Nynorsk] signal {n}
+signature {n} (person’s autograph name)	 :: underskrift {f}, signatur {m}
+significantly {adv} (in a significant manner: notably)	 :: [Bokmål] betydelig, påtagelig, markant
+significant other {n} (romantic partner, regardless of marital status)	 :: [Bokmål] signifikant andre {m} {f}
+sign in {v} (log in) SEE: log in	 ::
+sign language {n} (sign language)	 :: [Bokmål] tegnspråk {n}; [Nynorsk] teiknspråk {n}
+sign up {v}	 :: melde på
+Sigrid {prop} (female given name)	 :: Sigrid
+Sigurd {prop} (the hero of the Volsungasaga)	 :: Sigurd
+silence {interj} (common imperative instructing the addressed to remain silent)	 :: stille!, hysj!
+silence {n} (lack of any sound)	 :: ro {m}, taushet {m}, togn; [Bokmål] stillhet {m} {f}
+silence {v} (To make something silent)	 :: roe
+silencer {n} (attachment)	 :: [Bokmål] lyddemper {m}, (vehicles, boats) lydpotte {m} {f}; [Nynorsk] lyddempar {m}, (vehicles, boats) lydpotte {f}
+silent {adj} (not pronounced; having no sound; quiescent)	 :: stum
+silently {adv} (in a silent manner; making no noise)	 :: stille
+silent miscarriage {n} (missed abortion) SEE: missed abortion	 ::
+silhouette {n} (representation of the outlines of an object filled in with a black color)	 :: [Bokmål] silhuett {m}; [Nynorsk] silhuett {m}
+silicate {n} (salt or mineral)	 :: silikat {n}
+silicic acid {n} (any of a range of hydrates of silica)	 :: kiselsyre {m} {f}
+silicon {n} (non-metallic element)	 :: [Bokmål] silisium {n}; [Nynorsk] silisium {n}
+silicone {n} (any of a class of inert compounds of silicon)	 :: [Bokmål] silikon {n}; [Nynorsk] silikon {n}
+silk {n} (fiber)	 :: [Bokmål] silke; [Nynorsk] silke
+silk-screen printing {n} (screen printing) SEE: screen printing	 ::
+silkworm {n} (caterpillar)	 :: silkeorm
+sill {n} (base of a window)	 :: vinduskarm {m}
+silly {adj} (irresponsible, showing irresponsible behaviors)	 :: tullete, fjollete
+silver {n} (metal)	 :: sølv
+silver ball {n} (pinball) SEE: pinball	 ::
+silverfish {n} (type of bristletail)	 :: sølvkre
+silverware {n} (anything made from silver)	 :: [Bokmål] sølvtøy {n}; [Nynorsk] sylvtøy {n}, sølvtøy {n}
+silverweed {n} (plant)	 :: gåsemure
+Silvia {prop} (female given name)	 :: Sylvia
+silviculture {n} (forestry)	 :: [Bokmål] skogbruk {n}
+similar {adj} (Having traits or characteristics in common; alike, comparable)	 :: [Bokmål] lignende, liknende; [Nynorsk] liknande
+similarity {n} (closeness)	 :: [Bokmål] likhet {m} {f}
+simmer {v} ((intransitive) to cook or undergo heating slowly)	 :: [Bokmål] trekke; [Bokmål] trekke
+simmer {v} ((transitive) to cause to cook or undergo heating slowly)	 :: [Bokmål] trekke; [Bokmål] trekke
+Simon {prop} (biblical characters)	 :: Simon
+Simon {prop} (male given name)	 :: Simon
+Simon says {n} (children's game)	 :: Kongen befaler
+simplified {adj} (made simpler)	 :: [Bokmål] forenklet, forenkla; [Nynorsk] forenkla
+simplify {v} (to become simpler)	 :: forenkles
+simplify {v} (to make simpler)	 :: [Bokmål] forenkle; [Nynorsk] forenkle, forenkla
+simply {adv} (in a simple manner)	 :: rett og slett, ganske enkelt, intet mindre enn
+simultaneous {adj} (at the same time)	 :: samtidig, samstundes
+simultaneously {adv} (occurring at the same time)	 :: [Nynorsk] samstundes
+sin {n} (violation of religious law)	 :: synd
+since {conj} (because)	 :: siden, fordi, da
+since {conj} (from the time that)	 :: siden
+since {prep} (from (time))	 :: siden
+sincereness {n} (sincerity) SEE: sincerity	 ::
+sine {n} (trigonometric function)	 :: sinus {m}
+sinew {n} (tendon) SEE: tendon	 ::
+sinful {adj} (evil) SEE: evil	 ::
+sinful {adj} (of or relating to sin)	 :: syndig
+sing {v} (to produce harmonious sounds with one’s voice)	 :: synge
+Singapore {prop} (Republic of Singapore)	 :: Singapore
+Singaporean {adj} (of, from, or pertaining to Singapore)	 :: [Bokmål] singaporsk; [Nynorsk] singaporsk
+Singaporean {n} (a person from Singapore)	 :: [Bokmål] singaporer {m}; [Nynorsk] singaporar {m}
+singe {v} (to burn slightly)	 :: svi
+singer {n} (person who sings)	 :: [Bokmål] sanger {m}, sangerinne {m} {f} [female]; [Nynorsk] songar {m}, songarinne {f} [female]
+singeress {n} (songstress) SEE: songstress	 ::
+singing voice {n} (quality of voice when singing)	 :: [Bokmål] sangstemme {m}; [Nynorsk] songrøyst {f}, songstemme {f}
+single {n} (45 RPM vinyl record)	 :: [Bokmål] singel {m}, single {m}, singelplate {m} {f}; [Nynorsk] singel {m}, single {m}, singelplate {f}
+single {n} (one-way ticket) SEE: one-way ticket	 ::
+single {v} (farming: to thin out) SEE: thin out	 ::
+single bed {n} (bed for one person)	 :: [Bokmål] enkeltseng {m} {f}
+single celled {adj} (consisting of one cell) SEE: unicellular	 ::
+single parent {n} (only parent bringing up a child)	 :: [Bokmål] aleneforelder {m}, aleineforelder {m}; [Nynorsk] aleineforelder {m}, åleineforelder {m}
+single ticket {n} (one-way ticket) SEE: one-way ticket	 ::
+singsong {n} (an informal gathering at which songs are sung; a singing session)	 :: allsang {m}
+singsong {n} (a piece of verse with a simple, song-like rhythm)	 :: allsang {m}
+singular {adj} (being only one of larger population)	 :: [Bokmål] enkelt; [Nynorsk] einskild, einstaka, enkelt
+Sinhala {prop} (Sinhalese) SEE: Sinhalese	 ::
+sinicization {n} (process of sinicising)	 :: sinifisering
+sink {n} (basin)	 :: vask
+sink {n} (sinkhole) SEE: sinkhole	 ::
+sink {v} (cause (ship, etc) to sink)	 :: senke
+sink {v} (descend into liquid, etc)	 :: synke
+sinker {n} (sinker nail) SEE: sinker nail	 ::
+Sino-Xenic {adj} (Sino-Japanese) SEE: Sino-Japanese	 ::
+Sino-Xenic {adj} (Sino-Korean) SEE: Sino-Korean	 ::
+Sino-Xenic {adj} (Sino-Vietnamese) SEE: Sino-Vietnamese	 ::
+sinusoid {adj} (sinusoidal) SEE: sinusoidal	 ::
+sirensong {n} (siren song) SEE: siren song	 ::
+sirup {n} (syrup) SEE: syrup	 ::
+sissy {n} (a timid, unassertive or cowardly person)	 :: Pyse
+sissy {n} (sister) SEE: sis	 ::
+sister {n} (woman or girl having the same parents)	 :: søster {c}, storesøster [elder], lillesøster [younger]
+sister-in-law {n} (brother's wife)	 :: svigerinne {f}
+sister-in-law {n} (husband's brother's wife)	 :: svigerinne {f}
+sister-in-law {n} (husband's sister)	 :: svigerinne {f}
+sister-in-law {n} (wife's brother's wife)	 :: svigerinne {f}
+sister-in-law {n} (wife's sister)	 :: svigerinne {f}
+sit {v} (move oneself into such a position)	 :: sette seg
+sit {v} (of an object: occupy a given position permanently)	 :: sitte
+sit {v} (of a person, be in a position in which the upper body is upright and the legs are supported)	 :: sitte
+sit {v}	 :: sitte
+site map {n} (webpage that lists the contents of a website)	 :: sideoversikt {m}, sidekart {n}
+sit on it {v} (sit on) SEE: sit on	 ::
+sitting room {n} (living room) SEE: living room	 ::
+situation comedy {n} (episodic comedy television program, see also: sitcom)	 :: [Bokmål] situasjonskomedie {m}; [Nynorsk] situasjonskomedie {m}
+six {num} (cardinal number)	 :: seks
+sixteen {num} (cardinal number 16)	 :: seksten
+sixteenth note {n} (sixteenth note) SEE: semiquaver	 ::
+sixth {adj} (ordinal form of the number six)	 :: sjette
+sixth {n} (one of six equal parts of a whole)	 :: [Bokmål] seksdel {m}, sjettedel {m}; [Nynorsk] seksdel {m}, sjettedel {m}
+sixth sense {n} (extrasensory perception)	 :: sjette sans {m}
+sixtieth {adj} (the ordinal form of the number sixty)	 :: sekstinde
+sixty {num} (cardinal number)	 :: seksti
+sixty-five {num} (cardinal number)	 :: sekstifem
+sixty-nine {n} (cardinal number)	 :: niogseksti
+sixty-six {num} (cardinal number)	 :: sekstiseks
+sizable {adj} (sizeable) SEE: sizeable	 ::
+size {n} (a specific set of dimensions for clothing)	 :: [Bokmål] størrelse {m}; [Nynorsk] størrelse {m}
+size {n} (assize) SEE: assize	 ::
+size {n} (dimensions or magnitude of a thing)	 :: [Bokmål] størrelse {m}; [Nynorsk] størrelse {m}
+skald {n} (a Nordic poet of the Viking Age)	 :: skald
+skate {n} (ice skate or roller skate)	 :: [Bokmål] skøyte {m} {f}; [Nynorsk] skøyte {f}, skeise {f}
+skateboard {n} (platform on wheels)	 :: rullebrett
+skater {n} (insect) SEE: water strider	 ::
+skater {n} (person who skates)	 :: [Bokmål] skøyteløper {m}
+skating rink {n} (frozen surface for skating)	 :: skøytebane {m}
+skeeter {n} (mosquito) SEE: mosquito	 ::
+skein {n} (winning streak) SEE: winning streak	 ::
+skeleton {n} (system that provides support to an organism)	 :: [Bokmål] skjelett {n}; [Nynorsk] skjelett {n}
+skeleton key {n} (a key that opens a range of locks)	 :: [Bokmål] universalnøkkel {m}; [Nynorsk] universalnykel {m}, universalnøkkel {m}
+skepticism {n} (general disposition to doubt)	 :: skeptisisme
+sketch {n} (lookout) SEE: lookout	 ::
+sketch {n} (short musical, dramatic or literary work or idea)	 :: [Bokmål] sketsj {m}; [Nynorsk] sketsj {m}
+sketchy {adj} (Of questionable or doubtful quality)	 :: tvilsom
+ski {n} (one of a pair of long flat runners designed for gliding over snow)	 :: [Bokmål] ski {c}; [Nynorsk] ski
+ski {v} (to move on skis)	 :: gå på ski
+skiascope {n} (retinoscope) SEE: retinoscope	 ::
+skier {n} (someone who practices skiing)	 :: [Bokmål] skiløper {m}
+ski jump {n} (course)	 :: [Bokmål] hoppbakke {m}; [Nynorsk] hoppbakke {m}
+ski jump {n} (ramp)	 :: [Bokmål] hoppbakke {m}; [Nynorsk] hoppbakke {m}
+ski jumper {n} (someone who competes in ski jumping)	 :: [Bokmål] skihopper {m}; [Nynorsk] skihoppar {m}
+ski jumping {n} (a winter sport)	 :: [Bokmål] skihopping {m} {f}; [Nynorsk] skihopping {f}
+skill {n} (capacity to do something well)	 :: [Bokmål] dugleik {m}, dyktighet {m} {f}, evne {m} {f}, ferdighet {m} {f}, talent {n}; [Nynorsk] dugleik {m}, dyktigheit {f}, evne {f}, ferdigheit {f}, talent {n}
+skim {v} (read quickly, skipping some detail)	 :: skumlese
+skim milk {n} (milk with removed cream)	 :: [Bokmål] skummet melk {m} {f}, skumma melk {m} {f}, skumma mjølk {m} {f}; [Nynorsk] skumma mjølk {f}
+skimp {v} (to make insufficient allowance for; to scant; to scrimp)	 :: spinke, knipe
+skimp {v} (to save; to be parsimonious or stingy)	 :: spinke
+skin {n} (outer covering of the body of a person or animal)	 :: hud {m}, skinn {n}, ham {m}
+skin {n} (rolling paper for cigarettes)	 :: [Bokmål] sigarettpapir {n}; [Nynorsk] sigarettpapir {n}
+skin {n} (skin of an animal used by humans)	 :: [Bokmål] skinn {n}; [Nynorsk] skinn {n}
+skin {n} (the outer protective layer of any plant or animal)	 :: [Bokmål] skinn {n}; [Nynorsk] skinn {n}
+skin {v} (to injure the skin of)	 :: [Bokmål] skrubbe; [Nynorsk] skrubbe
+skin {v} (to remove the skin of)	 :: [Bokmål] flå; [Nynorsk] flå
+skin cancer {n} (malignant growth on the skin)	 :: [Bokmål] hudkreft {m}; [Nynorsk] hudkreft {m}
+skin mag {n} (skin magazine) SEE: skin magazine	 ::
+skinny-dip {v} (swim in the nude)	 :: nakenbade
+skip {v} (not to attend)	 :: [Bokmål] droppe, skulke; [Nynorsk] droppe, skulke
+skip {v} (to omit or disregard intermediate items or stages)	 :: [Bokmål] hoppe over, droppe; utelate; [Nynorsk] hoppe over, droppe; utelate
+skipper {n} (captain of sports team)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+skipper {n} (master of a ship)	 :: [Bokmål] kaptein {m}; [Nynorsk] kaptein {m}
+skip rope {n} (rope used) SEE: skipping rope	 ::
+skip rope {v} (to jump over a rope) SEE: jump rope	 ::
+skirt {n} (clothing)	 :: skjørt {n}
+skirt {n} (part of dress)	 :: skjørt {n}
+skirt {n}	 :: skjørt
+skirt chaser {n} (man who seeks out female companionship)	 :: [Bokmål] skjørtejeger {m}; [Nynorsk] skjørtejeger {m}
+skirting board {n} (panel between floor and interior wall)	 :: golvlist {c}
+ski slope {n} (slope for skiing)	 :: [Bokmål] skibakke {m}; [Nynorsk] skibakke {m}
+skitrack {n} (ski track) SEE: ski track	 ::
+skive {v} (To slack off)	 :: [Bokmål] skulke; [Nynorsk] skulke
+Skolt Sami {prop} (language)	 :: skoltesamisk {c}
+Skopje {prop} (Macedonia) SEE: Macedonia	 ::
+Skopostheorie {n} (idea that translating and interpreting should take into account function) SEE: Skopos theory	 ::
+skua {n} (predatory seabird of the family Stercorariidae)	 :: jo {c}; [Nynorsk] jo {m}
+skull {n} (cranium)	 :: skalle {m}
+skull {n} (death's-head, skull)	 :: [Bokmål] dødninghode {n}
+skullduggery {n} (deceptive activities) SEE: skulduggery	 ::
+skunk {n} (animal)	 :: skunk {m}, stinkdyr {n}
+skunk {n} (skunkweed) SEE: marijuana	 ::
+sky {n} (atmosphere above a point)	 :: himmel {m}
+sky {n} (heaven)	 :: himmel {m}
+sky {n} (specific view, condition)	 :: himmel {m}
+skyline {n} (horizon) SEE: horizon	 ::
+skyrocket {n} (pocket) SEE: pocket	 ::
+skyscraper {n} (tall building)	 :: skyskraper
+slab {n} (paving stone)	 :: steinhelle {f}
+slag off {v} (to talk insultingly to or about someone or something)	 :: slenge dritt til/om
+slake {v} (To satisfy thirst)	 :: [Bokmål] slukke tørsten [literally, figuratively]
+slaked lime {n} (calcium hydroxide) SEE: calcium hydroxide	 ::
+slalom {n} (sports)	 :: slalåm {m}
+slalom {v} (to race in a slalom)	 :: kjøre slalåm, stå slalåm
+slalomist {n} (slalomer) SEE: slalomer	 ::
+slam {n} (poetry slam) SEE: poetry slam	 ::
+slander {n} (false, malicious statement)	 :: bakvaskelse {m}
+slang {n} (cant) SEE: cant	 ::
+slang {n} (jargon) SEE: jargon	 ::
+slap {n} (A blow.)	 :: ørefik {m}, en over kjeften
+slap {v} (to give a slap)	 :: fike, slå
+slapdash {adj} (done hastily)	 :: forhasta
+slap someone five {v} (give someone five) SEE: give someone five	 ::
+slash {n} (slash fiction) SEE: slash fiction	 ::
+slash {n} (symbol)	 :: skråstrek {m}
+slate {n} (rock)	 :: skifer {m}, skiferstein {m}
+slattern {n} (prostitute) SEE: prostitute	 ::
+slattern {n} (slut) SEE: slut	 ::
+slaughter {v} (To butcher animals, generally for food (also kosher and halal rituals))	 :: slakte
+slaughter {v} (To kill in a particularly brutal manner)	 :: slakte
+slaughter {v} (To massacre people in large numbers)	 :: massakrere, slakte
+slaughterhouse {n} (abattoir) SEE: abattoir	 ::
+Slav {n} (a member of a group of peoples in Eastern Europe speaking a Slavic language)	 :: slav
+slave {n} (person owned by another)	 :: [Bokmål] slave {m}, slavinne {m} {f}, trell {m}, trellkvinne {m} {f}, trælkvinne {m} {f}; [Nynorsk] slave {m}, slavinne {f}, træl {m}, trælkvinne {f}
+slave {n} (person who is forced to perform sexual acts)	 :: sexslave {m}, seksualslave {m}
+slavery {n}	 :: slaveri
+Slavic {adj} (of the Slavs, their culture or languages)	 :: slavisk
+Slavonian grebe {n} (Podiceps auritus)	 :: [Bokmål] horndykker {m}
+Slavonic {adj} (Slavic) SEE: Slavic	 ::
+Slavyansk {prop} (Slovyansk) SEE: Slovyansk	 ::
+sled {n} (a small, light vehicle with runners, used, mostly by young persons, for sliding on snow or ice)	 :: [Bokmål] kjelke {m}; [Nynorsk] kjelke {m}
+sled {n} (a vehicle on runners, used for conveying loads over the snow or ice)	 :: [Bokmål] slede {m}; [Nynorsk] slede {m}
+sledgehammer {n} (kind of hammer)	 :: [Bokmål] slegge {m} {f}; [Nynorsk] sleggje {f}
+sleep {n} (state of reduced consciousness)	 :: søvn {m}
+sleep {v} (to rest in state of reduced consciousness)	 :: sove
+sleeper {n} (horizontal wooden or concrete structural member supporting railway lines)	 :: sville {m}
+sleeper {n} (railroad sleeping car) SEE: sleeping car	 ::
+sleeping {adj} (asleep) SEE: asleep	 ::
+sleeping bag {n} (padded or insulated bag)	 :: [Bokmål] sovepose {m}; [Nynorsk] sovepose {m}
+Sleeping Beauty {prop} (fairy tale)	 :: Tornerose
+Sleeping Beauty {prop} (main character in this story)	 :: Tornerose
+sleeping car {n} (a railroad car with sleeping facilities for passengers travelling overnight.)	 :: [Bokmål] sovevogn {m} {f}; [Nynorsk] sovevogn {f}
+sleepless {adj} (absence of sleep)	 :: [Bokmål] søvnløs
+sleepwalk {v} (somnambulate) SEE: somnambulate	 ::
+sleepwalker {n} (somnambulist) SEE: somnambulist	 ::
+sleepy {adj} (feeling the need for sleep)	 :: trett, døsig, søvnig
+sleepy head {n} (a sleepy person) SEE: sleepyhead	 ::
+sleepyhead {n} (ruddy duck) SEE: ruddy duck	 ::
+sleet {n} (mixture of rain and snow)	 :: sludd {n} [Nynorsk] slut {n}
+sleet {v} (to be in a state in which sleet is falling)	 :: sluddvær {n}
+sleeve {n} (part of a garment that covers the arm)	 :: erme {n}
+sleigh {n} (vehicle on runners)	 :: [Bokmål] slede {m}; [Nynorsk] slede {m}
+sleight of hand {n} (skill)	 :: fingerferdighet {m}
+slice {v} (to cut into slices)	 :: å skjære
+slide {n} (rubble, earth and stones moving down)	 :: ras {n}
+slide {n} (valve in eg. a trombone)	 :: sleide {m}
+slide {v} (to lose balance)	 :: gli, skli
+slide {v} (to move in continuous contact with a surface)	 :: gli, skli
+slide {v} (to move with low friction)	 :: gli
+slide fastener {n} (zip fastener) SEE: zip fastener	 ::
+slide fastener {n} (zip fastener) SEE: zip fastener	 ::
+sliding door {n} (door)	 :: [Bokmål] skyvedør {m} {f}; [Nynorsk] skuvedør {f} skyvedør {f}
+slingshot {n} (Y-shaped stick)	 :: sprettert {m}
+Slinky {n} (Toy spring)	 :: trappetroll {n}
+slip {n} (nautical: space for a ship to moor) SEE: berth	 ::
+slip {v} (to lose one's traction)	 :: skli, gli
+slipper {n} (low shoe usually worn indoors)	 :: [Bokmål] tøffel {m}; [Nynorsk] tøffel {m}
+slipper animalcule {n} (paramecium) SEE: paramecium	 ::
+slipstick {n} (slide rule) SEE: slide rule	 ::
+slob {n} (lazy, slovenly person)	 :: slask
+sloe {n} (Prunus spinosa)	 :: slåpetorn
+sloop {n} (single-masted sailboat)	 :: slupp
+sloop {n}	 :: slupp
+slope {n} (area of ground that tends evenly upward or downward)	 :: skråning {f}, bakke {m}, oppoverbakke {m}, nedoverbakke {m}
+slope {n} (degree to which a surface tends upward or downward)	 :: stigning {m}, helling {f}
+slosh {v} (of a liquid, to shift chaotically; to splash noisily)	 :: skvalpe, skvulpe, plaske
+sloth {n} (laziness)	 :: latskap {m}, lediggang {m}
+sloth {n} (mammal)	 :: [Bokmål] dovendyr {n}; [Nynorsk] dovendyr {n}
+slot machine {n} (vending machine) SEE: vending machine	 ::
+slough {n} (muddy or marshy area)	 :: myr {m} {f}, gjørmehull {n}
+Slovak {adj} (of Slovakia or its language)	 :: [Bokmål] slovakisk; [Nynorsk] slovakisk
+Slovak {n} (native of Slovakia)	 :: [Bokmål] slovak {m}; [Nynorsk] slovak {m}
+Slovak {prop} (language of Slovakia)	 :: [Bokmål] slovakisk {m}; [Nynorsk] slovakisk {m}
+Slovakia {prop} (Slovakia)	 :: Slovakia
+Slovene {adj} (adjective)	 :: [Bokmål] slovensk; [Nynorsk] slovensk
+Slovene {n} (a person)	 :: [Bokmål] slovener {m}; [Nynorsk] sloven {m}, slovenar {m}
+Slovene {prop} (the language)	 :: [Bokmål] slovensk {m}; [Nynorsk] slovensk {m}
+Slovenia {prop} (country in Europe)	 :: Slovenia
+Slovenian {adj} (Slovene) SEE: Slovene	 ::
+Slovenian {n} (Slovene) SEE: Slovene	 ::
+Slovenian {prop} (Slovene) SEE: Slovene	 ::
+slow {adj} (not quick in motion)	 :: langsom {m} {f}, langsomt {n}, langsomme {p}
+slowcoach {n} (plodder) SEE: plodder	 ::
+slowly {adv} (At a slow pace)	 :: sakte, langsomt
+slowness {n} (quality of being slow)	 :: langsomhet
+slowworm {n} (Anguis fragilis)	 :: [Bokmål] stålorm {m}; [Nynorsk] stålorm {m}
+sluff {n} (slough) SEE: slough	 ::
+sluff {v} (slough) SEE: slough	 ::
+slug {n} (lazy person) SEE: sluggard	 ::
+sluice {n} (passage for water)	 :: sluse {m} {f}
+slum {n} (dilapidated neighborhood)	 :: slum {m}
+slumber {n} (a very light state of sleep)	 :: slumre, dorme
+slumber {v} (to be inactive or negligent)	 :: sløve
+Slurpee {n} (flavored shaved ice served as a drink) SEE: slush	 ::
+slush {n} (half-melted snow)	 :: slaps {n}; [Bokmål] sørpe {m} {f}; [Nynorsk] sørpe {f}
+slushie {n} (flavored shaved ice served as a drink) SEE: slush	 ::
+Slush Puppie {n} (slush) SEE: slush	 ::
+slushy {n} (flavored shaved ice served as a drink) SEE: slush	 ::
+slut {n} (prostitute) SEE: whore	 ::
+slut {n} (sexually promiscuous woman)	 :: ludder {n}, tøs {f}
+sly {adj} (artfully cunning; secretly mischievous; wily)	 :: slu, sleip
+sly {adj} (dexterous in performing an action, so as to escape notice; nimble)	 :: slu
+sly {adj} (done with, and marked by, artful and dexterous secrecy)	 :: slu, listig
+smack {n} ((slang) heroin) SEE: horse	 ::
+small {adj} (not large)	 :: liten
+small {adj} (young)	 :: liten, ung
+small-eared galago {n} (Otolemur garnettii) SEE: northern greater galago	 ::
+small potatoes {n} (small fry) SEE: small fry	 ::
+smallpox {n} (disease)	 :: [Bokmål] kopper {m-p}; [Nynorsk] koppar {m-p}
+small talk {n} (idle conversation)	 :: [Bokmål] småprat {m} {n}; [Nynorsk] småprat {m} {n}
+smalltown {n} (small town) SEE: small town	 ::
+smaragdine {n} (emerald) SEE: emerald	 ::
+smart {adj} (exhibiting intellectual knowledge, such as that found in books)	 :: [Bokmål] smart, klok
+smart ass {n} (one promoting his own personality, wishes or views) SEE: smartass	 ::
+smear {n} (Pap smear) SEE: Pap smear	 ::
+smell {n} (sensation)	 :: [Bokmål] lukt {m} {f}; [Nynorsk] lukt {f}
+smell {n} (sense of smell)	 :: [Bokmål] luktesans {m}; [Nynorsk] luktesans {m}
+smell {v} (have a particular smell)	 :: stinke
+smell {v} (have the smell of)	 :: lukte
+smell {v} (sense with nose)	 :: lukte
+smelt {n} (production of metal, especially iron, from ore) SEE: smelting	 ::
+smetana {n} (type of soured cream)	 :: smetana
+smew {n} (Mergus albellus)	 :: lappfiskand
+smile {n} (a happy face expression using mouth, but without producing voice)	 :: smil {n}
+smiley {n} (emoticon) SEE: emoticon	 ::
+smiley {n}	 :: smiley, smilefjes
+smith {v} (craftsperson who works metal)	 :: smed {m}
+smithy {n} (forge) SEE: forge	 ::
+smoke {n} (baseball slang:fastball) SEE: fastball	 ::
+smoke {n} (visible particles and vapour given off by burning material)	 :: røyk {m}
+smoke {v} (to inhale and exhale smoke from a burning cigarette)	 :: [Bokmål] røyke
+smoke alarm {n} (smoke detector) SEE: smoke detector	 ::
+smoker {n} (apparatus for smoking food)	 :: røykeri {n}
+smoker {n} (bee smoker) SEE: bee smoker	 ::
+smoker {n} (person who smokes tobacco habitually)	 :: [Bokmål] røyker {m}, røker {m}; [Nynorsk] røykjar {m}
+smoker {n} (smoking car) SEE: smoking car	 ::
+smoking {n} (smoking of tobacco)	 :: røyking {f}; [Nynorsk] røyking {f}
+smug {adj} (irritatingly pleased with oneself; self-satisfied)	 :: selvgod
+smuggle {v}	 :: smugle
+smurf {n} (fictional character)	 :: smurf {c}
+smut {n} (promiscuous woman) SEE: slut	 ::
+smut {n} (soot) SEE: soot	 ::
+snag {n} (problem or difficulty)	 :: [Bokmål] ulempe
+snail {n} (any animal of the class Gastropoda having a shell)	 :: [Bokmål] snegl {m}, snile {m}; [Nynorsk] snigel {m}
+snake {n} (legless reptile)	 :: slange {m}, orm {m}
+snake {n} (plumbing tool)	 :: stakefjær {c}
+snake hawk {n} (laughing falcon) SEE: laughing falcon	 ::
+snaky {adj} (twisty) SEE: twisty	 ::
+snare drum {n} (tubular drum)	 :: [Bokmål] skarptromme {m} {f}; [Nynorsk] skarptromme {f}
+sneak {n} (a cheat; con artist; trickster)	 :: snik {m}
+sneak {v} (to creep)	 :: snike
+sneaker {n} (athletic shoe) SEE: sneakers	 ::
+sneakers {n} (leisure shoes, often worn for sports; trainers)	 :: joggesko {m}
+sneer {v} (raise a corner of the upper lip slightly in scorn)	 :: hånflire
+snippet {n} (a tiny piece or part)	 :: snutt {m}
+snitch {n} (informer, usually one who betrays his group)	 :: sladrehank
+snitch {v} (inform on)	 :: sladre
+snivel {n} (nasal mucus; snot)	 :: snørr {f} or {n}
+snivel {n} (the act of snivelling)	 :: klynk {n}, snufs {n}, grining {c}, tuting {c}
+snivel {v} (to breathe heavily through the nose; to sniffle)	 :: snufse
+snivel {v} (to whine or complain, whilst crying)	 :: klynke, bære seg, snufse, tute
+Sněžka {prop} (mountain)	 :: Sněžka, Śnieżka
+snood {n} (hairnet) SEE: hairnet	 ::
+snood {n} (neckwarmer) SEE: neckwarmer	 ::
+snoot {n} (slang: human nose) SEE: schnozzle	 ::
+snore {v} (breathe during sleep with harsh noises)	 :: snorke
+snot {n} (contemptible child)	 :: snørrunge {m}
+snot {n} (mucus)	 :: snørr {f} {n}
+snotty {adj} (dirtied with snot)	 :: snørret
+snotty {adj} (ill-tempered, impertinent)	 :: snørrhoven
+snout {n} (long, projecting nose, mouth and jaw of a beast)	 :: tryne {n}
+snout moth {n} (eggar) SEE: eggar	 ::
+snow {n} (collective precipitation)	 :: snøfall {n}
+snow {n} (precipitation)	 :: [Bokmål] snø {m}, sne {m}; [Nynorsk] snø {m}
+snow {n} (TV noise)	 :: snø
+snow {v} (have snow fall from the sky)	 :: [Bokmål] snø; [Nynorsk] snøe, snø
+snowball {n} (ball of snow)	 :: [Bokmål] snøball {m}; [Nynorsk] snøball {m}
+snowball fight {n} (scuffle or play fight whose object is to hit unallied participants with snowballs)	 :: snøballkrig
+snow-blind {adj} (blinded by abundance of reflected light)	 :: [Bokmål] snøblind
+snow blindness {n} (condition of the eyes caused by exposure to UV rays)	 :: [Bokmål] snøblindhet {m} {f}
+snowblower {n} (a device for clearing a path or road of snow)	 :: snøfreser; [Nynorsk] snøfresar {m}
+snowboard {n} (board)	 :: [Bokmål] snøbrett {n}; [Nynorsk] snøbrett {n}
+snowboarder {n} (someone who snowboards)	 :: [Bokmål] snøbrettkjører {m}
+snowfall {n} (instance of falling of snow)	 :: [Bokmål] snøfall {n}; [Nynorsk] snøfall {n}
+snowflake {n} (crystal)	 :: snøfnugg
+snow fox {n} (arctic fox) SEE: arctic fox	 ::
+snow globe {n} (decorative object)	 :: [Bokmål] snøkule {m}
+snow leopard {n} (a large feline mammal, Uncia uncia)	 :: snøleopard
+snowman {n} (figure made of snow)	 :: [Bokmål] snømann {m}; [Nynorsk] snømann {m}
+snowmobile {n} (vehicle)	 :: [Bokmål] snøscooter {m}, scooter {m}, snøskuter {m}, skuter {m}; [Nynorsk] snøscooter {m}, scooter {m}, snøskuter {m}, skuter {m}
+snow shovel {n} (a shovel designed specifically for the shovelling of snow)	 :: [Bokmål] snømåke {m} {f}, snøskuffe {m} {f}; [Nynorsk] snømoke {f}, snøskuffe {f}
+snowstorm {n} (bad weather involving blowing winds and snow)	 :: snøstorm
+snow-white {adj} (as white as snow)	 :: [Bokmål] snøhvit
+Snow White {prop} (character from Snow White (Schneewittchen))	 :: [Bokmål] Snøhvit
+snuff {n} (fine-ground tobacco)	 :: snus {m-p}
+snuff {v} (extinguish candle or oil-lamp)	 :: slukke
+snus {n} (type of tobacco snuff)	 :: snus {m}
+so {adv} (in a particular manner)	 :: slik
+so {adv} (to a particular extent)	 :: så
+so {adv} (very)	 :: så
+so {conj} (in order that)	 :: så
+so {n} (sol) SEE: sol	 ::
+soap {n} (soap opera) SEE: soap opera	 ::
+soap {n} (substance)	 :: såpe, såpa
+soap dish {n} (a container for soap)	 :: [Bokmål] såpeskål {m} {f}
+soap opera {n} (television serial)	 :: [Bokmål] såpeopera {m}; [Nynorsk] såpeopera {m}
+sobbing {n} (action of the verb "to sob")	 :: snufsing {m}
+sober {adj} (not drunk)	 :: edru
+soccer {n} (game)	 :: fotball {m}
+Sochi {prop} (city in Russia)	 :: Sotsji
+social {adj} (extroverted or outgoing)	 :: sosial
+social {adj} (relating to society)	 :: sosial
+social {n} (short for social security benefit)	 :: sosialen
+social anxiety {n} (social anxiety disorder) SEE: social anxiety disorder	 ::
+social anxiety disorder {n} (the most common anxiety disorder)	 :: [Bokmål] sosial angstlidelse, sosial fobi
+socialism {n} (group of socialist political philosophies)	 :: sosialisme {m}
+socialism {n} (intermediate phase of social development)	 :: sosialisme {m}
+socialism {n} (political philosophy of social and economic equality)	 :: sosialisme {m}
+social phobia {n} (social anxiety disorder) SEE: social anxiety disorder	 ::
+social psychology {n}	 :: sosialpsykologi {m}
+society {n} (group of people sharing culture)	 :: samfunn {n}
+society {n} (high society) SEE: high society	 ::
+Socinian {adj} (pertaining to the Socinians)	 :: sociniansk {m}
+socioeconomic {adj} (of or pertaining to social and economic factors) SEE: socio-economic	 ::
+sociologist {n} (scientist studying the field of sociology)	 :: [Bokmål] sosiolog {m}; [Nynorsk] sosiolog {m}
+sociopolitical {adj} (socio-political) SEE: socio-political	 ::
+sock {n} (covering for the foot)	 :: sokk {m}
+Socrates {prop} (Greek philosopher)	 :: Sokrates
+soda {n} (carbonated water)	 :: [Bokmål] kullsyreholdig mineralvann {n}, sodavann {n}, soda {n}, selters {m}; [Nynorsk] kolsyrehaldig mineralvatn {n}, sodavatn {n}, soda {m}, selters {m}
+soda {n} (sweet, carbonated drink)	 :: [Bokmål] brus {m}; [Nynorsk] brus {m}
+sodality {n} (companionship) SEE: companionship	 ::
+sodium {n} (a reactive metal)	 :: natrium; [Nynorsk] natrium
+sodium benzoate {n} (the sodium salt of benzoic acid)	 :: natriumbenzoat
+sodium hydrogen carbonate {n} (NaHCO3) SEE: sodium bicarbonate	 ::
+sodium lamp {n} (sodium vapor lamp) SEE: sodium vapor lamp	 ::
+sodomy {n} (sex held to be unnatural)	 :: [bestiality] sodomi
+sofa {n} (upholstered seat)	 :: sofa
+so far {adv} (until now; previously; yet)	 :: hittil
+Sofia {prop} (the capital city of Bulgaria)	 :: Sofia
+soft {adj} (foolish) SEE: foolish	 ::
+soft {adj} (gentle)	 :: forsiktig
+soft {adj} (giving way under pressure)	 :: svak
+soft {adj} (lacking strength or resolve)	 :: svak
+soft {adj} (of a cloth)	 :: myk
+soft {adj} (of a sound)	 :: myk
+soft {adj} (of water)	 :: bløt
+soft chancre {n} (chancroid) SEE: chancroid	 ::
+soft drink {n} (sweet, non-alcoholic carbonated beverage)	 :: brus {m}
+soften {v} ((transitive) To make something soft or softer)	 :: bløtgjøre
+softhearted {adj} (easily moved to sorrow)	 :: bløthjertet
+soft paraffin {n} (petroleum jelly) SEE: petroleum jelly	 ::
+soft porn {n} (soft-core pornography)	 :: [Bokmål] mykporno {m}
+soft roe {n} (milt) SEE: milt	 ::
+soft serve {n} (frozen dessert)	 :: [Bokmål] softis {m}
+soft soap {n} (soft-soap) SEE: soft-soap	 ::
+soft spot {n} (fontanelle) SEE: fontanelle	 ::
+software {n} (encoded computer instructions)	 :: programvare {m} {f}
+Sogdiana {prop} (an ancient Iranian-speaking civilization)	 :: Sogdia
+soil {n} (mineral or organic material serving as a natural medium for the growth of land plants)	 :: jordsmonn {n}
+soil {v} (to defecate into one's clothing) SEE: soil oneself	 ::
+soil stack {n} (drain-waste-vent system)	 :: [Bokmål] soilrør {n}
+solace {n} (consolation)	 :: trøst
+solace {n} (source of comfort)	 :: trøst
+solar eclipse {n} (when the Moon passes between the Earth and the sun)	 :: [Bokmål] solformørkelse {m}; [Nynorsk] solformørking {f}
+solar mass {n} (unit)	 :: solmasse {m}
+solar system {n} (any collection of heavenly bodies orbiting a star)	 :: solsystem {n}
+solar system {prop} (Solar System) SEE: Solar System	 ::
+solar wind {n} (outflow of charged particles from the solar corona into space)	 :: solvind {m}
+soldering iron {n} (tool)	 :: loddebolt {c}
+soldier {n}	 :: soldat {m}
+sole {adj} (only)	 :: eneste
+sole {adj} (unmarried; widowed)	 :: singel, enslig
+sole {n} (bottom of a shoe or boot)	 :: såle {m}
+sole {n} (bottom of the foot)	 :: fotsåle {m}
+sole {n} (fish)	 :: sjøtunge {f}
+sole {v} (put a sole on (a shoe or boot))	 :: såle
+solely {adv} (exclusively)	 :: bare
+solid {adj} (extremely filling)	 :: solid
+solid {adj} (in the solid state)	 :: fast
+solid {adj} (lacking errors or inconsistencies)	 :: solid
+solid {adj} (lacking holes or hollows)	 :: solid, massiv, kompakt
+solid {adj} (large, massive)	 :: solid, kraftig
+solid {adj} (strong, unyielding (as of foundations etc))	 :: solid, kraftig
+solitaire {n} (patience) SEE: patience	 ::
+solitaire {n} (person who lives alone) SEE: solitary	 ::
+solitary {adj} (lonely) SEE: lonely	 ::
+solitude {n} (state of being alone)	 :: ensomhet {c}
+Solomon {prop} (king of Israel)	 :: Salomo
+Solomon Islander {n} (Somebody from The Solomon Islands)	 :: [Bokmål] salomoner {m}; [Nynorsk] salomonar {m}
+Solomon Islands {prop} (A country in Melanesia)	 :: Salomonøyene
+so long as {phrase} (as long as) SEE: as long as	 ::
+solstice {n} (point where the earth stands at the extreme of its ellipsis around the sun)	 :: [Bokmål] solverv {n}; [Nynorsk] solkverv {m}
+solve {v} (to find an answer or solution)	 :: [Bokmål] løse
+Somali {adj} (pertaining to Somalia)	 :: [Bokmål] somalisk; [Nynorsk] somalisk
+Somali {n} (a person)	 :: [Bokmål] somalier {m}; [Nynorsk] somaliar {m}
+Somali {prop} (a language)	 :: [Bokmål] somali {m}, somalisk {m}; [Nynorsk] somali {m}, somalisk {m}
+Somalia {prop} (country in the Horn of Africa)	 :: Somalia
+some {determiner} (certain proportion of)	 :: noen
+some {determiner}	 :: noe (uncountable), noen (countable)
+some {determiner} (unspecified quantity or number of)	 :: noen
+some {pron} (certain number)	 :: enkelte {p}, visse {p}; [Bokmål] noen; [Nynorsk] somme {p}
+someone {pron} (some person)	 :: noen
+something {pron} (talent that is hard to pin down)	 :: noenting
+something {pron} (unspecified object)	 :: noe
+something is rotten in the state of Denmark {phrase} (Hamlet quotation, used in other contexts to mean "something is not right.")	 :: det er noe råttent i kongeriket Danmark
+sometime {adv} (obsolete: sometimes) SEE: sometimes	 ::
+sometimes {adv} (on certain occasions, but not always)	 :: av og til, tidvis; [Bokmål] noen ganger
+somewhat {adv} (limited extent)	 :: noen lunde
+somewhat {pron} (something) SEE: something	 ::
+somewhere else {adv} (in some other place)	 :: [Bokmål] annensteds, annetsteds; [Nynorsk] annenstad, annensted
+somnambulation {n} (sleepwalking) SEE: sleepwalking	 ::
+somnambulist {n} (a sleepwalker)	 :: [Bokmål] søvngjenger {m}
+son {n} (a male person in relation to his parents)	 :: sønn {m}; [Nynorsk] son {m}
+son {n}	 :: sønn {m}
+song {n} (music with words)	 :: [Bokmål] sang {m}; [Nynorsk] song {m}
+song {n} (sound of a bird) SEE: birdsong	 ::
+songbird {n} (bird)	 :: [Bokmål] sangfugl {m}, sanger {m}; [Nynorsk] songfugl {m}
+Song of Solomon {prop} (book of the Bible)	 :: Høgsongen {m}
+songstress {n} (a female singer)	 :: [Bokmål] sangerinne {m} {f}
+son-in-law {n} (son-in-law)	 :: svigersønn, måg
+sonnet {n} (sonnet, a type of poem)	 :: sonett; [Nynorsk] sonett
+sonogram {n} (spectrogram) SEE: spectrogram	 ::
+sonometer {n} (audiometer) SEE: audiometer	 ::
+sonorous {adj} (capable of giving out a deep resonant sound)	 :: sonor
+sonorous {adj} (full of sound and rich, as in language or verse)	 :: sonor
+Sonya {prop} (female given name)	 :: Sonja
+soon {adv} (within a short time)	 :: snart
+sooner or later {adv} (set phrase; eventually)	 :: før eller senere, før eller seinere, før eller siden
+soot {n} (Fine black or dull brown particles)	 :: sot {c}/{n}
+soothe {v} (To calm or placate someone or some situation)	 :: berolige
+sop {n} (easily frightened person) SEE: milksop	 ::
+sop {n} (gravy) SEE: gravy	 ::
+Sophia {prop} (female given name)	 :: Sofia {f}, Sofie {f}
+sophisticated {adj} (appealing to the tastes of an intellectual; cerebral)	 :: [Bokmål] sofistikert; [Nynorsk] sofistikert
+sophisticated {adj} (complicated, especially of complex technology)	 :: [Bokmål] sofistikert; [Nynorsk] sofistikert
+sophisticated {adj} (having obtained worldly experience, and lacking naiveté; cosmopolitan)	 :: [Bokmål] sofistikert; [Nynorsk] sofistikert
+Sophocles {prop} (Greek dramatic poet)	 :: Sofokles {m}
+Sorbian {prop} (language)	 :: sorbisk
+sore {adj} (annoyed) SEE: annoyed	 ::
+sorghum {n} (cereal)	 :: durra
+sorrel {n} (plant)	 :: engsyre
+sorrow {n} (unhappiness)	 :: [Bokmål] sorg {m} {f}; [Nynorsk] sorg {f}
+sorry {adj} (poor, regrettable)	 :: sørgelig
+sorry {adj} (regretful for an action or grieved)	 :: lei
+sorry {interj} (expression of regret or sorrow)	 :: unnskyld, beklager
+sorry {interj} (request to repeat)	 :: unnskyld
+sort {n} (type)	 :: [Bokmål] slags, sort {m}; [Nynorsk] slags {m} {f} {n}, sort {m}
+sort {v} (arrange in order)	 :: sortere
+sorta {adv} ((colloquially) sort of; quite)	 :: på en måte, liksom
+so-so {adj} (neither good nor bad)	 :: passe
+São Toméan {adj} (Of, or pertaining to, São Tomé and Principe or its peoples)	 :: [Bokmål] saotomesisk; [Nynorsk] saotomesisk
+São Toméan {n} (citizen of São Tomé and Principe or of São Toméan descent)	 :: [Bokmål] saotomeser {m}; [Nynorsk] saotomesar {m}
+São Tomé and Príncipe {prop} (Democratic Republic of São Tomé and Príncipe)	 :: São Tomé og Príncipe
+Sãotomense {prop} (Forro) SEE: Forro	 ::
+sotto {adj} (music, informal: sotto voce (adjective)) SEE: sotto voce	 ::
+sotto {adv} (music, informal: sotto voce (adverb)) SEE: sotto voce	 ::
+soufflé {n} (baked dish)	 :: [Bokmål] sufflé {m}; [Nynorsk] sufflé {m}
+sought-after {adj} (in demand) SEE: in demand	 ::
+soul {n} (soul music)	 :: [Bokmål] soul {m}
+soul {n} (the spirit or essence of a person that is believed to live on after the person’s death)	 :: sjel {m} {f}
+sound {adj} (complete, solid, or secure)	 :: stødig
+sound {adj} (healthy)	 :: sunn, frisk
+sound {adj} (sound asleep) SEE: sound asleep	 ::
+sound {adj} (UK, slang: good or a good thing)	 :: grei
+sound {n} (air bladder) SEE: swim bladder	 ::
+sound {n} (cuttlefish) SEE: cuttlefish	 ::
+sound {n} (long narrow inlet)	 :: sund {n}
+sound {n} (sensation perceived by the ear)	 :: lyd {m}; [Nynorsk] lyd {m}, ljod {m} {n}
+sound {n} (vibration capable of causing this)	 :: lyd {m}; [Nynorsk] lyd {m}, ljod {m} {n}
+Sound {prop} (strait that separates Zealand from Scania)	 :: Øresund {n}
+sound card {n} (a computer hardware device used for generating and capturing sounds)	 :: lydkort
+soundly {adv} (in a thorough manner)	 :: [Bokmål] grundig; [Nynorsk] grundig
+soundness {n} (the result or product of being sound)	 :: [Nynorsk] heilskap {m}, traustleik {m}, rettkomenskap {m}, rettvise {f}
+soundness {n} (the state or quality of being sound)	 :: [Nynorsk] heilskap {m}, traustleik {m}, rettkomenskap {m}, rettvise {f}
+sound wave {n} (longitudinal wave of pressure transmitted through any plastic material)	 :: [Bokmål] lydbølge {m} {f}; [Nynorsk] lydbølgje {f}
+soupçon {n} (suspicion, suggestion) SEE: suspicion	 ::
+soupçon {n} (very small amount) SEE: modicum	 ::
+soupspoon {n} (soupspoonful) SEE: soupspoonful	 ::
+sour {adj} (having an acidic, sharp or tangy taste)	 :: sur
+source {n} ((computing) source code)	 :: kildekode {m}
+source code {n} (human-readable instructions in a programming language)	 :: [Bokmål] kildekode; [Nynorsk] kjeldekode
+sour cream {n} (cream which has been treated with a benign bacterium)	 :: rømme {m}
+sourdough {n} (dough)	 :: surdeig {m}
+south {n} (compass point)	 :: [Bokmål] sør, syd; [Nynorsk] sør
+South Africa {prop} (country)	 :: Sør-Afrika, Republikken Sør-Afrika; [Nynorsk] Sør-Afrika
+South African {adj} (of, from, or pertaining to South Africa)	 :: [Bokmål] sørafrikansk; [Nynorsk] sørafrikansk
+South African {n} (person)	 :: [Bokmål] sørafrikaner {m}; [Nynorsk] sørafrikan {m}, sørafrikanar {m}
+South African English {prop} (English dialect of South Africa)	 :: [Bokmål] sørafrikansk engelsk
+South Asia {prop} (South Asia)	 :: Sør-Asia
+southeast {n} (compass point)	 :: [Bokmål] sørøst; [Nynorsk] søraust
+Southeast Asia {prop} (a subregion of Asia)	 :: Sørøst-Asia
+Southerner {n} (someone from the south of a region) SEE: southerner	 ::
+Southern Europe {prop} (Southern Europe)	 :: Syd-Europa
+southern lights {n} (the aurora of the southern hemisphere)	 :: sørlys {n}
+southernmost {adj} (farthest south)	 :: sørligste
+Southern Sami {prop} (language)	 :: sørsamisk {c}
+Southern Sesotho {prop} (Sotho) SEE: Sotho	 ::
+South Korea {prop} (country in East Asia)	 :: Sør-Korea, Republikken Korea
+South Korean {adj} (of South Korea)	 :: [Bokmål] sørkoreansk; [Nynorsk] sørkoreansk
+South Korean {n} (person from or descended from South Korea)	 :: [Bokmål] sørkoreaner {m}; [Nynorsk] sørkorean {m}, sørkoreanar {m}
+South Ossetia {prop} (South Ossetia)	 :: Sør-Ossetia
+south-southeast {n} (compass point)	 :: [Bokmål] sør-sørøst; [Nynorsk] sør-søraust
+south-southwest {n} (compass point)	 :: [Bokmål] sør-sørvest; [Nynorsk] sør-sørvest
+South Sudan {prop} (country in Africa)	 :: Sør-Sudan
+South Sudanese {adj} (Of, from, or pertaining to the country of South Sudan or the South Sudanese people)	 :: [Bokmål] sørsudansk; [Nynorsk] sørsudansk
+South Sudanese {n} (A person from South Sudan or of South Sudanese descent)	 :: [Bokmål] sørsudaner {m}; [Nynorsk] sørsudanar {m}
+southwest {n} (compass point)	 :: [Bokmål] sørvest; [Nynorsk] sørvest
+South Yemen {prop} (country)	 :: Sør-Jemen
+souvenir {n} (item of sentimental value to remember an event or location)	 :: [Bokmål] suvenir {m}; [Nynorsk] suvenir {m}
+Soviet {prop} (soviet) SEE: soviet	 ::
+Soviet Union {prop} (USSR)	 :: Sovjetunionen
+sow {n} (female pig)	 :: [Bokmål] purke {f} {m}, sugge {f} {m}, hunngris {m}, hunnsvin {n}; [Nynorsk] purke {f}, purka {f} [by-form], sugge {f}, hogris {m}, hosvin {n}
+sow {v} (disperse seeds)	 :: så
+soy {n} (soy sauce) SEE: soy sauce	 ::
+soy milk {n} (a beverage made from soy beans)	 :: soyamelk {m} {f}
+space {n} (area beyond atmosphere of planets)	 :: [Bokmål] verdensrom {n}; [Nynorsk] verdsrom {n}
+space {n} (while) SEE: while	 ::
+space bar {n} (key)	 :: [Bokmål] mellomromstast {m}; [Nynorsk] mellomromstast {m}
+spacecraft {n} (vehicle that travels through space)	 :: romskip
+space probe {n} (unmanned space vehicle designed to voyage beyond Earth orbit)	 :: romsonde {m}
+spaceship {n} (vehicle that flies through space)	 :: romskip {n}
+space shuttle {n} (vehicle capable of travelling repeatedly btw Earth and outer space)	 :: romferge; [Nynorsk] romferje
+space station {n} (manned artificial satellite)	 :: [Bokmål] romstasjon {m}; [Nynorsk] romstasjon {m}
+spacetime {n} (four dimensional continuum)	 :: romtid
+space-time {n} (spacetime) SEE: spacetime	 ::
+spacious {adj} (having much space; roomy)	 :: rommelig, romslig
+spackle {n} (plastic paste for filling cracks and holes)	 :: sparkel {m}, sparkelmasse {m}
+spackle {v} (fill cracks or holes with a spackle)	 :: sparkle
+spade {n} (a black person)	 :: [Bokmål] svarting {m}
+spade {n} (a garden tool with a handle and a flat blade for digging)	 :: spade {m}
+spade {n} (one of the black suits in a deck of cards)	 :: spar {m}
+spades {n} (spade) SEE: spade	 ::
+spaghetti {n} (informally: any type of pasta) SEE: pasta	 ::
+spaghetti {n} (spaghetti code) SEE: spaghetti code	 ::
+Spain {prop} (country in Europe)	 :: Spania
+spallation {n} (physics: nuclear reaction in which a nucleus fragments into many nucleons)	 :: spallasjon {m}
+spam {n} (tinned meat product) SEE: SPAM	 ::
+spam {n} (unsolicited bulk electronic messages)	 :: søppelpost {m}
+spam {n} (unsolicited electronic message sent in bulk)	 :: søppelpost {m}
+spam {v} (intransitive)	 :: sende søppelpost
+spam {v} (transitive)	 :: sende søppelpost
+Spaniard {n} (somebody from Spain)	 :: [Bokmål] spanjol {m}, spanier {m}; [Nynorsk] spanjol {m}, spaniar {m}
+Spanish {adj} (of or pertaining to Spain)	 :: [Bokmål] spansk; [Nynorsk] spansk
+Spanish {prop} (Romance language of Spain and the Americas)	 :: [Bokmål] spansk {m}; [Nynorsk] spansk {m}
+Spanish Water Dog {n} (Spanish Water Dog)	 :: spansk vannhund
+spank {v} (to smack or slap a person's buttocks, with the bare hand or other object.)	 :: daske
+spanner {n} (hand tool for adjusting nuts and bolts)	 :: skiftenøkkel {m}; [Bokmål] fastnøkkel {m}
+spanworm {n} (measuring worm) SEE: measuring worm	 ::
+spare time {n} (free time) SEE: free time	 ::
+spare tire {n} (extra tire) SEE: spare tyre	 ::
+spare tire {n} (fat around midsection) SEE: spare tyre	 ::
+spare wheel {n} (extra wheel) SEE: spare tyre	 ::
+spark {n} (burst of electrical discharge)	 :: [Bokmål] gnist {m}; [Nynorsk] gneiste {m}
+spark {n} (figurative: small amount of something, which has the potential to become something greater)	 :: [Bokmål] gnist {m}; [Nynorsk] gneiste {m}
+spark {n} (informal: ship's radio operator)	 :: gnist {m}
+spark {n} (particle of glowing matter)	 :: [Bokmål] gnist {m}; [Nynorsk] gneiste {m}
+sparkling {adj} (of an object)	 :: glitre
+spark plug {n} (device that forms a high-voltage spark for fuel ignition)	 :: tennplugg {c}
+sparrow {n} (Passer domesticus)	 :: gråspurv; [Nynorsk] gråsporv
+sparrow {n}	 :: spurv, gråspurv {m}
+sparrow hawk {n} (Accipiter nisus) SEE: Eurasian sparrowhawk	 ::
+sparrow hawk {n} (Falco sparverius) SEE: American kestrel	 ::
+sparrowhawk {n} (Eurasian sparrowhawk) SEE: Eurasian sparrowhawk	 ::
+Sparta {prop} (ancient city-state in southern Greece)	 :: Sparta
+spartan {adj} (austere, lacking luxury)	 :: [Bokmål] spartansk; [Nynorsk] spartansk
+Spartan {adj} (of Sparta)	 :: [Bokmål] spartansk; [Nynorsk] spartansk
+Spartan {adj} (spartan) SEE: spartan	 ::
+spasm {n} (contraction of a muscle)	 :: krampe {m} {f}
+spat {n} (covering or decorative covering worn over a shoe)	 :: gamasje
+spawner {n} (female fish)	 :: [Bokmål] hunnfisk {m}; [Nynorsk] hofisk {m}
+speak {v} (to be able to communicate in a language)	 :: snakke
+speak {v} (to communicate with one's voice using words)	 :: snakke
+speaker {n} (loudspeaker)	 :: [Bokmål] høyttaler {m}, høytaler {m}, høgtaler {m}; [Nynorsk] høgtalar {m}
+speaking {adj} (eloquent) SEE: eloquent	 ::
+speak of the devil and he appears {phrase} (expression used when a person mentioned in the current conversation happens to arrive)	 :: når man snakker om sola, så skinner den
+spear {n} (long stick with a sharp tip)	 :: spyd {n}, spjut {n}
+spear {n}	 :: spyd {n}
+spear carrier {n} (person in a play or movie with a minimal part) SEE: walk-on	 ::
+spearthrower {n} (atlatl) SEE: atlatl	 ::
+special {adj} (distinguished by a unique or unusual quality)	 :: spesiell
+special {adj} (of particular interest or value; certain; dear; beloved; favored)	 :: spesiell
+special interest group {n} (advocacy group) SEE: advocacy group	 ::
+specialist {n} (expert)	 :: spesialist
+specialist {n} (physician)	 :: spesialist
+specialty {n} (that in which one specializes)	 :: spesialitet
+species {n} (group of plants or animals having similar appearance)	 :: [Bokmål] art {m} {f}; [Nynorsk] art {m} {f}
+species {n} (rank in a taxonomic classification)	 :: [Bokmål] art {m} {f}; [Nynorsk] art {m} {f}
+specificness {n} (specificity) SEE: specificity	 ::
+spectacle {n} (optical instrument) SEE: spectacles	 ::
+spectacled {adj} (wearing spectacles) SEE: bespectacled	 ::
+spectacles {n} (a pair of lenses set in a frame)	 :: briller {m-p}
+spectacles {n} (plural of spectacle) SEE: spectacle	 ::
+speech {n} (a dialect or language) SEE: dialect, language	 ::
+speech {n} (an oration, session of speaking)	 :: [Bokmål] tale {m}
+speech {n} (vocal communication)	 :: tale {m}, stemme {m}
+speech balloon {n} (speech balloon) SEE: speech bubble	 ::
+speechless {adj} (not speaking; not knowing what to say)	 :: [Bokmål] målløs, mållaus; [Nynorsk] mållaus
+speed {n} (luck, success, prosperity) SEE: luck, success, prosperity	 ::
+speed {n} (photographic sensitivity to light)	 :: hastighet {m} {f}
+speed {n} (rapidity)	 :: [Bokmål] fart {m} {f}, hastighet {m} {f}; [Nynorsk] hastigheit {f}
+speed {n} (rate of motion)	 :: [Bokmål] hastighet {m} {f}, fart {m} {f}, hurtighet {m} {f}; [Nynorsk] hastigheit {f}
+speed {v} (to exceed speed limit)	 :: råkjøre, kjøre over fartsgrensen, flå
+speed {v} (to go fast)	 :: råkjøre
+speed skating {n} (The sport of racing around an oval course on ice skates)	 :: hurtigløp på skøyter
+spell {n} (magical incantation)	 :: trylleformel {m}, formel {m}, besvergelse {m}
+spell {v} (to compose a word)	 :: stave
+spellbound {adj} (fascinated by something; entranced as if by a spell)	 :: trollbundet
+spelt {n} (a type of wheat, Triticum aestivum spelta)	 :: spelt
+spelunk {n} (cave, cavern, grotto) SEE: cave	 ::
+spend {n} (expenditures)	 :: lommepenger {p}
+spend {v}	 :: bruke, tilbringe (only time)
+spend {v} (to consume, to use up (time))	 :: bruke
+sperm {n} (semen (fluid))	 :: sperm {m}, sperma {m}, sæd {m}
+sperm bank {n} (vulgar: vagina) SEE: cunt	 ::
+sperm whale {n} (sperm whale)	 :: spermhval {m}, kaskelott {m}
+spew {n} (ejaculate) SEE: ejaculate	 ::
+spew {n} (vomit) SEE: vomit	 ::
+sphene {n} (titanite) SEE: titanite	 ::
+sphenoid {n} (sphenoid bone) SEE: sphenoid bone	 ::
+spheral {adj} (spherical) SEE: spherical	 ::
+sphere {n} (astronomy: apparent outer limit of space) SEE: celestial sphere	 ::
+sphere {n} (mathematics: regular three-dimensional object)	 :: [Bokmål] sfære {m}, kule {m} {f}; [Nynorsk] sfære {m}, kule {f}
+sphere {n} (region in which something or someone is active)	 :: [Bokmål] sfære {m}; [Nynorsk] sfære {m}
+sphere {n} (spherical physical object)	 :: [Bokmål] sfære {m}, kule {m} {f}; [Nynorsk] sfære {m}, kule {f}
+spherical {adj} (of or relating to a sphere or spheres)	 :: [Bokmål] sfærisk; [Nynorsk] sfærisk
+spherical {adj} (shaped like a sphere)	 :: [Bokmål] sfærisk; [Nynorsk] sfærisk
+sphincteric {adj} (sphincteral) SEE: sphincteral	 ::
+sphinx {n} (mythology: creature with the head of a person and the body of an animal)	 :: sfinks
+Sphinx {prop} (Greek mythological creature)	 :: sfinks {m}
+Sphinx {prop} (large monument in Egypt)	 :: Sfinksen
+spice {n} (any variety of spice)	 :: krydder {n}
+spice {n} (plant matter used to season or flavour food)	 :: krydder
+spice {n} (Yorkshire dialect: sweets, candy) SEE: sweets, candy	 ::
+spice {v} (to add spice or spices to)	 :: krydre
+spicewood {n} (spicebush) SEE: spicebush	 ::
+spider {n} (arthropod)	 :: [Bokmål] edderkopp {m}; [Nynorsk] edderkopp {m}
+spiderweb {n} (net-like construct of a spider)	 :: [Bokmål] spindelvev {m} {n}; [Nynorsk] spindelvev {m}
+spigot {n} (a pin or peg used to stop the vent in a cask)	 :: svikk {m}
+spigot {n} (faucet) SEE: tap	 ::
+spigot {n} (the plug of a faucet or cock)	 :: tapp {m}, propp {m}
+spill one's guts {v} (vomit) SEE: vomit	 ::
+spin {n} (flight condition)	 :: spinn
+spin {n} (physics: quantum angular momentum)	 :: spinn {n}
+spin {n} (rotation of a ball in motion)	 :: spinn
+spin {v}	 :: spinne, dreie, snurre
+spin {v} (to make the ball move sideways)	 :: spinne
+spin {v} (to make yarn)	 :: spinne
+spin {v} (to turn around quickly)	 :: spinne
+spinach {n} (a particular edible plant, Spinacia oleracea)	 :: spinat
+spindle {n} (rod in spinning and winding thread)	 :: [Bokmål] spindel {m}
+spine {n} (backbone)	 :: ryggrad {m}
+spine {n} (bound edge of a book)	 :: rygg {m}
+spine {n} (metaphor for courage or assertiveness)	 :: ryggrad {m}
+spine pig {n} (porcupine) SEE: porcupine	 ::
+spinet {n} (short, compact harpsichord)	 :: spinett {n}
+spinning top {n} (a toy)	 :: [Bokmål] snurrebass {m}; [Nynorsk] snurrebass {m}, snurrebasse {m}
+spinning wheel {n} (device for spinning thread with a wheel and a spindle)	 :: rokk {m}, spinnerokk {m}, spinnrokk {m}, hjulrokk {m}
+spiny anteater {n} (common name for echidna) SEE: echidna	 ::
+spiny dogfish {n} (Squalus acanthias)	 :: [Bokmål] pigghå {m}; [Nynorsk] pigghå {m}
+spirit {n} (alcohol)	 :: sprit {p}
+spirit {n} (soul)	 :: ånd {m}, sjel {f}
+Spiritism {prop} (a philosophical doctrine)	 :: spiritisme
+spirits {n} (strong alcoholic drink derived from fermentation and distillation)	 :: sprit
+spiritual {adj} (of or pertaining to the spirit or the soul)	 :: åndelig, spirituell
+spit {n} (a rod on which meat is grilled/broiled)	 :: [Bokmål] spidd {n}; [Nynorsk] spidd {n}
+spit {v} (to evacuate saliva from the mouth)	 :: [Bokmål] spytte
+Spitsbergen {prop} (island)	 :: Spitsbergen
+spitter {n} (baseball sense) SEE: spitball	 ::
+spleen {n} (organ)	 :: [Bokmål] milt {m}; [Nynorsk] milt {m}
+splice {n} (junction or joining of ropes)	 :: spleis {m}
+splice {v} (to unite in marriage) SEE: marry	 ::
+splice {v} (to unite ropes by interweaving the strands)	 :: spleise
+spline {n} (flexible strip)	 :: rilinjal {m}
+spline {n} (smooth mathematical curve)	 :: rikurve {m}, rifunksjon {m}
+splint {n} (narrow strip of wood)	 :: [Bokmål] splint {m}, flis {m} {f}; [Nynorsk] splint {m}, flis {f}
+split {n} (baseball pitch) SEE: split-finger fastball	 ::
+spoiled {adj} (spoilt) SEE: spoilt	 ::
+spoiler {n} (document, review or comment)	 :: [Bokmål] spoiler {m}
+spoilsport {n} (someone who puts an end to harmless fun)	 :: [Bokmål] gledesdreper
+spokesman {n} (one who speaks as the voice of a group of people)	 :: talsmann {m}, talsperson {m}
+sponge {n} (marine invertebrate with a porous skeleton)	 :: svamp {m}
+sponge {n} (piece of porous material used for washing)	 :: svamp {m}
+sponge {n} (sponge cake) SEE: sponge cake	 ::
+sponge {n} (sponge pudding) SEE: sponge pudding	 ::
+spongecake {n} (cake which has a firm yet well aerated structure) SEE: sponge cake	 ::
+spontaneous {adj} (random) SEE: random	 ::
+spontaneous {adj} (self generated; happening without any apparent external cause)	 :: [Bokmål] spontan; [Nynorsk] spontan
+spontaneous {adj} (sudden, without warning)	 :: [Bokmål] plutselig {m} {f} {n}; [Nynorsk] plutseleg {m} {f} {n}
+spoon {n} (measure that will fit into a spoon) SEE: spoonful	 ::
+spoon {n} (scooped utensil for eating (or serving))	 :: [Bokmål] skje {m} {f}, skei {m} {f}; [Nynorsk] skei {f}
+spoonbill {n} (paddlefish) SEE: paddlefish	 ::
+sporange {n} (sporangium) SEE: sporangium	 ::
+sport {n} (any athletic activity that uses physical skills)	 :: [Bokmål] sport; [Nynorsk] idrett
+sports car {n} (automobile designed for high speed)	 :: [Bokmål] sportsbil {m}; [Nynorsk] sportsbil {m}
+spot {n} (a round or irregular patch of a different color)	 :: flekk, prikk
+spot {n} (location or area)	 :: sted {n}
+spot {n} (pimple, pustule)	 :: kvise
+spot {n} (stain)	 :: flekk
+spot {v} (loan money to somebody)	 :: låne
+spot {v} (see, pick out, notice or identify)	 :: oppdage, identifisere
+spotted dog {n} (Lycaon pictus) SEE: African hunting dog	 ::
+spotted dragonet {n} (Callionymus maculatus)	 :: flekket fløjfisk, flekket fløyfisk
+spouse {n} (husband or wife)	 :: ektefelle {m}, ektemake {m}
+spouse {v} (to get married to) SEE: espouse	 ::
+Sprachgefühl {n} (the instinctive or intuitive grasp of a language)	 :: språkøre {n}, språkfølelse {m}
+spray can {n} (pressurized canister) SEE: aerosol can	 ::
+sprayhood {n} (companionway cover) SEE: dodger	 ::
+spreader {n} (horizontal spar attached to the mast of a sailboat in order to extend the shrouds)	 :: salingshorn
+spreadsheet {n} (A computer simulation of such a system of recording tabular data, with totals and other formulae calculated automatically)	 :: regneark {n}
+sprig {n} (brad)	 :: dykker {m}, dykkert {m}, stift {m}, trådstift {m}
+sprig {n} (small shoot or twig)	 :: kvist {m}, dusk {m} (of parsely), liten grein {c}, bukett {m} (single part of a cauliflower)
+sprig {n} (youth)	 :: jypling {m}, oppkomling {m}, spire {m}
+spring {n} (device made of flexible material)	 :: [Bokmål] fjær {m} {f}; [Nynorsk] fjør {f}
+spring {n} (erection of the penis) SEE: erection	 ::
+spring {n} (first season)	 :: vår {m}
+springbok {n} (antelope)	 :: springbukk {m}
+spring equinox {n} (vernal equinox) SEE: vernal equinox	 ::
+springlike {adj} (typical of spring)	 :: vårlig
+spring roll {n} (egg roll) SEE: egg roll	 ::
+sprint {n} (burst of speed or activity)	 :: [Bokmål] spurt {m}; [Nynorsk] spurt {m}
+sprint {v} (To run etc at top speed for a short period)	 :: [Bokmål] spurte; [Nynorsk] spurte
+sprite {n} (the green woodpecker, or yaffle) SEE: green woodpecker	 ::
+sprocket {n} (toothed wheel)	 :: [Bokmål] drev {n}; [Nynorsk] drev {n}
+sprout {n} (Brussels sprout) SEE: Brussels sprout	 ::
+spruce {n} (attributive: made of the wood of the spruce)	 :: [Bokmål] gran {m} {f}; [Nynorsk] gran {f}
+spruce {n} (tree from the genus Picea)	 :: [Bokmål] gran {m} {f}; [Nynorsk] gran {f}
+spruce {n} (wood of a spruce)	 :: [Bokmål] gran {m} {f}; [Nynorsk] gran {f}
+spurdog {n} (spiny dogfish) SEE: spiny dogfish	 ::
+spurious {adj} (false)	 :: falsk, uekte
+spur on {v} (spur) SEE: spur	 ::
+sputnik {n} (a Soviet unmanned space satellite)	 :: [Bokmål] sputnik
+spy {n} (person who secretly watches)	 :: [Bokmål] spion {m}; [Nynorsk] spion {m}
+spy {v} (to act as a spy)	 :: spionere
+spy {v} (to spot at a distance)	 :: få øye på
+spyglass {n} (binoculars) SEE: binoculars	 ::
+spying {n} (espionage) SEE: espionage	 ::
+spyware {n} (program)	 :: spionprogramvare, spionvare {m}
+Spy Wednesday {n} (Holy Wednesday) SEE: Holy Wednesday	 ::
+SQL {initialism} (SQL)	 :: SQL {n}
+squabble {n} (minor fight or argument)	 :: [Bokmål] kjekling {c}; [Nynorsk] kjekling {f}
+squabble {v} (participate in a minor fight or argument)	 :: kjekle
+square {adj} (at right angles to)	 :: [Bokmål] vinkelrett på; [Nynorsk] vinkelrett på
+square {adj} (in the names of units)	 :: [Bokmål] kvadrat-; [Nynorsk] kvadrat-
+square {adj} (shaped like a square)	 :: [Bokmål] kvadratisk, firkantet, firkanta; [Nynorsk] kvadratisk, firkanta
+square {adj} (socially conventional)	 :: [Bokmål] firkantet, firkanta; [Nynorsk] firkanta
+square {n} (open space in a town)	 :: [Bokmål] torg {n}, plass {m}; [Nynorsk] torg {n}, plass {m}
+square {n} (polygon)	 :: [Bokmål] kvadrat {n}; [Nynorsk] kvadrat {n}
+square {n} (second power)	 :: [Bokmål] kvadrat {m}; [Nynorsk] kvadrat {m}
+square {n} (the # symbol on a telephone)	 :: [Bokmål] firkanttast {m}; [Nynorsk] firkanttast {m}
+square {v} (math: to multiply by itself)	 :: [Bokmål] kvadrere; [Nynorsk] kvadrere
+square {v} (to resolve)	 :: [Bokmål] løse; [Nynorsk] løyse
+square bracket {n} (symbol [ or ])	 :: hakeparentes {m}
+square kilometer {n} (square kilometre) SEE: square kilometre	 ::
+square kilometre {n} (standard unit of area)	 :: [Bokmål] kvadratkilometer {m}; [Nynorsk] kvadratkilometer {m}
+square metre {n} (standard unit of area)	 :: [Bokmål] kvadratmeter {m}; [Nynorsk] kvadratmeter {m}
+square root {n} (number)	 :: kvadratrot
+squash {n} (plant and its fruit of the genus Cucurbita)	 :: [Bokmål] squash {m}, skvåsj {m}; [Nynorsk] squash {m}, skvåsj {m}
+squash {n} (soft drink) SEE: cordial	 ::
+squash {n} (The sport)	 :: [Bokmål] squash {m}, skvåsj {m}; [Nynorsk] squash {m}, skvåsj {m}
+squat cage {n} (power rack) SEE: power rack	 ::
+squeaky clean {adj} (very clean)	 :: gullende ren
+squeamish {adj} (easily bothered or upset; tending to be nauseous or nervous)	 :: pysete
+squeegee {n} (tool used for cleaning glass)	 :: [Bokmål] nal {m}; [Nynorsk] nal
+squid {n} (sea animal)	 :: akkar {m}
+squint {n} (hagioscope) SEE: hagioscope	 ::
+squint {v} (to look with the eyes partly closed, as in bright sunlight)	 :: [Bokmål] myse, plire, glire; [Nynorsk] myse, plire, glire
+squirm {v} (to evade a question, an interviewer etc.)	 :: vri seg unna
+squirm {v} (twist in discomfort, especially from shame or embarrassment)	 :: vri seg
+squirm {v} (twist one’s body with snakelike motion)	 :: vri seg
+squirrel {n} (rodent)	 :: [Bokmål] ekorn {m} {n}; [Nynorsk] ekorn {n}, ikorn {n}
+Sri Jayawardenepura Kotte {prop} (the administrative capital of Sri Lanka)	 :: Kotte
+Sri Lanka {prop} (a country in South Asia)	 :: Sri Lanka
+Sri Lankan {adj} (Of, from, or pertaining to Sri Lanka, the Sri Lankan people or the Sri Lankan language)	 :: [Bokmål] srilankisk; [Nynorsk] srilankisk
+Sri Lankan {n} (A person from Sri Lanka or of Sri Lankan descent)	 :: [Bokmål] srilanker {m}; [Nynorsk] srilankar {m}
+st {interj} (expressing a sudden desire for silence)	 :: hysj
+stab {n} (act of stabbing)	 :: stikk {n}
+stab {n} (criticism)	 :: stikk {n}
+stab {n} (pain inflicted on a person's feelings)	 :: stikk {n}
+stab {n} (wound made by stabbing)	 :: stikk {n}
+stab {v} (To cause a sharp painful sensation)	 :: stikke
+stab {v} (To pierce or wound with pointed object)	 :: stikke
+stability {n} (condition of being stable)	 :: [Bokmål] stabilitet {m}; [Nynorsk] stabilitet {m}
+stable {adj} (relatively unchanging)	 :: stabil
+stable {n} (building for animals with hoofs)	 :: stall {m}
+stable {n} (building for horses)	 :: stall {m}
+stable {n} (stable for oxen, cows, cattle)	 :: fjøs {n}
+stack {n} (computing: data structure)	 :: stakk
+stadium {n} (venue where sporting events are held)	 :: [Bokmål] stadion {n}; [Nynorsk] stadion {n}
+stag {n} (adult male deer)	 :: hjort, kronhjort
+stag {n} (one who applies for shares with a view to sell immediately at a premium)	 :: emisjonsjobber {m}, oppkjøper {m}
+stag {n} (social event for a groom)	 :: utdrikkingslag {n}
+stag party {n} (bachelor party) SEE: bachelor party	 ::
+stained glass {n} (coloured glass)	 :: glassmaleri
+stainless {n} (stainless steel) SEE: stainless steel	 ::
+stair {n} (series of steps)	 :: trapp {m} {f}
+stair {n} (single step)	 :: trinn {n}
+stairs {n} (contiguous set of steps)	 :: trapp {m} {f}
+stairwell {n} (a shaft in a multi-story building enclosing a stairway or staircase)	 :: [Bokmål] trappeoppgang {m}; [Nynorsk] trappeoppgang {m}
+stake {n} (piece of wood)	 :: stake {m}, påle {m}
+stake {n} (share or interest in a business)	 :: aksje {m}
+stake {n} (timber to which a martyr was affixed to be burned)	 :: påle {m}
+stake {n} (wager or pledge)	 :: interesse {m}, risiko {m}
+Stalinism {n} (Communist philosophies espoused by Josef Stalin)	 :: stalinisme
+stalk {n} (petiole, pedicel, or peduncle of a plant) SEE: petiole, pedicel, peduncle	 ::
+stalk {n} (stem or main axis of a plant)	 :: [Bokmål] stengel {m}; [Nynorsk] stengel {m}
+stalk {v}	 :: stilk
+stalker {n} (a person who secretly follows someone, sometimes with unlawful intentions)	 :: stalker
+stallion {n} (male horse kept primarily as a stud)	 :: [Bokmål] avlshingst {m}, stohingst {m}; [Nynorsk] avlshingst {m}, alshingst {m}, alehingst {m}, stohingst {m}
+stallion {n} (uncastrated male horse)	 :: [Bokmål] hingst {m}, grahest {m}, hest {m}, (ukastrert) hannhest {m}; [Nynorsk] hingst {m}, grahest {m}, hest {m}, (ukastrert) hannhest {m}
+stallion {n} (very virile, sexy or horny man)	 :: [Bokmål] grahest {m}; [Nynorsk] grahest {m}
+stammerer {n} (stutterer) SEE: stutterer	 ::
+stamp {n} (postage stamp) SEE: postage stamp	 ::
+stamp-collecting {n} (stamp hobby) SEE: philately	 ::
+stance {n} (manner, posture, or pose in which one stands)	 :: kroppsholdning {m}
+stance {n} (opinion or point of view)	 :: standpunkt {n}
+stand {n} (grandstand) SEE: grandstand	 ::
+stand {n}	 :: stativ
+stand {v}	 :: stå
+stand {v} (to place in an upright or standing position)	 :: reise opp
+stand {v} (to remain motionless)	 :: stå, bli stående
+stand {v} (to rise to one’s feet)	 :: reise seg, stå opp
+stand {v} (to support oneself on the feet in an erect position)	 :: stå
+stand {v} (to tolerate)	 :: motstå, tåle
+stand {v} (to undergo; withstand; hold up)	 :: motstå
+standardize {v} (standardise) SEE: standardise	 ::
+standard time {n} (synchronized clock time in each graphical locations)	 :: normaltid; [Nynorsk] normaltid
+stand-up bass {n} (instrument) SEE: double bass	 ::
+Stanley knife {n} (utility knife) SEE: utility knife	 ::
+stanza {n} (a unit of a poem)	 :: [Bokmål] strofe {m}; [Nynorsk] strofe {f}
+stapes {n} (bone in the middle ear)	 :: stigbøyle {f}
+staple {n} (U-shaped metal fastener)	 :: [Bokmål] krampe {m}; [Nynorsk] krampe {m}
+stapler {n} (device which binds together paper)	 :: stiftemaskin {m}
+star {n} (celebrity)	 :: kjendis {m}; [Bokmål] stjerne {m} {f}; [Nynorsk] stjerne {f}
+star {n} (luminous celestial body)	 :: [Bokmål] stjerne {m} {f}; [Nynorsk] stjerne {f}
+star {n} (quality rating symbol)	 :: [Bokmål] stjerne {m} {f}; [Nynorsk] stjerne {f}
+star anise {n} (a plant, Illicium verum)	 :: stjerneanis
+starch {n} (substance)	 :: stivelse
+star cluster {n} (group of stars)	 :: stjernehop {m}
+stare {v} (To look fixedly)	 :: stare
+starfish {n} (various echinoderms)	 :: sjøstjerne {c}
+star fruit {n} (fruit)	 :: stjernefrukt
+starling {n} (bird)	 :: [Bokmål] stær {m}; [Nynorsk] stare {m}, star {m}
+starring {v} (present participle of "to star") SEE: star	 ::
+starry sturgeon {n} (Acipenser stellatus) SEE: sevruga	 ::
+start {v} (to begin)	 :: begynne
+starter {n} (electric motor that starts an internal-combustion engine)	 :: [Bokmål] startmotor {m}; [Nynorsk] startmotor {m}
+starter motor {n} (starter motor) SEE: starter	 ::
+starvation {n} (a condition of severe suffering due to a lack of nutrition)	 :: [Bokmål] sult {m}; [Nynorsk] svolt {m}
+stat {adv} (Immediately, now)	 :: øyeblikkelig, nå
+state {n} (a condition)	 :: tilstand
+state {n} (any sovereign polity)	 :: [Bokmål] stat {m}; [Nynorsk] stat {m}
+state {n} (a political division of a federation retaining a degree of autonomy)	 :: [Bokmål] stat {m}, delstat {m}; [Nynorsk] stat {m}, delstat {m}
+statecraft {n} (statesmanship) SEE: statesmanship	 ::
+statefunction {n} (wavefunction) SEE: wavefunction	 ::
+statement {n}	 :: påstand {m}, ytring {c}
+static electricity {n} (electrostatics) SEE: electrostatics	 ::
+station {n} (Australia: very large livestock farm) SEE: ranch	 ::
+station {n} (place where a vehicle may stop)	 :: [Bokmål] stasjon {m}
+stationary bicycle {n} (exercise bicycle) SEE: exercise bicycle	 ::
+station wagon {n} (body style for cars)	 :: [Bokmål] stasjonsvogn {m} {f}; [Nynorsk] stasjonsvogn {f}
+statist {n} (statistician) SEE: statistician	 ::
+statistic {adj} (statistical) SEE: statistical	 ::
+statistical analysis {n} (process)	 :: statistisk analyse {m}
+statistics {n} (collection of measurements)	 :: statistikk
+statistics {n} (mathematical science)	 :: statistikk
+statue {n} (three-dimensional work of art)	 :: [Bokmål] statue {m}; [Nynorsk] statue {m}
+status {n} (a person’s position or standing relative to that of others)	 :: status {m}
+status symbol {n} (visible sign of status or wealth)	 :: [Bokmål] statussymbol {n}; [Nynorsk] statussymbol {n}
+Stavanger {prop} (city in Norway)	 :: Stavanger
+stave church {n} (wooden church of a medieval type)	 :: [Bokmål] stavkirke {f}; [Nynorsk] stavkyrkje {f}
+stay {n} (supporting rope or wire)	 :: stag
+stay {v} (To continue to have a particular quality)	 :: bli, forbli
+stay {v} (To remain in a particular place)	 :: bli, forbli
+steadfast {adj} (Firmly loyal or constant; unswerving)	 :: stødig, traust
+steadfast {adj} (fixed or unchanging; steady)	 :: stødig
+steak {n} (slice of beef)	 :: steik, stek {m}
+steak {n} (slice of meat of other animals)	 :: steik, stek {m}
+steal {n} (merchandise available at a very attractive price)	 :: kupp {n}; [Bokmål] tyverikjøp {n}
+steal {v} (to draw attention)	 :: stjele
+steal {v} (to get or effect surreptitiously or artfully)	 :: stjele
+steal {v} (to illegally take possession of)	 :: [Bokmål] stjele; [Nynorsk] stele
+steal {v} (to move silently)	 :: liste seg
+steamboat {n} (vessel powered by steam)	 :: dampskip {n}
+steam engine {n} (steam locomotive) SEE: steam locomotive	 ::
+steamer {n} (steamship or steamboat)	 :: dampskip {n}
+steamship {n} (vessel propelled by steam)	 :: dampskip {n}
+stearin {n} (the triglyceride of stearic acid)	 :: [Bokmål] stearin {m}; [Nynorsk] stearin {m}
+steel {n} (metal)	 :: [Bokmål] stål {n}; [Nynorsk] stål {n}
+steel oneself {v} (action of concentration in preparation for a rigorous task)	 :: stålsette seg
+steelworks {n} (place where steel is manufactured and/or shaped)	 :: [Bokmål] stålverk {n}; [Nynorsk] stålverk {n}
+steep {adj} (near-vertical)	 :: bratt
+steeple {n} (spire) SEE: spire	 ::
+St. Elmo's fire {n} (electrical discharge)	 :: Sankt Elms ild
+stem {n} (botany: above-ground stalk of a vascular plant)	 :: [Bokmål] stengel {m}; [Nynorsk] stengel {m}
+stem {n} (nautical: forward vertical extension of the keel)	 :: [Nynorsk] framstamn {m}
+stem {v} (to be caused)	 :: [Bokmål] forårsake
+stem cell {n} (primal undifferentiated cell)	 :: stamcelle
+steno {n} (stenographer) SEE: stenographer	 ::
+step {n} (space passed over by one movement of the foot in walking or running)	 :: skritt {n}, steg {n}
+stepfather {n} (husband of one's biological mother, other than one's biological father)	 :: stefar {m}
+Stephen {prop} (biblical martyr)	 :: Stefanus
+Stephen {prop} (male given name)	 :: Stefan
+step ladder {n} (ladder with steps or treads instead of rungs)	 :: gardintrapp {m} {f}; [Nynorsk] gardintrapp {f}
+stepmother {n} (wife of one's biological father, not one's biological mother)	 :: stemor {f}
+steppe {n} (the grasslands of Eastern Europe and Asia)	 :: [Bokmål] steppe {m}; [Nynorsk] steppe {f}
+sternpost {n} (timber or bar at the stern of a vessel)	 :: [Bokmål] bakstevn {m}, bakstavn {m}; [Nynorsk] bakstamn {m}
+sternum {n} (breastbone) SEE: breastbone	 ::
+Stettin {prop} (Szczecin) SEE: Szczecin	 ::
+stevedore {n} (dockworker involved in loading and unloading cargo)	 :: havnearbeider {m}, bryggesjauer {m}
+Steven {prop} (male given name) SEE: Stephen	 ::
+stick {n} (cane or walking stick)	 :: stokk {m}
+stick {n} (gearstick, stickshift)	 :: girspak {m}
+stick {n} (hockey stick)	 :: hockeykølle {m}
+stick {n} (long piece of wood)	 :: kjepp {m}
+stick {n} (twig or small branch)	 :: kvist {m}
+stick {v} (to tolerate, endure, stick with) SEE: stick with	 ::
+sticker {n} (price tag) SEE: price tag	 ::
+stick figure {n} (a simple drawing)	 :: strekfigur {m}
+sticking plaster {n} (adhesive bandage) SEE: band-aid	 ::
+stick note {n} (post-it note) SEE: post-it note	 ::
+stick out {v} (to persist) SEE: stick it out	 ::
+stickpin {n} (pin to hold necktie) SEE: tie clip	 ::
+sticky note {n} (post-it note) SEE: post-it note	 ::
+stigmatize {v} (to characterize as disgraceful or ignominious)	 :: [Bokmål] stigmatisere; [Nynorsk] stigmatisere
+stiletto {n} (awl) SEE: awl	 ::
+stiletto {n} (rapier) SEE: rapier	 ::
+still {adj} (not moving)	 :: stille
+still {adv} (nevertheless)	 :: likevel, enda
+still {adv} (to an even greater degree)	 :: [Bokmål] enda; [Nynorsk] endå, enda
+still {adv} (up to a time, as in the preceding time)	 :: [Bokmål] ennå, fremdeles; [Nynorsk] enno, ennå, framleis
+still {n} (a device for distilling liquids)	 :: destillasjonsapparat {n}
+still {v} (to calm down)	 :: roe, stille (archaic)
+stillborn {adj} (dead at birth)	 :: dødfødt
+stillborn {adj} (ignored, without influence, unsuccessful, abortive)	 :: dødfødt
+still life {n} (work of art)	 :: [Bokmål] stilleben {n}; [Nynorsk] stilleben {n}
+stilted {adj} (stiff and artificially formal)	 :: oppstyltet
+sting {n} (bite or sting (by an insect))	 :: stikk {n}
+sting {n} (bump on skin after having been stung)	 :: stikk {n}
+sting {n} (pointed portion of an insect or arachnid used for attack) SEE: stinger	 ::
+sting {v} (of an insect: to bite)	 :: stikke
+stinger {n} (pointed portion of an insect)	 :: brodd {m}
+stinginess {n} (lack of generosity)	 :: gjerrighet
+stingray {n} (fish)	 :: [Bokmål] piggrokker
+stinkbird {n} (hoatzin) SEE: hoatzin	 ::
+stinkhorn {n} (fungus)	 :: stanksopp
+stipulate {v} (to require as a condition of a contract or agreement)	 :: [Bokmål] stipulere; [Nynorsk] stipulere
+stipule {n} (basal appendage)	 :: [Bokmål] øreblad {n}, stipel; [Nynorsk] øyreblad {n}, stipel
+stir {v} (to agitate the contents of)	 :: [Bokmål] røre; [Nynorsk] røre
+stir {v} (to disturb the relative position of the particles of)	 :: [Bokmål] røre; [Nynorsk] røre
+stirrup {n} (footrest)	 :: [Bokmål] stigbøyle {m}; [Nynorsk] stigbøyel {m}
+stirrup {n} (stapes) SEE: stapes	 ::
+stirrup bone {n} (stapes) SEE: stapes	 ::
+stir up {v} (to cause (trouble etc))	 :: hisse opp, egge til opprør
+stitch {n} (furrow) SEE: furrow	 ::
+stitch {v} (agriculture: to form land into ridges) SEE: plough/plow	 ::
+stitch {v} (form stitches in) SEE: sew	 ::
+stitch {v} (unite by stitches) SEE: sew together	 ::
+stoat {n} (stoat) SEE: ermine	 ::
+stock {n} (finance: capital raised by a company)	 :: [Bokmål] aksje {m}; [Nynorsk] aksje {m}
+stock {n} (rolling stock) SEE: rolling stock	 ::
+stock {n} (store of goods for sale)	 :: [Bokmål] lager {n}; [Nynorsk] lager {n}
+stock {n} (supply of anything ready for use)	 :: [Bokmål] lager {n}; [Nynorsk] lager {n}
+stock exchange {n} (building and the associated organization)	 :: [Bokmål] børs {m}; [Nynorsk] børs {m}
+stockholder {n} (one who owns stock)	 :: aksjonær {m}
+Stockholm {prop} (capital of Sweden)	 :: Stockholm
+stocking {n} (garment (for translations of "sock", see sock))	 :: strømpe {f}
+stoic {adj}	 :: stoisk
+stoichiometry {n} (the study of the relationships of reactants and products in chemical reactions)	 :: [Bokmål] støkiometri {m}
+stoker {n} (poker) SEE: poker	 ::
+stole {v} (simple past of to steal)	 :: stjal
+stolen {v} (past participle of to steal)	 :: stjålet
+stomach {n} (appetite) SEE: appetite	 ::
+stomach {n} (belly)	 :: mage {m}, buk {m}
+stomach {n} (digestive organ)	 :: mage {m}
+stomach {n} (figuratively: desire, appetite) SEE: appetite	 ::
+stomach {n} (pride, haughtiness) SEE: haughtiness	 ::
+stompie {n} (cigarette butt) SEE: butt	 ::
+stone {adj} (having the appearance of stone)	 :: steinaktig
+stone {n} (centre of some fruits)	 :: stein {m}
+stone {n} (gem stone)	 :: edelstein {m}
+stone {n} (small piece of stone)	 :: stein {m}; [Bokmål] sten {m}
+stone {n} (substance)	 :: stein {m}; [Bokmål] sten {m}
+stone {v} (kill by pelting with stones)	 :: steine
+Stone Age {prop} (prehistoric period)	 :: steinalderen, stenalderen
+stoned {adj} (drunk) SEE: drunk	 ::
+stone marten {n} (Martes foina) SEE: beech marten	 ::
+stone's throw {n} (short distance)	 :: steinkast {n}
+stone wall {n} (wall made from stone)	 :: [Bokmål] steinmur {m}; [Nynorsk] steinmur {m}
+stoning {n} (lapidation) SEE: lapidation	 ::
+stooge {n} (straight man) SEE: straight man	 ::
+stool {n} (a seat)	 :: [Bokmål] krakk {m}; [Nynorsk] krakk {m}
+stool {n} (footstool) SEE: footstool	 ::
+stop {n} (place to get on and off line buses or trams)	 :: [Bokmål] holdeplass
+storage {n} (computing)	 :: lager {n}
+storage {n} (place)	 :: lager {n}
+store {n} (in computing) SEE: memory	 ::
+store {n} (place where items may be kept)	 :: lager {n}
+store {n} (shop) SEE: shop	 ::
+store {n} (supply held in storage)	 :: lager {n}, forråd {m}
+store {v} (computing: write (something) into memory or registers)	 :: lagre
+store {v} (keep (something) while not in use)	 :: oppbevare
+store {v} (remain in good condition while stored)	 :: holde (seg)
+storeman {n} (warehouseman) SEE: warehouseman	 ::
+storeroom {n} (room used for storage)	 :: [Bokmål] bod {m}, bu {m} {f}; [Nynorsk] bu {f}
+storey {n} (floor)	 :: [Bokmål] etasje {m}
+stork {n} (large wading bird)	 :: [Bokmål] stork {m}; [Nynorsk] stork {m}
+storm {n} (meteorology: wind scale for very strong wind)	 :: [Bokmål] storm {m}; [Nynorsk] storm {m}
+storm {n}	 :: storm {m}
+storm petrel {n} (any of several small seabirds, of the family Hydrobatidae)	 :: havsvale
+story {n} (account of events)	 :: historie {m}
+story {n} (lie) SEE: lie	 ::
+story {n} (storey) SEE: storey	 ::
+storyteller {n} (person who relates stories to an audience)	 :: [Bokmål] forteller {m}
+stout {adj} (obstinate) SEE: obstinate	 ::
+stove {n} (device for heating food)	 :: [Bokmål] ovn {m}
+stove {n} (heater)	 :: [Bokmål] ovn {m}
+stovepipe hat {n} (stovepipe hat) SEE: top hat	 ::
+stow {v} (to put something away in a compact and tidy manner)	 :: [Bokmål] stue
+stowaway {n} (person who hides on a ship, train, etc.)	 :: blindpassasjer {m}
+straight {n} (heterosexual) SEE: heterosexual	 ::
+straight away {adv} (very soon; immediately) SEE: right away	 ::
+strait {n} (narrow channel of water)	 :: sund, strede {n}, strete, kanal {m},
+straitjacket {n} (a jacket-like garment)	 :: [Bokmål] tvangstrøye {m} {m-d}; [Nynorsk] tvangstrøye {f}
+Strait of Gibraltar {prop} (Strait of Gibraltar)	 :: [Bokmål] Gibraltarstredet; [Nynorsk] Gibraltarsundet
+strand {n} (beach)	 :: strand {m}
+strange {adj} (in quantum mechanics)	 :: sær
+strange {adj} (not normal)	 :: merkelig, sær, rar
+strange {adj} (not yet part of one’s experience)	 :: ukjent
+stratagem {n} (tactic)	 :: list {c}, krigslist {c}
+strategical {adj} (strategic) SEE: strategic	 ::
+Strategic Defense Initiative {prop} (Star Wars) SEE: Star Wars	 ::
+strategy {n} (art of using similar techniques in politics or business)	 :: [Bokmål] strategi {m}; [Nynorsk] strategi {m}
+strategy {n} (plan of action)	 :: [Bokmål] strategi {m}; [Nynorsk] strategi {m}
+strategy {n} (science and art of military command)	 :: [Bokmål] strategi {m}; [Nynorsk] strategi {m}
+straw {n} (drinking straw) SEE: drinking straw	 ::
+strawberry {n} (colour)	 :: jordbærfarge
+strawberry {n} (fruit)	 :: [Bokmål] jordbær {n}; [Nynorsk] jordbær {n}
+strawberry {n} (plant)	 :: jordbærplante {m}
+strayed {adj} (Who has lost his way) SEE: stray	 ::
+street {n} (paved part of road in a village or a town)	 :: [Bokmål] gate {m} {f}; [Nynorsk] gate {f}
+streetcar {n} (tram) SEE: tram	 ::
+street child {n} (street urchin) SEE: street urchin	 ::
+streetlight {n} (lamps set along a street)	 :: gatebelysning
+strength tester {n} (high striker) SEE: high striker	 ::
+stress {n} (on a syllable) SEE: accent	 ::
+strew {v} (to distribute objects or pieces of something)	 :: strø
+strife {n} (violent conflict)	 :: strid {m}
+strike {n} (work stoppage)	 :: streik {m}
+strike {v} (to delete)	 :: stryke
+strike {v} (to hit)	 :: slå, ramme
+strike {v} (to impress, seem, appear)	 :: slå
+strike {v} (to stop working to achieve better working conditions)	 :: streike
+strike while the iron is hot {v} (act on an opportunity promptly)	 :: smi mens jernet er varmt
+string {n} (computing: sequence of characters)	 :: [Bokmål] streng {m}; [Nynorsk] streng {m}
+string {n} (long, thin structure made from twisted threads)	 :: streng
+string {n} (stringed instrument) SEE: stringed instrument	 ::
+string bass {n} (instrument) SEE: double bass	 ::
+string instrument {n} (musical instrument that produces sound by strings) SEE: stringed instrument	 ::
+string quartet {n} (composition for four string players)	 :: strykekvartett {m}
+string quartet {n} (group of four string players)	 :: strykekvartett {m}
+string theory {n} (candidate unified theory of all physical forces and particles)	 :: [Bokmål] strengteori; [Nynorsk] strengeteori
+string trimmer {n} (garden implement)	 :: [Bokmål] gresstrimmer {m}
+striped alder {n} (American winterberry) SEE: American winterberry	 ::
+stripper {n} (one who removes one's clothes, especially as a form of paid entertainment)	 :: stripper {m}, stripperske {f}
+striptease {n} (arousing act)	 :: striptease {m}
+stripy {adj} (striped) SEE: striped	 ::
+strive {v} (to try to achieve)	 :: streve
+stroke {n} (act of striking with a weapon)	 :: slag {n}
+stroke {n} (blow)	 :: slag {n}
+stroke {n} (golf: single act of striking the ball)	 :: slag {n}
+stroke {n} (loss of brain function arising when the blood supply to the brain is suddenly interrupted)	 :: slag {n}
+stroke {n} (rowing: movement of an oar or paddle through water)	 :: tak {n}
+stroke {n} (single movement with a tool)	 :: slag {n}
+stroke {n} (streak made with a brush)	 :: strøk {n}
+stroke {n} (tennis: single act of striking the ball)	 :: slag {n}
+stroke {n} (time when a clock strikes)	 :: slag {n}
+stroll {n} (wandering on foot)	 :: rusletur {m}, spasertur {m}
+stroll {v} (wander on foot)	 :: rusle, slentre, spasere
+strong as an ox {adj} (very strong and powerful)	 :: sterk som en bjørn, sterk som en okse
+strongman game {n} (high striker) SEE: high striker	 ::
+strong point {n} (excellent characteristic or ability) SEE: forte	 ::
+strontium {n} (chemical element)	 :: strontium
+strop {n} (bad mood) SEE: bad mood	 ::
+struggle {n} (strife, effort)	 :: kjempe, streve
+struggle {v} (to strive, to labour in difficulty, to fight)	 :: slåss, kjempe, slite streve
+stubborn {adj} (refusing to move or change one's opinion)	 :: sta, vrangvillig
+stud {n} (animal breeding place)	 :: stutteri {n}
+stud {n} (type of poker) SEE: stud poker	 ::
+student {n} (person enrolled at a university)	 :: student {m}
+student {n} (person who studies an academic subject)	 :: student
+student {n} (schoolchild) SEE: schoolchild	 ::
+study {n} (examination) SEE: examination	 ::
+study {n} (mental effort to acquire knowledge)	 :: studium {n}
+study {v} (to acquire knowledge)	 :: studere
+study {v} (to revise/review materials)	 :: studere, lære
+stuff {n} (miscellaneous items; things)	 :: ting, saker {p}
+stuff {n} (substitution for trivial details)	 :: ting, saker
+stuff {n} (the tangible substance that goes into the makeup of a physical object)	 :: stoff {n}, materiale {n}
+stuff {v} (to fill (something) up in a compressed manner)	 :: stappe, fylle
+stuffed animal {n} (a toy animal stuffed with straw, beans, cotton or other similar materials.)	 :: [Bokmål] bamse {m}, kosedyr {n}, tøydyr {n}; [Nynorsk] kosedyr {n}
+stumble across {v} (to come across by accident; to discover by accident)	 :: snuble over
+stumble on {v} (to come across by accident; to discover by accident)	 :: snuble over
+stumble upon {v} (to come across by accident; to discover by accident)	 :: snuble over
+stumbling-block {n} (stumbling block) SEE: stumbling block	 ::
+stump {n} (remains of something that has been cut off)	 :: [Bokmål] stump {m}
+stun {v} (to incapacitate)	 :: svimeslå, lamslå, lamme
+stunt {n} (dangerous feat)	 :: [Bokmål] stunt {n}; [Nynorsk] stunt {n}
+stupid {adj} (lacking in intelligence)	 :: dum
+sturgeon {n} (fish of family Acipenseridae)	 :: stør {m}
+sty {n} (inflammation) SEE: stye	 ::
+sty {n} (ladder) SEE: ladder	 ::
+sty {v} (to rise up) SEE: ascend	 ::
+stye {n} (bacterial infection of the eyelash or eyelid)	 :: byggkorn
+style {n} (manner of doing things)	 :: stil
+style {n} (term to address a person)	 :: tiltaleform {m}
+style {v} (to call or give a name or title)	 :: tiltale
+style {v} (to create or give a style)	 :: stilisere
+stylist {n} (designer) SEE: designer	 ::
+stylist {n} (hairdresser) SEE: hairdresser	 ::
+stylus {n} (pen for writing on touch-sensitive screen)	 :: [Bokmål] pekepenn {m}; [Nynorsk] peikepenn {m}
+stylus {n} (phonograph needle)	 :: [Bokmål] stift {m}; [Nynorsk] stift {m}
+stylus {n} (tool for writing Braille)	 :: [Bokmål] pren {m}; [Nynorsk] pren {m}
+stylus {n} (tool for writing on clay tablets)	 :: [Bokmål] stylus {m}; [Nynorsk] stylus {m}
+stymie {v} (to thwart or stump)	 :: [Bokmål] dekke, sette i en vanskelig stilling; [Nynorsk] dekkje, setje i ei vanskeleg stilling
+Styx {prop} (river of the underworld)	 :: Styx
+subconsciously {adv} (in a manner that lacks conscious awareness)	 :: underbevisst
+subculture {n} (portion of a culture distinguished by its customs or other features)	 :: [Bokmål] subkultur {m}, delkultur {m}; [Nynorsk] subkultur {m}, delkultur {m}
+subcutaneous {adj} (Pertaining to the fatty layer under the skin)	 :: [Bokmål] subkutan; [Nynorsk] subkutan
+subjectivism {n}	 :: subjektivisme
+subjugate {v} (to forcibly impose obedience or servitude)	 :: underkue
+subjunctive {n} (subjunctive mood)	 :: konjunktiv {m}
+subjunctive mood {n} (subjunctive mood)	 :: konjunktiv {m}
+submarine {n} (undersea boat)	 :: [Bokmål] ubåt {m}, undervannsbåt {m}; [Nynorsk] ubåt {m}, undervassbåt {m}
+subnormal {adj} (computing theory: denormal) SEE: denormal	 ::
+subproduct {n} (byproduct) SEE: byproduct	 ::
+subscribe {v} (to sign up to receive a publication)	 :: [Bokmål] abonnere; [Nynorsk] abonnere
+subscribe {v} (to write underneath)	 :: [Bokmål] underskrive, undertegne; [Nynorsk] underskrive, undertegne
+subscriber {n} (a person who subscribes to a publication or a service)	 :: [Bokmål] abonnent {m}; [Nynorsk] abonnent {m}
+subscription {n} (access to a resource for a period of time)	 :: [Bokmål] abonnement {n}; [Nynorsk] abonnement {n}
+subsidiary {adj} (auxiliary or supplemental)	 :: subsidiær
+subsistent {adj} (inherent) SEE: inherent	 ::
+substance {n} (considerable wealth)	 :: formue {m}
+substance {n} (drugs)	 :: narkotika; [Bokmål] narkotika {n}, stoff {n}, substans {m}
+substance {n} (essential part)	 :: substans {m}
+substance {n} (matter)	 :: substans {m}, masse {m}
+substance abuse {n} (overindulgence in a drug)	 :: rusmisbruk {m} {n}
+substantial {adj}	 :: vesentlig
+substantially {adv} (in a strong substantial manner; considerably)	 :: i alt vesentligt, vesentligen
+substantially {adv} (to a great extent; in essence; essentially)	 :: i alt vesentligt, vesentligen
+substitute teacher {n} (supply teacher) SEE: supply teacher	 ::
+substitution {n} (substitute) SEE: substitute	 ::
+subtitle {n} (textual versions of the dialog in films)	 :: [Bokmål] undertekst {m} {f}; [Nynorsk] undertekst {m} {f}
+subtract {v} (to remove or reduce)	 :: subtrahere, trekke fra
+subtraction {n} (calculation)	 :: [Bokmål] subtraksjon {m}; [Nynorsk] subtraksjon {m}
+subtraction {n} (process)	 :: [Bokmål] subtraksjon {m}; [Nynorsk] subtraksjon {m}
+subtropical {adj} (further from the equator than the tropical regions)	 :: [Bokmål] subtropisk; [Nynorsk] subtropisk
+suburb {n} (area on the periphery of a city or large town)	 :: forstad {m}
+subvention {n} (subsidy) SEE: subsidy	 ::
+subvertisement {n} (piece of subvertising) SEE: subvert	 ::
+sub-zero {adj} ((of a temperature) below 0°C)	 :: minusgrader {m-p}
+subzero {adj} (sub-zero) SEE: sub-zero	 ::
+success {n} (achievement of one's aim or goal)	 :: [Bokmål] suksess {m}; [Nynorsk] suksess {m}
+success {n} (person who achieves his or her goals)	 :: [Bokmål] suksess {m}; [Nynorsk] suksess {m}
+successful {adj} (resulting in success)	 :: [Bokmål] vellykket; [Nynorsk] vellukka
+successor {n} (person or thing that immediately follows another)	 :: [Bokmål] etterkommer {m}
+succinct {adj} (brief and to the point)	 :: konsis
+succuba {n} (a female demon or fiend) SEE: succubus	 ::
+such as {prep} (for example) SEE: for example	 ::
+such is life {phrase} (used to express the acceptance of misfortune)	 :: sånn er livet
+suck {n} (sycophant) SEE: sycophant	 ::
+suck {v} (colloquial: term of general disparagement)	 :: suge
+suck {v} (to use the mouth to pull in (liquid etc))	 :: suge
+sucker {n} (lollipop) SEE: lollipop	 ::
+sucrose {n} (a disaccharide)	 :: sukrose
+Sudan {prop} (Republic of Sudan)	 :: Sudan
+Sudanese {adj} (Of, from, or pertaining to the country of Sudan, the Sudanese people or the Sudanese language)	 :: [Bokmål] sudansk; [Nynorsk] sudansk
+Sudanese {n} (person from Sudan or of Sudanese descent)	 :: [Bokmål] sudaner {m}; [Nynorsk] sudanar {m}
+sudden {n} (surprise) SEE: surprise	 ::
+Sudetenland {prop} (region in Czechia)	 :: Sudetenland, Sudetttyskland
+sue {v} (to file a legal action)	 :: saksøke
+Suez Canal {prop} (canal)	 :: Suezkanalen
+suffer {v} (To become worse)	 :: forverre
+suffer {v} (To endure, undergo)	 :: lide
+suffer {v} (to feel pain)	 :: lide
+suffer {v} (to have a disease or condition)	 :: lide
+suffer {v} (to undergo hardship)	 :: lide
+suffering {n} (condition)	 :: [Bokmål] lidelse {m}; [Nynorsk] liding {f}
+suffice {v} (be enough, sufficient, adequate)	 :: rekke; [Bokmål] holde; [Nynorsk] halde
+suffix {n} (letters or sounds added at the end of a word to modify the word's meaning)	 :: [Bokmål] suffiks {n}; [Nynorsk] suffiks {n}
+suffix {v} (append (something) to the end of something else)	 :: suffigere
+suffragist {n} (suffragette) SEE: suffragette	 ::
+sugar {n} (any of a series of carbohydrates used by organisms to store energy)	 :: sukker {n}
+sugar {n} (generic term for sucrose, glucose, fructose, etc)	 :: sukker {n}
+sugar {n} (sucrose from sugar cane or sugar beet and used to sweeten food and drink)	 :: sukker {n}
+sugar {n}	 :: sukker
+sugar {n} (term of endearment)	 :: kjære {m}
+sugarcoat {v} (give a falsely pleasant appearance)	 :: rosemale
+sugar-free {adj} (not containing sugar)	 :: [Bokmål] sukkerfri; [Nynorsk] sukkerfri
+sugarfree {adj} (sugar-free) SEE: sugar-free	 ::
+sugar-loaf {n} (conical block of sugar)	 :: [Bokmål] sukkertopp {m}; [Nynorsk] sukkertopp {m}
+sugar pea {n} (mangetout) SEE: mangetout	 ::
+suggest {v} (to ask for without demanding)	 :: [Bokmål] foreslå; [Nynorsk] foreslå, føreslå
+suggest {v} (to imply but stop short of saying directly)	 :: [Bokmål] antyde; [Nynorsk] antyde
+suggestion {n} (something suggested)	 :: forslag {n}
+suicide {n} (the event)	 :: selvmord {n}
+suicide {n} (the person)	 :: selvmord {n}, selvmordsoffer {n}
+suicide bomber {n} (one who carries explosives)	 :: [Bokmål] selvmordsbomber {m}, sjølmordsbomber {m}; [Nynorsk] sjølvmordsbombar {m}
+suicide victim {n} (a person who has committed suicide)	 :: selvmordsoffer {n}
+suit {n} (card games: set of cards distinguished by color and emblems)	 :: [Bokmål] farge {n}; [Nynorsk] farge {n}, kortfarge {n}
+suit {n} (pursuit, chase) SEE: pursuit	 ::
+suit {n} (suit of clothes)	 :: [Bokmål] dress {m}; [Nynorsk] dress {m}
+suitcase {n} (large piece of luggage)	 :: koffert {m}
+sulfur {n} (element)	 :: svovel {m}
+sulky {adj} (gloomy)	 :: sur
+sulky {n} (two-wheeled cart)	 :: sulky {m}
+sullen {adj} (dismal)	 :: muggen, utilfreds, trist
+sulphur dioxide {n} (the compound SO2) SEE: sulfur dioxide	 ::
+sulphurous acid {n} (sulfurous acid) SEE: sulfurous acid	 ::
+sulphur tuft {n} (Hypholoma/Naematoloma fasciculare) SEE: sulfur tuft	 ::
+sultry {adj} (hot and humid)	 :: lummer
+sum {n} (arithmetic problem)	 :: sum
+sum {n} (quantity obtained by addition or aggregation)	 :: [Bokmål] sum {m}; [Nynorsk] sum {m}
+sum {n} (quantity of money)	 :: sum {m}
+sum {n} (summary) SEE: summary	 ::
+sum {n} (summit) SEE: summit	 ::
+sum {v} (give a summary of) SEE: summarize	 ::
+Sumerian {prop} (language)	 :: sumerisk språk
+summarise {v} (summarise) SEE: summarize	 ::
+summary {n} (condensed presentation)	 :: sammendrag {n}, resumé {n}
+summer {n} (hottest season)	 :: sommer; [Nynorsk] sommar, sumar
+summerlike {adj} (of a day or the weather, resembling or characteristic of summer.)	 :: sommerlig
+summer solstice {n} (the moment when the hemisphere is most inclined toward the sun)	 :: [Bokmål] sommersolverv {n}; [Nynorsk] sumarsolkverv {m}, sommarsolkverv {m}
+summer time {n} (daylight saving time) SEE: daylight saving time	 ::
+summon {v} (to ask someone to come)	 :: tilkalle
+sum up {v} (summarize) SEE: summarize	 ::
+sun {n} (a star, especially when seen as the centre of any single solar system)	 :: sol
+sun {prop} (the star around which the Earth revolves)	 :: [Bokmål] sol {m} {f}; [Nynorsk] sol {f}
+Sun {prop} (star)	 :: [Bokmål] Sol {m} {f}, Solen {m} {f} [definite]; [Nynorsk] Sola
+sunbed {n} (tanning device) SEE: tanning bed	 ::
+sunblock {n} (sunscreen) SEE: sunscreen	 ::
+Sunday {n} (day of the week)	 :: søndag
+sundew {n} (group of insectivorous plants)	 :: soldogg
+sundial {n} (simple timekeeping device which makes use of sunlight)	 :: [Bokmål] solur {n}; [Nynorsk] solur {n}
+sundown {n} (sunset) SEE: sunset	 ::
+sunfish {n} (fish of the family Molidae)	 :: månefisk, klumpfisk
+sunflower {n} (flower)	 :: solsikke {n}
+sunglasses {n} (tinted glasses worn to protect the eyes from the sun)	 :: solbriller
+sunlight {n} (electromagnetic radiation given off by the sun)	 :: [Bokmål] sollys {n}; [Nynorsk] solljos {n}, sollys {n}
+Sunnite {n} (Sunni) SEE: Sunni	 ::
+sunrise {n} (sky changing color)	 :: soloppgang {m}
+sunrise {n} (time of day)	 :: [Bokmål] soloppgang {m}; [Nynorsk] soloppgang {m}
+sunset {n} (time of day)	 :: solnedgang {m}
+sunshine {n} (direct rays of the sun)	 :: [Bokmål] solskinn {n}; [Nynorsk] solskin {n}
+sunshine {n} (location on which the sun's rays fall)	 :: [Bokmål] sol {m}, solskinn {n}
+sunspot {n} (region on the sun's surface)	 :: solflekk {m}
+suntanned {adj} (having a suntan) SEE: tanned	 ::
+sunup {n} (change in color of sky) SEE: sunrise	 ::
+sunup {n} (time of day) SEE: sunrise	 ::
+supercalifragilisticexpialidocious {adj} (supercalifragilisticexpialidocious)	 :: superoptikjempefantafenomenalistisk, superkallifragilistiskekspialidarisk
+supercilious {adj} (haughty)	 :: hovmodig
+superconductor {n} (a substance)	 :: [Bokmål] superleder {m}, supraleder {m}; [Nynorsk] superleiar {m}, supraleiar {m}
+supercontinent {n} (very large continent in the Earth's past)	 :: superkontinent {c}
+superellipse {n} (a type of closed curve)	 :: superellipse {m}
+superfluous {adj} (excess of what is sufficient)	 :: [Bokmål] overflødig; [Nynorsk] overflødig
+superfluousness {n} (superfluity) SEE: superfluity	 ::
+superglue {n} (very strong glue)	 :: [Bokmål] superlim {n}
+superior {adj} (higher in rank or quality)	 :: overlegen
+superlative {n} (adjective used to praise)	 :: superlativ {n}
+superlative {n} (form of adjective expressing "most")	 :: superlativ {m}
+superlative {n} (highest degree of something)	 :: superlativ
+supermajority {n} (qualified majority) SEE: qualified majority	 ::
+Superman {prop} (a fictional character with superhuman powers)	 :: Supermann
+supermarket {n} (store)	 :: [Bokmål] supermarked
+supermodel {n} (famous fashion model)	 :: supermodell
+supernal {adj} (pertaining to heaven or to the sky)	 :: hinsides, overjordisk, som kommer fra det høye, guddommelig, himmelsk
+supernatural {adj}	 :: overnaturlig
+supernova {n} (exploding star)	 :: [Bokmål] supernova; [Nynorsk] supernova
+supernumerary {n} (person in a play or movie with a minimal part) SEE: walk-on	 ::
+superpower {n} (sovereign state)	 :: [Bokmål] supermakt {m} {f}; [Nynorsk] supermakt {f}
+supersede {v} (Take the place of)	 :: avløse
+superstition {n} (a set of beliefs that future events may be influenced by one's behaviour in some magical or mystical way)	 :: overtru
+supper {n} (dinner at night)	 :: aftensmat, kveldsmat {m}
+supper {n} (food before going to bed)	 :: kveldsmat {m}, nattmat {m} [very late]
+supper hour {n} (all senses) SEE: dinnertime	 ::
+suppertime {n} (all senses) SEE: dinnertime	 ::
+supplementary {adj} (additional)	 :: [Bokmål] supplerende
+support {n} (financial or other help)	 :: bistand
+support {n} (something which supports)	 :: støtte
+suppose {v} (conclude; believe)	 :: anta, formode
+suppose {v} (theorize; hypothesize)	 :: anta, forutsette
+supposed {adj} (expected) SEE: expected	 ::
+supposed {adj} (intended) SEE: intended	 ::
+supposed {adj} (obliged) SEE: obliged	 ::
+suppression order {n} (gag order) SEE: gag order	 ::
+supreme court {n} (court of law representing the highest legal authority within a jurisdiction)	 :: [Bokmål] høyesterett {m}, høgsterett {m}; [Nynorsk] høgsterett {m}
+Supreme Leader {n} (head of state of Iran)	 :: Øverste leder
+sura {n} (chapter of the Qur'an)	 :: [Bokmål] sura; [Nynorsk] sura
+surely {adv} (certainly, undoubtedly)	 :: sikkert
+surely {adv} (with confidence)	 :: trygt, sikkert
+surely {adv} (without fail)	 :: sikkert
+surety {n} (certainty) SEE: certainty	 ::
+surface {n} (up-side of a flat object)	 :: [Bokmål] overflate {f} {m}, [of a road] dekke {n}; [Nynorsk] overflate {f}, [of a road] dekke {n}
+surface car {n} (streetcar) SEE: streetcar	 ::
+surface water {n} (water collecting on the ground or in a body of water)	 :: [Bokmål] overflatevann {n}
+surf riding {n} (surfing) SEE: surfing	 ::
+surgeon {n} (doctor who performs surgery)	 :: kirurg {m}
+surgery {n} (medical specialty)	 :: kirurgi {m}
+surgery {n} (procedure involving major incisions)	 :: operasjon {m}
+surge suppressor {n} (surge protector) SEE: surge protector	 ::
+Suriname {prop} (country)	 :: Surinam
+Surinamese {adj} (of, from or pertaining to Suriname)	 :: [Bokmål] surinamsk; [Nynorsk] surinamsk
+Surinamese {n} (person from Suriname)	 :: [Bokmål] surinamer {m}; [Nynorsk] surinamar {m}
+surjective {adj} (of, relating, or being a surjection)	 :: [Bokmål] surjektiv; [Nynorsk] surjektiv
+surmount {v} (to get over; to overcome)	 :: overvinne
+surname {n} (name that indicates family)	 :: [Bokmål] navn {n}, etternavn {n}, familienavn {n}, slektsnavn {n}; [Nynorsk] namn {n}, etternamn {n}, familienamn {n}, slektsnamn {n}
+surpass {v} (to exceed)	 :: [Bokmål] overgå; [Nynorsk] overgå
+surprise {n} (attributively: that is unexpected )	 :: overrasknings- {m}, overraskelses-
+surprise {n} (feeling that something unexpected has happened)	 :: overraskelse {m}
+surprise {n} (something not expected)	 :: [Bokmål] overraskelse {m}; [Nynorsk] overrasking
+surprise {v} (cause (someone) to feel surprise)	 :: overraske
+surprise {v} (do something to (a person) that they are not expecting, as a surprise)	 :: overraske
+surrealism {n} (artistic movement and aesthetic philosophy)	 :: surrealisme
+surrounding {adj} (which surrounds something)	 :: [Bokmål] omkringliggende
+surveillance {n} (observation of individuals or groups of individuals)	 :: [Bokmål] oppsikt {m}, overvåking {m-f}, overvåkning {m-f}
+survey {n} (an examination)	 :: [Bokmål] undersøkelse {m}
+survival of the fittest {n} (natural selection)	 :: den sterkeste overlever
+survive {v} (live longer than)	 :: overleve, leve lenger enn
+survive {v} (object, concept: continue to exist)	 :: overleve
+survive {v} (person: continue to live)	 :: overleve; [Bokmål] overleve
+survivor {n} (one who survives)	 :: overlever {m}
+Susan {prop} (female given name)	 :: Susanne
+Susanna {prop} (biblical character)	 :: Susanna
+Susanna {prop} (female given name) SEE: Susan	 ::
+sushi {n} (Japanese dish)	 :: [Bokmål] sushi
+suspend {v} (To discontinue or interrupt a function, task, position, or event)	 :: avbryte
+suspend {v} (To halt temporarily)	 :: suspendere
+suspend {v} (To hang freely)	 :: henge
+suspenders {n} (stocking supporter) SEE: garter	 ::
+suspenders {n} (trouser supporter) SEE: suspender	 ::
+suspension bridge {n} (bridge where the deck or roadway is suspended from cables)	 :: [Bokmål] hengebro {m} {f}, hengebru {m} {f}; [Nynorsk] hengebru {f}, hengjebru {f}
+suspicion {n} (act of suspecting something or someone, especially of something wrong)	 :: mistanke {m}
+suspicion {n} (condition of being suspected)	 :: mistanke {m}
+suspicion {n} (slight indication)	 :: mistanke {m}
+sustain {v} (to maintain something)	 :: [Bokmål] opprettholde
+sustainability {n} (ability to sustain something)	 :: [Bokmål] bærekraft {f} {c}; [Nynorsk] berekraft {f}
+sustainable {adj} (able to be sustained)	 :: bærekraftig
+sustainable {adj} (able to be sustained: environmental term)	 :: bærekraftig
+sutra {n} (a rule or thesis in Sanskrit grammar or Hindu law or philosophy)	 :: sutra {m}
+sutra {n} (a scriptural narrative)	 :: sutra {m}
+Svalbard {prop} (islands north east of Greenland)	 :: Svalbard
+swag {n} (SWAG) SEE: SWAG	 ::
+swallow {n} (a chasm or abyss)	 :: [Bokmål] avgrunn {m}, svelg {n}; [Nynorsk] avgrunn {m}, svelg {n}
+swallow {n} (amount swallowed)	 :: [Bokmål] svelg {m}; [Nynorsk] svelg {m}
+swallow {n} (bird)	 :: [Bokmål] svale {m} {f}; [Nynorsk] svale {f}
+swallow {v} (to believe or accept)	 :: [Bokmål] sluke; [Nynorsk] sluke
+swallow {v} (to cause to pass from the mouth into the stomach)	 :: [Bokmål] svelge; [Nynorsk] svelgje
+swallow {v} (to make muscular contractions of the oesophagus)	 :: [Bokmål] svelge; [Nynorsk] svelgje
+swallow {v} (to take in, to consume)	 :: [Bokmål] sluke; [Nynorsk] sluke
+swamp {n} (type of wetland)	 :: sump {m}
+swamp holly {n} (American winterberry) SEE: American winterberry	 ::
+swan {n} (waterfowl of the genus Cygnus)	 :: [Bokmål] svane {m} {f}; [Nynorsk] svane {f}
+swanling {n} (baby swan, young swan) SEE: cygnet	 ::
+swarm spore {n} (zoospore) SEE: zoospore	 ::
+swarthy {adj} (dark) SEE: dark	 ::
+swarthy {adj} (dark-skinned) SEE: dark-skinned	 ::
+swarthy {adj} (dusky) SEE: dusky	 ::
+swarthy {adj} (tawny) SEE: tawny	 ::
+swastika {n} (a cross with arms of equal length all bent halfway along at a 90° angle)	 :: [Bokmål] hakekors {n}, svastika {m}; [Nynorsk] hakekors {n}, hakekross {m}, svastika {m}
+swathe {n} (swath) SEE: swath	 ::
+sway {n} (The act of swaying; a swaying motion; a swing or sweep of a weapon)	 :: [Bokmål] svai {m}
+sway {v} (To move or swing from side to side; or backward and forward; to rock)	 :: [Bokmål] svaie
+sway {v} (To move or wield with the hand; to swing; to wield; as, to sway the scepter)	 :: [Bokmål] svinge
+Swazi {adj} (pertaining to Swaziland)	 :: [Bokmål] swazilandsk; [Nynorsk] swazilandsk
+Swazi {n} (a person from Swaziland)	 :: [Bokmål] swazilender {m}, swazilending {m}; [Nynorsk] swazilendar {m}, swazilending {m}
+Swazi {n} (a person of the Swazi tribe)	 :: [Bokmål] swazi {m}; [Nynorsk] swazi {m}
+Swazi {prop} (Swati language)	 :: swati; [Bokmål] swati {m}, swazi {m}; [Nynorsk] swati {m}, swazi {m}
+Swaziland {prop} (Kingdom of Swaziland)	 :: Swaziland
+swear {v} (to curse, to use offensive language)	 :: [Bokmål] banne, sverge, sverte; [Nynorsk] banna, banne, sverta, sverte, sverja, sverje
+swear {v} (to take an oath)	 :: [Bokmål] sverge; [Nynorsk] sverja, sverje
+swear word {n} (impolite or offensive taboo word)	 :: bannord {n}, ed {m}, kraftuttrykk {n}
+sweat {n} (fluid that exits the body through pores)	 :: [Bokmål] svette {m} {f}; [Nynorsk] sveitte {m}
+sweat {v} (to emit sweat)	 :: svette
+sweater {n} (similar garment worn for warmth)	 :: [Bokmål] genser {m}; [Nynorsk] genser {m}
+sweat like a pig {v} (sweat profusely)	 :: svette som en gris
+swede {n} (plant)	 :: kålrot
+swede {n} (turnip) SEE: turnip	 ::
+swede {n} (yellow root of Brassica napus)	 :: kålrot
+Swede {n} (Swedish person)	 :: [Bokmål] svenske {m}; [Nynorsk] svenske {m}
+Sweden {prop} (Scandinavian country)	 :: Sverige; [Nynorsk] Sverige {n}
+Swedish {adj} (of or pertaining to Sweden)	 :: [Bokmål] svensk; [Nynorsk] svensk
+Swedish {adj} (of or pertaining to the Swedish language)	 :: [Bokmål] svensk; [Nynorsk] svensk
+Swedish {prop} (language)	 :: [Bokmål] svensk {m}; [Nynorsk] svensk {m}
+sweep {n} (chimney sweep) SEE: chimney sweep	 ::
+sweet {adj} (containing a sweetening ingredient)	 :: sukkertilsatt
+sweet {adj} (free from excessive unwanted substances)	 :: ren
+sweet {adj} (having a helpful disposition)	 :: hjelpsom, vennlig
+sweet {adj} (having a pleasant smell)	 :: søtlig
+sweet {adj} (having a pleasant sound)	 :: vakker
+sweet {adj} (having a pleasant taste)	 :: søt
+sweet {adj} (having a pleasing disposition)	 :: snill, vennlig
+sweet {adj} (having a taste of sugar)	 :: søt
+sweet {adj} (not decaying, rancid, sour, spoiled, or stale)	 :: fersk
+sweet {adj} (not having a salty taste)	 :: (butter) usaltet, (water) fersk
+sweet {adj} (of a wine: retaining a portion of sugar)	 :: søt
+sweet {n} (basic taste sensation induced by sugar) SEE: sweetness	 ::
+sweet {n} (food eaten for dessert) SEE: dessert	 ::
+sweet {n} (sweetheart) SEE: sweetheart	 ::
+sweet dreams {n} (sweet dreams)	 :: søte drømmer
+sweetener {n} (sweetener)	 :: søtningsmiddel
+sweet gale {n} (Myrica gale) SEE: gale#Etymology 3	 ::
+sweetheart {n} (darling) SEE: darling	 ::
+sweetie {n} (sweetheart)	 :: søtnos
+sweetmeat {n} (sweet delicacy)	 :: søtsaker {p}
+sweet potato {n} (tuber)	 :: søtpotet
+sweet potato {n} (yam) SEE: yam	 ::
+sweets {n} (confectionery, candy)	 :: godteri {n-p}
+sweet shop {n} (sweetshop) SEE: sweetshop	 ::
+swell {n} (series of waves)	 :: dønning
+swell {v} (intransitive: to become bigger, especially due to being engorged)	 :: [Bokmål] svelle, svulme; [Nynorsk] svelle, svulme
+swiftness {n} (state of being swift) SEE: quickness	 ::
+swim {v} (move through water)	 :: bade, svømme
+swim cap {n} (cap worn by swimmers)	 :: [Bokmål] badehette {m} {f}; [Nynorsk] badehette {f}
+swimming pool {n} (Pool)	 :: svømmebasseng, basseng
+swimming trunks {n} (a pair of shorts or briefs worn for swimming or bathing)	 :: badebukser {m-p} {f-p}; [Nynorsk] badebukse {f}
+swimmist {n} (swimmer) SEE: swimmer	 ::
+swimsuit {n} (tight-fitting garment worn for swimming)	 :: badedrakt {c}
+swine {n} (pig) SEE: pig	 ::
+swine flu {n} (influenza caused by orthomyxoviruses)	 :: svineinfluensa
+swine influenza {n} (swine flu) SEE: swine flu	 ::
+swing {n} (hanging seat)	 :: [Bokmål] huske {m} {f}, gynge {m} {f}, disse {m} {f}; [Nynorsk] huske {f}, gynge {f}, disse {f}
+swing {v} (to ride on a swing)	 :: [Bokmål] huske, gynge, disse; [Nynorsk] huske, gynge, disse
+swing state {n} (A state which may vote Democratic or Republican)	 :: [Bokmål] vippestat {m}; [Nynorsk] vippestat {m}
+Swiss {adj} (of or pertaining to Swiss language(s) or Swiss dialect(s))	 :: [Bokmål] sveitsisk; [Nynorsk] sveitsisk
+Swiss {adj} (of or pertaining to Switzerland)	 :: [Bokmål] sveitsisk; [Nynorsk] sveitsisk
+Swiss {adj} (of or pertaining to the Swiss people)	 :: [Bokmål] sveitsisk; [Nynorsk] sveitsisk
+Swiss {n} (Swiss person)	 :: [Bokmål] sveitser {m}; [Nynorsk] sveitsar {m}
+Swiss cheese {n} (cheese with holes)	 :: [Bokmål] sveitserost {m}; [Nynorsk] sveitserost {m}
+Swiss franc {n} (currency of Switzerland)	 :: [Bokmål] sveitserfranc {m}, sveitsisk franc {m}; [Nynorsk] sveitserfranc {m}
+Swiss roll {n} (a type of sponge cake roll)	 :: [Bokmål] rullekake {m} {f}; [Nynorsk] rullekake {f}
+switch {n} (Command line notation)	 :: svitsj {m}
+switch {n} (Device to turn electric current on and off or direct its flow)	 :: bryter {m}
+switch {n} (movable section of railroad track)	 :: pens {m}
+switch {n} (System which allows the interconnection of a calling party's telephone line with any called party's line)	 :: sentral {m}
+switch {n} (Thin rod used as a whip)	 :: prylestokk {m}
+Switzerland {prop} (sovereign country)	 :: Sveits
+swoon {n} (infatuation) SEE: infatuation	 ::
+sword {n} (weapon)	 :: [Bokmål] sverd {n}; [Nynorsk] sverd {n}
+swordfish {n} (Xiphias gladius)	 :: sverdfisk
+Sybil {prop} (female given name) SEE: Sibyl	 ::
+sycamore {n} (sycamore maple) SEE: sycamore maple	 ::
+sycamore maple {n} (Acer pseudoplatanus)	 :: platanlønn {m}
+sycophant {n} (one who uses compliments to gain self-serving favor or advantage from another person.)	 :: spyttslikker {m}, spyttsleiker
+Sydney {prop} (language) SEE: Dharuk	 ::
+syllabary {n} (system)	 :: [Bokmål] stavelsesskrift {m} {f}; [Nynorsk] stavingsskrift {f}
+syllabize {v} (syllabify) SEE: syllabify	 ::
+syllable {n} (One or more vowel sounds)	 :: [Bokmål] stavelse {m}, staving {m} {f}; [Nynorsk] staving {f}
+symbiogenesis {n} (merging of organisms to form a new organism)	 :: symbiogenese
+symbol {n} (character or glyph)	 :: [Bokmål] symbol {n}; [Nynorsk] symbol {n}
+symbol {n} (object meant to represent another)	 :: [Bokmål] symbol {n}; [Nynorsk] symbol {n}
+symbol {n} (summary of a dogmatic statement of faith)	 :: [Bokmål] symbol {n}; [Nynorsk] symbol {n}
+symbol {v} (symbolize) SEE: symbolize	 ::
+symmetric {adj} (symmetrical) SEE: symmetrical	 ::
+symmetrical {adj} (exhibiting symmetry)	 :: symmetrisk
+symphony {n} (piece of orchestral music)	 :: symfoni {c}
+symptom {n} (something that indicates a disease or disorder)	 :: [Bokmål] symptom {n}; [Nynorsk] symptom {n}
+synagogue {n} (place)	 :: [Bokmål] synagoge {m}; [Nynorsk] synagoge {m} {f}
+sync {n} (synchronization) SEE: synchronization	 ::
+sync {v} (synchronize) SEE: synchronize	 ::
+synchromesh {adj} (a device which functions like a synchronized transmission)	 :: synkronisert
+synchromesh {n} (a device which functions like a synchronized transmission)	 :: synkronisering {c}
+synchromesh {n} (system of synchronized transmission found in modern gearboxes)	 :: synkrongir {n}
+synchronisation {n} (synchronization) SEE: synchronization	 ::
+synclinal {n} (synclinal fold)	 :: synklinal; [Nynorsk] synklinal
+syncline {n} (concave upward fold) SEE: synclinal	 ::
+syndrome {n} (recognizable pattern of symptoms or behaviours)	 :: syndrom
+synergy {n} (behavior of a system that cannot be predicted by the behavior of its parts)	 :: synergi
+syntagmatarchy {n} (square formation of 256 soldiers) SEE: syntagma	 ::
+syntaxis {n} (syntax) SEE: syntax	 ::
+synthetic {adj} (Artificial, not genuine)	 :: [Bokmål] syntetisk; [Nynorsk] syntetisk
+syphilis {n} (sexual disease caused by Treponema pallidum)	 :: [Bokmål] syfilis {m}; [Nynorsk] syfilis {m}
+Syria {prop} (country in the Middle East)	 :: Syria
+Syrian {adj} (Of, from, or pertaining to Syria, the Syrian people or the Syrian language)	 :: [Bokmål] syrisk; [Nynorsk] syrisk
+Syrian {n} (A person from Syria or of Syrian descent)	 :: [Bokmål] syrer {m}; [Nynorsk] syrar {m}
+syrinx {n} (panpipes) SEE: panpipes	 ::
+system {n} (collection of organized things)	 :: [Bokmål] system {n}; [Nynorsk] system {n}

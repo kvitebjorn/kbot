@@ -1,0 +1,740 @@
+﻿I {pron} (personal pronoun)	 :: [Bokmål] jeg; [Nynorsk] eg
+iamb {n} (a metrical foot)	 :: jambe {m}
+Iamblichus {prop} (Greek philosopher)	 :: Iamblichos {m}
+I am blind {phrase} (I'm blind) SEE: I'm blind	 ::
+I am English {phrase} (I am English)	 :: jeg er engelsk
+I am hungry {phrase} (I'm hungry) SEE: I'm hungry	 ::
+I am thirsty {phrase} (I'm thirsty) SEE: I'm thirsty	 ::
+I am tired {phrase} (I'm tired) SEE: I'm tired	 ::
+I am twenty years old {phrase} (I'm twenty years old) SEE: I'm twenty years old	 ::
+I am ... year(s) old {phrase} (I'm ... year(s) old) SEE: I'm ... year(s) old	 ::
+Iberian Peninsula {prop} (peninsula)	 :: [Bokmål] Den iberiske halvøy {m} {f}
+Iberian Sea {prop} (Balearic Sea) SEE: Balearic Sea	 ::
+ibex {n} (type of wild mountain goat)	 :: steinbukk
+ibid {abbr} (in the same place) SEE: ibid.	 ::
+-ic {suffix} (Note: these translations are a guide only. For more precise translations, see individual words ending in -ic)	 :: -isk
+I came, I saw, I conquered {phrase} (used to indicate a total swift victory)	 :: eg kom, jeg så, jeg erobret
+ice {n} (diamond) SEE: diamond	 ::
+ice {n} (frozen dessert)	 :: [Bokmål] is {m}, iskrem {m}; [Nynorsk] is {m}, iskrem {m}
+ice {n} (frozen volatile chemical)	 :: [Bokmål] is {m}; [Nynorsk] is {m}
+ice {n} (icehockey: area where game is played)	 :: is {m}
+ice {n} (water in frozen form)	 :: [Bokmål] is {m}; [Nynorsk] is {m}
+ice {v} (to cool with ice)	 :: ise
+ice {v} (to cover with icing)	 :: islegge
+ice {v} (to freeze)	 :: fryse
+ice age {n} (period of extensive glaciation)	 :: [Bokmål] istid {m} {f}; [Nynorsk] istid {f}
+iceberg {n} (huge mass of floating ice)	 :: isfjell, isberg
+icebox {n} (refrigerator) SEE: refrigerator	 ::
+icebreaker {n} (ship designed to break through ice)	 :: [Bokmål] isbryter {m}
+ice-cold {adj} (as cold as ice)	 :: iskald
+ice-cold {adj} (distant)	 :: iskald
+ice cream {n} (dessert)	 :: [Bokmål] iskrem {m}, is {m}; [Nynorsk] iskrem {m}, is {m}
+ice cube tray {n} (ice tray) SEE: ice tray	 ::
+ice dancing {n} (figure skating)	 :: isdans {c}
+iced coffee {n} (beverage)	 :: iskaffe
+ice fishing {n}	 :: isfiske {n}
+ice floe {n} (floe) SEE: floe	 ::
+ice hockey {n} (hockey)	 :: ishockey {m}
+Iceland {prop} (country in Europe)	 :: Island; [Nynorsk] Island {n}
+Icelander {n} (a person from Iceland or of Icelandic descent)	 :: islending {m}
+Icelandic {adj} (of or relating to Iceland)	 :: [Bokmål] islandsk; [Nynorsk] islandsk
+Icelandic {adj} (of or relating to the natives or inhabitants of Iceland)	 :: [Bokmål] islandsk; [Nynorsk] islandsk
+Icelandic {prop} (language)	 :: [Bokmål] islandsk {m}; [Nynorsk] islandsk {m}
+Icelandic Sheepdog {n} (Icelandic Sheepdog)	 :: islandsk fårehund {m}
+Icelandic Sign Language {prop} (Icelandic Sign Language)	 :: [Bokmål] islandsk tegnspråk {n}; [Nynorsk] islands teiknspråk {n}
+Icelandish {adj} (Icelandic) SEE: Icelandic	 ::
+Icelandish {prop} (Icelandic) SEE: Icelandic	 ::
+ice rink {n} (a surface for roller skating)	 :: [Bokmål] skøytebane
+icicle {n} (a spear-shape of ice)	 :: istapp {m}
+icing sugar {n} (powdered sugar) SEE: powdered sugar	 ::
+icon {n} (image)	 :: [Bokmål] ikon {m} {n}; [Nynorsk] ikon {m} {n}
+icon {n} (religious painting)	 :: [Bokmål] ikon {m} {n}; [Nynorsk] ikon {m} {n}
+icon {n} (small picture, computer icon)	 :: [Bokmål] ikon {m} {n}; [Nynorsk] ikon {m} {n}
+icosahedron {n} (a polyhedron)	 :: ikosaeder {n}
+I could eat a horse {phrase} (very hungry)	 :: [I'm hungry as a wolf] jeg er sulten som en ulv
+icy {adj} (characterized by coldness, as of manner, influence, etc.)	 :: isnende
+icy {adj} (covered with ice)	 :: isbelagt, islagt
+icy {adj} (pertaining to, resembling, or abounding in ice)	 :: isete
+ID {n} (identification or identity documentation) SEE: ID card	 ::
+Ida {prop} (female given name)	 :: Ida
+ID card {n} (card or badge showing the official identity of the wearer)	 :: ID-kort {n}, identifikasjonsbevis {n}, legitimasjon {m}, ID {m}
+idea {n} (image formed in the mind)	 :: idé {m}
+ideal gas {n} (hypothetical gas)	 :: ideell gass
+idée fixe {n} (idea dominating the mind)	 :: [Bokmål] fiks idé {m}; [Nynorsk] fiks idé {m}
+identification {n}	 :: identifikasjon {m}
+identify {v} (to associate oneself with some group)	 :: [Bokmål] identifisere seg; [Nynorsk] identifisere seg
+identify {v} (to establish the identity of someone or something)	 :: [Bokmål] identifisere; [Nynorsk] identifisere
+identity {n} (algebra: element) SEE: identity element	 ::
+identity {n} (algebra: function) SEE: identity function	 ::
+identity {n} (knowledge of who one is)	 :: [Bokmål] identitet {m}; [Nynorsk] identitet {m}
+identity {n} (name or persona)	 :: [Bokmål] identitet {m}; [Nynorsk] identitet {m}
+identity {n} (the difference or character that marks off an individual from the rest)	 :: [Bokmål] identitet {m}; [Nynorsk] identitet {m}
+identity {n} (the sameness some individuals share to make up the same kind or universal)	 :: [Bokmål] identitet {m}; [Nynorsk] identitet {m}
+identity card {n} (a card showing one's identity) SEE: ID card	 ::
+identity matrix {n} (diagonal matrix with all diagonal elements equal to 1)	 :: identitetsmatrise
+ideogram {n} (a symbol)	 :: ideogram {n}
+ideologic {adj} (ideological) SEE: ideological	 ::
+ideologue {n} (advocate of a particular ideology)	 :: ideolog {m}
+ideology {n} (doctrine, body of ideas)	 :: [Bokmål] ideologi {m}; [Nynorsk] ideologi {m}
+idiom {n} (expression peculiar to a given language)	 :: idiom
+idiomatic {adj} (pertaining or conforming to the mode of expression characteristic of a language)	 :: idiomatisk
+idiomatic {adj} (resembling or characteristic of an idiom)	 :: idiomatisk
+idiomatical {adj} (idiomatical) SEE: idiomatic	 ::
+idiosyncrasy {n} (peculiarity that serves to distinguish or identify)	 :: særegenhet {m}
+idiosyncratic {adj} (peculiar to a specific individual)	 :: [Bokmål] idiosynkratisk
+idiot {n} (person of low general intelligence)	 :: idiot {m}
+I'd like to kiss you {phrase} (I'd like to kiss you)	 :: jeg kunne tenke meg å kysse deg, jeg ønsker å kysse deg
+idolator {n} (idolater) SEE: idolater	 ::
+I don't care {phrase} (I don't care)	 :: jeg bryr meg ikke
+I don't know {phrase} (“I don’t know”)	 :: [Bokmål] jeg vet ikke; [Nynorsk] eg veit ikkje
+I don't speak English {phrase} (I don't speak English)	 :: [Bokmål] jeg snakker ikke engelsk; [Nynorsk] eg snakkar ikkje engelsk
+I don't think so {phrase} (I think that what has been said is untrue)	 :: jeg tror ikke det, det tror jeg ikke, jeg tviler
+I don't understand {phrase} (I don't understand)	 :: jeg forstår ikke
+i.e. {abbr} (that is)	 :: [Bokmål] dvs.; [Nynorsk] d.e., dvs.
+if {conj} (supposing that)	 :: hvis, om, når
+if {conj} (whether)	 :: om
+iff {abbr} (abbreviation of if and only if)	 :: hviss
+if I were you {phrase} (advice introduction)	 :: hvis jeg var deg, var jeg deg
+if you can't beat them, join them {proverb} (if your adversaries are stronger than yourself, it is better to join the adversaries)	 :: kan du ikke slå dem, bli med dem
+if you can't stand the heat, get out of the kitchen {proverb} (if you cannot handle the pressure, you should not be in a position where you have to deal with it)	 :: tåler du ikke varmen, kom deg ut av kjøkkenet, den som er med på leken, må tåle steken
+if you want a thing done well, do it yourself {proverb} (better to do something yourself)	 :: vil du ha noe gjort, gjør det selv
+igneous rock {n} (one of the major groups of rock that makes up the crust of the Earth)	 :: magmatisk bergart
+ignis fatuus {n} (will o' the wisp) SEE: will o' the wisp	 ::
+ignominy {n} (Great dishonor, shame, or humiliation)	 :: skjensel {m}, vanære {m}, skam {m}
+ignorance {n} (condition of being uninformed or uneducated)	 :: uvitenhet
+ignorance is bliss {proverb} (Ignorance is bliss)	 :: det du ikke vet har du ikke vondt av
+ignorant {adj} (characterized by ignorance)	 :: [Bokmål] uvitende
+ignore {v} (to deliberately pay no attention to)	 :: ignorere
+I hate you {phrase} (expression of intense dislike)	 :: jeg hater deg, [flertall] jeg hater dere
+I have AIDS {phrase} (I have AIDS)	 :: [Bokmål] jeg har aids; [Nynorsk] eg har aids
+I have a question {phrase} (I have a question)	 :: [Bokmål] jeg har et spørsmål; [Nynorsk] eg har eit spørsmål
+I have high blood pressure {phrase} (I have high blood pressure)	 :: jeg har høyt blodtrykk
+I have low blood pressure {phrase} (I have low blood pressure)	 :: jeg har lavt blodtrykk
+I have no money {phrase} (I have no money)	 :: [Bokmål] jeg har ingen penger; [Nynorsk] eg har ingen pengar
+I know you are but what am I {phrase} (assertion that an insult made by the party to whom the phrase is directed is actually true of that party)	 :: det kan du være selv, jeg vet du er, men hva er jeg?
+I like you {phrase} (I like you)	 :: jeg liker deg
+I live in Melbourne {phrase} (I live in Melbourne (example city))	 :: jeg bor i Melbourne
+ill {adj} (bad)	 :: dårlig
+ill {adj} (having an urge to vomit)	 :: kvalm
+ill {adj} (suffering from a disease)	 :: syk
+ill-intentioned {adj} (malevolent) SEE: malevolent	 ::
+ill-mannered {adj} (of or pertaining to having bad manners)	 :: [Bokmål] uoppdragen
+illness {n} (an instance of a disease or poor health)	 :: sykdom {m}
+illness {n}	 :: sjukdom; [Bokmål] sykdom {m}
+Illuminati {n}	 :: Illuminati
+illusive {adj} (illusory) SEE: illusory	 ::
+illustration {n} (picture designed to decorate)	 :: illustrasjon {m}
+illustration {n} (that which illustrates)	 :: illustrasjon {m}
+I lost my backpack {phrase} (I lost my backpack)	 :: jeg har mistet ryggsekken min
+I lost my bag {phrase} (I lost my backpack) SEE: I lost my backpack	 ::
+I lost my bag {phrase} (I lost my handbag) SEE: I lost my handbag	 ::
+I lost my keys {phrase} (I lost my keys)	 :: Jeg har mistet nøklene mine
+I love you {phrase} (affirmation of affection or deep caring)	 :: jeg er glad i deg
+I love you {phrase} (affirmation of romantic feeling)	 :: eg elskar deg [Nynorsk, romantic], jeg elsker deg [Bokmål, Riksmål, romantic]
+I love you {phrase} (platonic expression of inclination or liking)	 :: jeg er glad i deg
+I'm {contraction} (I am)	 :: jeg er
+I'm afraid so {phrase} (unfortunately, yes)	 :: jeg er redd for det
+imagery {n} (imitation work) SEE: imitation	 ::
+imagination {n} (image-making power of the mind)	 :: fantasi {m}
+I'm a girl {phrase} (I'm a girl)	 :: [Bokmål] jeg er en jente
+I'm agnostic {phrase} (I'm agnostic)	 :: jeg er agnostiker
+I'm allergic to penicillin {phrase} (I'm allergic to penicillin)	 :: [Bokmål] jeg er allergisk mot penicillin
+imbalance {n} (property of not being in balance)	 :: [Bokmål] ubalanse {m}; [Nynorsk] ubalanse {m}
+I'm blind {phrase} (I'm blind)	 :: [Bokmål] jeg er blind; [Nynorsk] eg er blind
+I'm fine, thank you {phrase} (expected, polite response to How are you?)	 :: takk, bare bra
+I'm gay {phrase} (I'm gay)	 :: jeg er homo, jeg er homse
+I'm hungry {phrase} (I'm hungry)	 :: jeg er sulten; [Nynorsk] eg er svolten
+I'm in love with you {phrase} (declaration of romantic feeling)	 :: jeg er forelsket i deg
+I miss you {phrase} (I miss you)	 :: [Nynorsk] eg saknar deg
+imitation {n} (act of imitating)	 :: [Bokmål] imitasjon {m}; [Nynorsk] imitasjon {m}
+imitation {n} (copy)	 :: [Bokmål] imitasjon {m}; [Nynorsk] imitasjon {m}
+I'm Jewish {phrase} (I'm Jewish (ethnic))	 :: Jeg er jøde
+I'm looking for a job {phrase} (I'm looking for a job)	 :: [Bokmål] jeg er på utkikk etter jobb, jeg ser etter jobb, jeg ser etter arbeid, jeg søker arbeid
+Immanuel {prop} (male given name) SEE: Emmanuel	 ::
+Immanuel {prop} (this figure, regarded as Christ)	 :: Immanuel
+immature {adj} (childish)	 :: [Bokmål] umoden; [Nynorsk] umoden, umogen
+immature {adj} (not fully formed)	 :: [Bokmål] umoden; [Nynorsk] umoden, umogen
+immediately {adv} (in an immediate manner)	 :: øyeblikkelig
+immersion blender {n} (tool)	 :: [Bokmål] stavmikser {m}; [Nynorsk] stavmiksar {m}
+immethodical {adj} (unmethodical) SEE: unmethodical	 ::
+immethodically {adv} (unmethodically) SEE: unmethodically	 ::
+immigrant {n} (person who comes to a country to settle)	 :: [Bokmål] innvandrer
+immigration {n} (the act of immigrating)	 :: innvandring
+immortality {n} (condition of not being susceptible to death)	 :: [Bokmål] udødelighet {m} {f}
+I'm not religious {phrase} (I'm not religious)	 :: [Bokmål] jeg er ikke religiøs
+impact {n} (a significant or strong influence)	 :: virkning {c}
+impact {n} (the force or energy of a collision of two objects)	 :: treffvirkning {c}
+impartial {adj} (treating all parties, rivals or disputants equally)	 :: upartisk, objektiv
+impasse {n} (a road with no exit; a cul-de-sac)	 :: blindvei
+impassionate {adj} (dispassionate) SEE: dispassionate	 ::
+impassionate {adj} (impassioned) SEE: impassioned	 ::
+impatience {n} (quality of being impatient)	 :: [Bokmål] utålmodighet {m} {f}; [Nynorsk] utolmod {n}
+impatient {adj} (restless and intolerant of delays)	 :: [Bokmål] utålmodig; [Nynorsk] utolmodig
+impecunious {adj} (lacking money)	 :: fattig
+impede {v} (to get in the way of; to hinder)	 :: hindre
+imperative {n} (imperative mood) SEE: imperative mood	 ::
+imperfect {adj} (unisexual) SEE: unisexual	 ::
+imperialism {n} (the policy of extending power, by force)	 :: imperialisme {m}
+impetuous {adj} (characterized by sudden and violent force)	 :: oppfarende, fremfusende
+impetuous {adj} (describing one who makes arbitrary decisions)	 :: impulsstyrt
+impetus {n} (a force, either internal or external, that impels; an impulse)	 :: drivkraft
+implant {n} (anything surgically implanted in the body)	 :: [Bokmål] implantat {n}; [Nynorsk] implantat {n}
+implement {n} (a tool)	 :: [Bokmål] redskap {m} {n}; [Nynorsk] reiskap {m}
+implementation {n} (process of moving an idea from concept to reality)	 :: implementering, iverksetting
+implicate {v} (to intertwine) SEE: intertwine	 ::
+implode {v} (to collapse or burst inward violently)	 :: implodere, kollapse
+imply {v} (to express suggestively rather than as a direct statement)	 :: insinuere; [Bokmål] antyde
+imply {v} (to have as a consequence)	 :: implisere, medføre
+imply {v} (to suggest by a logical inference)	 :: implisere
+important {adj} (having relevant and crucial value)	 :: alvorlig, betydelig, viktig
+importantness {n} (importance) SEE: importance	 ::
+importer {n} (a person or company who imports goods into a country)	 :: [Bokmål] importør {m}; [Nynorsk] importør {m}
+imposition {n} (that which is imposed, levied, or enjoined)	 :: (pålagt) byrde {m}
+imposter {n} (Someone who attempts to deceive by using an assumed name or identity or other devious disguise) SEE: impostor	 ::
+impotable {adj} (not drinkable) SEE: undrinkable	 ::
+impractical {adj} (not practical)	 :: [Bokmål] upraktisk; [Nynorsk] upraktisk
+impracticalness {n} (impracticality) SEE: impracticality	 ::
+impress {v} ((transitive) affect (someone) strongly and often favourably)	 :: imponere
+impression {n} (overall effect of something)	 :: [Bokmål] inntrykk {n}; [Nynorsk] inntrykk {n}
+imprimatur {n} (official license to publish)	 :: imprimatur {n}
+imprison {v} (to put in or as if in prison; confine)	 :: fengsle
+improper {adj} (Not according to facts)	 :: uriktig, feilaktig, urettmessig
+improper {adj} (Not consistent with established facts)	 :: uriktig
+improper {adj} (not in keeping with conventional mores or good manners)	 :: upassende, uanstendig
+improper {adj} (Not properly named)	 :: feilaktig
+improper {adj} (unsuitable to needs or circumstances)	 :: upassende, uegnet
+improper fraction {n} (arithmetic: a vulgar fraction)	 :: uekte brøk {m}
+improve {v} (to become better)	 :: forbedre seg
+improve {v} (to make something better)	 :: forbedre
+improvise {v} (to make something up as one goes on)	 :: improvisere
+impudently {adv} (shamelessly) SEE: shamelessly	 ::
+impurity {n} (a component or additive that renders something else impure)	 :: [Bokmål] urenhet {m} {f}, ureinhet {m} {f}
+I'm thirsty {phrase} (I need a drink)	 :: jeg er tørst
+I'm tired {phrase} (I am tired (in need of rest or sleep))	 :: jeg er trøtt
+I must go {phrase} (I must go)	 :: jeg må dra
+I'm ... year(s) old {phrase} (I am ... year(s) old)	 :: jeg er ... år gammel
+in {adv} (indoors; at home or the office and available for conversation)	 :: inne
+in {adv} (moving to the interior)	 :: inn
+in- {prefix} (in, into, towards)	 :: inn-
+in- {prefix} (reversal of meaning)	 :: [Bokmål] ikke-, u-, van-, mis-; [Nynorsk] ikkje-, u-, van-, mis-
+in {prep} (after a period of time)	 :: om
+in {prep} (contained by)	 :: i
+in {prep} (part, member of)	 :: i, av
+in {prep} (pertaining to)	 :: i
+in {prep} (surrounded by)	 :: innenfor
+-in' {suffix} (-ing) SEE: -ing	 ::
+Ina {prop} (female given name)	 :: Ine, Ina
+inacceptable {adj} (unacceptable) SEE: unacceptable	 ::
+in advance {adv} (beforehand) SEE: beforehand	 ::
+inadvertent {adj} (not intentional)	 :: utilsiktet
+in a jiffy {adv} (very quickly; without delay)	 :: [Bokmål] om noen få strakser, om to strakser; [Bokmål] om nokre få straksar, om to straksar
+inane {adj} (lacking sense or meaning)	 :: intetsigende
+in a nutshell {adv} (in summary)	 :: i et nøtteskall
+in any case {adv} (at any rate)	 :: [Bokmål] i alle fall
+inappropriate {adj} (not appropriate or suitable)	 :: upassende, uheldig, malplassert, uskikket
+Inari {prop} (lake)	 :: Enaresjøen {c}
+Inari {prop} (language)	 :: enaresamisk {n}; [Bokmål] enaresamisk {n}; [Nynorsk] enaresamisk {n}
+Inari {prop} (municipality and village)	 :: Enare
+Inari Sami {prop} (language)	 :: enaresamisk {c}
+inattention {n} (want of attention)	 :: uoppmerksomhet {m}
+inauspicious {adj} (boding ill)	 :: [Bokmål] ugunstig; [Nynorsk] ugunstig
+inbalance {n} (imbalance) SEE: imbalance	 ::
+inborn {adj}	 :: [Bokmål] medfødt; [Nynorsk] medfødd
+in-box {n} (electronic folder)	 :: innboks; [Nynorsk] innboks
+inbreeding {n} (breeding between members of small population)	 :: innavl {m}
+incandescent {n} (incandescent lamp) SEE: light bulb	 ::
+incarnate {adj} (flesh-colored) SEE: crimson	 ::
+incarnate {v} (incarn) SEE: incarn	 ::
+in case {prep} (In the event)	 :: i tilfelle
+incense {n} (A perfume often used in the rites of various religions)	 :: virak {m}, røkelse {m}; [Nynorsk] virak {m}, røykjelse {m}, røykelse {m}
+inception {n} (the creation or beginning of something)	 :: begynnelse
+incessantly {adv} (in a manner without pause or stop)	 :: ustanselig
+incest {n} (sexual relations between close relatives)	 :: incest {m}, blodskam {f}
+inch {n} (unit of length)	 :: tomme {m}
+inch {n} (unspecified but very short distance)	 :: tomme {m}
+inchworm {n} (measuring worm) SEE: measuring worm	 ::
+inclinometer {n} (instrument) SEE: clinometer	 ::
+income {n} (Money one earns by working or by capitalising on the work of others)	 :: inntekt {m} {f}
+income tax {n} (tax levied on income)	 :: [Bokmål] inntektsskatt {m}; [Nynorsk] inntektsskatt {m}
+incompatible {adj} (impossible to coexist; irreconcilable)	 :: inkompatibel
+inconspicuous {adj} (not prominent or easily noticeable)	 :: upåfallende
+incontinence {n} (inability to restrain discharge)	 :: inkontinens {m}
+incontinence diaper {n} (impenetrable sheet) SEE: incontinence pad	 ::
+incorrigible {adj} (unmanageable) SEE: unmanageable	 ::
+increase {v} (become larger)	 :: øke
+incredible {adj} (amazing)	 :: [Bokmål] utrolig, utrulig; [Nynorsk] utruleg, utrulig
+incredible {adj} (marvelous)	 :: [Bokmål] utrolig, utrulig, fantastisk; [Nynorsk] utruleg, utrulig, fantastisk
+incredible {adj} (too implausible to be credible)	 :: [Bokmål] utrolig, utrulig; [Nynorsk] utruleg, utrulig
+incredulousness {n} (incredulity) SEE: incredulity	 ::
+increment {n} (The action of increasing or becoming greater)	 :: inkrementere
+incruental {adj} (bloodless) SEE: bloodless	 ::
+incubation {n} (sitting on eggs for the purpose of hatching young)	 :: [Bokmål] ruge
+incubus {n} (an evil spirit)	 :: incubus
+inculcate {v} (teach by repeated instruction)	 :: innprente
+incumbent {adj} (being the current holder of an office)	 :: [Bokmål] sittende; [Nynorsk] sittande
+incumbrance {n} (burden) SEE: encumbrance	 ::
+incumbrance {n} (interest, right, burden or liability) SEE: encumbrance	 ::
+incunable {n} (very early printed book, specifically one printed before 1501; an incunabulum)	 :: inkunabel
+incunabulum {n} (book, single sheet, or image that was printed before the year 1501 in Europe)	 :: (bokmål): inkunabel {m}, oldtrykk {n}, paleotyp {m}; (nynorsk): inkunabel {m}, oldtrykk {n}, paleotyp {m}
+incus {n} (accessory cloud in the shape of an anvil) SEE: thunderhead	 ::
+indebtedness {n} (state of owing due to gratitude)	 :: takknemlighetsgjeld {m}
+indecision {n} (inability to decide on a course of action)	 :: [Bokmål] ubesluttsomhet {m} {f}
+indecisive {adj} (not decisive)	 :: [Bokmål] ubesluttsom
+indecisiveness {n} (condition of being indecisive) SEE: indecision	 ::
+indefatigable {adj} (extremely persistent and untiring)	 :: utrøttelig
+indefatigably {adv} (in an extremely persistent and untiring manner)	 :: utrettelig
+indelible {adj} (incapable of being canceled or forgotten)	 :: uutslettelig
+indentation {n} (act of beginning a line at a distance from the flush line)	 :: innrykk
+indenture {n} (contract)	 :: lærekontrakt {m}, lærlingekontrakt {m}, arbeidskontrakt {m}
+independence {n} (state of having sufficient means for a comfortable livelihood)	 :: [Bokmål] uavhengighet {m} {f}
+independence {n} (state or quality of being independent)	 :: [Bokmål] uavhengighet {m} {f}
+independent {adj} (not dependent; not contingent or depending on something else; free)	 :: [Bokmål] uavhengig
+independent clause {n} (grammar: clause that can stand alone) SEE: main clause	 ::
+independently {adv} (in an independent manner)	 :: [Bokmål] uavhengig
+in depth {adj} (thorough, comprehensive) SEE: in-depth	 ::
+index {n} (alphabetical listing)	 :: innhold {m}, indeks {m}, innholdsfortegnelse {m}, stikkordregister {n}
+index {n} (index finger) SEE: forefinger	 ::
+index {v} (to take stock) SEE: inventory	 ::
+index finger {n} (forefinger) SEE: forefinger	 ::
+India {prop} (Bharat) SEE: Bharat	 ::
+India {prop} (the country)	 :: India
+Indian {adj} (of or pertaining to India)	 :: [Bokmål] indisk; [Nynorsk] indisk
+Indian {adj} (of, or related to, the aboriginal people of the Americas)	 :: [Bokmål] indiansk; [Nynorsk] indiansk
+Indian {n} (a person from India)	 :: [Bokmål] inder {m}; [Nynorsk] indar {m}
+Indian {n} (individual of, or related to, the aboriginal people of the Americas)	 :: indianer {m}
+Indianapolis {prop} (capital of the State of Indiana, USA)	 :: Indianapolis; [Nynorsk] Indianapolis
+Indian fig {n} (prickly pear) SEE: prickly pear	 ::
+Indian myna {n}	 :: [Nynorsk] hyrdestare
+Indian Ocean {prop} (the ocean separating Africa, southern Asia, Australia and Antarctica)	 :: Indiahavet, Det indiske hav, Det indiske havet
+Indic {prop} (the Indic language group) SEE: Indo-Aryan	 ::
+indicator {n} (chemical)	 :: indikator {m}
+indicator {n} (economic measure)	 :: indikator {m}
+indicator {n} (meter or gauge)	 :: måler {m}
+indicator {n} (needle or dial on a meter)	 :: viser {m}
+indicator {n} (pointer)	 :: viser {m}
+indicator {n} (trafficator)	 :: blinkelys {n}, retningsviser {n} (old)
+indictment {n} (legal accusation)	 :: tilltale
+Indies {prop} (East Indies) SEE: East Indies	 ::
+Indies {prop} (West Indies) SEE: West Indies	 ::
+indigenity {n} (indigenousness) SEE: indigenousness	 ::
+indigestion {n} (condition caused by eating too quickly)	 :: fordøyelsesproblemer {p}, fordøyelsesbesvær {n}
+indign {adj} (disgraceful) SEE: disgraceful	 ::
+indign {adj} (unbecoming) SEE: unbecoming	 ::
+indign {adj} (unworthy) SEE: unworthy	 ::
+indignant {adj} (angry, infuriated, mad, resentful)	 :: [Bokmål] indignert
+indignation {n}	 :: indignert
+indirect speech {n} (reported speech) SEE: reported speech	 ::
+indispensable {adj} (absolutely necessary)	 :: [Bokmål] uunnværlig; [Nynorsk] uunnverleg
+indium {n} (metallic chemical element)	 :: indium
+individual {adj} (intended for a single person)	 :: [Bokmål] individuell
+individual {adj} (relating to a single person or thing)	 :: [Bokmål] enkelt, individuell
+individual {n} (individual object as contrasted to a class)	 :: [Bokmål] individ {n}
+individual {n} (person considered alone)	 :: [Bokmål] individ {n}
+individuality {n} (person) SEE: person	 ::
+indoctrinate {v} (brainwash) SEE: brainwash	 ::
+Indonesia {prop} (country)	 :: Indonesia
+Indonesian {adj} (referring to Indonesia)	 :: [Bokmål] indonesisk; [Nynorsk] indonesisk
+Indonesian {n} (person)	 :: [Bokmål] indonesier {m}; [Nynorsk] indonesiar {m}
+Indonesian {prop} (language)	 :: [Bokmål] indonesisk {m}; [Nynorsk] indonesisk {m}
+induct {v} (to draft into military service)	 :: utskrive
+in due time {adv} (eventually)	 :: når tiden er moden
+induration {n} (hardness) SEE: hardness	 ::
+induration {n} (process of becoming hard) SEE: hardening	 ::
+industrial espionage {n} (use of clandestine methods to acquire secret information for commercial advantage)	 :: industrispionasje {m}
+industrialised {adj} (industrialized) SEE: industrialized	 ::
+industry {n} (businesses of the same type)	 :: forretningsområde {n}
+industry {n} (businesses that produce goods)	 :: [Bokmål] industri {m}; [Nynorsk] industri {m}
+Indus Valley Civilization {prop} (ancient civilization)	 :: Induskulturen
+I need ... {phrase} (I need ... (something))	 :: jeg trenger ...; [Nynorsk] eg treng ...
+I need a condom {phrase} (I need a condom)	 :: jeg trenger kondom, jeg trenger et kondom
+I need a dictionary {phrase} (I need a dictionary)	 :: jeg trenger en ordbok
+I need a doctor {phrase} (request for a doctor)	 :: jeg trenger en lege
+I need an interpreter {phrase} (I need an interpreter)	 :: [Bokmål] jeg trenger en tolk; [Nynorsk] eg treng ein tolk
+I need a taxi {phrase} (I need a taxi)	 :: jeg skulle hatt en taxi
+I need food {phrase} (I need food)	 :: [Bokmål] jeg trenger mat; [Nynorsk] eg treng mat
+I need petrol {phrase} (I need petrol) SEE: I need gasoline	 ::
+I need your help {phrase} (I need your help)	 :: [Bokmål] jeg trenger din hjelp; [Nynorsk] eg trenger din hjelp
+ineffable {adj} (beyond expression)	 :: usigelig, uutsigelig
+ineffable {adj} (forbidden to be uttered)	 :: unevnelig
+ineluctably {adv} (inescapable) SEE: inescapable	 ::
+inept {adj} (not able to do something)	 :: talentløs, tåpelig, udugelig, uskikket
+inequation {n} (a statement that two expressions are not the same) SEE: inequality	 ::
+inert gas {n} (noble gas) SEE: noble gas	 ::
+inertia {n} (in physics)	 :: treghet, treighet {m}
+inessive case {n} (case used to indicate location inside something) SEE: inessive	 ::
+inexistent {adj} (nonexistent) SEE: nonexistent	 ::
+inexorably {adv} (in an inexorable manner; relentlessly)	 :: ustoppelig
+inexperienced {adj} (not experienced)	 :: uerfaren
+inexplicable {adj} (impossible to explain)	 :: uforklarlig
+infallible {adj} (without fault or weakness; incapable of error or fallacy)	 :: ufeilbarlig
+infamous {adj} (having a bad reputation)	 :: beryktet
+infamy {n} (the state of being infamous)	 :: beryktethet {m}
+infant {n} (legal minor)	 :: barn {n}, mindreårig {m}
+infant {n} (very young human being)	 :: spebarn {n}
+infanteer {n} (soldier) SEE: infantryman	 ::
+infantry {n}	 :: infanteri {n}
+infarct {n} (area of dead tissue)	 :: infarkt
+infarction {n} (infarct) SEE: infarct	 ::
+infection {n} (uncontrolled growth of harmful microorganisms in a host)	 :: infeksjon {m}
+infectious {adj} (able to infect others)	 :: [Bokmål] smittsom
+infectious {adj} (spreading quickly between persons)	 :: [Bokmål] smittsom
+infectious {adj} (transmitted between persons as illness)	 :: [Bokmål] smittsom
+infelicitous {adj} (inappropriate or awkward; not well said, expressed, or done)	 :: uheldig
+infelicitous {adj} (unhappy or unfortunate)	 :: ulykkelig, uheldig
+infer {v}	 :: utlede, konkludere, slutte , anta, tenke, spekulere
+inference {n} (act or process of inferring by deduction or induction)	 :: [Bokmål] slutning
+inferrable {adj} (inferable) SEE: inferable	 ::
+infinite {adj} (boundless, endless)	 :: [Bokmål] uendelig, endeløs, grenseløs; [Nynorsk] uendeleg, endelaus, grenselaus
+infinite {adj} (having infinitely many elements)	 :: [Bokmål] uendelig; [Nynorsk] uendeleg
+infinite {adj} (number larger than any given number)	 :: [Bokmål] uendelig; [Nynorsk] uendeleg
+infinitive {n} (uninflected verb form)	 :: infinitiv {m}
+in flagrante delicto {adv}	 :: in flagranti, på fersk gjerning, på fersken
+inflatable {adj}	 :: [Bokmål] oppblåsbar
+inflation {n} (expansion or increase in size)	 :: oppblåsing {c}
+inflation {n} (increase in prices)	 :: inflasjon
+inflect {v} (grammar)	 :: bøye
+influence {n} (action of flowing in; influx) SEE: influx	 ::
+info {n} (information) SEE: information	 ::
+inform {v} (instruct) SEE: instruct	 ::
+information {n} (communicable knowledge)	 :: informasjon {m}
+information technology {n} (the practice of creating and/or studying computer systems and applications)	 :: [Bokmål] informasjonsteknologi {m}; [Nynorsk] informasjonsteknologi {m}
+infowar {n} (information warfare) SEE: information warfare	 ::
+infrared {adj} (having the wavelength in the infrared)	 :: [Bokmål] infrarød; [Nynorsk] infraraud
+infrared {n} (infrared radiation)	 :: [Bokmål] infrarød stråling {c}; [Nynorsk] infraraud stråling
+infrequent {adj} (Not frequent; not happening frequently)	 :: [Bokmål] sjelden; [Nynorsk] sjeldan
+-ing {suffix} (forming verbal nouns)	 :: -ing
+-ing {suffix} (to form present participles)	 :: -ende
+ingenuity {n} (ability to come up with solutions to difficult problems)	 :: [Bokmål] kløkt {m}; [Nynorsk] kløkt {f}
+ingenuous {adj} (unsophisticated, simple)	 :: [Bokmål] troskyldig {m}
+in good hands {adv} (under guidance)	 :: i gode hender
+ingrate {adj} (ungrateful) SEE: ungrateful	 ::
+ingratiate {v} (get someone's favor, especially through flattery)	 :: innynde seg, smiske
+ingredient {n} (substance present in a mixture)	 :: ingrediens
+Ingrid {prop} (female given name)	 :: Ingrid
+inhabitant {n} (Someone or thing who lives in a place)	 :: [Bokmål] innbygger {m}; [Nynorsk] innbyggjar {m}
+in heat {adj} (on heat) SEE: on heat	 ::
+inherent {adj} (natural part or consequence)	 :: [Bokmål] iboende, naturlig
+inherit {v} (to receive a characteristic by genetic transmission)	 :: arve
+inherit {v} (to receive property or a title by legal succession etc.)	 :: arve
+inherited {adj} (inherited diseases etc.)	 :: [Bokmål] arvelig
+inheritor {n} (heir) SEE: heir	 ::
+initialize {v} (to assign initial values to something)	 :: initialisere
+initiation codon {n} (start codon) SEE: start codon	 ::
+initiative {n} (a beginning; a first move)	 :: initiativ {n-p}
+in jest {adv} (as a joke)	 :: på skøy
+injure {v} (to do injustice to)	 :: skade
+injure {v} (to wound or cause physical harm)	 :: skade, såre
+injury {n} (damage or violation)	 :: skade {m}
+ink {n} (coloured fluid used for writing)	 :: [Bokmål] blekk {n}; [Nynorsk] blekk {n}
+ink {n} (dark fluid ejected by squid etc)	 :: [Bokmål] blekk {n}; [Nynorsk] blekk {n}
+inkberry {n} (American winterberry) SEE: American winterberry	 ::
+ink bottle {n} (inkwell) SEE: inkwell	 ::
+inkpot {n} (inkwell) SEE: inkwell	 ::
+in-law {n} (father-in-law) SEE: father-in-law	 ::
+in-law {n} (mother-in-law) SEE: mother-in-law	 ::
+in love {adj} (of a person or persons: enamored)	 :: forelsket
+inmost {adj} (innermost) SEE: innermost	 ::
+in my opinion {prep} (according to me)	 :: [Bokmål] etter min mening
+inn {n} (lodging)	 :: gjestgiveri {n}, vertshus {n}
+inn {n} (tavern) SEE: tavern	 ::
+inner city {n} (central part of a city)	 :: sentrum {n}
+Inner Mongolia {prop} (an autonomous region in northern China)	 :: [Bokmål] Indre Mongolia
+innermost {adj} (farthest inside or towards the center or middle)	 :: [Bokmål] innerst
+innominate bone {n} (hip bone) SEE: hip bone	 ::
+innovation {n} (act of innovating)	 :: [Bokmål] innovasjon {m}; [Nynorsk] innovasjon {m}
+innovation {n}	 :: innovasjon {m}
+innovation {n} (something new)	 :: [Bokmål] innovasjon {m}; [Nynorsk] innovasjon {m}
+innumerable {adj} (not capable of being counted) SEE: countless	 ::
+in on {prep} (Part of or privy to)	 :: med på (part of), gjøre kjent med (privy)
+in one's book {adv} (in one's opinion) SEE: in one's opinion	 ::
+in order {adv} (for the purpose of) SEE: in order to	 ::
+in order to {phrase} (as a means of achieving the specified aim)	 :: for å
+in other words {adv} (stated or interpreted another way)	 :: med andre ord
+in practice {adv} (really, in effect)	 :: i praksis
+in progress {prep} (underway) SEE: underway	 ::
+insane asylum {n} (mental hospital) SEE: mental hospital	 ::
+insanity {n} (state of being insane)	 :: sinnssykdom
+insatiable {adj} (not satiable; incapable of being satisfied or appeased)	 :: umettelig
+inscription {n} (carved text)	 :: inskripsjon {m}
+inscription {n} (dedication in a book)	 :: dedikasjon {m}
+inscription {n} (text on a coin)	 :: inskripsjon {m}
+insect {n} (arthropod of class insecta)	 :: [Bokmål] insekt {n}; [Nynorsk] insekt {n}
+inseminate {v} (to cause to become pregnant) SEE: impregnate	 ::
+inseminate {v} (to disperse or plant seds) SEE: sow	 ::
+inside baseball {n} (matters of interest only to insiders)	 :: [Bokmål] fagsjargong {m}
+insider trading {n} (trading of securities by a person who has privileged access to information)	 :: [Bokmål] innsidehandel {m}; [Nynorsk] innsidehandel {m}
+insidious {adj} (treacherous) SEE: treacherous	 ::
+insinuate {v} (make way for by subtle means)	 :: antyde, insinuere
+insipid {adj} (unappetizingly flavorless)	 :: flau, smakløs
+insofar as {conj} (to the extent that)	 :: i den grad
+insolation {n} (medicine: sunstroke) SEE: sunstroke	 ::
+insoluble {adj} (not soluble)	 :: [Bokmål] uløselig
+insolvent {adj} (Unable to pay)	 :: [Bokmål] betalingsudyktig
+insomnia {n} (sleeping disorder)	 :: [Bokmål] søvnløshet {m} {f}, søvnløyse {m} {f}; [Nynorsk] søvnløyse {f}
+inspiration {n} (stimulating influence upon the intellect or emotions)	 :: [Bokmål] inspirasjon {m}; [Nynorsk] inspirasjon {m}
+inspirator {n} (inhaler) SEE: inhaler	 ::
+inspirator {n} (inspirer) SEE: inspirer	 ::
+inspire {v} (to inhale) SEE: inhale	 ::
+in spite of {prep} (despite)	 :: til tross for
+installer {n} (person who installs)	 :: installatør {m}
+installment {n} (portion of debt)	 :: [Bokmål] avdrag {n}; [Nynorsk] avdrag {n}
+instalment {n} (installment) SEE: installment	 ::
+instead {adv} (in the place of (it))	 :: isteden, isteden for, i stedet, i stedet for
+institute {n} (college)	 :: [Bokmål] institutt
+institutional {adj} (rudimentary) SEE: rudimentary	 ::
+instruct {v}	 :: instruere, undervise
+instrument {n} (measuring device)	 :: måleapparat
+instrument {n} (musical device)	 :: [Bokmål] instrument {n}; [Nynorsk] instrument {n}
+instrument {n} (tool)	 :: redskap
+instrumental case {n} (case to express agency or means)	 :: instrumentalis
+insubordination {n} (quality of being insubordinate)	 :: ulydighet {m}
+insulin {n} (polypeptide hormone)	 :: insulin; [Nynorsk] insulin
+insult {n} (action or speech deliberately intended to be rude)	 :: [Bokmål] fornærmelse {m} {n}; [Nynorsk] fornærming {f}
+insultive {adj} (insulting) SEE: insulting	 ::
+insurance contract {n} (insurance policy) SEE: insurance policy	 ::
+insurgent {adj} (rebellious)	 :: [Bokmål] opprørsk; [Nynorsk] opprørsk
+insurgent {n} (rebel)	 :: [Bokmål] opprører {m}; [Nynorsk] opprørar {m}
+intake {n} (people taken in at a particular time)	 :: [Bokmål] inntak {n}; [Nynorsk] inntak {n}
+intake {n} (place where water or air is taken in)	 :: [Bokmål] inntak {n}; [Nynorsk] inntak {n}
+intake {n} (the quantity taken in)	 :: [Bokmål] inntak {n}; [Nynorsk] inntak {n}
+integer {n} (integer)	 :: heltall {n}
+integral {n} (antiderivative) SEE: antiderivative	 ::
+integral {n} (limit of sums)	 :: integral {n}
+integument {n} (outer layer of an ovule)	 :: integument {n}
+integument {n} (outer protective covering of body)	 :: integument {n}
+intel {n} (intelligence) SEE: intelligence	 ::
+intelligence {n} (capacity of mind)	 :: intelligens {m}
+intelligent {adj} (of high or especially quick cognitive capacity, bright)	 :: intelligent
+intelligent design {prop} (conjecture)	 :: intelligent design
+intelligentsia {n} (intellectual élite)	 :: [Bokmål] intelligentsia
+intelligible {adj} (capable of being understood)	 :: forståelig
+intensive care unit {n} (intensive care unit) SEE: ICU	 ::
+interaction {n} (conversation or exchange between people)	 :: interaksjon {f}, samhandling {m} {f}
+interaction {n} (situation or occurrence in which two or more objects or events act upon one another)	 :: interaksjon {m}, vekselvirkning {m} {f}
+inter alia {adv} (among other things)	 :: blant annet
+intercourse {n} (sexual intercourse)	 :: samleie {n}
+interest {n} (attention that is given to or received from someone or something)	 :: [Bokmål] interesse {m}; [Nynorsk] interesse {f}
+interest {n} (great attention and concern from someone)	 :: [Bokmål] interesse {m}; [Nynorsk] interesse {f}
+interest {n} (the price of credit)	 :: rente {f}
+interest {v} (to attract attention or concern)	 :: [Bokmål] interessere; [Nynorsk] interessere, interessera
+interested {adj} (having or showing interest)	 :: interessert
+interest group {n} (advocacy group) SEE: advocacy group	 ::
+interesting {adj} (arousing or holding the attention)	 :: interessant
+interface {n} (computing: point of interconnection between systems or subsystems)	 :: grensesnitt {n}
+interface {n} (point of interconnection between entities)	 :: [Bokmål] grensesnitt {n}
+interfere {v}	 :: [Bokmål] hemme; [Nynorsk] hemme
+interference {n} (effect caused by the superposition of two systems of waves)	 :: interferens {m}
+interfix {n} (an empty morph inserted between two morphemes)	 :: fugemorfem {n}, interfiks {n}
+interior {n} (the inside of an enclosed structure)	 :: [Bokmål] interiør {n}; [Nynorsk] interiør {n}
+interjection {n} (an exclamation or filled pause in grammar)	 :: [Bokmål] interjeksjon {m}; [Nynorsk] interjeksjon {m}
+interlanguage {n} (creole) SEE: creole	 ::
+interlanguage {n} (lingua franca) SEE: lingua franca	 ::
+interlanguage {n} (pidgin) SEE: pidgin	 ::
+Interlingua {prop} (interlanguage based on Romance languages)	 :: Interlingua
+intermarriage {n} (mixed marriage) SEE: mixed marriage	 ::
+interminate {adj} (interminable) SEE: interminable	 ::
+interminated {adj} (interminable) SEE: interminable	 ::
+intern {n} (student or recent graduate who works in order to gain experience in their chosen field)	 :: praktikant {m}
+internal {adj} (concerned with the non-public affairs of a company or other organisation)	 :: [Bokmål] intern; [Nynorsk] intern
+internal {adj} (inside of something)	 :: [Bokmål] intern; [Nynorsk] intern
+internal {adj} (within the body)	 :: [Bokmål] intern; [Nynorsk] intern
+internal combustion engine {n} (a piston or a rotary heat engine)	 :: [Bokmål] forbrenningsmotor {m}; [Nynorsk] forbrenningsmotor {m}
+international {adj} (between, concerning, or transcending multiple nations)	 :: [Bokmål] internasjonal; [Nynorsk] internasjonal
+internationalise {v} (to make international) SEE: internationalize	 ::
+internationalization {n} (act of making something suitable for international markets)	 :: [Bokmål] internasjonalisering
+internationalization {n} (conversion of something to make it international)	 :: [Bokmål] internasjonalisering
+International Phonetic Alphabet {prop} (standardized symbols for speech)	 :: [Bokmål] det internasjonale fonetiske alfabetet
+internecine {adj}	 :: gjensidig ødeleggende
+internet {n} (Internet) SEE: Internet	 ::
+Internet {prop} (specific internet consisting of the global network of computers)	 :: Internett
+interpret {v} (to act as an interpreter)	 :: [Bokmål] tolke; [Nynorsk] tolke
+interpreter {n} (computer program)	 :: [Bokmål] tolk {m}; [Nynorsk] tolk {m}
+interpreter {n} (one who interprets speech in another language)	 :: tolk
+interrobang {n} (symbol ‽ - combination of ? and !)	 :: [Nynorsk] interrobang
+interrogate {v} (to question or quiz)	 :: avhøra
+interrogation mark {n} (question mark) SEE: question mark	 ::
+interrogation point {n} (question mark) SEE: question mark	 ::
+intersection {n} (junction of two or more paths, etc)	 :: [Bokmål] kryss {n}; [Nynorsk] kryss {n}
+intertidal zone {n} (foreshore) SEE: foreshore	 ::
+interval {n} (distance in space)	 :: intervall
+interval {n} (intermission) SEE: intermission	 ::
+interval {n} (period of time)	 :: intervall
+interval {n} (sports:half time) SEE: half time	 ::
+intervene {v}	 :: gripe inn
+intervention {n} (act of intervening)	 :: intervensjon {m}
+interview {n} (conversation with journalist etc.)	 :: intervju
+intestine {n} (alimentary canal)	 :: tarm {m}, tarmer {p}
+intestine {n} (subdivision of the alimentary canal)	 :: tarm {m}, tarmer {p}
+in the closet {adj} (not open about one's sexuality)	 :: i skapet
+in the future {adv} (at a future time)	 :: i framtida
+in the land of the blind, the one-eyed man is king {proverb} (In the land of the blind, the one-eyed man is king)	 :: i de blindes land er den énøyde konge
+in the least {adv} (at all) SEE: at all	 ::
+in the light of {prep} (in light of) SEE: in light of	 ::
+in the long term {adv} (eventually) SEE: in the long run	 ::
+intimate {adj} (closely acquainted; familiar)	 :: [Bokmål] intim, fortrolig
+intimate {adj} (of or involved in a sexual relationship)	 :: [Bokmål] intim
+intimate {adj} (personal, private)	 :: [Bokmål] intim, privat, personlig
+intimate partner violence {n} (domestic violence) SEE: domestic violence	 ::
+intimidating {adj} (threatening)	 :: [Nynorsk] truande
+into {prep} (going inside)	 :: inn i
+intramuscular {adj} (inside a muscle)	 :: [Bokmål] intramuskulær; [Nynorsk] intramuskulær
+intransitive {adj} (of a verb, not taking a direct object)	 :: intransitiv {m} {f}, intransitivt {n}, intransitive {p}
+intravenous {adj} (inside the veins)	 :: [Bokmål] intravenøs; [Nynorsk] intravenøs
+intravenously {adv} (in an intravenous manner)	 :: [Bokmål] intravenøst; [Nynorsk] intravenøst
+intrepid {adj} (fearless)	 :: uforferdet
+intricacy {n} (The state or quality of being intricate or entangled)	 :: vanske {m}, vanskelighet {m}
+intriguing {adj} (causing a desire to know more)	 :: Forlokkende
+introduction {n} (act or process of introducing)	 :: introduksjon {m}, presentasjon {m}
+introduction {n} (initial section of a book or article which introduces subject material)	 :: introduksjon {m}
+introduction {n} (means of presenting one person to another)	 :: [Nynorsk] anbefaling {f}; [Bokmål] anbefaling {c}
+introverted {adj} (possessing the characteristic property of an introvert)	 :: [Bokmål] innadvendt, introvert
+in turn {adv} (in due order, as a queue)	 :: i tur
+in turn {adv} (one after the other; successively)	 :: deretter
+Inuit {adj} (of or pertaining to Inuit people, language, or culture)	 :: [Bokmål] inuittisk; [Nynorsk] inuittisk
+Inuit {n} (the people)	 :: [Bokmål] inuitter {m}; [Nynorsk] inuittar {m}
+Inuit {prop} (the language)	 :: [Bokmål] inuittisk {m}; [Nynorsk] inuittisk {m}
+inutility {n} (unprofitability) SEE: unprofitability	 ::
+inutility {n} (uselessness) SEE: uselessness	 ::
+inutterable {adj} (unutterable) SEE: unutterable	 ::
+in vain {adv} (without success)	 :: forgjeves
+invaluable {adj} (of great value)	 :: uvurderlig
+invaluable {adj} (very useful)	 :: uvurderlig
+invasion {n} (military action)	 :: [Bokmål] invasjon {m}; [Nynorsk] invasjon {m}
+invasive {adj} (of a plant or animal)	 :: [Bokmål] invaderende
+invent {v} (design a new process or mechanism)	 :: oppfinne
+invented {adj} (imaginary) SEE: imaginary	 ::
+invention {n} (something invented)	 :: [Bokmål] oppfinnelse
+inventor {n} (inventor)	 :: [Bokmål] oppfinner {m}
+inventress {n} (inventrix) SEE: inventrix	 ::
+inverse function {n} (function that does the opposite of another)	 :: [Bokmål] invers funksjon {m}; [Nynorsk] invers funksjon {m}
+invert {n} (homosexual) SEE: homosexual	 ::
+invest {v} (to clothe or wrap with garments) SEE: clothe	 ::
+invest {v} (to commit resources in the hope of financial gain)	 :: investere
+investigation {n} (the act of investigating)	 :: [Bokmål] etterforskning {m} {f}, etterforsking {m} {f}; [Nynorsk] etterforsking {f}
+investigator {n} (one who investigates)	 :: [Bokmål] etterforsker {m}
+investment {n} (a placement of capital in expectation of deriving income or profit from its use)	 :: [Bokmål] investering {m} {f}; [Nynorsk] investering {f}
+inveterate {adj} (malignant) SEE: malignant	 ::
+invincible {adj} (impossible to defeat, destroy or kill)	 :: uovervinnelig
+invisible {adj} (unable to be seen)	 :: usynlig
+invite {v} (ask for the presence or participation of someone)	 :: [Bokmål] invitere, innby
+invite {v} (encourage) SEE: encourage	 ::
+involved {adj} (complicated) SEE: complicated	 ::
+invulnerable {adj} (incapable of being wounded)	 :: [Bokmål] usårbar
+IOC {prop} (initialism of International Olympic Committee)	 :: IOK
+iodine {n} (element)	 :: jod
+ionize {v} (to dissociate atoms or molecules into electrically charged species)	 :: ionisere
+ionizing radiation {n} (radiation)	 :: ioniserende stråling {c}
+ionosphere {n} (part of Earth's atmosphere)	 :: [Bokmål] ionosfære {m}; [Nynorsk] ionosfære {m}
+Iran {prop} (country in the Middle East)	 :: Iran
+Iran {prop} (Persia) SEE: Persia	 ::
+Irani {adj} (Iranian) SEE: Iranian	 ::
+Irani {n} (Iranian) SEE: Iranian	 ::
+Iranian {adj} (Of, from, or pertaining to Iran, the people or Iranian languages)	 :: [Bokmål] iransk; [Nynorsk] iransk
+Iranian {n} (person from Iran or of Iranian descent)	 :: [Bokmål] iraner {m}; [Nynorsk] iranar {m}
+Iraq {prop} (country)	 :: Irak
+Iraqi {adj} (from or pertaining to Iraq)	 :: [Bokmål] iraksk, irakisk; [Nynorsk] iraksk, irakisk
+Iraqi {n} (person from Iraq)	 :: [Bokmål] iraker {m}; [Nynorsk] irakar {m}
+irascible {adj} (prone to anger)	 :: [Bokmål] oppfarende, bråsint; [Nynorsk] oppfarande, bråsinna, bråsint
+Ireland {prop} (large island in Europe)	 :: Irland , Republikken Irland
+Irene {prop} (female given name)	 :: Irene
+iridium {n} (chemical element)	 :: iridium
+Iris {prop} (female given name)	 :: Iris
+Iris {prop} (Greek messenger of the gods)	 :: Iris
+Irish {adj} (pertaining to or originating from Ireland or the Irish people)	 :: [Bokmål] irsk; [Nynorsk] irsk
+Irish {adj} (pertaining to the language)	 :: [Bokmål] irsk; [Nynorsk] irsk
+Irish {prop} (the language)	 :: [Bokmål] irsk {m}; [Nynorsk] irsk {m}
+Irishman {n} (man from Ireland)	 :: ire {m}, irlending {m}; [Bokmål] ire {m}, irlender {m}, irlending {m}; [Nynorsk] ire {m}, irlendar {m}, irlending {m}
+Irish Sea {prop} (a sea between the islands of Great Britain and Ireland)	 :: [Bokmål] Irskesjøen; [Nynorsk] Irskesjøen
+Irish Setter {n} (a breed of gun dog)	 :: [Bokmål] irsk setter {m}
+Irish Wolfhound {n} (Irish Wolfhound)	 :: irsk ulvehund
+irk {v} (to irritate; annoy; bother)	 :: irritere, plage
+iron {n} (element)	 :: [Bokmål] jern {n}; [Nynorsk] jarn {n}, jern {n}
+iron {n} (for pressing clothes)	 :: strykejern {n}; [Nynorsk] stryking
+iron {n} (shackles) SEE: shackles	 ::
+iron {v} (to pass an iron over clothing)	 :: strøk {f}
+Iron Age {prop} (archaeology)	 :: [Bokmål] jernalder {m}; [Nynorsk] jarnalder {m}, jernalder {m}
+Iron Age {prop} (mythology)	 :: jernalder {m}
+iron fist {n} (ruthless control)	 :: [Bokmål] jernhånd {m} {f}; [Nynorsk] jernhand {f}
+iron ore {n} (ore containing iron)	 :: [Bokmål] jernmalm {m}; [Nynorsk] jarnmalm {m}, jernmalm {m}
+iron-shot {adj} (ironshot) SEE: ironshot	 ::
+ironsmith {n} (blacksmith) SEE: blacksmith	 ::
+ironworks {n} (factory)	 :: [Bokmål] jernverk {n}; [Nynorsk] jarnverk {n}, jernverk {n}
+irony {n} (condition contrary to expectations)	 :: skjebnens ironi
+irony {n} (statement that may mean the opposite of what is written literally)	 :: [Bokmål] ironi {m}; [Nynorsk] ironi {m}
+irrational {adj} (mathematics: of a number)	 :: [Bokmål] irrasjonal; [Nynorsk] irrasjonal
+irrational {adj} (unfounded or nonsensical)	 :: irrasjonell
+Irrawaddy {prop} (river that flows through Burma)	 :: [Bokmål] Irrawaddy; [Nynorsk] Eravati
+is {v}	 :: er
+Isaac {prop} (male given name)	 :: Isak
+Isaac {prop} (son of Abraham and Sarah)	 :: Isak
+Isabel {prop} (female given name)	 :: Isabella
+Isabella {prop} (female given name) SEE: Isabel	 ::
+Isaiah {prop} (book of the Bible)	 :: Jesaja, Esaias
+-ise {suffix} (-ize) SEE: -ize	 ::
+ISIS {prop} (Islamic State of Iraq and Syria)	 :: ISIS {m}
+Islam {n} (religion)	 :: [Bokmål] islam {m}; [Nynorsk] islam {m}
+Islamicize {v} (Islamize) SEE: Islamize	 ::
+Islamophobia {n} (The fear or hatred of Islam or Muslims)	 :: islamofobi
+island {n} (area of land completely surrounded by water)	 :: [Bokmål] øy {m} {f}; [Nynorsk] øy {f}
+island {n} (entity surrounded by other entities that are very different from itself)	 :: øy {m} {f}
+islander {n} (person who lives on an island)	 :: [Bokmål] øyboer {m}; [Nynorsk] øybuar {m}
+isle {n} (island) SEE: island	 ::
+Isle of Man {prop} (An island in the Irish Sea)	 :: Man
+-ism {suffix}	 :: -isme
+isobutylene {n} (isobutene) SEE: isobutene	 ::
+isometric {adj} (being a geometric system of three equal axes lying at right angles to each other)	 :: isometrisk
+isometric {adj} (exhibiting equality in dimensions)	 :: isometrisk
+isometric {adj} (involving muscular contraction)	 :: isometrisk
+isometric {adj} (taking place at constant volume)	 :: isometrisk
+isothermal {n} (isotherm) SEE: isotherm	 ::
+ISP {initialism} (Internet service provider)	 :: ISP {m}, Internettleverandør {m}, , internettleverandør {m}
+Israel {prop} (the state)	 :: Israel
+Israeli {adj} (of, from, or pertaining to Israel, the Israeli people)	 :: [Bokmål] israelsk; [Nynorsk] israelsk
+Israeli {n} (person from Israel or of Israeli descent)	 :: [Bokmål] israeler {m}; [Nynorsk] israelar {m}
+Israelite {n} (native or inhabitant of Israel)	 :: [Bokmål] israelitt {m}; [Nynorsk] israelitt {m}
+issue {n} (point in debate or controversy on which the parties take affirmative and negative positions)	 :: problem {n}
+-ist {suffix} (One who follows a particular ideology, doctrine, belief system or theory)	 :: -ist
+-ista {suffix} (follower)	 :: -ist
+is that a gun in your pocket or are you just pleased to see me {phrase}	 :: har du en banan i buksa eller er du bare glad for å se meg?
+isthmus {n} (narrow strip of land)	 :: [Bokmål] eid {n}; [Nynorsk] eid {n}
+it {pron} (object)	 :: den
+it {pron} (subject — inanimate thing)	 :: det
+IT {initialism} (information technology) SEE: information technology	 ::
+Italian {adj} (of or pertaining to Italians)	 :: [Bokmål] italiensk; [Nynorsk] italiensk
+Italian {adj} (of or pertaining to Italy)	 :: [Bokmål] italiensk; [Nynorsk] italiensk
+Italian {adj} (of or pertaining to the Italian language)	 :: [Bokmål] italiensk; [Nynorsk] italiensk
+Italian {n} (person)	 :: [Bokmål] italiener {m}; [Nynorsk] italienar {m}
+Italian {prop} (language)	 :: [Bokmål] italiensk {m}; [Nynorsk] italiensk {m}
+Italian honeysuckle {n} (Lonicera caprifolium)	 :: kaprifol {m}
+italics {n} (italic) SEE: italic	 ::
+Italy {prop} (European country)	 :: Italia
+item of clothing {n} (garment) SEE: garment	 ::
+I think therefore I am {phrase} (philosophical proof of existence)	 :: jeg tenker, derfor er jeg
+ithyphallic {adj} (lascivious or obscene)	 :: sprengkåt
+ithyphallic {adj} (of or pertaining to the erect phallus)	 :: bakkantisk, med erigert penis
+itinerary {n} (account or record of a journey)	 :: veibeskrivelse {m}
+itinerary {n} (guidebook for travellers)	 :: reisehåndbok {f}
+itinerary {n} (route or proposed route of a journey)	 :: rute {m}
+it is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God {proverb} (proverb)	 :: [Bokmål] det er lettere for en kamel å gå gjennom et nåløye enn for en rik man å komme inn i Guds rike
+it never rains but it pours {proverb} (unfortunate events occur in quantity)	 :: [Bokmål] en ulykke kommer sjelden alene; [Nynorsk] ei ulykke kjem sjeldan aleine
+its {determiner} (belonging to it)	 :: dens, dets
+it's all Greek to me {phrase} (I don’t understand any of this)	 :: det er helt gresk for meg
+it's a pleasure {phrase} (you're welcome) SEE: you're welcome	 ::
+it's too expensive {phrase} (it's too expensive)	 :: det er for dyrt
+it takes two to tango {proverb} (some things need the active cooperation of two parties)	 :: det trengs 2 til tango
+Ivalo {prop} (village in Northern Finland)	 :: Ivalo
+Ivan {prop} (male given name)	 :: Ivan
+Ivano-Frankovsk {prop} (Ivano-Frankivsk) SEE: Ivano-Frankivsk	 ::
+I've {contraction} (I have)	 :: jeg har
+I've been robbed {phrase} (I've been robbed)	 :: [Bokmål] jeg har blitt ranet, jeg har blitt robbet
+I've lost my keys {phrase} (I lost my keys) SEE: I lost my keys	 ::
+Ivor {prop} (male given name)	 :: Ivar, Iver, Ingvar, Yngvar
+Ivorian {adj} (of, from, or pertaining to Côte d'Ivoire)	 :: [Bokmål] ivoriansk; [Nynorsk] ivoriansk
+Ivorian {n} (a person from Côte d'Ivoire or of Ivorian descent)	 :: [Bokmål] ivorianer {m}; [Nynorsk] ivorianar {m}
+ivory {n} (material)	 :: elfenben, filsbein (rare)
+Ivory Coast {prop} (Côte d'Ivoire) SEE: Côte d'Ivoire	 ::
+ivory tower {n} (overly-academic perspective)	 :: [Bokmål] elfenbenstårn {n}, [Bokmål and Nynorsk] elfenbeinstårn {n}
+I want to know {phrase} (I want to know)	 :: jeg vil vite
+I wish {phrase} (I would very much like that to be so, even though it is unlikely.)	 :: skulle ønske det, skulle ønske jeg var
+-ize {suffix} (suffix used to form verbs)	 :: -ere
+Izhevsk {prop} (capital of Udmurtia)	 :: Izjevsk

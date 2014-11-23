@@ -1,0 +1,1215 @@
+﻿mañana {adv} (Sometime in the future)	 :: [Bokmål] en eller annen gang
+mañana {adv} (tomorrow) SEE: tomorrow	 ::
+mac {n} (mackintosh) SEE: mackintosh	 ::
+macaroni {n} (type of pasta)	 :: makaroni
+macaroon {n} (soft biscuit or cookie prepared with almond or coconut dough)	 :: makron {m}
+macaw {n} (various parrots)	 :: ara {m}, ara papegøye {m}
+Macedonia {prop} (ancient kingdom)	 :: Makedonia
+Macedonia {prop} (former Yugoslav Republic of Macedonia, see also: former Yugoslav Republic of Macedonia)	 :: Makedonia
+Macedonia {prop} (region of northern Greece)	 :: Makedonia
+Macedonian {adj} (of Macedonia, its people or language)	 :: [Bokmål] makedonsk; [Nynorsk] makedonsk
+Macedonian {n} (person from Macedonia)	 :: [Bokmål] makedoner {m}, makedonier {m}; [Nynorsk] makedonar {m}, makedoniar {m}
+Macedonian {prop} (language of antiquity)	 :: [Bokmål] makedonsk {m}; [Nynorsk] makedonsk {m}
+Macedonian {prop} (Slavic language of Macedonia)	 :: [Bokmål] makedonsk {m}; [Nynorsk] makedonsk {m}
+Macedo-Romanian {prop} (Aromanian) SEE: Aromanian	 ::
+MacGyver {v} (to jury-rig) SEE: jury-rig	 ::
+machine {n}	 :: maskin {m}
+machine code {n} (machine language) SEE: machine language	 ::
+machine gun {n} (type of firearm)	 :: [Bokmål] maskingevær {n}; [Nynorsk] maskingevær {n}
+machine language {n} (set of instructions for a computer)	 :: maskinkode
+machine translation {n} (act of transforming a computer language into another computer language using a computer)	 :: [Bokmål] maskinoversettelse {m}
+machinist {n} (operator) SEE: operator	 ::
+macintosh {n} (raincoat) SEE: mackintosh	 ::
+mackerel {n} (edible fish)	 :: makrell
+mackerel bird {n} (wryneck) SEE: wryneck	 ::
+mackintosh {n} (raincoat in general) SEE: raincoat	 ::
+macpalxochitl {n} (Mexican hand tree) SEE: Mexican hand tree	 ::
+macrocosm {n} (the universe) SEE: universe	 ::
+macroeconomics {n} (study of the entire economy)	 :: makroøkonomi
+macron {n} (short, straight, horizontal diacritical mark placed over a vowel)	 :: makron {n}
+macrosporangium {n} (megasporangium) SEE: megasporangium	 ::
+mad {adj} (angry)	 :: sint, sinna, olm
+mad {adj} (insane (adj.))	 :: gal, sprø
+mad {adj} (wanting intensely)	 :: gal etter
+Madagascar {prop} (country in Southern Africa)	 :: Madagaskar
+madam {n} (polite term of address to a woman)	 :: frue {c}
+madam {n} (woman who manages a brothel)	 :: bordellmamma {m}, horemamma {m}
+madness {n}	 :: galskap
+madrasa {n} (madrasah) SEE: madrasah	 ::
+madrassah {n} (madrasah) SEE: madrasah	 ::
+Madrid {prop} (capital of Spain)	 :: Madrid
+Madrileño {adj} (of Madrid) SEE: Madrilenian	 ::
+Madrileño {n} (Someone from Madrid) SEE: Madrilenian	 ::
+madrone {n} (strawberry tree) SEE: strawberry tree	 ::
+maelstrom {n} (any violent or turbulent situation)	 :: malstrøm, mælstrøm, malstraum
+maelstrom {n} (large whirlpool)	 :: malstrøm, mælstrøm, malstraum
+magazine {n} (periodical)	 :: tidsskrift
+Magdalene {prop} (biblical character) SEE: Mary Magdalene	 ::
+Magdalene {prop} (female given name)	 :: Magdalena
+Magellanic penguin {n} (Penguin)	 :: Magellanpingvin
+magician {n} (performer of tricks)	 :: [Bokmål] tryllekunstner {m}; [Nynorsk] tryllekunstnar {m}
+magician {n} (practitioner of allegedly supernatural magic)	 :: magiker {m}
+magician {n} (spiritualist or practitioner of mystic arts)	 :: trollmann {m}
+magic wand {n} (stick or staff used to perform magic)	 :: [Bokmål] magisk vånd {m}, tryllestav {m}; [Nynorsk] tryllestav {m}
+magma {n} (molten matter)	 :: magma
+Magna Carta {prop} (the Magna Carta)	 :: Magna Carta
+magnesium {n} (chemical element)	 :: [Bokmål] magnesium {m} {n}; [Nynorsk] magnesium {m} {n}
+magnet {n} (piece of material that attracts some metals by magnetism)	 :: magnet {m}
+magnetic {adj} (determined by earth's magnetic fields)	 :: magnetisk
+magnetic {adj} (having an extraordinary ability to attract)	 :: fengslende, forførisk, lokkende, magnetisk, tiltrekkende
+magnetic {adj} (having the properties a magnet)	 :: magnetisk
+magnetic {adj} (of, relating to, caused by, or operating by magnetism)	 :: magnetisk
+magnetic field {n} (a field of magnetic force)	 :: [Bokmål] magnetfelt {n}; [Nynorsk] magnetfelt {n}
+Magnetic North {n} (magnetic north) SEE: magnetic north	 ::
+magnetic tape {n} (acrylic tape used for recording data)	 :: magnetisk tape
+magnetism {n} (the property of being magnetic)	 :: magnetisme {m}
+magneto- {prefix} (magnet-) SEE: magnet-	 ::
+magnify {v} (to make larger)	 :: forstørre
+Magnus {prop} (male given name)	 :: Magnus
+magpie {n} (bird of genus Pica)	 :: [Bokmål] skjære {m} {f}; [Nynorsk] skjor {f}
+magus {n} (magician, mage)	 :: mager {m}
+magus {n} (Zoroastrian priest or astrologer)	 :: mager {m}
+Magyar {adj} (Hungarian) SEE: Hungarian	 ::
+Maharastra {prop} (Maharashtra) SEE: Maharashtra	 ::
+Mahilyow {prop} (Mogilev) SEE: Mogilev	 ::
+Mahlon {prop} (biblical character)	 :: Maklon
+maid {n} (female servant or cleaner)	 :: pike {m}, stuepike {m}, tjenestejente {m}
+maiden {adj} (virgin) SEE: virgin	 ::
+maidenhair fern {n} (maidenhair) SEE: maidenhair	 ::
+maiden name {n} (married woman's original last name)	 :: pikenavn
+mailman {n} (post office employee)	 :: postmann
+maim {v} (to cause permanent loss of a part of the body)	 :: lemleste
+main {adj} (principal)	 :: hoved-
+main {n} (high seas) SEE: high seas	 ::
+main {n} (mainland) SEE: mainland	 ::
+main {n} (strength) SEE: strength	 ::
+mainframe {n} (large computer)	 :: stormaskin {m}
+mainland {n} (the main landmass of a country or continent)	 :: fastland {n}
+maintain {v} (to keep up)	 :: opprettholde, bevare, vedlikeholde
+maintenance {n} (keeping a machine in service)	 :: vedlikehold {n}
+maintenance {n}	 :: vedlikehold
+maize {n} (corn; a type of grain of the species Zea mays)	 :: mais {m}
+majestical {adj} (majestic) SEE: majestic	 ::
+majesty {n} (the quality of being impressive and great)	 :: storslagenhet {m}, storslåtthet {m}
+Majesty {pron} (term of address for royalty and imperiality)	 :: Majestet {m}
+majiang {n} (mahjong) SEE: mahjong	 ::
+major {adj} (music: of a scale which follows the pattern: tone - tone - semitone - tone - tone - tone - semitone)	 :: større
+major {n} (major premise) SEE: major premise	 ::
+major arcana {n} (Tarot cards)	 :: store arkana
+Majorca {prop} (island)	 :: Mallorca
+majority {n} (difference between the winning vote and the rest of the votes)	 :: majoritet {m}, seiersmargin {m}
+majority {n} (legal adulthood)	 :: myndighetsalder {m}
+majority {n} (more than half)	 :: [Bokmål] majoritet {m}, flertall {n}; [Nynorsk] majoritet {m}, fleirtal {n}
+majuscule {n} (upper-case letter) SEE: capital letter	 ::
+make a mountain out of a molehill {v} (to treat a problem as greater than it is)	 :: gjøre en fjær til fem høns
+make love {v} (to engage in sexual intercourse)	 :: elske
+make out {v}	 :: kline
+make sense {v} (be coherent)	 :: gi mening
+makeshift {adj} (Made to work or suffice; improvised; substituted)	 :: nødløsning, improvisert
+make up {v} (to constitute)	 :: [Bokmål] utgjøre
+Makeyevka {prop} (Makiyivka) SEE: Makiyivka	 ::
+Malachi {prop} (book of The Bible)	 :: Malakias
+maladroit {adj} (not adroit; clumsy)	 :: klossete, ubehjelpelig
+malar {n} (cheekbone) SEE: cheekbone	 ::
+malar bone {n} (cheekbone) SEE: cheekbone	 ::
+Malawi {prop} (Republic of Malawi)	 :: Malawi
+Malawian {adj} (Of, from, or pertaining to Malawi or the Malawian people)	 :: [Bokmål] malawisk; [Nynorsk] malawisk
+Malawian {n} (A person from Malawi or of Malawian descent)	 :: [Bokmål] malawier {m}; [Nynorsk] malawiar {m}
+Malay {adj} (in, of or otherwise pertaining to the Malay language)	 :: [Bokmål] malayisk, malaysisk; [Nynorsk] malayisk, malaysisk
+Malay {adj}	 :: malayisk
+Malay {adj} (of or pertaining to Malaysia, see also: Malaysian)	 :: [Bokmål] malayisk, malaysisk; [Nynorsk] malayisk, malaysisk
+Malay {adj} (of the Malay people)	 :: [Bokmål] malayisk, malaysisk; [Nynorsk] malayisk, malaysisk
+Malay {n}	 :: malayisk
+Malay {n} (Malay person)	 :: [Bokmål] malay {m}; [Nynorsk] malay {m}
+Malay {prop} (the Malay language)	 :: malayisk; [Bokmål] malayisk {m}, malaysisk {m}; [Nynorsk] malayisk {m}, malaysisk {m}
+Malayalam {prop} (language)	 :: malayalam
+Malayization {n} (Malayisation) SEE: Malayisation	 ::
+Malaysia {prop} (country in Southeast Asia)	 :: Malaysia
+Malaysian {prop} (Malay) SEE: Malay	 ::
+Maldives {prop} (country in South Asia)	 :: Maldivene
+Maldivian {adj} (Of, from, or pertaining to the Maldives, the Maldivian people or the Maldivian language.)	 :: [Bokmål] maldivisk; [Nynorsk] maldivisk
+Maldivian {n} (person)	 :: [Bokmål] maldiver {m}; [Nynorsk] maldiv {m}, maldivar {m}
+male {adj} (belonging or referring to the sex having the smaller gametes)	 :: mannlig, hann-
+male {adj} (having an external plug)	 :: hann-
+maledict {v} (berate) SEE: berate	 ::
+maledict {v} (curse) SEE: curse	 ::
+malevolently {adv} (malevolently) SEE: maliciously	 ::
+malfeasor {n} (wrongdoer) SEE: wrongdoer	 ::
+malformed {adj} (not formed correctly)	 :: vanskapt, misdannet
+Mali {prop} (A country in Western Africa)	 :: Mali
+Malian {adj} (Of, from, or pertaining to Mali or the Malian people)	 :: [Bokmål] malisk; [Nynorsk] malisk
+Malian {n} (A person from Mali or of Malian descent)	 :: [Bokmål] malier {m}, maliar {m}
+malicious {adj} (Deliberately harmful; spiteful)	 :: ondsinnet
+maliciousness {n} (maliciousness) SEE: malevolence	 ::
+malkin {n} (cat) SEE: cat	 ::
+mall {n} (enclosed shopping centre)	 :: [Bokmål] kjøpesenter {n}
+mallard {n} (a common and widespread dabbling duck, Anas platyrhynchos)	 :: stokkand
+malleable {adj} (able to be hammered into thin sheets)	 :: bøyelig, fleksibel, smidig
+malleable {adj} (liable to change)	 :: fleksibel, smidig
+mallet {n} (instrument for playing croquet)	 :: kølle {f}
+mallet {n} (small maul)	 :: [Bokmål] klubbe {m} {f}; [Nynorsk] klubbe {f}
+malleus {n} (tripus) SEE: tripus	 ::
+mallow {n} (any of a group of plants in several genera of the taxonomic family Malvaceae)	 :: kattoster
+malnutrition {n} (lack of adequate nourishment)	 :: [Bokmål] underernæring {m} {f}; [Nynorsk] underernæring {f}
+malt {n} (sprouted grain used in brewing)	 :: [Bokmål] malt {n}; [Nynorsk] malt {n}
+Malta {prop} (island)	 :: Malta
+Malta {prop} (republic)	 :: Malta
+Malta Island {prop} (the largest island of Malta)	 :: Malta
+Maltese {adj} (pertaining to Malta or its language)	 :: [Bokmål] maltesisk; [Nynorsk] maltesisk
+Maltese {n} (inhabitant of Malta)	 :: [Bokmål] malteser {m}; [Nynorsk] maltesar {m}
+Maltese {prop} (language of Malta)	 :: [Bokmål] maltesisk {m}; [Nynorsk] maltesisk {m}
+malt-o-meal {n} (cream of wheat) SEE: cream of wheat	 ::
+malt whiskey {n} (malt whisky) SEE: malt whisky	 ::
+malware {n} (software developed to cause harm to a computer system)	 :: ondsinnet programvare {m}, ondsinnet kode {m}, skadevare {m}, skadelig programvare {m}
+mama {n} (mother) SEE: mother	 ::
+mama {n} (mum) SEE: mum	 ::
+mamma {n} (mother) SEE: mother	 ::
+mamma {n} (mum) SEE: mum	 ::
+mammal {n} (animal of the class Mammalia)	 :: pattedyr {n}
+mammary {n} (breast) SEE: mamma	 ::
+mammoth {n} (elephant-like mammal)	 :: [Bokmål] mammut {m}; [Nynorsk] mammut {m}
+man {n} (adult male human)	 :: mann {m}
+man {n} (human)	 :: menneske {n}
+man {n} (piece in board games)	 :: brikke {m}
+man {v} (to supply with staff or crew)	 :: bemanne
+man {v} (to take up position in order to operate something)	 :: bemanne
+Man {prop} (genus Homo)	 :: menneske
+manage {v} (to achieve without fuss, or without outside help)	 :: klare
+manage {v} (to direct or be in charge)	 :: lede
+manage {v} (to handle or control a situation or job)	 :: håndtere, klare
+manage {v} (to succeed at an attempt)	 :: klare
+management {n} (administration; the process or practice of managing)	 :: ledelse {m}
+manager {n} (administrator, for a singer or group)	 :: manager {m}, impressario {m}
+manager {n} (person whose job is to manage something (for female equivalents, see manageress#Translations, see also: manageress)	 :: leder {m}
+Manchuria {prop} (Manchuria)	 :: Mandsjuria
+Manchurian {adj} (pertaining to Manchuria)	 :: mandsjurisk
+Manchurian {n} (inhabitant of Manchuria)	 :: [Bokmål] mandsjurier {m}; [Nynorsk] mandsjuriar {m}
+mandarin {n} (fruit) SEE: mandarin orange	 ::
+mandarin {n} (mandarin duck) SEE: mandarin duck	 ::
+mandarin {n} (tree) SEE: mandarin orange	 ::
+Mandarin {prop} (Standard Mandarin, see also: Chinese)	 :: mandarin {m}; [Bokmål] mandarin {m}; [Nynorsk] mandarin {m}
+mandarin duck {n} (bird)	 :: mandarinand
+mandatory {adj} (obligatory)	 :: obligatorisk
+mandola {n} (musical instruments)	 :: [Bokmål] mandola; [Nynorsk] mandola
+mandolin {n} (kitchen tool) SEE: mandoline	 ::
+mandopop {n} (Mandarin pop music)	 :: mandopop
+mandrake {n} (botany)	 :: alruner
+mane {n} (longer hair growth around head of male lions)	 :: man {m}
+mane {n}	 :: man {m}
+maneuver {n} (a large training exercise of military troops)	 :: manøver {m}
+maneuver {n} (a movement, often one performed with difficulty)	 :: manøver {m}
+maneuver {n}	 :: manøveren
+maneuver {v} (to move (something) carefully, and often with difficulty, into a certain position)	 :: manøvrere
+manganese {n} (chemical element)	 :: mangan
+mango {n} (fruit of the mango tree; Mangifera indica fruit)	 :: [Bokmål] mango {m}; [Nynorsk] mango {m}
+mango {n} (tropical fruit tree Mangifera indica)	 :: [Bokmål] mangotre {n}; [Nynorsk] mangotre {n}
+manhater {n} (misandrist) SEE: misandrist	 ::
+manhater {n} (misanthrope) SEE: misanthrope	 ::
+manhole {n} (a hole in the ground used to access the sewers or other underground vaults and installations)	 :: kum {m}
+manifest {adj} (evident to the senses, especially to the sight; apparent)	 :: manifest, åpenbar
+manifest {n} (obsolete: public declaration)	 :: manifest {n}
+manifest {v} (to show plainly; to make to appear distinctly)	 :: manifestere
+-manifold {n} (manifold) SEE: manifold	 ::
+manifold {n} (omasum) SEE: omasum	 ::
+manipulate {v} (influence or manage)	 :: [Bokmål] manipulere; [Nynorsk] manipulere
+man is the measure of all things {phrase}	 :: mannesket er målstokken for alle ting
+manita {n} (Mexican hand tree) SEE: Mexican hand tree	 ::
+Manitoba {prop} (Province in western Canada)	 :: Manitoba
+mankind {n} (human race)	 :: [Bokmål] menneskehet {m}
+manly {adj} (having the characteristics of a man)	 :: mandig
+man-of-war {n} (cnidarian) SEE: Portuguese man-of-war	 ::
+man-of-war {n} (man of war bird) SEE: magnificent frigatebird	 ::
+manpower {n} (workforce) SEE: labour force	 ::
+mansard {n} (mansard roof) SEE: mansard roof	 ::
+man's best friend {n} (an affectionate term for a dog)	 :: menneskets beste venn {m}
+man's man {n} (a man who is popular among men)	 :: mannemann {m}
+mantelpiece {n} (shelf)	 :: [Bokmål] peishylle {m} {f}
+manticore {n} (mythical creature)	 :: manticora
+mantis {n} (any of various large insects of the order Mantodea)	 :: kneler {m}
+mantle {n} (fireplace shelf) SEE: mantel	 ::
+mantle {n} (geology: layer of the Earth)	 :: mantel {m}
+manual labor {n} (work done by hand) SEE: manual labour	 ::
+manul {n} (Otocolobus manul)	 :: manul, pallaskatt
+manure {n} (excrement)	 :: [Bokmål] møkk {m} {f}; [Nynorsk] møkk {f}
+manus {n} (hand) SEE: hand	 ::
+manuscript {n} (book, article etc, submitted for reproductive publication)	 :: manuskript {n}
+manuscript {n} (book, composition or any other document, written by hand)	 :: manuskript {n}
+Manx {adj} (relating to the Isle of Man and/or its people)	 :: [Bokmål] mansk; [Nynorsk] mansk
+Manx {n} (a cat of the Manx breed (these are translations of the word alone; for translations of the phrase "Manx cat", see Manx cat))	 :: [Bokmål] manx {m}; [Nynorsk] manx {m}
+Manx {prop} (Manx Gaelic) SEE: Manx Gaelic	 ::
+Manx cat {n} (mammal)	 :: [Bokmål] ‬: Manx katt; [Nynorsk] ‬: Manx katt
+Manx Gaelic {prop} (a Goidelic language spoken on the Isle of Man)	 :: [Bokmål] mansk {m}, manx {m}; [Nynorsk] mansk {m}, manx {m}
+manyplies {n} (omasum) SEE: omasum	 ::
+many thanks {phrase} (many thanks)	 :: tusen takk
+Maoism {n} (philosophy espoused by Mao Zedong)	 :: maoisme
+Mao jacket {n} (Mao suit) SEE: Mao suit	 ::
+Maori {adj} (of, from, or pertaining to the Māori)	 :: [Bokmål] maorisk; [Nynorsk] maorisk
+Maori {n} (language of the Māori)	 :: [Bokmål] maori; [Nynorsk] maori
+Maori {n} (member of the people of New Zealand)	 :: [Bokmål] maori {m}; [Nynorsk] maori {m}
+map {n} (visual representation of an area)	 :: [Bokmål] kart {n}; [Nynorsk] kart {n}
+maple {n} (tree of the Acer genus)	 :: lønn
+mapping {n} (process of making maps)	 :: [Bokmål] kartlegging {m} {f}, kartografi {m}
+marabunta {n} (army ant) SEE: army ant	 ::
+Marathi {prop}	 :: marathi
+marathon {n} (Road race)	 :: [Bokmål] maraton {n}, maratonløp {n}
+marble {n} (crystalline limestone)	 :: marmor {m}
+marble {n} (spherical ball)	 :: klinkekule {m} {f}
+march {n} (formal, rhythmic way of walking)	 :: marsj {m}
+march {n} (obsolete: border region)	 :: grenseland {n}
+march {n} (political rally or parade)	 :: marsj {m}
+march {n} (smallage) SEE: smallage	 ::
+march {n} (song in the genre of music written for marching)	 :: marsj {m}
+march {n} (steady forward movement or progression)	 :: gang {m}, forløp {m}
+march {v} (go to war; make military advances)	 :: rykke frem
+march {v} (walk with long, regular strides)	 :: marsjere {m}
+March {prop} (third month of the Gregorian calendar)	 :: mars
+mare {n} (female horse)	 :: [Bokmål] hoppe {m} {f}, merr {m} {f}, hunnhest {m}; [Nynorsk] hoppe {f}, merr {f}, hohest {m}
+mareogram {n} (marigram) SEE: marigram	 ::
+Margaret {prop} (female given name)	 :: Margareta, Margrethe
+margarine {n} (spread)	 :: [Bokmål] margarin {m}; [Nynorsk] margarin {m}
+marguerite {n} (oxeye daisy) SEE: oxeye daisy	 ::
+Marie {prop} (female given name) SEE: Mary	 ::
+marinate {v} (soak in marinade)	 :: marinere
+marine {adj} (of or pertaining to the sea)	 :: [Bokmål] marin; [Nynorsk] marin
+mariner {n} (sailor) SEE: sailor	 ::
+mariticide {n} (a man who kills his wife) SEE: uxoricide	 ::
+maritime law {n} (body of law) SEE: admiralty law	 ::
+Marius {prop} (male given name)	 :: Marius
+mark {n} (academic score)	 :: karakter
+mark {n} (indication for reference or measurement)	 :: merke {n}
+mark {n} (visible impression, blemish, stain)	 :: flekk {m}
+Mark {prop} (book of the Bible)	 :: Evangeliet etter Markus {n}
+Mark {prop} (the Evangelist)	 :: Markus
+marker {n} (marker pen) SEE: marker pen	 ::
+market {n} (group of customers for a product)	 :: marked {n}
+market {n}	 :: marked {n}, torv {n}
+market {n} (spacious site for trading)	 :: marked {n}, markedsplass {m}
+market {n} (used attributively)	 :: markeds-
+market {v} (to make available and promote)	 :: markedsføre
+market {v} (to sell) SEE: sell	 ::
+marketableness {n} (marketableness) SEE: marketability	 ::
+marmalade {n} (jam)	 :: [Nynorsk] syltetøy
+marmot {n} (rodent of the genera Marmota)	 :: murmeldyr
+marquis {n} (nobleman) SEE: marquess	 ::
+marriage {n}	 :: ekteskap {n}
+marriage {n} (state of being married)	 :: ekteskap {n}, giftemål {n}
+marriage {n} (wedding)	 :: bryllup {n}
+marriage agency {n} (business)	 :: ekteskap byrå
+married {adj} (In a state of marriage; having a wife or a husband)	 :: gift
+married couple {n} (Two people who are married to each other)	 :: [Bokmål] ektepar {n}; [Nynorsk] ektepar {n}
+marrow {n} (substance inside bones)	 :: marg
+marry {v} (to take a husband or wife)	 :: [Bokmål] gifte seg
+Mars {prop} (planet)	 :: Mars
+marsh {n} (area of low, wet land)	 :: mersk {m}
+Marshallese {adj} (Of or pertaining to the Marshall Islands, its people, or its language)	 :: [Bokmål] marshallesisk; [Nynorsk] marshallesisk
+Marshallese {n} (An inhabitant of the Marshall Islands)	 :: [Bokmål] marshalleser {m}; [Nynorsk] marshallesar {m}
+Marshallese {prop} (language)	 :: [Bokmål] marshallesisk {m}; [Nynorsk] marshallesisk {m}
+Marshall Islands {prop} (Republic of the Marshall Islands)	 :: Marshalløyene
+marshmallow {n} (confectionery)	 :: marshmallow
+marsh marigold {n} (plant)	 :: bekkeblom, soleihov
+marten {n} (mammal)	 :: mår
+Martha {prop} (biblical sister of Lazarus and Mary)	 :: Marta
+Martha {prop} (female given name)	 :: Marta
+martial art {n} (fighting style)	 :: kampsport, kampaktivitet, kampkunst
+Martian {n} (imaginary inhabitant of the planet Mars)	 :: [Bokmål] marsboer {m}, marsbuer {m}; [Nynorsk] marsbuar {m}, Mars-buar {m}
+Martin {prop} (given name)	 :: Martin, Morten
+Martina {prop} (female given name)	 :: Martine {f}
+martingale {n} (piece of harness)	 :: martingal {m}
+martyr {n}	 :: martyr {m}
+martyr {n} (one who sacrifices their life for an important cause)	 :: martyr {m}
+martyr {n} (one who suffers greatly, even involuntarily)	 :: martyr {m}
+martyr {n} (one willing to be killed for religion (shahid))	 :: martyr {m}
+martyr {v} (persecute) SEE: persecute	 ::
+martyr {v} (torture) SEE: torture	 ::
+marvel {n} (astonishment) SEE: astonishment	 ::
+marvel {n} (miracle) SEE: miracle	 ::
+marvellous {adj} (exciting wonder) SEE: marvelous	 ::
+Mary {prop} (biblical mother of Jesus)	 :: Maria
+Mary {prop} (female given name)	 :: Maria
+Mary Magdalene {prop} (female disciple of Jesus)	 :: Maria Magdalena
+marzipan {n} (confection of almond paste, sugar and egg white)	 :: marsipan {m}
+masculine {adj} (having male qualities, not feminine or effeminate)	 :: maskulin, mandig
+masculine {adj} (of the male sex; biologically male, not female; manly)	 :: maskulin, mandig
+masdar {n} (verbal noun) SEE: verbal noun	 ::
+mash {n} (a mass of mixed ingredients)	 :: mos {m}, grøt {m}
+mash {n} (mashed potatoes) SEE: mashed potatoes	 ::
+mask {n} (cover for the face)	 :: [Bokmål] maske {m} {f}, maska {f}; [Nynorsk] maske {f}
+mask {n} (that which disguises)	 :: [Bokmål] maske {m} {f}, maska {f}; [Nynorsk] maske {f}
+masochism {n} (the enjoyment of receiving pain)	 :: masokisme {m}
+mason {n} (Freemason) SEE: Freemason	 ::
+mason wasp {n} (potter wasp) SEE: potter wasp	 ::
+masquerade {v} (disguise) SEE: disguise	 ::
+Masr {prop} (Egypt) SEE: Egypt	 ::
+mass {n} (large body of individuals)	 :: [Bokmål] masse {m}; [Nynorsk] masse {m}
+mass {n} (physics: quantity of matter which a body contains)	 :: [Bokmål] masse {m}; [Nynorsk] masse {m}
+mass {n} (quantity of matter cohering together to make one body)	 :: [Bokmål] masse {m}; [Nynorsk] masse {m}
+massacre {n} (intentional mass killing)	 :: massakre
+massacre {v} (to kill in considerable numbers)	 :: massakrere
+massage {n} (rubbing, kneading, or hitting muscled part of a body)	 :: [Bokmål] massasje
+masseur {n} (a person who performs massage)	 :: [Bokmål] massør {m}; [Nynorsk] massør {m}
+mass flow {n}	 :: massestrøm {m}
+massive astrophysical compact halo object {n} (massive compact halo object) SEE: massive compact halo object	 ::
+mass media {n} (public communication that reaches a large audience)	 :: massemedier
+mass murderer {n} (someone who commits a mass murder, see also: serial killer)	 :: [Bokmål] massemorder {m}; [Nynorsk] massemordar {m}
+mast {n} (the fruit of forest-trees)	 :: olden {m} [archaic]
+master {adj} (highly skilled)	 :: mester-
+master {adj} (main, principal or predominant)	 :: hoved-
+master {adj} (original)	 :: original-
+master {n} (expert at something)	 :: mester {m}
+master {n} (original of a document or of a recording)	 :: original {m}, masterkopi {m}
+master {n} (owner of an animal or slave)	 :: herre {m}
+master {n} (someone who has control over something or someone)	 :: mester {m}, herre {m}
+master {n} (tradesman who is qualified to teach apprentices)	 :: mester {m}
+master {v} (to be a master)	 :: lede
+master {v} (to control)	 :: styre
+master {v} (to learn to a high degree)	 :: mestre, beherske
+masterpiece {n} (piece of work that has been given much critical praise)	 :: mesterverk {n}, mesterstykke {n}
+master's {n} (master's degree) SEE: master's degree	 ::
+masterwork {n} (piece of quality indicative of having been made by a master) SEE: masterpiece	 ::
+mastery {n} (philosopher's stone) SEE: philosopher's stone	 ::
+masticate {v} (to chew)	 :: tygge
+masturbate {v} (to masturbate)	 :: masturbere
+masturbation {n} (manual erotic stimulation of the genitals)	 :: onanering
+mat {n} (foot wiping device or floor covering)	 :: [Bokmål] matte {m} {f}; [Nynorsk] matte {f}
+match {n} (attribute equaling or exceeding)	 :: like, likemann {m}, jevnbyrdig
+match {n} (device to make fire)	 :: fyrstikk {m}
+match {n} (sporting event)	 :: kamp {m}, match {m}
+match {v} (make a successful pairing)	 :: stemme overens
+match {v} (to agree; to equal)	 :: passe sammen, stemme overens
+matchmaker {n} (someone who finds suitable marriage partners)	 :: [Bokmål] ekteskapsformidler {m}, giftekniv {m}
+mate {n} (checkmate) SEE: checkmate	 ::
+mate {n} (nautical: first mate) SEE: first mate	 ::
+material {adj} (related to matter)	 :: materiell
+material {adj} (worldly)	 :: materiell
+material {n} (cloth)	 :: stoff {n}, tøy {n}
+material {n} (matter)	 :: materiale {n}
+material {n} (text)	 :: stoff
+maternal aunt {n} (the sister of one's mother (several languages distinguish between blood maternal aunts (one's mother's sister) and in-law maternal aunts (one's mother's sister-in-law).))	 :: tante {m} {f}, moster {m} {f}
+maternal grandfather {n} (one's mother's father)	 :: bestefar, morfar
+maternal grandmother {n} (The mother of one's mother)	 :: mormor
+mathematical {adj} (of, or relating to mathematics)	 :: [Bokmål] matematisk; [Nynorsk] matematisk
+mathematical {adj} (possible but highly improbable)	 :: teoretisk
+mathematician {n} (expert in mathematics)	 :: [Bokmål] matematiker {m}; [Nynorsk] matematikar {m}
+mathematics {n} (field of study)	 :: matematikk {m}; [Nynorsk] matematikk
+maths {n} (short form of mathematics)	 :: [Bokmål] matte {m}; [Nynorsk] matte {m}
+Matilda {prop} (female given name, cognates and transliterations)	 :: Mathilde
+matrix {n} (In mathematics)	 :: matrise {m}/{f}
+matrix {n} (Two-dimensional array)	 :: matrise {m}/{f}
+matrix {n} (womb) SEE: womb	 ::
+matryoshka {n} (Russian doll) SEE: Russian doll	 ::
+Matthew {prop} (biblical disciple)	 :: Matteus
+Matthew {prop} (gospel of Matthew)	 :: Evangeliet etter Matteus {n}
+Matthew {prop} (male given name)	 :: Mathias
+Matthias {prop} (male given name)	 :: Mathias
+Matthias {prop} (the Apostle replacing Judas)	 :: Mattias
+mattock {n} (agricultural tool)	 :: [Bokmål] hakke {m} {f}
+mattress {n} (a pad on which a person can recline and sleep)	 :: [Bokmål] madrass {m}; [Nynorsk] madrass {m}
+mattress pad {n} (mattress protector) SEE: mattress protector	 ::
+mattress topper {n} (mattress protector) SEE: mattress protector	 ::
+maunch {v} (munch) SEE: munch	 ::
+Mauritania {prop} (Islamic Republic of Mauritania)	 :: Mauritania
+Mauritanian {adj} (Of, from, or pertaining to Mauritania, the Mauritanian people or the Mauritanian language)	 :: [Bokmål] mauritansk; [Nynorsk] mauritansk
+Mauritanian {n} (A person from Mauritania or of Mauritanian descent)	 :: [Bokmål] mauritanier {m}; [Nynorsk] mauritaniar {m}
+Mauritian {adj} (of, from, or pertaining to Mauritius, its people, or their language or culture)	 :: [Bokmål] mauritier {m}; [Nynorsk] mauritiar {m}
+Mauritian {n} (person from Mauritius or of Mauritian descent)	 :: [Bokmål] mauritisk; [Nynorsk] mauritisk
+Mauritian {prop} (Mauritian Creole) SEE: Mauritian Creole	 ::
+Mauritius {prop} (Republic of Mauritius)	 :: Mauritius
+maxim {n} (moral precept)	 :: [Bokmål] maksime {m}, leveregel {m}; [Nynorsk] maksime {m}, leveregel {m}
+may {v} (have permission to)	 :: kan, få, må
+may {v} (possibly, but not certainly)	 :: kan være, also expressed with adv. kanskje
+may {v} (subjunctive)	 :: [Bokmål] måtte
+May {prop} (fifth month of the Gregorian calendar)	 :: mai
+maybe {adv} (as a pro-sentence)	 :: kan hende, kanskje det
+maybe {adv} (indicating a lack of certainty)	 :: kanskje; [Nynorsk] kanskje
+May bug {n} (cockchafer) SEE: cockchafer	 ::
+mayfly {n} (insect of order Ephemeroptera)	 :: [Bokmål] døgnflue {m} {f}; [Nynorsk] døgnfluge {f}
+mayonnaise {n} (dressing)	 :: [Bokmål] majones {m}; [Nynorsk] majones {m}
+maypole {n} (pole, garlanded with streamers held by people who dance around it to celebrate May Day)	 :: maistang, midtsommerstang
+Maytime {n} (Maytide) SEE: Maytide	 ::
+Möbius band {n} (Möbius strip) SEE: Möbius strip	 ::
+Möbius strip {n} (one-sided surface)	 :: möbius’ bånd {n}
+mâche {n} (Valerianella locusta)	 :: vårsalat
+me {pron} (complement of the copula)	 :: meg, jeg
+me {pron} (direct object of a verb)	 :: meg
+me {pron} (indirect object of a verb)	 :: meg
+me {pron} (marking ownership)	 :: min
+me {pron} (object of a preposition)	 :: meg
+me {pron} (reflexive indirect object of a verb)	 :: meg
+me {pron} (subject of a verb with “and”)	 :: jeg
+me {pron} (subject of a verb without “and”)	 :: jeg
+mead {n} (alcoholic drink)	 :: [Bokmål] mjød {m}; [Nynorsk] mjød {m}
+meadowsweet {n} (Filipendula ulmaria)	 :: mjødurt
+meager {adj} (lean)	 :: mager
+meager {adj} (poor, deficient or inferior)	 :: mager
+meal {n} (food that is prepared and eaten)	 :: måltid
+meal ticket {n} (a voucher for food)	 :: matbong {m}
+mean {v} (to convey, indicate)	 :: bety
+meaning {n} (definition or connotation of a word)	 :: betydning {m}, tyding
+meaning {n} (significance of a thing, as "the meaning of life")	 :: mening {m}
+meaning of life {n} (hypothetical answer to life's ultimate questions)	 :: livets mening / meningen med livet
+mean proportional {n} (geometric mean) SEE: geometric mean	 ::
+means {n} (instrument or condition for attaining a purpose)	 :: [Bokmål] middel {n}; [Nynorsk] middel {n}
+means of transport {n} (mode of transport) SEE: mode of transport	 ::
+meanwhile {adv} (at the same time but elsewhere)	 :: imens
+meanwhile {adv} (during the time)	 :: imens
+measles {n} (acute highly contagious viral disease)	 :: [Bokmål] meslinger {m-p}; [Nynorsk] meslingar {m-p}
+measure {n} (quantity etc. compared to a standard)	 :: mål {n}
+measure {v} (ascertain the quantity of a unit)	 :: [Bokmål] måle; [Nynorsk] måle, mæle
+measurement {n} (act of measuring)	 :: måling
+measuring jug {n} (jug for measuring liquids) SEE: measuring cup	 ::
+meat {n} (animal flesh used as food)	 :: kjøtt {n}; [Nynorsk] kjøt {n}
+meat {n} (any sort of flesh)	 :: [Bokmål] kjøtt {n}; [Nynorsk] kjøt {n}
+meat {n}	 :: [Bokmål] kjøtt {n}; [Nynorsk] kjøt
+meat {n} (totem) SEE: totem	 ::
+meat {n} (type of meat)	 :: [Bokmål] kjøtt {n}; [Nynorsk] kjøt {n}
+meatatarian {n} (meatarian) SEE: meatarian	 ::
+meatball {n} (meatball)	 :: kjøttkake
+meat jelly {n} (aspic) SEE: aspic	 ::
+Mecca {prop} (city in Saudi Arabia)	 :: Mekka
+mechanical larynx {n} (electrolarynx) SEE: electrolarynx	 ::
+mechanics {n} (a branch of physics)	 :: mekanikk
+medal table {n}	 :: medaljefordeling
+meddle {v} (to have sex) SEE: have sex	 ::
+mediaeval {adj} (medieval) SEE: medieval	 ::
+Median {n} (Mede) SEE: Mede	 ::
+medic {n} (doctor) SEE: doctor	 ::
+medic {n} (paramedic) SEE: paramedic	 ::
+medical record {n} (details about a patient's previous medical experiences) SEE: medical history	 ::
+medicine {n} (field of study)	 :: medisin {m}
+medicine {n} (substance which promotes healing)	 :: legemiddel {n}, medikament {n}, medisin {m}
+medieval {adj} (brutal) SEE: brutal	 ::
+medieval {adj} (of or relating to the Middle Ages)	 :: middelaldersk
+Medieval Latin {prop} (language)	 :: middelalderlatin {m}
+mediocre {adj} (ordinary: not extraordinary; not special, exceptional, or great; of medium quality)	 :: [Bokmål] middelmådig
+meditate {v}	 :: meditere
+Mediterranean {prop} (Mediterranean Sea) SEE: Mediterranean Sea	 ::
+Mediterranean Sea {prop} (the sea between Europe and Africa)	 :: [Bokmål] Middelhavet; [Nynorsk] Middelhavet
+meek {adj} (humble, modest, or self-effacing)	 :: blyg
+meet {v} (encounter by accident)	 :: [Bokmål] møte; [Nynorsk] møte
+meet {v} (gather for a formal discussion)	 :: [Bokmål] møte; [Nynorsk] møte
+meet {v} (meet face-to-face )	 :: [Bokmål] møte; [Nynorsk] møte
+meet {v} (see through arrangement)	 :: [Bokmål] møte; [Nynorsk] møte
+meet {v} ((sport) play a match)	 :: [Bokmål] møte; [Nynorsk] møte
+meeting {n}	 :: [Bokmål] møte {n}; [Nynorsk] møte {n}; [Bokmål] møte {n}; [Nynorsk] møte {n}
+meeting {n} (gathering for a purpose)	 :: [Bokmål] møte {n}; [Nynorsk] møte {n}
+meet one's maker {v} (die, pass into the afterlife)	 :: møte Herren, møte sin skaper
+megaliter {n} (megalitre) SEE: megalitre	 ::
+megalomania {n} (obsession with grandiose or extravagant things or actions)	 :: stormannsgalskap {m}
+megalomania {n} (psychopathological condition characterized by delusional fantasies of wealth, power, or omnipotence)	 :: stormannsgalskap {m}
+megalomaniacal {adj} (of, exhibiting, or affected with megalomania)	 :: stormannsgal
+megameter {n} (megametre) SEE: megametre	 ::
+megapolis {n} (megapolis) SEE: megalopolis	 ::
+megastore {n} (superstore) SEE: superstore	 ::
+megawatt {n} (one million watts)	 :: [Bokmål] megawatt {m}; [Nynorsk] megawatt {m}
+megawatt-hour {n} (unit of electrical energy)	 :: [Bokmål] megawattime {m}; [Nynorsk] megawattime {m}
+meitnerium {n} (chemical element)	 :: meitnerium
+melancholy {n} (Sadness or depression)	 :: melankoli {m}, tungsinn, svartsyn
+melody {n} (sequence of notes that makes up a musical phrase)	 :: melodi {m}
+melon {n} (fruit)	 :: melon
+melongene {n} (eggplant) SEE: eggplant	 ::
+melt {n} (idiot) SEE: idiot	 ::
+melt {n} (melt sandwich) SEE: melt sandwich	 ::
+melt {v} (intransitive: to change from a solid to a liquid)	 :: smelte
+melting {n} (process of changing the state of a substance)	 :: smelter
+melting point {n} (temperature at which solid and liquid phases are in equilibrium)	 :: [Bokmål] smeltepunkt {n}; [Nynorsk] smeltepunkt {n}
+melting pot {n} (place where many divergent things come together and are homogenized)	 :: smeltedigel
+member {n} (a limb)	 :: lem {n}
+member {n} (in logic) SEE: premise	 ::
+member {n} (in set theory) SEE: element	 ::
+member {n} (one who officially belongs to a group)	 :: [Bokmål] medlem {n}; [Nynorsk] medlem {m}
+member {n} (penis)	 :: lem {n}
+Member of Parliament {n} (representative)	 :: Stortingsrepresentant
+member of parliament’s legislative motion {n} (private member's bill) SEE: private member's bill	 ::
+member's bill {n} (private member's bill) SEE: private member's bill	 ::
+membership card {n} (card held by a member)	 :: [Bokmål] medlemskort {n}; [Nynorsk] medlemskort {n}
+membrane {n} (flexible part)	 :: membran {m}, hinne {f}
+membrane {n} (separating tissue)	 :: membran {m}, hinne {f}
+meme {n} (unit of cultural information)	 :: mem
+memoirs {n} (autobiography) SEE: memoir	 ::
+memorable {adj} (worthy of being remembered)	 :: [Bokmål] minneverdig, minnerik; [Nynorsk] minneverdig, minnerik
+memorial service {n} (funeral) SEE: funeral	 ::
+memory {n} (ability to recall)	 :: hukommelse {m}, minne {n}
+memory {n} (RAM or ROM)	 :: dataminne {n}
+menacing {v} (threatening)	 :: [Bokmål] truende
+mendacious {adj} (false) SEE: false	 ::
+mendaciousness {n} (mendacity) SEE: mendacity	 ::
+mendacity {n} (A lie, deceit or falsehood)	 :: falskhet {m}
+mendacity {n} (The fact or condition of being untruthful; dishonest)	 :: uærlighet {m}
+mendelevium {n} (chemical element)	 :: mendelevium
+menial {adj} (of or relating to unskilled work)	 :: [Bokmål] nedrig, lavstatuspreget
+Meänkieli {prop} (language)	 :: tornedalsfinsk, meänkieli
+menopause {n} (The ending of menstruation)	 :: [Bokmål] overgangsalder {m}; [Nynorsk] overgangsalder {m}
+menorah {n} (seven-branch candelabrum)	 :: [Bokmål] menora {m}; [Nynorsk] menora {m}
+Mensa {prop} (constellation)	 :: Bordet
+menstruation {n} (periodic discharging of the menses)	 :: menstruasjon
+mental breakdown {n} (an attack of depression) SEE: nervous breakdown	 ::
+mental institution {n} (psychiatric hospital) SEE: mental hospital	 ::
+mention {n} (a speaking or notice of anything, usually in a brief or cursory manner)	 :: omtale {m}
+mention {v} (make a short reference to something)	 :: omtale; [Bokmål] nevne; [Nynorsk] nemne
+menu {n} (details of the food to be served at a banquet)	 :: [Bokmål] meny {m}, speisekart {n}
+menu {n} (list from which the user may select an operation to be performed)	 :: [Bokmål] meny {m}
+menu {n} (printed list of dishes offered in a restaurant)	 :: meny {m}
+meow {interj} (cry of a cat)	 :: mjau
+meow {n} (cry of a cat)	 :: mjau
+meow {v} (of a cat, to make its cry)	 :: mjaue
+mercenary {n} (person employed to fight)	 :: leigesoldat {m}; [Bokmål] leiesoldat {m}
+merchant {n} (person who traffics in commodities)	 :: farmann
+mercury {n} (element)	 :: [Bokmål] kvikksølv {n}; [Nynorsk] kvikksølv {n}, kvikksylv {n}
+Mercury {prop} (planet)	 :: Merkur
+mergirl {n} (mermaid) SEE: mermaid	 ::
+meringue {n} (shell)	 :: marengs
+mermaid {n} (mythological woman with a fish's tail)	 :: [Bokmål] havfrue {m} {f}; [Nynorsk] havfru {f}, havfrue {f}
+merogamy {n} (merogony) SEE: merogony	 ::
+merry Christmas {phrase} (good wishes at Christmas time)	 :: god jul
+Merry Christmas and a Happy New Year {phrase} (traditional greeting for the Christmas and the new year)	 :: God Jul og Godt Nytt Aar
+mesa {n}	 :: platå {n}
+mesentery {n} (the membrane that attaches the intestines to the wall of the abdomen)	 :: mesenterium {n}
+mesh {n} (computing: polygon mesh) SEE: polygon mesh	 ::
+mesh {n} (opening)	 :: [Bokmål] maske {m}; [Nynorsk] maske {f}
+mesh {n} (structure)	 :: nett {n}, garn
+mesne {adj} (intermediate) SEE: intermediate	 ::
+meson {n} (elementary particle)	 :: [Bokmål] meson {n}; [Nynorsk] meson {n}
+mesoregion {n} (meso-region) SEE: meso-region	 ::
+message {n}	 :: melding {m}
+messenger {n} (one who brings messages)	 :: bud {n}
+metabolism {n} (complete set of chemical reactions that occur in living cells)	 :: stoffskifte {n}; [Bokmål] stoffskifte; [Nynorsk] stoffskifte
+metacarpal bone {n} (metacarpal) SEE: metacarpal	 ::
+metal {n} (atomic element or material made of such atoms)	 :: [Bokmål] metall {n}; [Nynorsk] metall {n}
+metallic {adj} (made of metal)	 :: metallisk
+metallurgic {adj} (metallurgical) SEE: metallurgical	 ::
+metaphor {n} (countable: word or phrase used in metaphor)	 :: [Bokmål] metafor {m}; [Nynorsk] metafor {m}
+metaphor {n} (uncountable: figure of speech)	 :: [Bokmål] metafor {m}; [Nynorsk] metafor {m}
+metaphorical {adj} (pertaining to a metaphor)	 :: metaforisk
+metaphysics {n} (branch of philosophy that studies first principles)	 :: metafysikk
+metastasis {n} (the transference of a bodily function or disease to another part of the body)	 :: [Bokmål] metastase {m}; [Nynorsk] metastase {m}
+metempsychosis {n} (Transmigration of the soul)	 :: sjelevandring
+meteor {n} (streak of light)	 :: meteor {m}
+meteorite {n} (remains of a meteor)	 :: meteoritt {m}
+meteorologic {adj} (meteorological) SEE: meteorological	 ::
+meteorological {adj} (relating to meteorology)	 :: [Bokmål] meteorologisk; [Nynorsk] meteorologisk
+meteorologist {n} (person who studies meteorology)	 :: meteorolog {m}
+meteorology {n} (science)	 :: meteorologi {m}
+meteor shower {n} (Meteors seen on Earth for short time period)	 :: meteorregn {n}
+meter {n} (measuring instrument)	 :: [Bokmål] måler {m}
+meter {n} (unit of length) SEE: metre	 ::
+meter {v} (to measure) SEE: measure	 ::
+methamine {n} (hexamine) SEE: hexamine	 ::
+methanal {n} (formaldehyde) SEE: formaldehyde	 ::
+methane {n} (the compound CH4)	 :: [Bokmål] metan {n}; [Nynorsk] metan {n}
+methanol {n} (the simplest aliphatic alcohol, CH3OH)	 :: [Bokmål] metanol {m}; [Nynorsk] metanol {m}
+methinks {contraction} (it seems to me)	 :: det synes meg
+methionine {n} (amino acid)	 :: metionin {m}
+method {n} (process by which a task is completed)	 :: [Bokmål] metode {m}; [Nynorsk] metode {m}
+methylpropane {n} (isobutane) SEE: isobutane	 ::
+methylpropene {n} (isobutylene) SEE: isobutene	 ::
+meticulous {adj} (characterized by very precise, conscientious attention to details)	 :: omhyggelig
+metonymic {n} (metonym) SEE: metonym	 ::
+metonymy {n} (figure of speech)	 :: [Bokmål] talemåte {m}, metonym {n}
+metonymy {n} (metonym) SEE: metonym	 ::
+metre {n} (unit of length)	 :: [Bokmål] meter {m}; [Nynorsk] meter {m}
+metric {adj} (relating to metric system)	 :: metrisk
+metric system {n} (International System of Units) SEE: International System of Units	 ::
+metro {n} (underground railway)	 :: tunnelbane {c}, T-bane {c}, metro {c}, undergrunnsbane {c}
+metrology {n} (science of measurement)	 :: metrologi {m}
+metropole {n} (city) SEE: metropolis	 ::
+metropolis {n} (metropolitan archbishop) SEE: archbishopric	 ::
+metropolitan {adj} (pertaining to a metropolis)	 :: [Metropolitan bishop in Orthodox Church] metropolitt
+mettle {n} (metal) SEE: metal	 ::
+Meuse {prop} (river)	 :: Maas
+mew {n} (crying sound of a cat) SEE: meow	 ::
+mew {v} (meow) SEE: meow	 ::
+Mexican {adj} (of or pertaining to Mexico)	 :: [Bokmål] mexicansk, meksikansk; [Nynorsk] mexicansk, meksikansk
+Mexican {adj} (of or pertaining to Nahuatl language) SEE: Nahuatl	 ::
+Mexican {adj} (of or pertaining to the Mexica people) SEE: Mexica	 ::
+Mexican {n} (Mexica) SEE: Mexica	 ::
+Mexican {n} (Nahuatl language) SEE: Nahuatl	 ::
+Mexican {n} (person from Mexico or of Mexican descent)	 :: [Bokmål] mexicaner {m}, meksikaner {m}; [Nynorsk] mexican {m}, mexicanar {m}, meksikan {m}, meksikanar {m}
+Mexican wolf {n} (rare subspecies of grey wolf)	 :: Meksikansk ulv
+Mexico {prop} (country)	 :: Mexico
+Mexico City {prop} (capital of Mexico)	 :: Mexico by
+mezzanine {n} (mezzanine)	 :: mesanin {m}
+Mia {prop} (female given name)	 :: Mia
+mica {n} (hydrous aluminosilicate minerals)	 :: glimmer
+Micah {prop} (Biblical character: minor prophet and author)	 :: Mika
+Micah {prop} (book of the Bible)	 :: Mika
+Michael {prop} (archangel)	 :: Mikael
+Michael {prop} (male given name)	 :: Mikael
+Michelle {prop} (female given name) SEE: Michaela	 ::
+Michigan holly {n} (American winterberry) SEE: American winterberry	 ::
+Mickey Mouse {prop} (Disney character)	 :: Mikke Mus
+microcomputer {n} (computer designed around a microprocessor)	 :: mikrodatamaskin {m}
+microcosm {n} (human nature or body as representative of the wider universe)	 :: [Bokmål] mikrokosmos {n}; [Nynorsk] mikrokosmos {n}
+microcosm {n} (smaller system as representative of a larger one)	 :: [Bokmål] mikrokosmos {n}; [Nynorsk] mikrokosmos {n}
+microcredit {n} (microloan) SEE: microloan	 ::
+micrometer {n} (instrument)	 :: mikrometer {m}
+micrometre {n} (micrometer) SEE: micrometer	 ::
+Micronesia {prop} (country)	 :: Mikronesiaføderasjonen
+Micronesian {adj} (Of, from, or pertaining to Micronesia or the Micronesian people)	 :: [Bokmål] mikronesisk; [Nynorsk] mikronesisk
+Micronesian {n} (A person from Micronesia or of Micronesian descent)	 :: [Bokmål] mikroneser {m}; [Nynorsk] mikronesar {m}
+microphone {n} (transducer of sound waves to electricity)	 :: [Bokmål] mikrofon {m}
+microregion {n} (micro-region) SEE: micro-region	 ::
+microsecond {n} (unit of time equal to 10−6 seconds)	 :: [Bokmål] mikrosekund {n}; [Nynorsk] mikrosekund {n}
+microwave {n} (microwave oven) SEE: microwave oven	 ::
+micturate {v} (urinate) SEE: urinate	 ::
+mid-air {n} (middle of the air)	 :: i lufta
+midbrain {n} (part of brain)	 :: mesencephalon
+midday {n} (12 o'clock during the day) SEE: noon	 ::
+middle {n}	 :: midten
+middle ear {n} (cavity in the ear)	 :: ambolt {m}, mellomøre {n} (usually said in the definite form: ambolten, mellomøret)
+Middle East {prop} (region comprising southwest Asia and northeast Africa)	 :: [Bokmål] Midtøsten; [Nynorsk] Midtausten
+middle finger {n} (finger between the forefinger and the ring finger)	 :: langfinger {m}
+Middle High German {prop} (Middle High German)	 :: [Bokmål] middelhøytysk {m}; [Nynorsk] mellomhøgtysk
+Middle Low German {prop} (the Middle Low German language)	 :: [Bokmål] middelnedertysk {m}
+middle name {n} (name between given name and surname)	 :: mellomnavn {n}
+Middle Norwegian {prop} (Middle Norwegian)	 :: [Bokmål] mellomnorsk {m}; [Nynorsk] mellomnorsk {m}
+Middle Saxon {prop} (Middle Low German) SEE: Middle Low German	 ::
+midfield {n} (middle of the field)	 :: [Bokmål] midtbane {m}; [Nynorsk] midtbane {m} {f}
+midfielder {n} (player)	 :: [Bokmål] midtbanespiller {m}, midtbanespeller {m}; [Nynorsk] midtbanespelar {m}
+midmost {adj} (middlemost) SEE: middlemost	 ::
+midnight {n} (12 o'clock at night)	 :: midnatt {n}
+midnight sun {n} (phenomenon)	 :: [Bokmål] midnattssol {m} {f}; [Nynorsk] midnattssol {f}
+midshipman {n} (midshipman fish) SEE: midshipman fish	 ::
+midway {adv} (halfway) SEE: halfway	 ::
+midwife {n} (person who assists in bringing something about)	 :: fødselshjelper {m}
+midwife {n} (person who assists women in childbirth)	 :: jordmor {m-f}
+mielie {n} (maize) SEE: maize	 ::
+migraine {n} (headache usually affecting only one side of the head)	 :: [Bokmål] migrene {m}; [Nynorsk] migrene {m}
+migrant worker {n} (guest worker) SEE: guest worker	 ::
+Migration Period {prop}	 :: folkevandringstiden; [Nynorsk] folkevandringstida
+Mildred {prop} (female given name)	 :: Mildrid
+mileage {n} (allowance for travel expenses per distance travelled)	 :: [Bokmål] kilometergodtgjørelse {m} {f}; [Nynorsk] kilometergodtgjering {f}
+mileage {n} (distance travelled on certain amount of fuel)	 :: [Bokmål] rekkevidde {m} {f}; [Nynorsk] rekkevidd {f}
+mileage {n} (something worth taking into consideration)	 :: poeng {n}
+mileage {n} (total distance travelled)	 :: [Bokmål] kjørelengde {m} {f}
+milestone {n} (important event)	 :: [Bokmål] milepæl {m}, milepel {m}, minestolpe {m}, milestein {m}; [Nynorsk] milestolpe {m}, milepåle {m}, milestein {m}
+milestone {n} (one of a series of numbered markers placed along a road at regular intervals)	 :: [Bokmål] milestein {m}, milepæl {m}, milepel {m}, milestolpe {m}; [Nynorsk] milestein {m}, milepåle {m}, milestolpe
+MILF {n} (woman)	 :: MILF {m} {f}
+milieu {n} (a person’s social setting or environment)	 :: miljø {n}
+militarization {n} (militarisation) SEE: militarisation	 ::
+military exercise {n} (war game)	 :: [Bokmål] militærøvelse {m}, militærøving {c}; [Nynorsk] militærøving {f}
+military service {n} (service in an army)	 :: [Bokmål] militærtjeneste {m}
+milk {n} (liquid)	 :: [Bokmål] melk {m} {f}, mjølk {m} {f}; [Nynorsk] mjølk {f}
+milk {v} (to express milk from mammal)	 :: [Bokmål] melke, mjølke; [Nynorsk] mjølke
+milk-cap {n} (mushroom of the genus Lactarius)	 :: riske {m} {f}, melkesopp {m}
+milkmaid {n} (a young woman who milked the cows on a farm)	 :: budeie {c}
+milk replacer {n} (liquid nutrition that is given to young animals)	 :: [Bokmål] melkeerstatning {c}, mjølkeerstatning {c}; [Nynorsk] mjølkeerstatning {f}
+milkshake {n} (milk and ice cream beverage)	 :: [Bokmål] milkshake {m}; [Nynorsk] milkshake {m}
+milk substitute {n} (liquid that replaces milk in a diet or recipe)	 :: [Bokmål] melkeerstatning {c}, mjølkeerstatning {c}; [Nynorsk] mjølkeerstatning {f}
+Milky Way {prop} (galaxy)	 :: [Bokmål] Melkeveien {m}; [Nynorsk] Mjølkevegen {m}
+mill {n} (building housing a grinding apparatus)	 :: [Bokmål] mølle {m} {f}; [Nynorsk] mylne {f}, mølle {f}
+mill {n} (building)	 :: mølle {m}, fabrikk {m} [general]
+mill {n} (establishment that handles a certain type of situation routinely)	 :: papirmølle {m}(~ burocracy)
+mill {n} (grinding apparatus)	 :: [Bokmål] mølle {m} {f}; [Nynorsk] mylne {f}, mølle {f}
+mill {n} (manufacturing plant)	 :: [Bokmål] mølle {m} {f}; [Nynorsk] mylne {f}, mølle {f}
+millennium {n} (Christianity: the 1000 year reign of Christ)	 :: millennium
+millennium {n} (thousand-year period)	 :: [Bokmål] årtusen {n}, millennium {n}, tusenår {n}; [Nynorsk] millennium {n}, tusenår {n}
+miller {n} (person)	 :: [Bokmål] møller {m}; [Nynorsk] mylnar {m}, møllar {m}
+millet {n} (any of a group of various types of grass or its grains used as food)	 :: hirse {m}
+milliard {num} (10^9)	 :: [Bokmål] milliard; [Nynorsk] milliard
+milligram {n} (milligram)	 :: [Bokmål] milligram {n}; [Nynorsk] milligram {n}
+milliliter {n} (milliliter) SEE: millilitre	 ::
+millilitre {n} (a unit of volume)	 :: [Bokmål] milliliter {m}; [Nynorsk] milliliter {m}
+millimeter {n} (millimetre) SEE: millimetre	 ::
+millimetre {n} (unit of measure)	 :: [Bokmål] millimeter {m}; [Nynorsk] millimeter {m}
+million {num} (cardinal number)	 :: million {m}
+millionaire {n} (somebody whose wealth is greater than one million)	 :: [Bokmål] millionær {m}; [Nynorsk] millionær {m}
+millionth {n} (one of a million equal parts of a whole)	 :: [Bokmål] milliondel {m}, milliontedel {m}; [Nynorsk] milliondel {m}, milliontedel {m}
+millipede {n} (elongated arthropod)	 :: tusenbein
+millisecond {n} (one one-thousandth of a second)	 :: millisekund {n}
+millstone {n} (large round stone used for grinding grain)	 :: [Bokmål] kvernstein {m}, møllestein {m}; [Nynorsk] kvernstein {m}, møllestein {m}
+milt {n} (the organ spleen) SEE: spleen	 ::
+mimic {n} (imitation) SEE: imitation	 ::
+mina {n} (myna) SEE: myna	 ::
+mince {n} (finely chopped meat)	 :: [Bokmål] kjøttdeig {m}; [Nynorsk] kjøttdeig {m}, kjøtdeig {m}
+mince {n} (finely chopped mixed fruit) SEE: mincemeat	 ::
+mince {n} (short precise step)	 :: tripping {c}
+mince {v} (walk in short precise step)	 :: trippe
+mind {n} (ability for rational thought)	 :: forstand {m}, intellekt {n}
+mind {n} (ability to be aware of things)	 :: bevissthet {m}
+mind {n} (ability to focus the thoughts)	 :: konsentrasjon {m}
+mind {n} (ability to remember things)	 :: hukommelse {m}, minne {n}
+mind {n} (desire, inclination, or intention)	 :: hensikt {m}, intensjon {m}
+mind {n} (healthy mental state)	 :: forstand {m}
+mind {n} (judgment, opinion, or view)	 :: innstilling {m}
+mind {n} (philosophy: non-material substance)	 :: ånd {m}
+mind {n} (somebody that embodies certain mental qualities)	 :: tenker {m}
+mind {v} (to dislike, object to, have a contrary opinion toward)	 :: bry seg om, ha imot
+mind {v} (to look after)	 :: passe på
+mind {v} (to pay attention to)	 :: huske, passe på
+mind control {n} (subverting an individual's control of his or her mind)	 :: mind control {m}
+mindfulness {n} (awareness) SEE: awareness	 ::
+mine {n} (exploding device)	 :: mine {m} {f}
+mine {n} (place from which ore is extracted)	 :: [Bokmål] gruve {m} {f}; [Nynorsk] gruve {f}
+mine {pron} (that which belongs to me)	 :: min {m}
+mine {v} (sow mines in)	 :: minelegge
+miner {n} (a person who works in a mine)	 :: [Bokmål] gruvearbeider {m}; [Nynorsk] gruvearbeidar {m}
+mineral {adj} (relating to or containing minerals)	 :: [Bokmål] mineralsk; [Nynorsk] mineralsk
+mineral {n} (as opposed to animal and vegetable)	 :: mineral {m}
+mineral {n} (in geology)	 :: [Bokmål] mineral {n}; [Nynorsk] mineral {n}
+mineral {n} (in nutrition)	 :: mineral {m}
+mineral {n} (mineral water)	 :: mineralvann {n}
+mineralogy {n} (the study or science of minerals)	 :: mineralogi
+mineral water {n} (water containing dissolved minerals)	 :: mineralvann {n}
+minesweeper {n} (vehicle, device or person for the removal of mines)	 :: minesveipar
+mingle-mangle {n} (collection of miscellaneous things) SEE: hodgepodge	 ::
+minidress {n} (woman's short dress)	 :: [Bokmål] minikjole {m}; [Nynorsk] minikjole {m}
+minigolf {n} (miniature golf) SEE: miniature golf	 ::
+minimart {n} (convenience store) SEE: convenience store	 ::
+miniskirt {n} (skirt)	 :: [Bokmål] miniskjørt {n}; [Nynorsk] miniskjørt {n}
+minister {n} (politician who heads a ministry)	 :: [Bokmål] minister {m}; [Nynorsk] minister {m}
+ministerium {n} (an association of ministers)	 :: ministerium {n}
+ministry {n} (complete body of government ministers)	 :: Kabinett
+ministry {n} (ministration) SEE: ministration	 ::
+mink {n} (mink coat) SEE: mink coat	 ::
+minke whale {n} (Balaenoptera acutorostrata or Balaenoptera bonaerensis)	 :: vågehval {m}
+Min Nan {prop} (Hokkien) SEE: Hokkien	 ::
+minority {n} (subgroup that does not form a numerical majority)	 :: [Bokmål] minoritet {m}, mindretall {n}; [Nynorsk] minoritet {m}, mindretal {n}
+minority cabinet {n} (minority government) SEE: minority government	 ::
+minor planet {n} (celestial body)	 :: småplanet {m}
+mint {adj} (of condition, as new)	 :: som ny
+mint {n} (money-producing building or institution)	 :: [Bokmål] myntverk {n}
+mint {n} (plant)	 :: mynt
+minuet {n} (dance)	 :: menuett {c}
+minuet {n} (music accompanying the dance)	 :: menuett {c}
+minus {adj} (negative)	 :: negativ
+minus {conj} (mathematics: less)	 :: minus
+minus {n} (minus sign) SEE: minus sign	 ::
+minute {n} (record of meeting)	 :: protokoll {m}
+minute {n} (short but unspecified period of time)	 :: øyeblikk {n}
+minute {n} (unit of angular measure)	 :: minutt {n}
+minute {n} (unit of time)	 :: minutt {n}
+miracle {n} (wonderful event attributed to supernatural powers)	 :: [Bokmål] mirakel {n}, under {n}, underverk {n}; [Nynorsk] mirakel {n}
+mirage {n} (an optical phenomenon)	 :: luftspeiling {m}
+Mirandese {prop} (Romance language)	 :: mirandesisk
+Miriam {prop} (female given name)	 :: Miriam, Mirjam
+Miriam {prop} (sister of Moses and Aaron)	 :: Mirjam
+mirror {n} (computing: exact copy of a data set)	 :: [Bokmål] speil {n}; [Nynorsk] spegel {m}
+mirror {n} (smooth reflecting surface)	 :: [Bokmål] speil {n}; [Nynorsk] spegel {m}
+mirror {v} (of an event, activity, behaviour.. to be identical to, be a copy of, to reflect)	 :: [Bokmål] speile
+mirror ball {n} (disco ball) SEE: disco ball	 ::
+misanthropic {adj} (hating or disliking mankind)	 :: misantropisk
+misanthropist {n} (misanthrope) SEE: misanthrope	 ::
+misappropriate {v} (to embezzle) SEE: embezzle	 ::
+misbegotten {adj} (by figurative extension: ill-conceived) SEE: ill-conceived	 ::
+misbegotten {adj} (of a person: born out of wedlock) SEE: illegitimate	 ::
+misbegotten {n} (one born out of wedlock) SEE: bastard	 ::
+misbehavior {n} (conduct that is inappropriate)	 :: dårlig oppførsel {m}
+miscarriage {n} (termination of pregnancy)	 :: [Bokmål] spontan abort {m}, spontanabort {m}; [Nynorsk] spontan abort {m}, spontanabort {m}
+miscarry {v} (to abort a foetus)	 :: abortere
+miscegenation {n} (the mixing or blending of race)	 :: raseblanding {m}
+miscellaneous {adj} (consisting of a variety of ingredients or parts)	 :: blanda, blandet
+miscellaneous {adj}	 :: diverse
+miscellaneous {adj} (having diverse characteristics)	 :: diverse
+miscomprehend {v} (misunderstand) SEE: misunderstand	 ::
+misconduct {n} (bad behavior) SEE: misbehavior	 ::
+misconduct {v} (misbehave) SEE: misbehave	 ::
+misconduct {v} (mismanage) SEE: mismanage	 ::
+misconstrue {v} (interpret erroneously)	 :: feiltolke
+misfortunes never come singly {proverb} (proverb)	 :: en ulykke kommer sjelden alene
+misinformation {n} (disinformation) SEE: disinformation	 ::
+mislay {v} (to leave something in the wrong place and then forget where one put it) SEE: misplace	 ::
+misogynist {n} (hater of women)	 :: kvinnehater {m}
+misplace {v} (to apply one's talents inappropriately)	 :: misforstå
+misplace {v} (to put something somewhere and then forget its location)	 :: forlegge
+miss {n} (Miss) SEE: Miss	 ::
+miss {n} (unmarried woman)	 :: frøken
+Miss {n} (title)	 :: frøken (frk.)
+missed miscarriage {n} (missed abortion) SEE: missed abortion	 ::
+misshapen {adj} (deformed)	 :: vanskapt, misdannet
+missile {n} (self-propelled, guidable projectile)	 :: missil
+missionary {n} (person traveling to spread a religion)	 :: misjonær {m}
+missionary position {n} (position for sexual intercourse)	 :: misjonærstilling {c}
+mission statement {n} (declaration)	 :: formålsparagraf
+Mississippi {n} (state)	 :: Mississippi
+Missouri {prop} (US state)	 :: Missouri
+mist {n} (A layer of fine droplets or particles)	 :: [Bokmål] tåke {m} {f}
+mist {n} (Water or other liquid finely suspended in air)	 :: [Bokmål] dis {m}, tåke {m} {f}, skodde {m} {f}; [Nynorsk] dis {m}, tåke {f}, skodde {f}
+mistake {n} (an error )	 :: [Bokmål] feil {m}, tabbe {m}; [Nynorsk] feil {m}
+mistake {v} (To make an error)	 :: ta feil
+mistake {v} (To take one thing for another)	 :: misforstå
+mister {n} (title of adult male)	 :: herr
+mistletoe {n} (either species of such evergreen plant)	 :: misteltein {m}
+mistress {n} (female teacher)	 :: [Bokmål] lærerinne {m} {f}, frøken {m} {f}
+mistress {n} (woman in extramarital relationship)	 :: [Bokmål] elskerinne {m} {f}
+mistress {n} (woman of authority)	 :: [Bokmål] frue {m} {f}
+misunderstand {v} (to understand incorrectly, while thinking one has understood correctly)	 :: misforstå
+misuse {n} (incorrect, improper or unlawful use)	 :: [Bokmål] misbruk {m} {n}; [Nynorsk] misbruk {m} {n}
+mite {n} (an arachnid)	 :: mit {m}, midd {m}
+mitigate {v} (to reduce, lessen, or decrease)	 :: [Bokmål] lindre, formilde, avbøte
+mitre {n} (a covering for the head, worn on solemn occasions by church dignitaries)	 :: mitra
+mitt {n} (mitten) SEE: mitten	 ::
+mitten {n} (glove with a separate sheath for the thumb only)	 :: [Bokmål] vott {m}; [Nynorsk] vott {m}
+mix {n} (result of mixing two or more substances)	 :: blanding {m} {f}
+mix {v} (combine items from two or more sources normally kept separate)	 :: blande
+mix {v} (music: combine several tracks)	 :: mikse
+mix {v} (stir two or more substances together)	 :: blande, mikse
+mizzen {n} (mizzenmast) SEE: mizzenmast	 ::
+Mjollnir {prop} (the hammer of Thor)	 :: Mjølner
+mmole {n} (millimole) SEE: millimole	 ::
+moa {n} (extinct bird)	 :: moafugler
+moat {n} (defensive ditch)	 :: [Bokmål] vollgrav {m} {f}; [Nynorsk] vollgrav {f}
+mob {n} (mafia) SEE: mafia	 ::
+mobile {adj} (capable of being moved)	 :: bevegelig, mobil
+mobile {n} (decoration)	 :: uro {m}
+mobile {n} (mobile phone) SEE: mobile phone	 ::
+mobile phone {n} (a portable telephone)	 :: mobiltelefon {m}, mobil {m}
+mobilisation {n} (mobilization) SEE: mobilization	 ::
+mobilize {v} (mobilise) SEE: mobilise	 ::
+mock {v} (to mimic)	 :: [Bokmål] imitere, herme
+mock {v} (to taunt)	 :: [Bokmål] herme etter
+mocker {n} (mocking bird) SEE: mocking bird	 ::
+mock exam {n} (an examination where the marks do not count)	 :: tentamen
+modern {adj} (pertaining to the current time and style)	 :: moderne
+Modern Greek {prop} (Modern Greek)	 :: [Bokmål] nygresk {m}; [Nynorsk] nygresk {m}
+Modern Standard Arabic {prop} (Modern Standard Arabic)	 :: [Bokmål] Moderne Standard Arabisk {m}
+Mohammad {prop} (male given name) SEE: Muhammad	 ::
+Mohammad {prop} (prophet) SEE: Muhammad	 ::
+moisturising cream {n} (cream that moisturises the skin)	 :: [Bokmål] fuktighetskrem {m}
+mojibake {n} (corrupt characters or letters)	 :: [Bokmål] tegnsalat
+molasses {n} (thick brownish syrup refined from raw sugar)	 :: [Bokmål] melasse {m}; [Nynorsk] melasse {m}
+Moldavia {prop} (Moldova) SEE: Moldova	 ::
+Moldavian {n} (inhabitant of the Republic of Moldova)	 :: [Bokmål] moldover {m}; [Nynorsk] moldovar {m}
+Moldova {prop} (country)	 :: Moldova
+Moldovan {adj} (Moldavian) SEE: Moldavian	 ::
+Moldovan {n} (Moldavian) SEE: Moldavian	 ::
+Moldovan {prop} (Moldavian) SEE: Moldavian	 ::
+moldy {adj} (mouldy) SEE: mouldy	 ::
+mole {n} (burrowing insectivore)	 :: [Bokmål] moldvarp {m}, muldvarp {m}; [Nynorsk] moldvarp {m}
+mole {n} (dark spot on the skin)	 :: føflekk {m}
+mole {n} (internal spy)	 :: [Bokmål] moldvarp {m}, muldvarp {m}; [Nynorsk] moldvarp {m}
+mole {n} (mole rat) SEE: mole rat	 ::
+molecule {n} (group of atoms held together by chemical bonds)	 :: molekyl {n}; [Nynorsk] molekyl {n}
+mollie {n} (Molotov cocktail) SEE: Molotov cocktail	 ::
+molybdenum {n} (chemical element)	 :: molybden
+mom {n} (mother) SEE: mum	 ::
+moment {n} (moment in time)	 :: [Bokmål] tidspunkt {n}, øyeblikk {n}; [Nynorsk] tidspunkt {n}, augeblikk {n}, augeblink {m}
+moment {n} (moment of force)	 :: moment
+moment {n} (very brief period of time)	 :: [Bokmål] øyeblikk {n}; [Nynorsk] augeblikk {n}, augneblunk {m}
+momentarily {adv} (In a moment or very soon)	 :: straks, veldig snart, veldig snart, øyeblikkelig, straks, straks
+mommy {n} (mum) SEE: mum	 ::
+Monaco {prop} (capital city)	 :: Monaco
+Monaco {prop} (country in Europe)	 :: Monaco
+Mona Lisa {prop} (painting by Leonardo Da Vinci)	 :: Mona Lisa
+monarch {n} (ruler)	 :: monark {m}
+monarchic {adj} (of, or relating to monarchy or to be a monarch)	 :: monarkisk
+monarchy {n} (form of government with a hereditary head of state)	 :: kongedømme {n}, monarki {n}
+monastery {n} (place of residence for members of a religious community)	 :: [Bokmål] kloster {n}; [Nynorsk] kloster {n}
+Monastir {prop} (former name of Bitola in Macedonia)	 :: Bitola
+Monday {adv} (on Monday)	 :: på mandag
+Monday {n} (day of the week)	 :: mandag [Bokmål]; [Nynorsk] måndag
+money {n} (cash)	 :: kontanter {p}; [Bokmål] penger {p}
+money {n} (means of exchange and measure of value)	 :: [Bokmål] penger {p}
+Monégasque {adj} (of or relating to Monaco or its inhabitants)	 :: [Bokmål] monegaskisk; [Nynorsk] monegaskisk
+Monégasque {n} (a native or inhabitant of Monaco)	 :: [Bokmål] monegasker {m}; [Nynorsk] monegask {m}, monegaskar {m}
+Mongol {prop} (A person from Mongolia; a Mongolian) SEE: Mongolian	 ::
+Mongol {prop} (member of the nomadic people)	 :: [Bokmål] mongol {m}; [Nynorsk] mongol {m}
+Mongolia {prop} (Central Asian country)	 :: Mongolia
+Mongolian {adj} (designating or affected with Down syndrome) SEE: Mongol, mongoloid	 ::
+Mongolian {adj} (of or relating to Mongolia or its peoples, languages, or cultures)	 :: [Bokmål] mongolsk; [Nynorsk] mongolsk
+Mongolian {adj} (resembling or having some of the characteristic physical features of the Mongoloid racial type) SEE: mongoloid	 ::
+Mongolian {n} (language of Mongolia)	 :: [Bokmål] mongolsk {m}; [Nynorsk] mongolsk {m}
+Mongolian {n} (native or inhabitant of Mongolia)	 :: [Bokmål] mongol {m}; [Nynorsk] mongol {m}
+Mongolian {n} (person of Mongoloid physical type)	 :: [Bokmål] mongol {m}; [Nynorsk] mongol {m}
+Monica {prop} (female given name)	 :: Monika
+Monika {prop} (female given name) SEE: Monica	 ::
+moniker {n} (signature) SEE: signature	 ::
+monitor {n} (class of armored warship)	 :: [Bokmål] monitor {m}; [Nynorsk] monitor {m}
+monitor {n} (ironclad) SEE: ironclad	 ::
+monitor {n} (monitor lizard) SEE: monitor lizard	 ::
+monitor {v} (watch over, guard)	 :: overvåke
+monk {n} (male member of monastic order)	 :: munk {m}
+monk {n} (slang: judge) SEE: judge	 ::
+monk {n} (slang: loner) SEE: loner	 ::
+monkey {n} (primate)	 :: [Bokmål] ape {m}, apekatt {m}
+monkey bars {n} (jungle gym) SEE: jungle gym	 ::
+monk's hood {n} (monkshood) SEE: monkshood	 ::
+monochrome {adj} (having only one colour)	 :: ensfarget
+monochrome {adj} (of a photograph, representing colours with shades of gray)	 :: monokromatisk, svarthvit
+monochrome {n} (black and white image)	 :: monokrom {m}, svarthvittbilde {n}
+monocotyledon {n} (Plant belonging to Monocotyledones or Liliopsida)	 :: enfrøbladet plante; [Bokmål] enfrøbladinger
+monogermane {n} (germane) SEE: germane	 ::
+monoglottism {n} (condition of being able to speak only a single language) SEE: unilingualism	 ::
+monolingual {adj} (only knowing or spoken in one language)	 :: ettspråklig
+monolingualism {n} (condition of being able to speak only a single language) SEE: unilingualism	 ::
+monophthong {n} (vowel that has same sound throughout its pronunciation)	 :: monoftong {m}
+monophthongization {n} (the process of becoming monophthong)	 :: monoftongering {m} {f}
+monopoly {n}	 :: monopol
+Monopoly {prop} (a board game)	 :: [Bokmål] Monopol
+monster {n} (terrifying dangerous creature)	 :: monster {n}, uhyre {n}
+monstrosity {n} (Monstrous thing, person or act)	 :: uhyrlighet
+Montenegrin {adj} (relating to Montenegro)	 :: [Bokmål] montenegrinsk; [Nynorsk] montenegrinsk
+Montenegrin {n} (person from Montenegro)	 :: [Bokmål] montenegriner {m}; [Nynorsk] montenegrinar {m}
+Montenegrin {prop} (the standardized variety of Serbo-Croatian)	 :: [Bokmål] montenegrinsk {m}; [Nynorsk] montenegrinsk {m}
+month {n} (period into which a year is divided)	 :: måned
+monthly {adj} (Occurring every month)	 :: [Bokmål] månedlig; [Nynorsk] månadleg
+monthly {adv} (Occurring every month)	 :: [Bokmål] månedlig; [Nynorsk] månadleg
+monument {n} (a structure built for commemorative or symbolic reasons)	 :: [Bokmål] monument {n}; [Nynorsk] monument {n}
+moo {interj} (sound made by a cow or bull)	 :: mø
+moo {v} (to make a lowing sound)	 :: raute
+mooch {n} (moocher) SEE: moocher	 ::
+moocher {n} (a person having a tendency to repeatedly ask help of others)	 :: snylter {m}
+mood {n} (bad mood)	 :: dårlig humør {n}
+mood {n} (disposition (see also in the mood))	 :: humør {n}
+mood {n} (in grammar)	 :: modus {m}
+mood {n} (mental state)	 :: humør {n}
+mood {n} (prevalent atmosphere)	 :: stemning {m} {f}
+moon {n} (any substantially sized natural satellite of a planet)	 :: måne {m}
+moon {n} (largest natural satellite of planet Earth)	 :: månen {m}
+moon {n} (month)	 :: [Bokmål] måned; [Nynorsk] månad
+Moon {prop} (sole natural satellite of the Earth)	 :: måne {m}
+moonbeam {n} (moonlight generally) SEE: moonlight	 ::
+moon-blind {n} (moon blindness) SEE: moon blindness	 ::
+moon-blind {n} (night-blind) SEE: night-blind	 ::
+moon blindness {n} (night blindness) SEE: night blindness	 ::
+moon bounce {n} (bounce house) SEE: bouncing castle	 ::
+moonbounce {n} (bouncy castle) SEE: bouncing castle	 ::
+moon landing {n} ( arrival of a spacecraft on the moon)	 :: månelanding {m} {f}; [Nynorsk] månelanding {f}
+moonlight {n} (light reflected from the moon)	 :: [Bokmål] måneskinn {n}; [Nynorsk] måneskin {n}
+moon rocket {n} (moon-bound rocket-propelled vehicle)	 :: [Bokmål] månerakett {m}; [Nynorsk] månerakett {m}
+moonshine {n} (illicit liquor)	 :: hjemmebrent {m}
+moonshine {n} (shine of the moon)	 :: måneskinn {n}
+moor {n} (region with poor, marshy soil, peat and heath)	 :: lynghei
+moose {n} (largest member of the deer family (Alces alces))	 :: elg {m}
+moot {v} (debate) SEE: debate	 ::
+moot {v} (discuss) SEE: discuss	 ::
+mop {v} (to rub, scrub, clean or wipe with a mop, or as if with a mop)	 :: mopp
+moped {n} (two-wheeled vehicle)	 :: [Bokmål] moped {m}; [Nynorsk] moped {m}
+moral philosophy {n} (ethics) SEE: ethics	 ::
+moratorium {n} (authorization permitting temporary suspension of payments)	 :: moratorium {n}
+moratorium {n} (suspension of an ongoing activity)	 :: moratorium {n}
+Moravia {prop} (historical region)	 :: Mähren
+morbid {adj} (grisly, gruesome)	 :: morbid
+morbid {adj} (suggesting the horror of death)	 :: morbid
+morbid {adj} (unhealthy or unwholesome, especially psychologically)	 :: morbid
+mordacious {adj} (corrosive) SEE: corrosive	 ::
+Mordvin {adj} (pertaining Mordovia) SEE: Mordovian	 ::
+Mordvinia {prop} (republic of Russia) SEE: Mordovia	 ::
+Mordvinian {adj} (pertaining to Mordvinia) SEE: Mordovian	 ::
+Mordvinian {n} (someone from Mordvinia) SEE: Mordovian	 ::
+more {adv} (comparative of much)	 :: [Bokmål] mer; [Nynorsk] meir
+more {adv} (word to form a comparative)	 :: [Bokmål] mer; [Nynorsk] meir
+more {determiner} (comparative of many)	 :: [Bokmål] flere; [Nynorsk] fleire
+more {determiner} (comparative of much)	 :: [Bokmål] mer; [Nynorsk] meir
+more or less {adv} (approximately)	 :: [Bokmål] mer eller mindre; [Nynorsk] meir eller mindre
+morgue {n} (haughty attitude) SEE: arrogance	 ::
+moribund {adj} (approaching death)	 :: døende
+morion {n} (type of helmet)	 :: morion
+morna {n} (a genre of Cape Verdean music)	 :: morna
+morning {n} (the part of the day after midnight and before midday)	 :: [Bokmål] morgen {m}; [Nynorsk] morgon {m}
+morning after {n} (hangover) SEE: hangover	 ::
+morning glory {n} (erection present on waking) SEE: morning wood	 ::
+morning person {n} (early bird) SEE: early bird	 ::
+morning star {n} (spiked weapon on staff)	 :: [Bokmål] morgenstjerne {m} {f}; [Nynorsk] morgonstjerne {f}
+morning tent {n} (morning erection) SEE: morning wood	 ::
+morning wood {n} (morning erection)	 :: [Bokmål] morrabrød {n}, morgenbrød {n}
+Moroccan {adj} (pertaining to Morocco)	 :: [Bokmål] marokkansk; [Nynorsk] marokkansk
+Moroccan {n} (person from Morocco)	 :: [Bokmål] marokkaner {m}; [Nynorsk] marokkan {m}, marokkanar {m}
+moron {n} (idiot) SEE: idiot	 ::
+morph {n} (allomorph) SEE: allomorph	 ::
+morphine {n} (crystalline alkaloid)	 :: morfin
+morrow {n} (morning)	 :: morgen {m}
+Morse code {prop} (a character code represented by dots and dashes)	 :: [Bokmål] morsealfabet {n}; [Nynorsk] morsealfabet {n}
+mortality {n} (condition of being susceptible to death)	 :: [Bokmål] dødelighet {m} {f}; [Nynorsk] dødelegheit {f}, døyelegheit
+mortality {n} (death rate)	 :: [Bokmål] dødelighet {m} {f}, dødsrate {m}; [Nynorsk] dødelegheit {f}, døyelegheit {f}, dødsrate {m}
+mortality rate {n} (the number of deaths)	 :: [Bokmål] dødsrate {m}, dødelighet {m} {f}, mortalitet {m}; [Nynorsk] dødsrate {m}, dødelegheit {f}, døyelegheit {f}, mortalitet {m}
+mortar {n} (mixture of lime or cement, sand and water)	 :: mørtel {m}
+mortar {n} (short large-bore cannon)	 :: bombekaster {m}
+mortar {n} (vessel used to grind ingredients)	 :: morter {m}
+mortgage {n} (special form of secured loan)	 :: hypothek {n}
+mortise-and-tenon joint {n} (joint)	 :: tappsammenføyning, hull og tapp
+mortuary {n} (morgue) SEE: morgue	 ::
+Moscow {prop} (Capital city of Russia)	 :: Moskva
+Moses {prop} (the biblical patriarch)	 :: Moses
+Mosotho {n} (a citizen of Lesotho)	 :: [Bokmål] lesothoer {m}; [Nynorsk] lesothoar {m}
+mosque {n} (a place of worship for Muslims)	 :: [Bokmål] moské {m}; [Nynorsk] moské {m}
+mosquito {n} (small flying insect of the family Culcidae, known for biting and sucking blood)	 :: mygg {m}
+moss {n} (bog) SEE: bog	 ::
+most {adv} (adverb forming superlative)	 :: [Bokmål] mest; [Nynorsk] mest
+most {adv} (highly)	 :: høyst, meget, veldig
+most {adv} (superlative of many)	 :: [Bokmål] flest; [Nynorsk] flest
+most {adv} (superlative of much)	 :: [Bokmål] mest; [Nynorsk] mest
+most {determiner} ( majority of )	 :: [Bokmål] de fleste; [Nynorsk] de fleste
+motet {n} (a composition adapted to sacred words in the elaborate polyphonic church style)	 :: motett {m}
+moth {n} (insect similar to a butterfly)	 :: nattsvermer {m}
+mother {n} (female (human) who parents a child, gives birth to a baby, or is pregnant)	 :: [Bokmål] mor {m} {f}, mamma {m}, moder {m}; [Nynorsk] mor {f}
+mother {n} (motherfucker) SEE: motherfucker	 ::
+mother {n} (one’s female parent)	 :: [Bokmål] mor {m} {f}, mamma {m}, moder {m}; [Nynorsk] mor {f}
+motherfucker {n} (generic term of abuse)	 :: drittsekk {m}, rasshøl {n}, jævel {m}
+mother-in-law {n} (spouse’s mother)	 :: [Bokmål] svigermor {m} {f} ; [Nynorsk] svigermor {f}
+motherless {adj} (without a living mother)	 :: morløs
+mother-naked {adj} (in the buff) SEE: in the buff	 ::
+mother-of-pearl {n} (the hard pearly inner layer of certain mollusk shells)	 :: perlemor {n}
+mother's milk {n} (breast milk)	 :: [Bokmål] brystmelk {c}, brystmjølk {c}, morsmelk {c}, morsmjølk {c}; [Nynorsk] brystmjølk {f}, morsmjølk {f}
+mother tongue {n} (one's native tongue)	 :: [Bokmål] morsmål {n}; [Nynorsk] morsmål {n}
+motion picture {n} (movie) SEE: movie	 ::
+motivation {n} (Willingness of action especially in behavior)	 :: motivasjon
+motive {n}	 :: motiv {n}
+motorcar {n} (enclosed passenger vehicle powered by engine) SEE: automobile	 ::
+motorcycle {n} (open-seated motor-powered vehicle with two wheels)	 :: [Bokmål] motorsykkel {m}; [Nynorsk] motorsykkel {m}
+motorist {n} (one who drives a motor vehicle)	 :: [Bokmål] bilist {m}; [Nynorsk] bilist {m}
+motor vehicle {n} (any land-based means of transportation)	 :: [Bokmål] motorkjøretøy {n}, motorvogn {m} {f}; [Nynorsk] motorkøyretøy {n}, motorvogn {f}
+motorway {n} (broad highway)	 :: motorvei; [Bokmål] motorvei; [Nynorsk] motorveg
+mouflon {n} (sheep)	 :: mufflon
+mould {n} (mould) SEE: mold	 ::
+mould {v} (mould) SEE: mold	 ::
+mouldy {adj} (neglected) SEE: neglected	 ::
+mound {n} (vulva) SEE: vulva	 ::
+mount {n} (mountain)	 :: fjell {n}, berg {n}
+mount {v} (attach an object)	 :: montere
+mount {v} (climb up/on; to ride)	 :: bestige
+mount {v} (Computing, attach drive or device)	 :: montere
+mount {v} (get on top of an animal to mate)	 :: bestige
+mount {v} (to have sexual intercourse with someone, something)	 :: bestige
+mountain {n} (large mass of earth and rock)	 :: [Bokmål] fjell {n}; [Nynorsk] fjell {n}
+mountain climbing {n} (mountaineering) SEE: mountaineering	 ::
+mountaineer {n} (one who climbs mountains for sport or pleasure)	 :: [Bokmål] fjellklatrer {m}; [Nynorsk] fjellklatrar {m}
+mountain sickness {n} (altitude sickness) SEE: altitude sickness	 ::
+mountainside {n} (slope of mountain)	 :: [Bokmål] fjellside {m} {f}; [Nynorsk] fjellside {f}
+mountaintop {n} (the summit of a mountain)	 :: [Bokmål] fjelltopp {m}; [Nynorsk] fjelltopp {m}
+mouse {n} (computing: input device)	 :: mus {m} {f}, datamus {m} {f}
+mouse {n} (rodent of the genus Mus)	 :: mus {f}
+mouse mat {n} (mouse pad) SEE: mouse pad	 ::
+mousepad {n} (mouse pad) SEE: mouse pad	 ::
+moustache {n} (hair on upper lip)	 :: bart {m}, mustasje {m}
+mouth {n} (the end of a river out of which water flows)	 :: [Bokmål] munning {m} {f}; [Nynorsk] munning {m} {f}
+mouth {n} (the opening of a creature through which food is ingested)	 :: munn {m}, kjeft
+mouthful {n} (amount that will fit in a mouth)	 :: munnfull {m}
+mouth organ {n} (mouth organ) SEE: harmonica	 ::
+mouthpiece {n}	 :: munnstykke {n}
+mouthpiece {n} (part of a telephone)	 :: telefonrør {n}
+mouthpiece {n} (spokesman who speaks on behalf of someone else)	 :: talerør {n} [colloquial, sometimes pejorative], talsmann {m}, talsperson {m}
+mouth ulcer {n} (aphthous ulcer) SEE: aphthous ulcer	 ::
+move {n} (the act of moving; a movement)	 :: bevegelse
+move {n} (the act of moving a token on a gameboard)	 :: trekk
+move {n} (the event of changing one's residence)	 :: flytting
+move {v} (to act; to take action)	 :: handle
+move {v} (to arouse the feelings or passions of)	 :: røre
+move {v} (to change residence)	 :: flytte
+move {v} (to change the place of a piece)	 :: flytte
+move {v} (to transfer from one space or position to another)	 :: flytte
+movement {n} (trend in various fields or social categories)	 :: bevegelse
+movie {n} (motion picture)	 :: [Bokmål] film {m}; [Nynorsk] film {m}
+moviehouse {n} (cinema) SEE: cinema	 ::
+moviemaker {n} (a person who makes movies as a profession) SEE: filmmaker	 ::
+moviemaking {n} (the production of movies ) SEE: filmmaking	 ::
+movie star {n} (star of the cinema)	 :: [Bokmål] filmstjerne {m} {f}; [Nynorsk] filmstjerne {f}
+movie theater {n} (cinema) SEE: cinema	 ::
+mow {v} (to cut something down)	 :: slå, skjære, klippe
+mower {n} (lawnmower) SEE: lawnmower	 ::
+Mozarabic {prop} (language)	 :: mozarabisk
+Mr. {abbr} (Mr) SEE: Mr	 ::
+Mrs {abbr} (title before woman's name)	 :: [archaic] fru, [archaic] Fr
+much {determiner} (a large amount of)	 :: mye
+much obliged {adj} (grateful) SEE: grateful	 ::
+much obliged {adj} (thank you) SEE: thank you	 ::
+muckamuck {n} (person in a position of authority) SEE: big cheese	 ::
+muckety muck {n} (muckamuck) SEE: muckamuck	 ::
+mud {n} (mixture of soil and water)	 :: søle {f}, gjørme {f}, leire {m} {f}
+mud cake {n} (Mississippi mud pie) SEE: Mississippi mud pie	 ::
+muff {n} (a piece of fur or cloth for keeping the hands warm)	 :: [Bokmål] muffe {m} {f}; [Nynorsk] muffe {f}
+muff diving {n} (cunnilingus) SEE: cunnilingus	 ::
+muffin {n} (individual cake)	 :: muffin; muffins {m}
+muffle {n} (Anything that mutes or deadens sound)	 :: demper {m}
+muffle {n} (A warm piece of clothing for the hands)	 :: muffe {m}
+muffle {v} (To mute or deaden)	 :: dempe
+muffler {n} (scarf) SEE: scarf	 ::
+mug {n} (large cup)	 :: [Bokmål] krus
+Muggle {n} (non-magical person)	 :: gomp {m}
+Muhammad {prop} (the prophet who introduced Islam)	 :: Muhammed
+mujahideen {n} (mujahid) SEE: mujahid	 ::
+mulct {n} (pecuniary penalty)	 :: [Bokmål] mulkt {m} {f}; [Nynorsk] mulkt {f}
+mule {n} (offspring of male donkey and female horse)	 :: muldyr {n}
+mullet {n} (fish)	 :: multe
+mullet {n} (hairstyle)	 :: hockeysveis {m}
+multicolor {adj} (having many colours)	 :: [Bokmål] flerfarget, flerfarga; [Nynorsk] fleirfarga
+multicolored {adj} (having multiple colors)	 :: [Bokmål] flerfarget, flerfarga; [Nynorsk] fleirfarga
+multicultural {adj} (relating to several different cultures)	 :: [Bokmål] flerkulturell; [Nynorsk] fleirkulturell
+multi-hydrocarbon {n} (petroleum jelly) SEE: petroleum jelly	 ::
+multilingual {adj} (pertaining to multiple languages)	 :: [Bokmål] flerpråklig; [Nynorsk] fleirspråkleg
+multilingualism {n} (condition of being able to speak several languages)	 :: flerspråklighet {m} {f}
+multimillionaire {n} (person worth many millions)	 :: [Bokmål] mangemillionær {m}; [Nynorsk] mangemillionær {m}
+multiple personality disorder {n} (dissociative identity disorder) SEE: dissociative identity disorder	 ::
+multiplication {n} (calculation)	 :: [Bokmål] multiplikasjon {m}; [Nynorsk] multiplikasjon {m}
+multiplication {n} (process)	 :: [Bokmål] multiplikasjon {m}; [Nynorsk] multiplikasjon {m}
+multiply {v} (intransitive: perform multiplication)	 :: [Bokmål] multiplisere, gange; [Nynorsk] multiplisere, gange
+multiply {v} (transitive: perform multiplication on (a number))	 :: [Bokmål] multiplisere, gange; [Nynorsk] multiplisere, gange
+mumble {n} (low tone of voice)	 :: mumling {m} {f}
+mumble {n} (quiet vocalization)	 :: mumling {m} {f}
+mumble {v} (to speak unintelligibly)	 :: mumle
+mumijo {n} (shilajit) SEE: shilajit	 ::
+mummy {n} (child's term for mother)	 :: mamma {m}
+mummy {n} (embalmed corpse)	 :: mumie {m}
+mummy's boy {n} (momma's boy) SEE: momma's boy	 ::
+mumps {n} (contagious disease)	 :: kusma
+mundane {adj} (ordinary)	 :: alminnelig, repeterende
+mundane {adj} (tedious)	 :: kjedelig
+mundane {adj} (worldly)	 :: verdslig
+Munich {prop} (capital of Bavaria)	 :: München
+municipal {adj} (pertaining to city)	 :: kommunal, kommune-
+municipality {n} (a district with a government that typically encloses no other governed distrcits)	 :: [Bokmål] kommune {m}; [Nynorsk] kommune {m}
+munificent {adj} ((of a person or group) very liberal in giving or bestowing)	 :: raus, rundhåndet
+muon {n} (an unstable elementary particle in the lepton family)	 :: myon {n}
+murder {n} (an act of deliberate killing)	 :: mord {n}
+murder {n} (the crime of deliberate killing)	 :: overlagt drap {n}
+murder {v} (defeat decisively)	 :: ta knekken på
+murder {v} (deliberately kill)	 :: myrde
+murder {v} (express one’s anger at)	 :: drepe
+murderer {n} (person who commits murder)	 :: morder {m}
+murky {adj} (gloomy) SEE: gloomy	 ::
+murky {adj} (obscure) SEE: obscure	 ::
+Murphy's law {prop} (adage which states that if anything can go wrong it will)	 :: Loven om tingenes iboende faenskap.
+murrey {n} (mulberry) SEE: mulberry	 ::
+muscle {n} (contractile tissue)	 :: muskel
+muscleman {n} (bodyguard) SEE: bodyguard	 ::
+Muscovy duck {n} (duck)	 :: moskusand {m}, knoppand {m}
+muse {n} (a source of inspiration)	 :: muse
+museum {n} (building or institution)	 :: museum
+mushroom {n} (champignon) SEE: champignon	 ::
+mushroom {n} (fruiting body of a fungus)	 :: sopp
+music {n} (any pleasing or interesting sounds)	 :: musikk {m}
+music {n}	 :: musikk {m}
+music {n} (sheet music)	 :: noter {p}
+music {n} (sound, organized in time in a melodious way)	 :: musikk {m}
+musical {n} (stage performance, show or film)	 :: [Bokmål] musikal {m}; [Nynorsk] musikal {m}
+musical instrument {n} (a device, object, contrivance or machine used to produce musical notes or sounds)	 :: [Bokmål] musikkinstrument {n}; [Nynorsk] musikkinstrument {n}
+musician {n} (person who performs or writes music)	 :: [Bokmål] musiker {m}; [Nynorsk] musikar {m}
+musket {n} (firearm)	 :: muskett {m}
+musketeer {n} (foot soldier)	 :: musketer {m}
+musk mallow {n} (Abelmoschus moschatus) SEE: abelmosk	 ::
+musk mallow {n} (Malva lcea) SEE: vervain mallow	 ::
+musk ox {n} (an arctic mammal)	 :: [Bokmål] moskusoks; [Nynorsk] moskusfe
+muskrat {n} (Ondatra zibethicus)	 :: bisamrotte
+Muslim {n} (believer of Islam)	 :: [Bokmål] muslim
+muslin {n} (very different styles of fabric) SEE: fabric	 ::
+mussel {n} (a small edible bivalve shellfish, see also: clam, see also: oyster, see also: mollusc)	 :: blåskjell
+must {n} (something mandatory)	 :: krav {n}, must {n}
+must {n} (unfermented fruit juice)	 :: [Bokmål] most {m}; [Nynorsk] most {m}
+must {v} (must)	 :: måtte
+mustache {n} (moustache) SEE: moustache	 ::
+mustard {n} (condiment)	 :: sennep [Bokmål]
+mutation {n} (mutant) SEE: mutant	 ::
+mute {adj} (not having the power of speech)	 :: stum
+mute {adj} (silent, not making a sound)	 :: stille
+mute {n} (bird droppings)	 :: skitt {m}, dritt {m}
+mute {n} (sordine)	 :: sordin {m}
+mutt {n} (a mongrel dog)	 :: kjøter {m}
+mutt {n} (a term of abuse)	 :: [Bokmål] tulling
+muzzle {n} (open end of a gun)	 :: [Bokmål] munning {m} {f}; [Nynorsk] munning {m} {f}
+muzzle {v} (to apply a muzzle)	 :: sette munnkurv på
+muzzle {v} (to restrain from speaking or acting)	 :: gi, få munnkurv
+muzzle compensator {n} (muzzle brake) SEE: muzzle brake	 ::
+my {determiner} (belonging to me)	 :: min {m}
+Myanmar {prop} (Burmese) SEE: Burmese	 ::
+Myanmar {prop} (Southeast Asian country)	 :: Myanmar, Burma
+mycorrhiza {n} (symbiotic relationship between the mycelium of a fungus and the roots of a plant)	 :: [Nynorsk] sopprot
+my name is {phrase} (a way to identify oneself)	 :: jeg heter..., mitt navn er...
+my pleasure {interj} (a polite reaction to receiving thanks)	 :: bare hyggelig, værsågod
+myrrh {n} (dried sap of the myrrha tree)	 :: myrra
+myrtle {n} (evergreen shrub)	 :: myrte
+myself {n} (that being which is oneself)	 :: megselv, meg selv
+mysterious {adj}	 :: mystisk
+mystery {n} (something secret or unexplainable)	 :: mysterium {n}
+mystical {adj} (relating to mystics or mysticism)	 :: mystisk
+myth {n} (commonly-held but false belief)	 :: [Bokmål] myte {m}; [Nynorsk] myte {m}
+myth {n} (divine story)	 :: [Bokmål] myte {m}; [Nynorsk] myte {m}
+mythologic {adj} (mythological) SEE: mythological	 ::

@@ -1,0 +1,949 @@
+﻿Habacuc {prop} (Habakkuk) SEE: Habakkuk	 ::
+Habakkuk {prop} (book of the Bible)	 :: Habakuk
+habit {n} (action performed repeatedly and automatically, usually without awareness)	 :: vane {m}
+habit {n} (an action done on a regular basis)	 :: vane {m}, sedvane
+habitable {adj} (inhabited) SEE: inhabited	 ::
+habitué {n} (devotee) SEE: devotee	 ::
+hack {n} (miner's pick) SEE: pickaxe	 ::
+had best {v} (had better) SEE: had better	 ::
+haddock {n} (marine fish)	 :: [Bokmål] hyse {m} {f}, kolje {m} {f}; [Nynorsk] hyse {f}, kolje {f}
+Hadean time {prop} (Hadean) SEE: Hadean	 ::
+Hadrian {prop} (male given name) SEE: Adrian	 ::
+haemophilia {n} (any of several hereditary illnesses that impair the body's ability to control bleeding)	 :: blødersykdom
+haemorrhage {n} (heavy loss of blood)	 :: blødning {c}
+hafnium {n} (chemical element)	 :: hafnium
+hag {n} (an ugly old woman)	 :: kjerring
+hagfish {n}	 :: [Bokmål] slimål {m}
+Haggai {prop} (book of The Bible)	 :: Haggai
+haggle {v} (to argue for a better deal)	 :: prute
+haiku {n} (Japanese poem of a specific form)	 :: haiku {m}
+haiku {n} (poem of similar structure)	 :: haiku {m}
+hail {n} (balls of ice)	 :: hagl {n}
+hail {v} (said when hail is falling)	 :: hagle
+hair {n} (a pigmented keratinaceous growth on the human head)	 :: [Bokmål] hår {n}; [Nynorsk] hår {n}
+hair {n} (one of the above-mentioned filaments)	 :: [Bokmål] hår {n}; [Nynorsk] hår {n}
+hair {n} (the collection or mass of filaments growing from the skin of humans and animals)	 :: [Bokmål] hår {n}; [Nynorsk] hår {n}
+hairbrush {n} (a brush used in hair care)	 :: [Bokmål] hårbørste {m}; [Nynorsk] hårbørste {m}
+hair-brush {n} (a brush used in hair care) SEE: hairbrush	 ::
+hair curler {n} (a small tube that is rolled into a person's hair) SEE: hair roller	 ::
+haircut {n} (act of cutting of hair)	 :: frisyre {m}, hårklipp {m}
+haircut {n} (way hair is cut)	 :: frisyre {m}, hårklipp {m}
+hairdresser {n} (professional for haircutting or hairstyling)	 :: [Bokmål] frisør
+hair dryer {n} (an electrical device used for drying hair) SEE: hairdryer	 ::
+hairdryer {n} (electrical appliance for drying hair)	 :: [Bokmål] føner {m}
+hairless {adj} (bald) SEE: bald	 ::
+hairline {n} (the line along one's forehead where hair starts growing)	 :: [Bokmål] hårfeste {n}; [Nynorsk] hårfeste {n}
+hair spray {n} (hairstyling product that stiffens the hair)	 :: hårspray {m}
+hairstyle {n} (the style in which someone's hair has been cut and arranged)	 :: [Bokmål] frisyre {m}, sveis {m}; [Nynorsk] frisyre {m}, sveis {m}
+haitch {n} (name of the letter H) SEE: aitch	 ::
+Haiti {prop} (A country in the Caribbean)	 :: Haiti
+Haitian {adj} (pertaining to the country, people, or language)	 :: [Bokmål] haitisk; [Nynorsk] haitisk
+Haitian {n} (person from Haiti)	 :: [Bokmål] haitier {c}; [Nynorsk] haitiar {c}
+hajj {n} (pilgrimage to Mecca)	 :: hajj {m} [Bokmål], hadj {m} [Nynorsk]
+hake {n} (fish)	 :: [Bokmål] [European hake] lysing {m}; [Nynorsk] [European hake] lysing {m}
+halant {n} (virama) SEE: virama	 ::
+halberd {n} (hand weapon)	 :: hellebard {m}
+half {adj} (consisting of a half)	 :: [Bokmål] halv; [Nynorsk] halv
+half brother {n} (a male sibling)	 :: halvbror {m}
+half-cell {n} (half cell) SEE: half cell	 ::
+half-hour {n} (period)	 :: [Bokmål] halvtime {m}; [Nynorsk] halvtime {m}
+half-life {n} (time in physics)	 :: halveringstid {m}
+half-moon {n} (the moon in its first or last quarter)	 :: [Bokmål] halvmåne {m}; [Nynorsk] halvmåne {m}
+half note {n} (minim) SEE: minim	 ::
+half-staff {n} (half-mast) SEE: half-mast	 ::
+half time {n} (interval between halves)	 :: pause {m}
+half-year {n} (period of half a year)	 :: [Bokmål] halvår {n}; [Nynorsk] halvår {n}
+half-yearly {adj} (semiannual) SEE: semiannual	 ::
+halibut {n} (fish of genus Hippoglossus)	 :: [Bokmål] kveite {m} {f}, hellefisk {m}; [Nynorsk] kveite {f}, hellefisk {m}
+hallelujah {interj} (exclamation to praise God)	 :: halleluja
+hallow {n} (holy person)	 :: [Bokmål] helgen {m}; [Nynorsk] helgen {m}
+hallow {v} (to sanctify)	 :: [Bokmål] hellige, gjøre hellig; [Nynorsk] heilage, helge, gjere heilag
+hallows {n} (plural of hallow) SEE: hallow	 ::
+hallux {n} (big toe) SEE: big toe	 ::
+halo {n} (atmospheric phenomenon)	 :: [Bokmål] halo {m}; [Nynorsk] halo {m}
+halo {n} (luminous disc around the heads of saints)	 :: [Bokmål] glorie {m}; [Nynorsk] glorie {m}
+halt {v} (to cause something to stop)	 :: stoppe
+halt {v} (to stop either temporarily or permanently)	 :: stoppe, bremse
+halt {v} (to waver or be hesitant)	 :: nøle, avvente
+halter {n} (animal's headgear)	 :: [Bokmål] grime {m} {f}; [Nynorsk] grime {f}
+ham {n} (region back of the knee joint)	 :: [Bokmål] knehase {m}, knesbot {f}, hombot {f}; [Nynorsk] knehase {m}, knesbot {f}, hombot {f}
+hamartia {n} (sin) SEE: sin	 ::
+hamburger {n} (ground beef)	 :: kvernet kjøtt {n}
+hamburger {n} (patty)	 :: kjøttdeig {m}
+hamburger {n} (sandwich)	 :: hamburger {m}, karbonadesmørbrød {n}
+ham-fisted {adj} (lacking skill in physical movement)	 :: klomsete, klønete
+hamlet {n} (small village)	 :: landsby
+hammam {n} (Turkish bath) SEE: Turkish bath	 ::
+hammer {n} (device made of a heavy steel ball)	 :: [Bokmål] slegge {m} {f}; [Nynorsk] sleggje {f}
+hammer {n} (malleus (see also malleus))	 :: [Bokmål] hammer {m}
+hammer {n} (part of a firearm)	 :: [Bokmål] hane {m} [literally cock]
+hammer {n} (piano part)	 :: [Bokmål] hammer {m}
+hammer {n} (tool)	 :: [Bokmål] hammer {m}; [Nynorsk] hammar {m}
+hammer {v} (to strike repeatedly with a hammer, some other implement, the fist, etc)	 :: hamre, banke
+hammer and sickle {n} (symbol of communism)	 :: [Bokmål] hammer och sigd; [Nynorsk] hammar och sigd
+hammerhead {n} (shark)	 :: hammerhai {m}
+hammock {n} (swinging couch or bed)	 :: [Bokmål] hengekøye {m} {f}; [Nynorsk] hengjekøye {f}
+ham radio {n} (ham radio) SEE: amateur radio	 ::
+hamster {n} (small, short-tailed European rodent)	 :: hamster {m}
+hamstring {n} (biceps femoris) SEE: biceps femoris	 ::
+Hamsun {prop} (surname)	 :: [Bokmål] Hamsun; [Nynorsk] Hamsun
+hand {n} (handwriting; style of penmanship)	 :: handskrift, håndskrift {m}
+hand {n} (part of the fore limb)	 :: [Bokmål] hand {f}, hånd {m} {f}; [Nynorsk] hand {f}
+hand {n} (pointer of an analogue/analog clock)	 :: [Bokmål] viser {m}; [Nynorsk] visar {m}
+hand {v} (to give, pass or transmit with the hand)	 :: overrekke, gi
+handbag {n} (small bag used by women)	 :: [Bokmål] håndveske {m} {f}, handveske {m} {f}; [Nynorsk] handveske {f}
+handcar {n} (a light railroad car propelled by a hand-operated pumping mechanism) SEE: draisine	 ::
+handcuff {n} (ring of a locking fetter for the hand)	 :: [Bokmål] håndjern {n}, handjern {n}; [Nynorsk] handjarn {n}, handjern {n}
+handcuffs {n} (metal rings for fastening wrists)	 :: håndjern {n}
+handed {adj} (with hands joined) SEE: hand in hand	 ::
+handfast {adj} (strong; steadfast)	 :: håndfast
+handful {n} (amount held in hand)	 :: håndfull {m}
+handful {n}	 :: knyttneve {m} (breadth of hand)
+handful {n} (small quantity)	 :: håndfull {m}
+hand grenade {n} (explosive device)	 :: [Bokmål] håndgranat {m}, handgranat {m}; [Nynorsk] handgranat {m}
+handkerchief {n} (cloth for wiping the face, eyes, nose or hands)	 :: snørrfille
+handle {n} (part of an object which is held in the hand when used or moved)	 :: håndtak {n}, hendel
+handle {v} (to manage skillfully)	 :: klare
+handle {v} (to use the hands)	 :: [Bokmål] håndtere; [Nynorsk] handtere
+handling {n} (touching, controlling, managing with the hands)	 :: [Bokmål] håndtering {m} {f}, handtering {m} {f}; [Nynorsk] handtering {f}
+hand log {n} (simple device for measuring the speed of a vessel) SEE: chip log	 ::
+hand net {n} (small net)	 :: [Bokmål] håv {m}; [Nynorsk] håv {m}
+hand-picked {adj} ((by extension, of people) specially selected)	 :: [Bokmål] håndplukket, håndplukka, handplukket, handplukka; [Nynorsk] handplukka
+handrail {n} (rail which can be held)	 :: gelender {n}, rekkverk {n}
+handshake {n} (grasping of hands by two people)	 :: [Bokmål] håndtrykk; [Nynorsk] handtrykk
+handsome {adj} (of man: attractive)	 :: pen
+hands up {interj} (surrender!)	 :: henda i været!, opp med henda!
+handwaving {adj} (waving the hands)	 :: gestikulerende
+handyman {n} (man who does odd tasks)	 :: [Bokmål] altmuligmann {m}; [Nynorsk] altmogelegmann {m}
+hangar {n} (a large garage-like structure where aircraft are kept)	 :: hangar
+hangover {n} (illness caused by heavy drinking)	 :: fyllesyke {m}, bakrus {m}
+hangul {n} (Hangeul) SEE: Hangeul	 ::
+Hangul {prop} (Korean phonetic script) SEE: hangul	 ::
+Hanja {prop} (Korean phonetic script) SEE: hanja	 ::
+hankering {n} (strong desire)	 :: lyst, lengsel
+Hannah {prop} (female given name)	 :: Hanna
+Hannah {prop} (mother of Samuel)	 :: Hanna
+Hanse {n} (Hanseatic League) SEE: Hanseatic League	 ::
+Hansel {prop} (fictional character in Hansel and Gretel)	 :: Hans
+Hanukkah {prop} (the Jewish festival)	 :: hanukka; [Nynorsk] hanukká
+Hanzi {n} (Chinese character) SEE: Chinese character	 ::
+Haora {prop} (Howrah) SEE: Howrah	 ::
+hapax {n} (hapax legomenon) SEE: hapax legomenon	 ::
+haphazard {adj} (random, chaotic, incomplete)	 :: tilfeldig
+haphazardly {adv} (in a haphazard manner)	 :: tilfeldig, tilfeldigvis
+haply {adv} (perhaps) SEE: perhaps	 ::
+happen {v} (to occur)	 :: foregå, inntreffe, skje
+happen on {v} (happen on) SEE: chance upon	 ::
+happily ever after {adv} (happily until one's death)	 :: og så levde de lykkelig alle sine dager, og er de ikke døde, så lever de ennå
+happiness {n} (emotion of being happy)	 :: lykke {m}, glede {m}; [Nynorsk] lukke
+happiness {n}	 :: glede {m}, lykke {m}
+happiness {n} (good luck)	 :: hell {n}
+happy {adj} (content (to do something); having no objection (to something))	 :: fornøyd
+happy {adj} (enjoying peace, comfort, etc.; contented, joyous)	 :: glad, lykkelig
+happy {adj} (fortunate)	 :: heldig
+happy birthday {interj} (good wishes for a birthday)	 :: gratulerer med dagen
+happy birthday {v} (wish happy birthday upon)	 :: [Bokmål] gratulere med dagen; [Nynorsk] gratulere med dagen
+Happy Easter {phrase} (an expression used during Easter)	 :: God Påske
+happy ending {n} (happy end)	 :: lykkelig slutt {m}, happy ending {m}
+Happy New Year {phrase} (Happy New Year)	 :: godt nytt år
+harbinger {v} (to announce)	 :: innvarsle
+harbor {n} (harbour) SEE: harbour	 ::
+harbor {n} (harbour) SEE: harbour	 ::
+hard {adj} (requiring a lot of effort to do or understand)	 :: [Bokmål] vanskelig
+hard {adj} (resistant to pressure)	 :: hard
+hardcore {adj} (having an extreme dedication to a certain activity)	 :: [Bokmål] beinhard
+hard drive {n} (device used for storing large amounts of data)	 :: platelager
+hard hat {n} (construction helmet)	 :: [Bokmål] vernehjelm {m}; [Nynorsk] vernehjelm {m}
+hard labor {n} (forced labor) SEE: forced labor	 ::
+hardly {adv}	 :: så vidt
+hard maple {n} (sugar maple) SEE: sugar maple	 ::
+hard-on {n} (erection of the penis)	 :: stå, ståpikk; [Nynorsk] stå, ståpikk
+hard roe {n} (roe) SEE: roe	 ::
+hardship {n} (difficulty or trouble)	 :: motgang {m}, lidelse {m}
+hardware {n} (The part of a computer that is fixed and cannot be altered without replacement or physical modification)	 :: maskinvare {m}
+hard-working {adj} (tending to work with ardour) SEE: hardworking	 ::
+hare {n} (animal)	 :: hare {m}
+harebell {n} (plant)	 :: [Bokmål] blåklokke {m} {f}; [Nynorsk] blåklokke {f}
+haricot {n} (common bean) SEE: common bean	 ::
+harmful {adj} (likely to be damaging)	 :: skadelig
+harmony {n} (pleasing combination of elements, or arrangement of sounds)	 :: harmoni {m}
+Harold {prop} (male given name)	 :: Harald
+harp {n} (musical instrument)	 :: harpe {m} {f}
+harp seal {n} (a species of seal)	 :: grønlandssel {m}
+harpsichord {n} (musical instrument)	 :: [Bokmål] cembalo
+harpy eagle {n} (Harpia harpyja)	 :: harpyørn
+harquebus {n} (obsolete matchlock firearm)	 :: [Bokmål] arkebuse {m}; [Nynorsk] arkebuse {m}
+harrow {n} (device)	 :: [Bokmål] harv {m} {f}; [Nynorsk] horv {f}
+harrow {v} (drag a harrow over)	 :: [Bokmål] harve; [Nynorsk] harve, horve
+harrowing {adj} (causing pain or distress)	 :: opprivende
+harvest {n} (autumn, fall) SEE: autumn	 ::
+harvest {n} (product or result of any exertion)	 :: avling {m}
+harvest {n} (yield of harvesting)	 :: høsting {m}
+harvest {v} (to bring in a harvest; reap)	 :: høste
+harvestman {n} (arachnid)	 :: langbein, vevkjerringer
+hashish {n} (dried leaves of the Indian hemp plant)	 :: hasj
+hashish {n} (marijuana generally) SEE: cannabis	 ::
+hassium {n} (chemical element with atomic number 108)	 :: hassium
+hassle {n} (trouble, bother, unwanted annoyances or problems)	 :: styr {n}
+hat {n} (a head covering)	 :: hatt {m}, lue {c}
+hatch {n} (horizontal door)	 :: luke {c}
+hatch {n} (trapdoor) SEE: trapdoor	 ::
+hatch {v} (to emerge from an egg)	 :: klekke
+hatch {v} (to shade an area) SEE: crosshatch	 ::
+hate {n} (hatred) SEE: hatred	 ::
+hate {v} (to dislike intensely)	 :: hate
+hatmaker {n} (someone who makes hats) SEE: hatter	 ::
+hat-rack {n} (hat rack) SEE: hat rack	 ::
+hatrack {n} (hat rack) SEE: hat rack	 ::
+hatred {n} (strong aversion)	 :: hat {n}
+hat stand {n} (hatstand) SEE: hatstand	 ::
+hatstand {n} (coat stand) SEE: coat stand	 ::
+hat-stand {n} (hatstand) SEE: hatstand	 ::
+haunt {n} (ghost) SEE: ghost	 ::
+have {v} (auxiliary used in forming the perfect and the past perfect tenses)	 :: har hat
+have {v} (to possess)	 :: ha
+have a bone to pick {v} (have a complaint or grievance)	 :: ha en høne å plukke med noen
+have a bun in the oven {v} (To be pregnant; to be expecting a baby)	 :: ha en bolle i ovnen
+have a look {v} (examine, observe) SEE: take a look	 ::
+have a nice day {phrase} (goodbye)	 :: ha en fin dag
+have a screw loose {v} (to be insane or irrational)	 :: ha en skrue løs
+have butterflies in one's stomach {v} (be nervous)	 :: ha sommerfugler i magen
+have eyes bigger than one's belly {v} (have eyes bigger than one's stomach) SEE: have eyes bigger than one's stomach	 ::
+have eyes bigger than one's stomach {v} (take more food than one can eat)	 :: øynene er større enn magen, magen blir fortere mett enn øynene (the stomach loses its appetite before the eyes do)
+have fun {interj} (wish someone a good time)	 :: kos(a) deg/dykk!
+have to {phrase} (obligation)	 :: må
+having said that {conj} (that said) SEE: that said	 ::
+hawk {n}	 :: hauk {m}
+hawk {n} (predatory bird)	 :: [Bokmål] hauk {m}; [Nynorsk] hauk {m}
+hawker {n} (falconer) SEE: falconer	 ::
+hawkmoth {n} (hawk moth) SEE: hawk moth	 ::
+hay {n} (grass cut and dried for use as animal fodder)	 :: høy {n}
+haya {n} (beech) SEE: beech	 ::
+haya {n} (Mexican beech) SEE: Mexican beech	 ::
+hazard {n} (chance) SEE: chance	 ::
+hazel {n} (hazelnut) SEE: hazelnut	 ::
+hazel {n} (tree / shrub)	 :: [Bokmål] hassel {m}; [Nynorsk] hassel {m}
+hazel grouse {n} (bird)	 :: jerpe {m} {f}
+hazelnut {n} (fruit)	 :: [Bokmål] hasselnøtt {m} {f}; [Nynorsk] haslenøtt {f}, hasselnøtt {f}
+hazelnut {n} (shrub) SEE: hazel	 ::
+he- {prefix} (the prefix he- for a male animal or a man)	 :: [Bokmål] hann, han, hann-, han-; [Nynorsk] hann, hann-
+he {pron} (personal pronoun "he")	 :: han
+head {adj} (foremost in rank or importance)	 :: hoved-
+head {adj} (of, relating to, or intended for the head)	 :: hode-
+head {adj} (placed at the top or the front)	 :: leder-, første
+head {n} (end of hammer, etc.)	 :: hode {n}
+head {n} (foam on carbonated beverages)	 :: skum {n}
+head {n} (headmaster, headmistress)	 :: rektor {m}
+head {n} (leader or chief)	 :: leder {m}, sjef {m}
+head {n} (mental aptitude or skill)	 :: hode {n}, evne {m}
+head {n} (part of the body)	 :: [Bokmål] hode {n}; [Nynorsk] hovud {n}
+head {n} (the blunt end of a nail, etc.)	 :: hode {n}
+head {n} (topmost or leading part)	 :: topp {m}
+headache {n} (pain or ache in the head)	 :: [Bokmål] hodepine {m} {f}
+head cheese {n} (terrine) SEE: brawn	 ::
+headdress {n} (a hairdo) SEE: hairdo	 ::
+head in the clouds {adv}	 :: å ha hodet i skyene, å ha hodet i fluevekt
+headland {n} (bit of coastal land that juts into the sea)	 :: nes {n}, odde {m}, tange {m}
+headline {n} (heading or title of an article)	 :: overskrift {m} {f}
+headlong {adj} (plunging downwards head foremost)	 :: med hode først
+headlong {adj} (rushing forward without restraint)	 :: hals over hode
+headlong {adv} (with an unrestrained forward motion)	 :: hals over hode
+headlong {adv} (with the head first or down)	 :: med hode først
+headlongs {adv} (headlong) SEE: headlong	 ::
+head office {n} (main admin centre)	 :: [Bokmål] hovedkontor {n}; [Nynorsk] hovudkontor {n}
+head of state {n} (the chief public representative of a nation)	 :: [Bokmål] statsoverhode {n}; [Nynorsk] statsoverhovud {n}
+headphones {n} (pair of speakers worn over or in the ears so only the wearer can hear the sound)	 :: [Bokmål] hodetelefoner {p}; [Nynorsk] hovudtelefonar {p}
+headpiece {n} (something covering the head) SEE: headgear	 ::
+head-shrinker {n} (slang: psychotherapist) SEE: shrink	 ::
+heads or tails {n} (heads or tails)	 :: krone eller mynt
+headstone {n} (grave marker)	 :: gravstein {m}
+head tax {n} (tax determined as uniform amount per individual) SEE: poll tax	 ::
+headwear {n} (headgear) SEE: headgear	 ::
+headword {n} (a word used as the title of a section)	 :: oppslagsord {n}
+heal {v} (become better)	 :: bli frisk
+heal {v} (make better)	 :: hele, kurere, helbrede
+health {n} (physical condition)	 :: [Bokmål] helse {m} {f}; [Nynorsk] helse {f}
+health {n} (state of being free of physical or psychological disease, illness, or malfunction)	 :: [Bokmål] helse {m} {f}; [Nynorsk] helse {f}
+healthy {adj}	 :: frisk
+heap {n} (type of data structure)	 :: heap
+hear {v} (to perceive with the ear)	 :: høre
+hearing {n} (proceeding at which discussions are heard)	 :: høring {m} {f}
+hearing {n} (sense used to perceive sound)	 :: hørsel {m} {f}
+hearing aid {n} (hearing assistance device)	 :: høreapparat {n}
+hear on the grapevine {v} (to hear rumors) SEE: hear through the grapevine	 ::
+heart {n} (an organ)	 :: [Bokmål] hjerte {n}; [Nynorsk] hjarte {n}, hjarta {n}
+heart {n} (a shape or symbol)	 :: [Bokmål] hjerte {n}
+heart {n} (a suit of cards)	 :: [Bokmål] hjerter {n}
+heart {n} (centre or core)	 :: [Bokmål] hjertet {n}
+heart {n} (emotions or kindness)	 :: [Bokmål] hjerte {n}
+heart attack {n} (acute myocardial infarction)	 :: hjerteinfarkt, hjerteattakk, myokardieinfarkt
+heartbeat {n} (one pulsation of the heart)	 :: hjerteslag {n}
+heartbreaker {n} (person who causes sorrow)	 :: hjerteknuser {m}
+heart-breaking {adj} (that causes extreme sorrow or grief)	 :: [Bokmål] hjerteskjærende
+heartburn {n} (pain caused by stomach acid)	 :: halsbrann {m}
+heart failure {n} (cessation of the heartbeat; cardiac arrest)	 :: hjertesvikt {m}
+heartless {adj} (without feeling)	 :: hjerteløs
+heart-rending {adj} (heart-rending) SEE: heartrending	 ::
+heartrending {adj} (that causes great grief)	 :: [Bokmål] hjerteskjærende
+heartrending {adj} (that elicits deep sympathy)	 :: [Bokmål] hjerteskjærende
+hearts {n} (plural of "heart") SEE: heart	 ::
+hearts {n} (the card suit (♥))	 :: hjerter
+hearts {n} (trick-taking card game)	 :: hjerter
+heartsease {n} (a common European wild flower)	 :: [Bokmål] stemorsblomst {m}; [Nynorsk] stemorsblom {m}, stemorsblome {m}
+heart-shaped {adj} (having the supposed shape of a heart)	 :: [Bokmål] hjerteformet, hjerteforma; [Nynorsk] hjarteforma
+heartwood {n} (wood)	 :: [Bokmål] kjerneved {m}; [Nynorsk] kjerneved {m}
+he-ass {n} (he-ass, male ass, male donkey)	 :: [Bokmål] [♂♀] esel {n}, [♂♀] asen {n}, hannesel {n}, eselhingst {m}; [Nynorsk] [♂♀] esel {n}, [♂♀] asen {n}, hannesel {n}, eselhingst {m}
+heat {n} (condition or quality of being hot)	 :: varme {m}
+heat {n} (condition where a mammal is aroused sexually or where it is especially fertile)	 :: brunst {m}
+heat {n} (hot spell)	 :: hetetokt {m}
+heat {n} ( thermal energy)	 :: varme {m}
+heat {n}	 :: varmer opp
+heat {v} (to arouse, to excite (sexually))	 :: opphisse, tenne
+heat {v} (to cause an increase in temperature of an object or space)	 :: varme opp
+heat capacity {n} (the capability of a substance to absorb heat energy)	 :: varmekapasitet
+heated {adj} (very agitated, angry or impassioned)	 :: opphetet
+heat exchanger {n} (device for transferring heat)	 :: varmeveksler {m}
+heath {n} (small everygreen shrub)	 :: lyng {n}
+heathen {adj} (Heathen) SEE: Heathen	 ::
+heathen {n} (Heathen) SEE: Heathen	 ::
+heathen {n} (person who does not follow an Abrahamic religion)	 :: [Bokmål] hedning {m}; [Nynorsk] heidning {m}
+heather {n} (plant)	 :: røsslyng
+heat pump {n} (device to transfer heat)	 :: varmepumpe {c}
+heat transfer {n} (The transmission of thermal energy via conduction, convection or radiation)	 :: varmeovergang {m}
+heat wave {n} (heat wave) SEE: heatwave	 ::
+heatwave {n} (period of very hot weather)	 :: [Bokmål] hetebølge {m} {f}
+heaven {n} (paradise)	 :: himmel {m}, paradis {n}, paradis {p}
+heaven {n} (sky)	 :: himmel {m}, sky {m} {f}
+heavenly body {n} (natural celestial body)	 :: [Bokmål] himmellegeme {n}
+heavy {adj} (having great weight)	 :: [Bokmål] tung; [Nynorsk] tung
+heavy hydrogen {n} (deuterium) SEE: deuterium	 ::
+heavy metal {n} (type of metal)	 :: [Bokmål] tungmetall {n}; [Nynorsk] tungmetall {n}
+heavy water {n} (water containing deuterium instead of normal hydrogen)	 :: [Bokmål] tungtvann {n}, tungtvatn {n}; [Nynorsk] tungtvatn {n}, tungvatn {n}
+hebdomadal {adj} (occurring once a week) SEE: weekly	 ::
+Hebrew {adj} (pertaining to the language)	 :: hebraisk
+Hebrew {adj} (pertaining to the people)	 :: hebraisk
+Hebrew {n} (person)	 :: hebraer {m}
+Hebrew {prop} (language)	 :: [Bokmål] hebraisk {m}; [Nynorsk] hebraisk {m}
+he-cat {n} (male cat)	 :: [Bokmål] hannkatt {m}; [Nynorsk] hannkatt {m}
+hectometer {n} (hectometre) SEE: hectometre	 ::
+hedge {n} (thicket of bushes planted in a row)	 :: [Bokmål] hekk {m}; [Nynorsk] hekk {m}
+hedge fund {n} (unregistered investment fund)	 :: hekkefond {n}
+hedge garlic {n} (Alliaria petiolata) SEE: garlic mustard	 ::
+hedgehog {n} (animal)	 :: [Bokmål] piggsvin {n}, pinnsvin {n}; [Nynorsk] piggsvin {n}
+Hedwig {prop} (female given name)	 :: Hedvig
+heel {n} ((anatomy) part of the foot)	 :: [Bokmål] hæl {m}; [Nynorsk] hæl {m}
+heel {n} (end-piece of a loaf of bread)	 :: skalk {m}
+heel {n} (part of shoe)	 :: [Bokmål] hæl {m}; [Nynorsk] hæl {m}
+heel {v} (incline)	 :: [Bokmål] krenge; [Nynorsk] krengja
+heel bone {n} (calcaneus) SEE: calcaneus	 ::
+hegemony {n} (domination, influence, or authority over another)	 :: hegemoni {n}
+he-goat {n} (billy goat) SEE: billy goat	 ::
+heifer {n} (young cow)	 :: kvige {f} {c}
+Heilongjiang {prop} (Amur) SEE: Amur	 ::
+heinous {adj} (totally reprehensible)	 :: [Bokmål] avskyelig, motbydelig; [Nynorsk] avskyeleg
+heir {n} (one who inherits, or is designated to inherit, the property of another)	 :: arving {m}
+heirloom {n} (valued possession passed down through the generations)	 :: arvestykke {n}
+Helen {prop} (female given name)	 :: Helene
+Helga {prop} (female given name)	 :: Helga
+helicopter {n} (aircraft)	 :: [Bokmål] helikopter {n}; [Nynorsk] helikopter {n}
+heliocentricism {n} (heliocentrism) SEE: heliocentrism	 ::
+helium {n} (chemical element)	 :: [Bokmål] helium {n}; [Nynorsk] helium {n}
+hell {n} (place of suffering in life)	 :: helvete {n}
+hell {prop} (where sinners go)	 :: helvete {n}
+Hellas {prop} (Greek name for Greece)	 :: Hellas
+Hellene {n} (a Greek)	 :: Hellener
+hello {interj} (greeting)	 :: hallo, hei, god dag [formal], halla [informal], heisann
+hello {interj} (is anyone there?)	 :: Hallo?
+hello {interj} (sarcastic: that was foolish)	 :: hallo
+hello {interj} (when answering the telephone)	 :: hallo
+hell on earth {n} (very unpleasant situation)	 :: [Bokmål] helvete på jord {n}
+hellspawn {n} (fiend) SEE: fiend	 ::
+hellspawn {n} (monster) SEE: monster	 ::
+helot {n} (serf, slave) SEE: slave	 ::
+help {n} (action given to provide assistance)	 :: hjelp
+help {n} (person employed to help in the maintenance of a house)	 :: hushjelp {m} {f}
+help {n} (person or persons who provides assistance with some task)	 :: hjelp {m} {f}
+help {v} (contribute in some way to)	 :: bidra til, hjelpe til med
+help {v} (intransitive: provide assistance)	 :: hjelpe til, hjelpe
+help {v} (transitive: avoid or prevent)	 :: hjelpe for
+help {v} (transitive: provide assistance to (someone or something))	 :: hjelpe
+helping verb {n} (auxiliary verb) SEE: auxiliary verb	 ::
+helpless {adj} (uncontrollable) SEE: uncontrollable	 ::
+helplessness {n} (state of being helpless)	 :: hjelpløshet {m}
+Helsinki {prop} (the capital city of Finland)	 :: Helsingfors
+hematologist {n} (haematologist) SEE: haematologist	 ::
+hematology {n} (study of blood and related organs) SEE: haematology	 ::
+hematopoietic {adj} (haematopoietic) SEE: haematopoietic	 ::
+hemisphere {n} (any half-sphere)	 :: halvkule
+hemisphere {n} (half of the Earth)	 :: halvkule
+hemisphere {n} (lobe of cerebrum) SEE: cerebral hemisphere	 ::
+hemlock {n} (poisonous plant of genus Cicuta) SEE: cowbane	 ::
+hemlock {n} (tree)	 :: hemlokk
+hemorrhage {n} (haemorrhage) SEE: haemorrhage	 ::
+hemorrhoid {n} (perianal varicosity)	 :: [Bokmål] hemoroide {m}; [Nynorsk] hemoroide {m}
+hemorrhoids {n} (haemorrhoids) SEE: haemorrhoids	 ::
+hemp {n} (Cannabis sativa)	 :: hamp
+hemp-nettle {n} (any weed of the genus Galeopsis in the Lamiaceae family)	 :: då
+hen {n} (female bird (i.e. chicken))	 :: høne {c}
+hence {adv} (as a result, therefore)	 :: herav, av dette følger, derfor, derav
+hence {adv} (from here)	 :: [Bokmål] herfra, herifra; [Nynorsk] herifrå
+hendecagon {n} (undecagon) SEE: undecagon	 ::
+hendiadys {n} (figure of speech)	 :: hendiadyoin
+henhouse {n} (house for chickens to live in)	 :: [Bokmål] hønsehus {n}
+hen party {n} (bachelorette party) SEE: bachelorette party	 ::
+Henrietta {prop} (feminine form of Henry)	 :: Henrikke
+Henriette {prop} (female given name) SEE: Henrietta	 ::
+Henry {prop} (given name)	 :: Henrik
+hepatic {n} (liverwort) SEE: liverwort	 ::
+hepatocarcinoma {n} (cancer of the liver) SEE: hepatoma	 ::
+heptane {n} (saturated aliphatic hydrocarbon: C7H16)	 :: heptan {n}
+her {determiner} (belonging to)	 :: henne (to her), hennes (her bag), sin [own, generic]
+herb {n} (plant used in medicine)	 :: urt {m}
+herb {n} (plant used to flavour food)	 :: urt {m}
+herb {n} (slang: marijuana)	 :: gress {n}
+herbalism {n} ((obsolete) botany) SEE: botany	 ::
+herbivore {n} (plant-eating organism)	 :: [Bokmål] planteeter {m}; [Nynorsk] planteetar {m}
+here {adv} (in, on, or at this place)	 :: her
+here {adv} (to this place)	 :: hit
+here {n} (this place)	 :: her
+here {n} (this time, the present situation)	 :: her
+hereafter {adv} (from now on) SEE: from now on	 ::
+here and there {adv} (from time to time) SEE: from time to time	 ::
+hereditary {adj} (of a disease or trait: passed in the genes)	 :: [Bokmål] arvelig
+hereditary {adj} (of a title, honor or right: granted to somebody's descendant after that person's death)	 :: [Bokmål] arvelig
+hereditary {adj} (which is passed on as inheritance)	 :: [Bokmål] arvelig
+heretic {adj} (heretical) SEE: heretical	 ::
+heretic {n} (someone who believes contrary to fundamentals)	 :: kjetter {m}
+hereto {adv} (so far) SEE: so far	 ::
+heretofore {adv} (up to the present time)	 :: [Bokmål] hittil; [Nynorsk] hittil
+here you are {phrase} (said when you hand something over)	 :: værsågod
+Herman {prop} (given name)	 :: Herman
+hermeneutics {n} (art and science of text interpretation)	 :: hermeneutikk {m}
+hermit {n} (A religious recluse; someone who lives alone for religious reasons; an eremite)	 :: eremitt
+hermit crab {n} (crab)	 :: eremittkreps {m}
+hermitic {adj} (of or pertaining to hermits) SEE: eremitic	 ::
+hermitical {adj} (of or pertaining to hermits) SEE: eremitic	 ::
+hernia {n} (part of the body protruding abnormally through a tear or opening in an adjacent part)	 :: brokk
+hero {n} (main protagonist)	 :: helt {m}
+hero {n} (person of great bravery)	 :: helt {m}
+heroin {n} (powerful and addictive drug)	 :: heroin {m}
+heroine {n} (female hero)	 :: [Bokmål] heltinne {m} {f}; [Nynorsk] heltinne {f}
+heron {n} (bird)	 :: hegre, heire {m}
+herpes {n} (viral disease)	 :: [Bokmål] herpes {m}; [Nynorsk] herpes {m}
+herpes zoster {n} (acute viral inflammation)	 :: helvetesild
+herpetology {n} (the branch of biology dealing with reptiles)	 :: herpetologi {m}
+herring {n} (fish in Clupea)	 :: sild
+hers {pron} (that which belongs to her)	 :: hennes {f}
+Hertzsprung-Russell diagram {n} (plot of the absolute magnitude of stars)	 :: Hertzsprung-Russel-diagram {n}
+hesitate {v} (to stop or pause respecting decision or action)	 :: nøle
+heterogeneity {n} (diversity) SEE: diversity	 ::
+heterogeneous {adj} (diverse in kind)	 :: [Bokmål] heterogen; [Nynorsk] heterogen
+heterogenous {adj} (heterogeneous) SEE: heterogeneous	 ::
+heuristics {n} (heuristic) SEE: heuristic	 ::
+he who laughs last laughs best {proverb}	 :: den som ler sist, ler best
+he who laughs last laughs hardest {proverb} (he who laughs last laughs best) SEE: he who laughs last laughs best	 ::
+he-wolf {n} (male wolf)	 :: hanulv {m}, hannulv {m}
+hexadecimal {n} (number system with base 16)	 :: sekstentallsystem
+hexane {n} (aliphatic hydrocarbon: C6H14)	 :: heksan {n}
+hexanoic acid {n} (caproic acid) SEE: caproic acid	 ::
+hexapod {n} (insect) SEE: insect	 ::
+hex head wrench {n} (screwdriver)	 :: [Bokmål] umbraconøkkel {m}; [Nynorsk] umbraconøkkel {m}
+hex key {n} (hex head wrench) SEE: hex head wrench	 ::
+Hezbollah {prop} (radical islamic organisation)	 :: Hizbollah
+Hezekiah {prop} (biblical king)	 :: Hiskia
+hi {interj} (friendly, informal greeting)	 :: [Bokmål] hei, heisan
+hiatus {n} (vacation)	 :: ferie
+hiccups {n} (the condition of having hiccup spasms)	 :: hikke {m}
+hick {n} (country yokel or hillbilly)	 :: bondsk
+hick {v} (hiccup) SEE: hiccup	 ::
+hickey {n} (bruise-like mark)	 :: sugemerke {n}
+hide {n} (skin of an animal)	 :: skinn {n}, dyrehud {m}
+hide {v} ((transitive))	 :: [Bokmål] gjemme, gjømme; [Nynorsk] gøyme
+hide and seek {n} (game)	 :: [Bokmål] gjemsel, gjømsel; [Nynorsk] gøymsle
+hide one's light under a bushel {v} (conceal one's talents or positive qualities)	 :: [Bokmål] sette sitt lys under en skjeppe
+hideous {adj} (distressing or offensive to the ear)	 :: stygg
+hideous {adj} (extremely ugly)	 :: fæl, stygg
+hideous {adj} (hateful; shocking)	 :: uhyrlig
+hierarchy {n} (body of authoritative officials organised by rank)	 :: [Bokmål] hierarki {n}; [Nynorsk] hierarki {n}
+Higgs particle {n} (Higgs boson) SEE: Higgs boson	 ::
+high {adj} (elevated)	 :: høy
+high {n} (anticyclone) SEE: anticyclone	 ::
+high bar {n} (horizontal bar) SEE: horizontal bar	 ::
+high-beam {n} (automobile's headlights adjusted to brighten a longer distance)	 :: fjernlys {n}
+high court {n} (supreme court) SEE: supreme court	 ::
+High German {prop} (any of a group of West Germanic languages)	 :: [Bokmål] høytysk {m}
+Highlander {n} (highlander) SEE: highlander	 ::
+high-level {adj} (of or pertaining to a person of high rank) SEE: high-ranking	 ::
+highlight {v} (to make prominent)	 :: utheve, betone
+highlight {v} (to mark with a fluorescent marker)	 :: utheve, markere
+high muckamuck {n} (muckamuck) SEE: muckamuck	 ::
+high-spirited {adj} (energetic) SEE: energetic	 ::
+high tech {n} (high technology) SEE: high technology	 ::
+high tide {n} (the natural tide at its highest level)	 :: flo {f}, høyvann {n}
+high tide {n} (the time of day when the sea has risen to its highest level)	 :: flotid {m} {f}, høyvann {n}
+highway {n} (main public road)	 :: motorvei, motorveg
+highwayman {n} (a person who robbed travelers on roads)	 :: [Bokmål] landeveisrøver {m}, stratenrøver {m}
+highway robbery {n} (The asking of an excessive or exorbitant price) SEE: daylight robbery	 ::
+hijab {n} (headscarf)	 :: [Bokmål] hijab {m}, hidsjab {m}; [Nynorsk] hijab {m}, hidsjab {m}
+hijack {n} (instance of hijacking of a vehicle)	 :: kapring {m} {f}
+hijacker {n} (someone who hijacks)	 :: [Bokmål] kaprer {m}; [Nynorsk] kaprar {m}
+hike {n} (a long walk)	 :: vandring {f}, gåtur {m}
+Hilda {prop} (female given name)	 :: Hilda
+hill {n} (elevated location)	 :: ås {m}
+hillside {n} (side of a hill)	 :: [Bokmål] åsside {m} {f}; [Nynorsk] åsside {f}
+him {pron}	 :: ham, han
+him {pron} (he) SEE: he	 ::
+him {pron} (himself) SEE: himself	 ::
+hind {n} (female deer)	 :: hind {m} {f}
+hinder {adj} (of or belonging to that part in the rear)	 :: [Bokmål] bakre, bak-; [Nynorsk] bakre, bakare, bak-
+hinder {n} (slang: buttocks)	 :: [Bokmål] bakdel, bakende, rumpe; [Nynorsk] bakdel, bakende, rumpe
+hinder {v} (to delay or impede movement)	 :: [Bokmål] hindre, forhindre; [Nynorsk] hindre, forhindre
+hinder {v} (to make a task difficult)	 :: [Bokmål] hemme; [Nynorsk] hemme
+Hindi {prop} (language)	 :: hindi
+Hindi-Urdu {prop} (Hindustani) SEE: Hindustani	 ::
+hindsight is 20/20 {proverb} (in hindsight things are obvious that were not obvious from the outset)	 :: det er lett å være etterpåklok
+Hinduism {n} (religion)	 :: hinduisme
+Hindustan {prop} (India) SEE: India	 ::
+hinge {n} (device for the pivoting of a door)	 :: hengsel {c}
+hinge {n} (philately: paper rectangle for affixing postage stamps) SEE: stamp hinge	 ::
+hinge {n} (statistics: median of upper or lower half of a batch) SEE: quartile	 ::
+hinge {v} (to attach by a hinge)	 :: hengsle
+hinge {v} (to depend on something)	 :: avhenge
+hint {v} (express suggestively)	 :: antyde, hinte
+hip {n} (joint)	 :: [Bokmål] mjødm {f}, hofte {m} {f}; [Nynorsk] mjødm {f}, hofte {f}
+hip {n} (the fruit of a rose)	 :: [Bokmål] nype {m} {f}; [Nynorsk] nype {f}
+hip bone {n} (bone)	 :: hoftebein
+hip flask {n} (pocket-size container for alcoholic beverages)	 :: [Bokmål] lommelerke {m} {f}; [Nynorsk] lommelerke {f}
+hip hip hooray {interj} (an exclamation of congratulations)	 :: hipp hipp hurra
+hip hop {n} (popular urban culture) SEE: hip-hop	 ::
+hippocaust {n} (hypocaust) SEE: hypocaust	 ::
+Hippocrates {prop} (an Ancient Greek male given name)	 :: [Bokmål] Hippokrates; [Nynorsk] Hippokrates
+hippogriff {n} (creature)	 :: hippogriff
+hippophobia {n} (fear of horses)	 :: hippofobi {m}
+hippopotamus {n} (large African mammal)	 :: [Bokmål] flodhest {m}; [Nynorsk] flodhest {m}
+hippopotomonstrosesquipedaliophobia {n} (the fear of long words)	 :: hippopotomonstrosesquippedaliofobi {m}
+hire {v} (to employ)	 :: ansette
+his {determiner} (attributive: belonging to him)	 :: hans, sin [own, generic]
+his {pron} (that which belongs to him)	 :: hans
+His Imperial Majesty {pron} (His Imperial Majesty)	 :: Hans Keiserlige Majestet
+His Majesty {pron} (title of respect used when referring to a king)	 :: Hans Majestet
+His Royal Highness {pron} (royal title)	 :: Hans Kongelige Høyhet
+hiss {v} (to make a hissing sound)	 :: hvese
+historic {adj} (having significance in history)	 :: [Bokmål] historisk; [Nynorsk] historisk
+historic {adj} (historical) SEE: historical	 ::
+historical {adj} (pertaining to history)	 :: [Bokmål] historisk; [Nynorsk] historisk
+historically {adv} (in a historic manner)	 :: [Bokmål] historisk; [Nynorsk] historisk
+historic present tense {n} (tense) SEE: historical present tense	 ::
+history {n} (aggregate of past events)	 :: historie {f}
+history {n} (branch of knowledge that studies the past)	 :: historie {f}
+history {n} (record or narrative description of past events)	 :: historie {f}
+history repeats itself {proverb} (Translations)	 :: Historien gjentar seg selv
+hit {n} (attack on a location)	 :: anslag {n}
+hit {n} (blow, punch)	 :: slag {n}
+hit {n} (dose of an illegal or addictive drug)	 :: skudd {n}
+hit {n} (success, especially in the entertainment industry)	 :: hit {m}, slager {m}
+hit {v} (in blackjack, to deal a card to)	 :: hit
+hit {v} (to affect negatively)	 :: ramme
+hit {v} (to give a blow)	 :: slå
+hit {v} (to manage to touch in the right place)	 :: treffe
+hitchhike {v} (to try to get a ride in a passing vehicle while standing at the side of a road)	 :: å haike
+hither and thither {adv} (In a disorderly manner)	 :: hit og dit
+hitherto {adv} (up to this time)	 :: hittil
+hitman {n} (a contract killer; usually paid by mafia)	 :: leiemorder {m}
+hit on {v} (to approach somebody seeking love, sex, etc.)	 :: sjekke
+Hittite {adj} (of or relating to the Hittite people, language or kingdom)	 :: [Bokmål] hettittisk; [Nynorsk] hettittisk
+Hittite {n} (person)	 :: [Nynorsk] hettitt {m}
+Hittite {prop} (language)	 :: [Bokmål] hettittisk; [Nynorsk] hettittisk {m}
+HIV {n} (human immunodeficiency virus)	 :: hiv
+hive {n} (a box or basket for the reception and habitation of a swarm of honeybees) SEE: beehive	 ::
+hives {n} (medical condition) SEE: urticaria	 ::
+hmph {interj} (sound of annoyance or indignation) SEE: humph	 ::
+HNMS {initialism} (Norway)	 :: KNM
+hnn {interj} (indicating thinking or pondering) SEE: hmm	 ::
+HNoMS {initialism} (abbreviation)	 :: KNM
+ho {n} (whore)	 :: hore {f}
+hoard {v} (to amass)	 :: hamstre
+hoarse {adj} (afflicted by a dry, quite harsh voice)	 :: hes
+hoax {n} (anything deliberately intended to deceive or trick)	 :: puss {n}, bedrag {n}
+hobbit {n} (fictional small humanoid creature)	 :: hobbit {m}
+Ho Chi Minh {prop} (Ho Chi Minh City) SEE: Ho Chi Minh City	 ::
+Ho Chi Minh City {prop} (Saigon) SEE: Saigon	 ::
+hockey stick {n} (instrument used in field hockey)	 :: [Bokmål] hockeykølle {m} {f}; [Nynorsk] hockeykølle {f}
+hockey stick {n} (instrument used in ice hockey)	 :: [Bokmål] hockeykølle {m} {f}, ishockeykølle {m} {f}; [Nynorsk] hockeykølle {f}, ishockeykølle {f}
+hodgepodge {n} (collection of miscellaneous things; a jumble)	 :: sammensurium {n}, virvar {n}
+hog {n} (animal of the family Suidae)	 :: svin {n}
+hogherd {n} (swineherd) SEE: swineherd	 ::
+hogshead {n} (cask)	 :: [Bokmål] oksehode; [Nynorsk] oksehovud
+hogshead {n} (measure)	 :: [Bokmål] oksehode; [Nynorsk] oksehovud
+hoi polloi {n} (elite) SEE: elite	 ::
+Hokkaido {prop} (a northern largest island of Japan, or a prefecture based in itself)	 :: Hokkaido; [Nynorsk] Hokkaido
+Hokkien {prop} (Min Nan) SEE: Min Nan	 ::
+hold {v} (to grasp)	 :: holde
+hold out {v} (endure)	 :: [Bokmål] holde ut; [Nynorsk] halde ut
+hold out {v} (to hold)	 :: [Bokmål] holde frem, holde fram, holde ut
+hold out {v} (to save something for later)	 :: [Bokmål] holde av; [Nynorsk] halde av
+hold out {v} (to wait for something better)	 :: [Bokmål] avvente
+hole {n} (opening in a solid)	 :: hol {n}; [Bokmål] hull {n}
+hole {n} (pit) SEE: pit	 ::
+hole punch {n} (tool)	 :: hullemaskin
+holiday {n} (day declared free from work by the government)	 :: [Bokmål] heilagdag {m}; [Nynorsk] heilagdag {m}
+holiday {n} (day on which a festival, etc, is traditionally observed)	 :: [Bokmål] helligdag {m}; [Nynorsk] heilagdag {m}
+holiday {n} (period during which pupils and students do not attend their school or university)	 :: [Bokmål] ferie {m}; [Nynorsk] ferie {m}
+holiday {n} (period of one or more days taken off work by an employee for leisure)	 :: [Bokmål] ferie {m}; [Nynorsk] ferie {m}
+holiday {n} (period taken off work or study for travel)	 :: [Bokmål] ferie {m}; [Nynorsk] ferie {m}
+holidayer {n} (one who is on holiday) SEE: holiday-maker	 ::
+holidaymaker {n} (one who is on holiday) SEE: vacationer	 ::
+holiness {n} (state or condition of being holy)	 :: [Bokmål] hellighet {m} {f}
+holism {n}	 :: Holisme
+holistic {adj}	 :: holistisk
+Holland {prop} (the Netherlands)	 :: Holland
+hollow {adj} (echoing, reverberating, as if in a hollow space)	 :: [Bokmål] dyp, hul; [Nynorsk] djup, hol
+hollow {adj} (having an empty space inside)	 :: [Bokmål] hul, hol, innhul; [Nynorsk] hol, innhol
+hollow {adj} (without substance)	 :: [Bokmål] hul; [Nynorsk] hol
+hollow {n} (sunken area)	 :: [Bokmål] hull {n}, grop {f}; [Nynorsk] hòl {n}, grop {f}
+holly {n} (any of various shrubs or small trees of the genus Ilex)	 :: kristtorn {m}
+holmium {n} (chemical element)	 :: holmium
+Holocaust {prop}	 :: holocaust
+holograph {n} (hologram) SEE: hologram	 ::
+holotropic {adj}	 :: holotropisk
+Holy Book {prop} (Holy Writ) SEE: Holy Writ	 ::
+holy moley {interj} (holy smoke) SEE: holy smoke	 ::
+Holy Roman Empire {prop} (political group)	 :: Det tysk-romerske rike
+Holy Spirit {prop} (Christian: aspect of the Holy Trinity)	 :: [Bokmål] Den Hellige Ånd {m}; [Nynorsk] Den Heilage Ande {m}, Heilaganden {m}
+Holy Thursday {prop} (Maundy Thursday) SEE: Maundy Thursday	 ::
+home {adv} (at home)	 :: hjemme
+home {adv} (homewards)	 :: hjem, hjemover
+home {n} (childhood or parental home)	 :: barndomshjem
+home {n} (habitat)	 :: hjem
+home {n} (house or structure in which someone lives)	 :: hjem {n}, heim {n}
+home {n} (place of refuge or rest)	 :: hjem
+home {n} (place of the affections)	 :: hjemme
+home {n} (someone’s native land)	 :: hjemland
+home base {n} (baseball) SEE: home plate	 ::
+home country {n} (the country where a person was born and raised)	 :: [Bokmål] hjemland {n}, heimland {n}; [Nynorsk] heimland {n}
+home game {n} (athletic contest played in a team's own turf)	 :: [Bokmål] hjemmekamp {m}, heimekamp {m}, heimekamp {m}; [Nynorsk] heimekamp {m}
+Homel {prop} (Gomel) SEE: Gomel	 ::
+homeopathy {n} (system of treating diseases with very small amounts)	 :: homøopati
+home page {n} (the main or first page of a web site)	 :: hjemmeside {m} {f}, hovedside {m} {f}, startside {m} {f}
+home page {n} (the web page set to open in a web browser when it is loaded)	 :: hjemmeside {m} {f}, startside {m} {f}
+homer {n} (four-base hit) SEE: home run	 ::
+homer {n} (homing pigeon) SEE: homing pigeon	 ::
+home school {n} (boarding school) SEE: boarding school	 ::
+homesickness {n} (missing one's home or family)	 :: hjemlengsel
+homestretch {n} (final stretch of a race track) SEE: home stretch	 ::
+homework {n} (work that is done at home)	 :: lekse {m} {f}, hjemmelekse {m} {f}
+homicide {n} (a person who kills another)	 :: drapsmann {m}, morder {m}
+homicide {n} (the killing of one person by another)	 :: drap {n}
+homing pigeon {n} (domesticated rock pigeon with strong homing instinct)	 :: [Bokmål] brevdue {m} {f}; [Nynorsk] brevdue {f}
+homocentric {adj} (anthropocentric) SEE: anthropocentric	 ::
+homoerotic {adj} (homosexual) SEE: homosexual	 ::
+homophobia {n} (fear, dislike, or hate of homosexuals)	 :: homofobi
+homosexual {adj} (sexually attracted solely or primarily to the same sex)	 :: homoseksuell {m}, [informally] homo {m}
+homosexual {n} (person who is attracted solely or primarily to others of the same sex)	 :: [informally] homse {m}, [formally] homofil {m}
+homosexuality {n} (sexual orientation)	 :: [Bokmål] homoseksualitet {m}
+homothecy {n} (homothety) SEE: homothety	 ::
+Honduran {adj} (Pertaining to Honduras)	 :: [Bokmål] honduransk; [Nynorsk] honduransk
+Honduran {n} (Person from Honduras)	 :: [Bokmål] honduraner {m}; [Nynorsk] honduran {m}, honduranar {m}
+Honduras {prop} (A country in Central America)	 :: Honduras
+honest {adj} (scrupulous with regard to telling the truth)	 :: ærlig
+honesty {n} (quality of being honest)	 :: [Bokmål] ærlighet {m} {f}; [Nynorsk] ærlegdom {m}
+honey {n} (sweet substance produced by bees)	 :: [Bokmål] honning {m}; [Nynorsk] honning {m}
+honeybadger {n} (honey badger) SEE: honey badger	 ::
+honey bear {n} (kinkajou) SEE: kinkajou	 ::
+honey bear {n} (sloth bear) SEE: sloth bear	 ::
+honey bear {n} (sun bear) SEE: sun bear	 ::
+honey bee {n} (bee)	 :: honningbie {c}
+honeybee {n} (honey bee) SEE: honey bee	 ::
+honeycomb stomach {n} (reticulum) SEE: reticulum	 ::
+honeymoon {n} (period of time immediately following a marriage)	 :: hvetebrødsdager {m-p}
+honeymoon {n} (trip taken by a newly wed married couple)	 :: bryllupsreise
+honeysuckle {n} (plant)	 :: leddved {m}
+hong bao {n} (red envelope) SEE: red envelope	 ::
+Hong Kong {prop} (coastal administrative region in south-east China)	 :: Hongkong
+honk {n} (the cry of a goose)	 :: gakk, rapp
+honk {v} (to honk like a goose)	 :: gakke
+honk {v} (to use a car horn)	 :: tute
+honor {n} (honour) SEE: honour	 ::
+honor {v} (confer honor on) SEE: honour	 ::
+honor {v} (to conform to, abide by, act in accordance with) SEE: honour	 ::
+honor {v} (to show respect for) SEE: honour	 ::
+honored {adj} (respected, having received honor) SEE: honoured	 ::
+honour {n} (token of praise or respect)	 :: [Bokmål] ære
+honour {v} (think of, respect highly)	 :: [Bokmål] ære
+hood {n} (headwear)	 :: [Bokmål] hette {m} {f}; [Nynorsk] hette {f}
+hood {n} (neighbourhood) SEE: neighbourhood	 ::
+hood {n} (thug) SEE: thug	 ::
+hooded {adj} ((garment) fitted with a hood)	 :: [Bokmål] med hette
+hooded {adj} (wearing a hood)	 :: [Bokmål] med hette over hodet
+hoodiecrow {n} (hooded crow) SEE: hooded crow	 ::
+hoof {n} (tip of a toe of ungulates)	 :: hov {m}
+hook {v} (soccer: to swerve a ball)	 :: skru
+hook {v} (to catch with a hook)	 :: huke, kroke
+hook, line and sinker {adv} ((idiomatic) completely)	 :: [Bokmål] med søkke og snøre
+hoop {n} (circular band of metal used to bind a barrel)	 :: tønnebånd {n}
+hoop {n} (game of basketball)	 :: kurv {m}
+hoop {n} (hoop earring) SEE: hoop earring	 ::
+hoop {n} (jockey) SEE: jockey	 ::
+hoop {n} (quart pot) SEE: quart pot	 ::
+hoopoe {n} (bird Upupa epops)	 :: hærfugl {m}
+hoopster {n} (basketball player) SEE: basketball player	 ::
+hooray {interj} (elated expression of approval)	 :: hurra
+hooray {n} (an expression of excitement)	 :: hurra {n}
+hooray {n} (a shout to signify victory)	 :: hurra {n}
+hooray {v} (to shout an expression of excitement)	 :: rope hurra
+hooter {n} (owl) SEE: owl	 ::
+hooter {n} (slang: nose) SEE: schnozzle	 ::
+hoover {n} (vacuum cleaner) SEE: vacuum cleaner	 ::
+hoover {v} (vacuum) SEE: vacuum	 ::
+hop {n} ((plural) flowers of the hop plant)	 :: [Bokmål] humle {m}; [Nynorsk] humle {m}
+hop {n} (the plant whose flowers are used in brewing)	 :: [Bokmål] humle {m}; [Nynorsk] humle {m}
+hope {n} (belief that something wished for can happen)	 :: håp, forhåpning {m}
+hope {n}	 :: håp
+hope {n} (person or thing that is a source of hope)	 :: håp
+hope {v} (to want something to happen, with expectation that it might)	 :: håpe
+hopeless {adj} (desperate) SEE: desperate	 ::
+hopeless {adj} (destitute of hope; having no expectation of good; despairing)	 :: [Bokmål] håpløs, håplaus, vonløs, vonlaus; [Nynorsk] vonlaus, håplaus
+hopscotch {n} (child's game)	 :: paradis {n}
+hop to it {v} (hurry up) SEE: hurry up	 ::
+horde {n} (wandering troop or gang)	 :: horde {m}
+hordeolum {n} (infection) SEE: stye	 ::
+horizon {n} (line that appears to separate the Earth from the sky)	 :: horisont {m}
+hormone {n} (substance produced by the body that effects physiological activity)	 :: [Bokmål] hormon {n}; [Nynorsk] hormon {n}
+horn {n} (antler) SEE: antler	 ::
+hornet {n} (a large wasp, of the genus Vespa, with a brown and yellow striped body)	 :: geithams {m}
+horn of plenty {n} (Craterellus cornucopioides) SEE: black chanterelle	 ::
+horny {adj} (sexually aroused)	 :: kåt, tent
+horology {n} (art, science and technology of timekeeping)	 :: horologi
+horoscope {n} (astrological forecast)	 :: [Bokmål] horoskop {n}; [Nynorsk] horoskop {n}
+horror movie {n} (motion picture which horrifies or frightens)	 :: [Bokmål] skrekkfilm {m}; [Nynorsk] skrekkfilm {m}
+horse {n} (cavalry soldiers)	 :: kavallerist {n}
+horse {n} (gymnastic equipment)	 :: hest {m}, bukk {m}
+horse {n} (knight in chess (see also knight))	 :: springer {m}, hest {m}
+horse {n} (members of the species Equus ferus)	 :: hest {m}
+horseback {n} (back of a horse)	 :: hesterygg {m}
+horse chestnut {n} (tree)	 :: [Bokmål] hestekastanje {m}; [Nynorsk] hestekastanje {m}
+horsefly {n} (fly of the family Tabanidae)	 :: klegg
+horse-leech {n} (larger than the common leech)	 :: hesteigle
+horseling {n} (foal) SEE: foal	 ::
+horseling {n} (pony) SEE: pony	 ::
+horsemanship {n} (equestrianism) SEE: equestrianism	 ::
+horsepower {n} (metric)	 :: hestekraft (symbol hk); [Bokmål] hestekraft {m} {f}; [Nynorsk] hestekraft {f}
+horsepower {n} (non-metric)	 :: [Bokmål] hestekraft {m} {f}; [Nynorsk] hestekraft {f}
+horseradish {n} (condiment)	 :: [Nynorsk] peparrot
+horseradish {n} (plant)	 :: [Nynorsk] peparrot
+horseshoe {n} (metallic shoe of a horse)	 :: [Bokmål] hestesko {m}; [Nynorsk] hestesko {m}
+horseshoe {n} (shape of a horseshoe)	 :: hestesko {m}
+horseshoe {v} (to apply horseshoes to a horse)	 :: sko
+horsetail {n} (plant)	 :: snelle
+hortensia {n} (hydrangea) SEE: hydrangea	 ::
+hose {n} (flexible tube)	 :: [Nynorsk] slange {n}
+hose {n} (stocking-like garment) SEE: tights	 ::
+Hosea {prop} (book of the bible)	 :: Hoseas
+hospitable {adj} (cordial and generous towards guests)	 :: gjestfri
+hospital {n} (building)	 :: sykehus {n}
+hospitalise {v} (hospitalize) SEE: hospitalize	 ::
+hospitality {n} (act or service)	 :: gjestfrihet {m}
+hospitality {n} (act or service of welcoming, receiving, hosting, or entertaining guests)	 :: [Bokmål] gjestfrihet
+hospitality {n} (business)	 :: [Bokmål] gjestfrihet
+host {n} (biology: cell or organism which harbors another organism)	 :: [Bokmål] vert {m}; [Nynorsk] vert {m}
+host {n} (computing: computer attached to a network)	 :: [Bokmål] vert {m}; [Nynorsk] vert {m}
+host {n} (computing: computer or software component that provides services)	 :: [Bokmål] vert {m}; [Nynorsk] vert {m}
+host {n} (person or organisation responsible for running an event)	 :: [Bokmål] vert {m}; [Nynorsk] vert {m}
+host {n} (person who receives or entertains a guest)	 :: [Bokmål] vert {m}; [Nynorsk] vert {m}
+hostage {n} (person given as a pledge or security)	 :: gissel {n}
+hostel {n} (short for youth hostel) SEE: youth hostel	 ::
+hostile {adj} (belonging or appropriate to an enemy)	 :: [Bokmål] fiendtlig; [Nynorsk] fiendtleg
+hot {adj} (feeling the sensation of heat)	 :: varm
+hot {adj} (feverish)	 :: varm, het
+hot {adj} (having a high temperature)	 :: varm, het
+hot {adj} (of the weather)	 :: varmt, hett
+hot {adj} (slang: physically very attractive)	 :: het, heit, lekker, sexy
+hot {adj} (spicy)	 :: sterk
+hot {adj} (very close to finding or guessing something to be found or guessed)	 :: varmt, tampen brenner
+hot chocolate {n} (beverage)	 :: [Bokmål] kakao
+hotchpotch {n} (hodgepodge) SEE: hodgepodge	 ::
+hot dog {n} (frankfurter in a bun)	 :: pølse {f}
+hot dog {v} (to perform a dangerous act as display) SEE: show off	 ::
+hotel {n} (establishment providing accommodation)	 :: [Bokmål] hotell {n}; [Nynorsk] hotell {n}
+hothead {n} (one who angers easily or goes in search of arguments or fights)	 :: hissigpropp {m}
+hot potato {n} (awkward or delicate problem)	 :: [Bokmål] varm potet {m}; [Nynorsk] varm potet {m} {f}
+hot spell {n} (heatwave) SEE: heatwave	 ::
+hot spot {n} (a dangerous place of violent political unrest)	 :: urolig område
+Hottentot {prop} (Khoekhoe) SEE: Khoekhoe	 ::
+hottie {n} (informal: hot-water bottle) SEE: hot water bottle	 ::
+hot-wire {v} (hot-wire)	 :: koble
+hound {n} (dog)	 :: hund {c}
+hour {n} (time period of sixty minutes)	 :: time
+house {n} (archetypal structure of a human abode)	 :: hus {n}
+house {n} (astrology: one of the twelve divisions of an astrological chart)	 :: stjernetegn {n}
+house {n} (bingo) SEE: bingo	 ::
+house {n} (debating chamber for government politicians)	 :: ting {n}
+house {n} (dynasty, familiar descendance)	 :: hus {n}
+house {n} (genre of music) SEE: house music	 ::
+house {n} (human abode)	 :: hus {n}
+house {n} (the inner workings, as of a clock)	 :: hus {n}
+house arrest {n} (confinement of a person, by authorities, to his or her residence)	 :: [Bokmål] husarrest {m}; [Nynorsk] husarrest {m}
+house-broken {adj} (house-trained) SEE: house-trained	 ::
+housebroken {adj} (house-trained) SEE: house-trained	 ::
+house cat {n} (domestic cat) SEE: domestic cat	 ::
+household name {n} (genericized trademark) SEE: genericized trademark	 ::
+houseless {adj} (in need of a house)	 :: [Bokmål] husløs; [Nynorsk] huslaus
+house martin {n} (common house martin) SEE: common house martin	 ::
+house music {n} (type of music)	 :: house
+house of ill fame {n} (brothel) SEE: brothel	 ::
+House of Representatives {prop} (lower house of parliament)	 :: Representantenes hus
+house of worship {n} (house of worship) SEE: place of worship	 ::
+house rat {n} (black rat) SEE: black rat	 ::
+housework {n} (domestic household chores)	 :: [Bokmål] husarbeid {n}; [Nynorsk] husarbeid {n}
+hover {v} (to place the cursor over a hyperlink)	 :: oversveve
+how {adv} (in what manner)	 :: [Bokmål] hvordan, åssen; [Nynorsk] korleis, [ koss ], [ hoss ], [ hossen ]
+how {adv} (in what state)	 :: hvordan
+how {adv} (to what degree)	 :: [Bokmål] hvordan, hvor; [Nynorsk] kor
+how {adv} (used as a modifier to indicate surprise, delight, or other strong feelings)	 :: [Bokmål] så; [Nynorsk] så, [ so ]
+how {conj} (in which way)	 :: hvordan
+Howard {prop} (male given name)	 :: Håvard
+how are you {phrase} (greeting)	 :: hvordan har du det
+how do you do {phrase} (how do you do)	 :: hyggelig å møte deg, hvordan har du det
+how do you pronounce this word {phrase} (how do you pronounce this word?)	 :: hvordan uttaler man dette ordet?
+how do you say...in English {phrase} (request for translation into English)	 :: hvordan sier man...på engelsk?, hvordan sier du...på engelsk?
+howdy {interj} (hi) SEE: hi	 ::
+however {adv} (intensifier: in what way)	 :: hvordan i all verden
+however {adv} (nevertheless)	 :: men, imidlertid, ikke desto mindre
+however {adv} (to what degree)	 :: uansett hvor/hvor mye
+however {conj} (in whatever manner)	 :: på den måten, på hvilken måte
+however {conj} (to whatever extent)	 :: uansett hvor
+howl {v} (To utter a loud, protracted, mournful sound or cry, as dogs and wolves often do)	 :: hyle
+how many {determiner} (what number)	 :: [Bokmål] hvor mange
+how much {determiner} (what quantity)	 :: [Bokmål] hvor mye
+how much does it cost {phrase} (how much is it)	 :: hvor mye koster det?, hva koster det?
+how much is it {phrase} (how much does it cost) SEE: how much does it cost	 ::
+how no {adv} (why not) SEE: why not	 ::
+how old are you {phrase} (what is your age in years)	 :: [Bokmål] hvor gammel er du?, hvor gammel er De? [very formal]; [Nynorsk] kor gamal er du?, kor gammal er du?
+how's it going {phrase} (how's it going? - informal greetings)	 :: hvordan går det?
+howzit {interj} (what's up) SEE: what's up	 ::
+Hrodna {prop} (Grodno) SEE: Grodno	 ::
+Hubble constant {n} (number)	 :: Hubbles lov
+hubby {n} (husband)	 :: [Bokmål] gubbe {m} [informally; literally "old man"]
+Hudson River {prop} (Hudson) SEE: Hudson	 ::
+hue {n} (color or shade of color; tint; dye)	 :: farve {n}
+hue {n}	 :: fargetone
+hug {n} (affectionate embrace)	 :: klem {m}
+hug {v} (embrace)	 :: klemme, omfavne
+huge {adj} (very large)	 :: gigantisk, enorm, diger
+Hugh {prop} (male given name)	 :: Hugo
+Hugo {prop} (male given name) SEE: Hugh	 ::
+huh {interj} (tag question)	 :: eller hva
+huh {interj} (to express amusement or subtle surprise)	 :: hva
+hula hoop {n} (toy in the form of a large hoop)	 :: [Bokmål] rockering {m}; [Nynorsk] rockering {m}
+Huldah {prop} (biblical prophetess)	 :: Hulda
+hull {n} (frame of a ship or plane)	 :: skrog {n}
+human {adj} (having the nature or attributes of a human species)	 :: menneskelig, menneskeaktig
+human {adj} (of or belonging to the species Homo sapiens)	 :: menneskelig
+human {n} (a human being)	 :: menneske
+human being {n} (person)	 :: menneske {n}
+humanism {n} (ethical system)	 :: humanisme
+humanism {n}	 :: humanisme {n}
+human rights {n} (the basic rights and freedoms that all humans should be guaranteed)	 :: menneskerettigheter
+human shield {n} (placement of civilians in or around targets)	 :: menneskelig skjold
+human trafficking {n} (criminal activity in which people are recruited, etc. to serve an exploitative purpose)	 :: menneskehandel; [Nynorsk] menneskehandel
+humble {adj} (near the ground)	 :: beskjeden
+humble {adj} (thinking lowly of one's self)	 :: ydmyk
+humidity {n} (dampness, especially that of the air)	 :: [Bokmål] luftfuktighet {m} {f}; [Nynorsk] fukt
+humiliate {v} (to humiliate)	 :: ydmyke
+humiliation {n} (the act of humiliating or humbling someone; abasement of pride; mortification)	 :: [Bokmål] ydmykelse {m}; [Nynorsk] audmjuking {f}
+humiliation {n} (the state of being humiliated, humbled or reduced to lowliness or submission)	 :: [Bokmål] ydmykelse {m}; [Nynorsk] audmjuking {f}
+hummock {n} (small hill) SEE: hillock	 ::
+humour {n} (bodily fluid) SEE: bodily fluid	 ::
+humour {n}	 :: humor {m}
+humour {n} (mood)	 :: humør {n}
+humour {n} (something funny)	 :: [Bokmål] humor {m}; [Nynorsk] humor {m}
+humourously {adv} (humorously) SEE: humorously	 ::
+hump {n} (deformity of the human back)	 :: kulrygg {m}; [Bokmål] pukkel {m}; [Nynorsk] pukkel {m}
+hump {n} (rounded fleshy mass)	 :: [Bokmål] pukkel {m}; [Nynorsk] pukkel {m}
+hump {v} (intransitive, slang: to have sex)	 :: jokke
+hump {v} (transitive, slang: to have sex with)	 :: jokke
+Hun {n} (member of nomadic tribe)	 :: hun {m}; [Bokmål] huner {m}; [Nynorsk] hunar {m}
+hunchback {n} (deformed upper spinal column) SEE: humpback	 ::
+hunchback {n} (one who is stooped or hunched over) SEE: humpback	 ::
+hunchbacked {adj} (having hunched back) SEE: humpbacked	 ::
+hundred {num} (cardinal number 100)	 :: hundre
+hundred thousand {num} (100,000)	 :: hundretusen
+hung {adj} (having a large penis)	 :: velutstyrt
+hung {adj} (having with hanging additions or appendages)	 :: behengt
+hung {adj} (suspended by hanging)	 :: opphengt
+Hungarian {adj} (of, from, or pertaining to Hungary)	 :: [Bokmål] ungarsk; [Nynorsk] ungarsk
+Hungarian {n} (person from Hungary)	 :: [Bokmål] ungarer {m}; [Nynorsk] ungar {m}, ungarar {m}
+Hungarian {prop} (the language)	 :: [Bokmål] ungarsk {m}; [Nynorsk] ungarsk {m}
+Hungarian Kuvasz {n} (Dog breed) SEE: Kuvasz	 ::
+Hungary {prop} (the country)	 :: Ungarn
+hunger {n} (need for food)	 :: [Bokmål] sult {m}, hunger {m}; [Nynorsk] svolt {m}, hunger {m}
+hunger {n} (strong desire)	 :: hunger {m}
+hunger {v} (desire)	 :: hungre
+hunger {v} (need food)	 :: [Bokmål] sulte; [Nynorsk] svelte
+hunger is a good sauce {proverb} (hunger is the best sauce) SEE: hunger is the best sauce	 ::
+hungry {adj} (affected by hunger; desirous of food)	 :: [Bokmål] sulten; [Nynorsk] svolten
+hunt {n} (hunting expedition)	 :: jakt {m} {f}
+hunt {n} (the act of hunting, shooting)	 :: jakt {m} {f}
+hunt {v} (to chase down prey)	 :: jakte
+hunt {v} (to search for something)	 :: jakte, søke
+hunter {n} (person who hunts game)	 :: [Bokmål] jeger {m}, veidemann {m}; [Nynorsk] jeger {m}, veidemann {m}, veidar {m}
+Huocheng {prop} (Khorgas) SEE: Khorgas	 ::
+Huoerguosi {prop} (Khorgas) SEE: Khorgas	 ::
+hurdle {n} (artificial barrier over which people or horses jump in a race)	 :: [Bokmål] hekk {m}; [Nynorsk] hekk {m}
+hurdy-gurdy {n} (barrel organ) SEE: barrel organ	 ::
+hurler {n} (pitcher) SEE: pitcher	 ::
+hurler on the ditch {n} (opinionated person who offers advice) SEE: back-seat driver	 ::
+hurley {n} (hurling) SEE: hurling	 ::
+hurricane {n} (meteorology: a wind scale for quite strong wind)	 :: [Bokmål] orkan {m}; [Nynorsk] orkan {m}
+hurricane {n} (weather phenomenon)	 :: [Bokmål] orkan {m}; [Nynorsk] orkan {m}
+hurry {n} ((American football) an incidence of a defensive player forcing the quarterback to act faster than the quarterback was prepared to)	 :: press {n} (soccer)
+hurry {n} (rushed action)	 :: travelhet {m} {f}
+hurry {v} (to do things quickly)	 :: skynde seg
+hurry {v} (to speed up the rate)	 :: skynde seg
+hurt {adj} (wounded, injured)	 :: skadet
+husband {n} (male partner in marriage)	 :: ektemann, husbond
+husband {v} (to conserve)	 :: bevare
+hustler {n} (a male prostitute who sells his services to men)	 :: [boy prostitute] gutteprostituert, [male prostitute] mannlig prostituert
+hustler {n} (prostitute) SEE: prostitute	 ::
+hut {n} (primitive dwelling)	 :: hytte
+hut {n} (small wooden shed)	 :: hytte
+hutong {n} (alley) SEE: alley	 ::
+hutong {n} (lane) SEE: lane	 ::
+Hyacinth {prop} (Hyacinthus) SEE: Hyacinthus	 ::
+Hydra {prop} (one of Pluto's moons)	 :: [Bokmål] Hydra; [Nynorsk] Hydra
+hydrate {n} (solid compound containing or linked to water molecules)	 :: hydrat {n}
+hydrocarbon {n} (compound of carbon and hydrogen)	 :: [Bokmål] hydrokarbon {n}; [Nynorsk] hydrokarbon {n}
+hydrofracking {n} (hydraulic fracturing) SEE: hydraulic fracturing	 ::
+hydrogen {n} (chemical element)	 :: [Bokmål] hydrogen {n}, vanntoff {n}, vass-stoff {n}, vasstoff {n}; [Nynorsk] hydrogen {n}, vass-stoff {n}, vasstoff {n}, brenne {n}
+hydrogen peroxide {n} (H2O2)	 :: hydrogenperoksid
+hydromechanics {n} (fluid mechanics) SEE: fluid mechanics	 ::
+hyena {n} (Animal)	 :: hyene {m}
+hygiene {n} (conditions and practices that promote and preserve health)	 :: [Bokmål] hygiene {m}; [Nynorsk] hygiene {m}
+Hyōgo {prop} (Hyogo) SEE: Hyogo	 ::
+hygrometer {n} (instrument that measures humidity)	 :: [Bokmål] hygrometer; [Nynorsk] hygrometer
+hylic {n} (person focused on material reality)	 :: hyletiker
+hymn {n} (a song of praise or worship)	 :: Hymne
+hyperbola {n} (geometric curve)	 :: [Bokmål] hyperbel {m}; [Nynorsk] hyperbel {m}
+hyperbole {n} (rhetorical device)	 :: [Bokmål] hyperbol {m}; [Nynorsk] hyperbol {m}
+hyperbolical {adj} (hyperbolic) SEE: hyperbolic	 ::
+hyperlink {n} (link from one electronic document to another)	 :: [Bokmål] hyperlenke {m} {f}; [Nynorsk] hyperkopling {f}, hyperlenke {f}, hyperlenkje {f}
+hypernova {n} (the gravitational collapse of a massive star to form a black hole)	 :: [Bokmål] hypernova; [Nynorsk] hypernova
+hyperonym {n} (hypernym) SEE: hypernym	 ::
+hyperopia {n} (disorder of the vision) SEE: farsightedness	 ::
+hyphen {n} (symbol used to join words or to indicate a word has been split)	 :: bindestrek {m}
+Hypnos {prop} (Hypnos, the Greek god of sleep)	 :: Hypnos {m}
+hypnosis {n} (art or skill of hypnotism) SEE: hypnotism	 ::
+hypnosis {n} (a trancelike state)	 :: [Bokmål] hypnose {m}; [Nynorsk] hypnose {m}
+hypnotise {v} (hypnotise) SEE: hypnotize	 ::
+hypnotism {n} (hypnotism)	 :: [Bokmål] hypnotisme {m}; [Nynorsk] hypnotisme {m}
+hypnotist {n} (person who uses hypnotism)	 :: [Bokmål] hypnotisør {m}; [Nynorsk] hypnotisør {m}
+hypoallergic {adj} (hypoallergenic) SEE: hypoallergenic	 ::
+hypocrisy {n} (Claim, pretense, or false representation of holding beliefs, feelings, or virtues that one does not actually possess)	 :: hykleri {n}
+hypocrite {n} (person practising hypocrisy)	 :: hykler {m}
+hypocritical {adj} (characterized by hypocrisy or being a hypocrite)	 :: hyklete, skinnhellig, tilgjort
+hypohydration {n} (dehydration) SEE: dehydration	 ::
+hypotaxis {n} (syntactic subordination)	 :: hypotakse {m}, underordning {m} {f}
+hypothesis {n}	 :: hypotese {m}
+hypothetical {adj} (based upon a hypothesis)	 :: hypotetisk {m} {f}, hypotetiskt {n}, hypotetiske {p}
+hypotrochoid {n} (geometric curve)	 :: hypotrokoide
+hysteria {n} (behavior exhibiting excessive or uncontrollable emotion)	 :: [Bokmål] hysteri {n}; [Nynorsk] hysteri {n}

@@ -1,0 +1,73 @@
+﻿za {n} (pizza) SEE: pizza	 ::
+Zachariah {prop} (male given name) SEE: Zachary	 ::
+Zachariah {prop} (Zechariah) SEE: Zechariah	 ::
+Zacharias {prop} (male given name) SEE: Zachary	 ::
+Zacharias {prop} (Zechariah) SEE: Zechariah	 ::
+Zaire {prop} (former name of DR of Congo)	 :: [Bokmål] Zaire {n}
+Zakarpatye {prop} (Zakarpattia) SEE: Zakarpattia	 ::
+Zambia {prop} (country in Southern Africa)	 :: Zambia
+Zambian {adj} (Of, from, or pertaining to Zambia, the Zambian people or the Zambian language)	 :: [Bokmål] zambisk; [Nynorsk] zambisk
+Zambian {n} (A person from Zambia or of Zambian descent)	 :: [Bokmål] zambier {m}; [Nynorsk] zambiar {m}
+zany {adj} (ludicrously or incongruously comical)	 :: ellevill
+Zarathustra {prop} (Zoroaster) SEE: Zoroaster	 ::
+z-axis {n} (axis on a graph that is usually drawn as if vertical)	 :: z-akse {m}
+zeal {n} (fervor or devotion)	 :: engasjement {n}, iver {m}
+Zealand {prop} (Danish island)	 :: Sjælland; [Nynorsk] Sjælland
+Zealand {prop} (Dutch province) SEE: Zeeland	 ::
+Zealandic {prop} (language)	 :: zeeuws
+zealous {adj} (full of zeal; ardent)	 :: engasjert, ivrig, nidkjær, flittig
+zebra {n} (African animal)	 :: [Bokmål] sebra {m}; [Nynorsk] sebra {m}
+zebra finch {n} (bird)	 :: sebrafink
+Zechariah {prop} (book of the Bible)	 :: Sakarja, Sakarias
+Zechariah {prop} (father of John the Baptist)	 :: Sakarja
+Zechariah {prop} (king of Israel)	 :: Sakarja
+zed {n} (name of the letter Z, z) SEE: zee	 ::
+Zeeland {prop} (province)	 :: Zeeland
+Zelda {prop} (female given name)	 :: Zelda
+Zephaniah {prop} (book of the Bible)	 :: Sefanias
+zeptometer {n} (zeptometre) SEE: zeptometre	 ::
+zeren {n} (Mongolian gazelle) SEE: Mongolian gazelle	 ::
+zero {n} (digit zero)	 :: null {m}
+zero {n} (numeric symbol of zero)	 :: null {m}
+zero {n} (person of little importance)	 :: null {n}
+zero {n} (point of origin on a scale)	 :: nullpunkt {n}
+zero {num} (cardinal number before 1, denoting nothing)	 :: null
+zero {n} (zero value of a magnitude)	 :: nullpunkt {n}
+zeroth {adj}	 :: nulte
+zest {n} (enthusiasm)	 :: entusiasme {m}, begeistring {m}
+zest {n} (outer skin of citrus)	 :: ytterskall {n}, zest {m}
+zesty {adj} (zestful) SEE: zestful	 ::
+zettameter {n} (zettametre) SEE: zettametre	 ::
+Zeus {prop} (supreme ruler of all Greek gods)	 :: [Bokmål] Zevs; [Nynorsk] Zevs
+Zhitomir {prop} (Zhytomyr) SEE: Zhytomyr	 ::
+zigzag {n} (a line or path that proceeds by sharp turns in alternating directions)	 :: sikksakk {m}
+Zimbabwe {prop} (Republic of Zimbabwe)	 :: Zimbabwe
+Zimbabwean {adj} (Of, from, or pertaining to Zimbabwe, the Zimbabwean people or the Zimbabwean language)	 :: [Bokmål] zimbabwisk; [Nynorsk] zimbabwisk
+Zimbabwean {n} (а person from Zimbabwe or of Zimbabwean descent)	 :: [Bokmål] zimbabwer {m}; [Nynorsk] zimbabwar {m}
+zinc {n} (Element)	 :: [Bokmål] sink {m} {n}; [Nynorsk] sink {m} {n}
+Zion {prop} (mountain in Israel)	 :: Sion
+Zionist {adj} (of or relating to Zionism , a Zionist, Zionists or Mount Zion)	 :: [Bokmål] sionistisk; [Nynorsk] sionistisk
+zip {n} (zip fastener) SEE: zip fastener	 ::
+zip code {n} (postcode) SEE: postcode	 ::
+ZIP code {n} (US postal code)	 :: [Bokmål] postnummer {n}; [Nynorsk] postnummer {n}
+zip fastener {n} (a fastener used in clothing, bags)	 :: [Bokmål] glidelås {m} {n}; [Nynorsk] glidelås {m} {n}
+zipper {n} (zip fastener) SEE: zip fastener	 ::
+Zipporah {prop} (biblical character)	 :: Sippora
+zirconium {n} (chemical element)	 :: zirkonium
+zither {n} (musical instrument)	 :: sitar {m}
+zloty {n} (the currency unit of Poland)	 :: zloty {m}
+zoœcium {n} (zooecium) SEE: zooecium	 ::
+zodiac {n} (twelve signs in astrology)	 :: zodiak {m}, dyrekrets {m}, stjernetegnene {n-p} (definite)
+zonked {adj} (drunk) SEE: drunk	 ::
+zoologic {adj} (zoological) SEE: zoological	 ::
+zoology {n} (science that studies the animal kingdom)	 :: [Bokmål] zoologi {m}; [Nynorsk] zoologi {m}
+zoom lens {n} (lens whose focal length can be rapidly changed)	 :: [Bokmål] zoomobjektiv {n}, zoomlinse {m} {f}; [Nynorsk] zoomobjektiv {n}, zoomlinse {f}
+zooplankton {n} (free-floating small protozoa or crustaceans)	 :: dyreplankton {n}
+zootechny {n} (zootechnics) SEE: zootechnics	 ::
+zoöpathology {n} (zoopathology) SEE: zoopathology	 ::
+Zoroastrianism {prop} (religion and philosophy ascribed to Zoroaster)	 :: zoroastrisme
+zubr {n} (zubr) SEE: wisent or European bison	 ::
+zucchini {n} (courgette) SEE: courgette	 ::
+zuhr {n} (noon prayer) SEE: dhuhr	 ::
+zygomatic bone {n} (cheekbone) SEE: cheekbone	 ::
+zygonema {n} (zygotene stage of meiosis) SEE: zygotene	 ::

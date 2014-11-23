@@ -1,0 +1,1036 @@
+﻿dab {n} (fingerprint) SEE: fingerprint	 ::
+dacha {n} (a Russian villa, or summer house, in the countryside)	 :: datsja
+Dacia {prop} (ancient kingdom and Roman province)	 :: [Bokmål] Dakia
+dacite {n} ((geology) an igneous, volcanic rock with a high iron content)	 :: dacitt
+dad {n} (informal a father)	 :: pappa
+daddy longlegs {n} (cranefly) SEE: cranefly	 ::
+daddy longlegs {n} (spider) SEE: daddy long-legs spider	 ::
+daffodil {n} (flower)	 :: påskelilje {m} {f}
+dagger {n} (a stabbing weapon)	 :: dolk {m}
+daily {adj} (that occurs every day)	 :: daglig
+daily {adv} (every day)	 :: daglig
+daily {n} (a newspaper that is published every day)	 :: dagsavis {m}
+daily {n} ((US) (dailies) (pl) (in the film industry)) SEE: rushes	 ::
+dairy {adj} (referring to products produced from milk)	 :: meieri-, melke-
+dairy {adj} (referring to the milk production and processing industries)	 :: meieri-
+dairy {n} (place, where milk is processed)	 :: meieri {n}
+dairy {n} (products produced from milk)	 :: meieriprodukter {n}, melkeprodukter {n}
+dairy {n} (shop selling dairy products)	 :: melkebutikk {m}
+dairy farming {n} (a class of animal husbandry enterprise producing dairy products)	 :: meieridrift {c}, melkeproduksjon {m}
+dairyman {n} (man who works in a dairy) SEE: milkman	 ::
+daisy {n} (Bellis perennis)	 :: tusenfryd {m}
+daisy {n} (commonly used term for related flowers)	 :: margaritt {m}
+dale {n} (valley)	 :: dal {m}; [Nynorsk] dal {m}
+damage {n} (abstract measure of something not being intact; harm)	 :: [Bokmål] skade {m}; [Nynorsk] skade {m}
+damage {v}	 :: skade
+Damascus {prop} (the capital city of Syria)	 :: Damaskus
+damask {n} (damask rose) SEE: damask rose	 ::
+damask {n} (fabric)	 :: damask {m}
+damned well {adv} (damn well) SEE: damn well	 ::
+damson {n} (fruit)	 :: [Bokmål] sviske {m} {f}; [Nynorsk] sviske {f}
+Dan {prop} (fifth son of Jacob)	 :: Dan
+Dan {prop} (male given name)	 :: Dan
+dance {n} (movements to music)	 :: [Bokmål] dans {m}; [Nynorsk] dans {m}
+dance floor {n} (an area for dancing)	 :: [Bokmål] dansegulv {n}, dansegolv {n}; [Nynorsk] dansegolv {n}
+dancer {n} (person who dances)	 :: [Bokmål] danser {m}; [Nynorsk] dansar {m}
+dance studio {n} (studio)	 :: danseskole {m}
+dandelion {adj} (of a yellow colour)	 :: løvetann
+dandelion {n} (plant, wild flower of the genus Taraxacum)	 :: [Bokmål] løvetann {m} {f}; [Nynorsk] løvetann {f}
+dandruff {n} (skin flakes)	 :: flass {n}
+dandy {adj} (almost first rate)	 :: kjekk {m}, [slang] snasen {m}, snerten {m}
+dandy {adj} (like a dandy)	 :: dandy {m}
+dandy {adj} (very good; better than expected but not as good as could be)	 :: kjekt {n}, [slang] fett nok {n}
+dandy {n} (yawl) SEE: yawl	 ::
+Dane {n} (person from Denmark or of Danish descent)	 :: [Bokmål] danske {m}; [Nynorsk] danske {m}
+Danelaw {prop} (part of Great Britain)	 :: [Bokmål] Danelagen; [Nynorsk] Danelagen
+dang {adj} (damn) SEE: damn	 ::
+danger {n} (exposure to liable harm)	 :: fare {c}
+danger {n}	 :: fare
+dangerous {adj} (full of danger)	 :: farlig
+Daniel {prop} (biblical person)	 :: Daniel
+Daniel {prop} (book of the Bible)	 :: Daniel
+Daniel {prop} (male given name)	 :: Daniel
+danish {n} (pastry)	 :: wienerbrød {n}
+Danish {adj} (of Denmark)	 :: [Bokmål] dansk; [Nynorsk] dansk
+Danish {n} (native of Denmark) SEE: Dane	 ::
+Danish {prop} (language)	 :: [Bokmål] dansk {m}; [Nynorsk] dansk {m}
+Danish crow {n} (hooded crow) SEE: hooded crow	 ::
+Danish pastry {n} (yeast roll)	 :: [Bokmål] wienerbrød {n}; [Nynorsk] wienerbrød {n}
+danse macabre {n} (a conventional subject of artistic painting or drawing)	 :: dødsdans
+dare {n} (a challenge)	 :: utfordring
+dare {v} (to brave or face up to)	 :: risikere
+dare {v} (to defy or challenge)	 :: utfordre
+dare {v} (to have courage)	 :: våge
+daredevil {n} (person who engages in risky behavior)	 :: våghals {m}
+Darius {prop} (male given name)	 :: Dareios
+dark {adj} (having an absolute or relative lack of light)	 :: [Bokmål] mørk; [Nynorsk] mørk
+dark {adj} (hidden, secret)	 :: [Bokmål] mørk; [Nynorsk] mørk
+dark {adj} (not bright or light, deeper in hue)	 :: mørk; [Bokmål] mørk; [Nynorsk] mørk
+dark {adj} (without moral or spiritual light)	 :: [Bokmål] mørk; [Nynorsk] mørk
+dark {n} (a complete or partial absence of light)	 :: mørke {n}; [Bokmål] mørke {n}; [Nynorsk] mørke {n}, mørker {n}
+dark {n} (ignorance)	 :: [Bokmål] uvitenhet {m} {f}; [Nynorsk] uvisse {f}
+dark {n} (nightfall)	 :: [Bokmål] mørke {n}, skumring {m} {f}; [Nynorsk] mørke {n}, mørker {n}, skumring {f}
+dark energy {n} (hypothetical form of energy which, it is supposed, is spread uniformly throughout space and time and has anti-gravitational properties)	 :: mørk energi {m}
+dark figure {n} (estimated number of unreported criminal cases)	 :: mørketall
+dark matter {n} (particles of matter that cannot be detected by their radiation)	 :: mørk materie {m}
+darkness {n} (state of being dark)	 :: [Bokmål] mørke {n}; [Nynorsk] mørker {n}, mørke {n}
+darling {n} (person who is dear to one)	 :: elskling {m}
+darn {adj} (damn) SEE: damn	 ::
+darn {interj} (damn) SEE: damn	 ::
+darn {v} (damn) SEE: damn	 ::
+darning needle {n} (damselfly) SEE: damselfly	 ::
+dart {n} (sharp-pointed missile weapon)	 :: dart {m}, spyd {n}
+dart {n} (zoology: fish) SEE: dace	 ::
+dart {v} (to fly or pass swiftly)	 :: skyte ut
+dart {v} (to start and run with velocity; to shoot rapidly along)	 :: bykse, lange ut, komme i fullt firsprang
+dart {v} (to throw suddenly or rapidly)	 :: kaste, kyle
+dart {v} (to throw with a sudden effort)	 :: kaste, kyle
+dash {n} (typographic symbol)	 :: bindestrek {m}
+dasheen {n} (cocoyam) SEE: cocoyam	 ::
+dashing {adj} (spirited, audacious and full of high spirits)	 :: [Bokmål] feiende flott
+data bank {n} (databank) SEE: databank	 ::
+databank {n} (database) SEE: database	 ::
+database {n} (collection of information)	 :: [Bokmål] database {m}; [Nynorsk] database {m}
+data flow {n} (transfer of data between the components of a computer) SEE: data stream	 ::
+data structure {n} (organization of data)	 :: datastruktur {m}
+data type {n} (classification or category of data)	 :: datatype {m}
+date {n} (companion when one is partaking in a social occasion)	 :: ledsager {m}, noledsagerinne {f}, date {m}
+date {n} (date palm) SEE: date palm	 ::
+date {n} (fruit of the date palm)	 :: daddel {m}
+date {n} (point in time)	 :: [Bokmål] dato {m}; [Nynorsk] dato {m}
+date {n} (point of time at which a transaction or event takes place)	 :: [Bokmål] dato {m}; [Nynorsk] dato {m}
+date {n} (pre-arranged social meeting)	 :: stevnemøte {n}, date {m}
+date {n} (that which specifies the time of writing, inscription etc.)	 :: datering {m}
+date {v} (to become old)	 :: eldes
+date {v} (to determine the age of something)	 :: datere
+date {v} (to note or fix the time of, as of an event)	 :: sette dato
+date {v} (to note the time of writing or executing)	 :: datere
+date {v} (to take (someone) on a series of dates)	 :: begynne med
+dated {adj} (marked with a date)	 :: datert
+dated {adj} (no longer fashionable)	 :: umoderne, utgått, utdatert
+dated {adj} (out of date)	 :: foreldet, utdatert
+date of birth {n} (birthday) SEE: birthday	 ::
+date palm {n} (Phoenix dactylifera)	 :: daddelpalme
+date tree {n} (date palm) SEE: date palm	 ::
+date with destiny {n} (inevitable event)	 :: [Bokmål] skjebnemøte {n}; [Nynorsk] skjebnemøte {n}
+dative {adj}	 :: dativ
+dative {adj} (grammar: noting the case of noun which expresses indirect object)	 :: dativ {m}
+dative {n} (dative case)	 :: dativ {m}
+dative bond {n} (coordinate bond) SEE: coordinate bond	 ::
+dative case {n} (case used to express direction towards an indirect object)	 :: dativ {m}
+daughter {n} (female child)	 :: datter
+daughter-in-law {n} (wife of one's child)	 :: [Bokmål] svigerdatter {m} {f}; [Nynorsk] svigerdotter {f}
+David {prop} (king of Judah)	 :: David
+David {prop} (male given name)	 :: David
+Davis {prop} (surname derived from David) SEE: Davidson	 ::
+daw {n} (Coloeus monedula) SEE: jackdaw	 ::
+daw {v} (dawn) SEE: dawn	 ::
+dawn {n} (rising of the sun)	 :: soloppgang
+day {n} (part of a day period which one spends at one’s job, school, etc.)	 :: dag {m}
+day {n} (period between sunrise and sunset)	 :: dag {m}
+day {n} (period from midnight to the following midnight)	 :: døgn {n}, dag {m}
+day {n} (period of 24 hours)	 :: dag {m}, døgn {n}
+day {n} (rotational period of a planet)	 :: døgn {n}
+day after tomorrow {adv} (on the day after tomorrow - translation entry)	 :: i overmorgen
+day and night {adj} (night and day) SEE: night and day	 ::
+daydream {n} (a spontaneous and fanciful series of thoughts)	 :: [Bokmål] dagdrøm {m}; [Nynorsk] dagdraum {m}
+daydream {v} (to have such a series of thoughts)	 :: [Bokmål] dagdrømme; [Nynorsk] dagdrøyme
+day lark {n} (early bird) SEE: early bird	 ::
+daylight {n} (light from the sun)	 :: [Bokmål] dagslys {n}; [Nynorsk] dagslys {n}, dagsljos {n}
+daylight savings time {n} (daylight saving time) SEE: daylight saving time	 ::
+days {n} ((idiomatic) life)	 :: Bokmal: dager {p}
+days {n} (plural of days)	 :: [Bokmål] dager {p}
+dazzle {v} (confuse the sight)	 :: blende, blinde
+dazzle {v} (figuratively)	 :: blende
+deacon {n} (a clergyman ranked directly below a priest)	 :: [Bokmål] diakon {m}; [Nynorsk] diakon {m}
+deacon {n} (a designated minister of charity in the early Church)	 :: [Bokmål] diakon {m}; [Nynorsk] diakon {m}
+dead as a doornail {adj} (unquestionably dead)	 :: [Bokmål] død som en sild
+dead ball {n} (the ball when dead and out of play)	 :: dødball {m}
+dead end {n} (a path that goes nowhere)	 :: [Bokmål] blindvei {m}, blindveg {m}; [Nynorsk] blindveg
+dead ice {n} (former glacier ice that is no longer connected to the active glacier)	 :: dødis
+dead language {n} (language with no native speakers)	 :: dødt språk {n}
+dead load {n} (the weight of a structure itself)	 :: [Bokmål] egenvekt {m} {f}; [Nynorsk] eigenvekt {f}
+Dead Sea {prop} (lake in the Middle East)	 :: Dødehavet
+deaf {adj} (unable to hear)	 :: døv
+deaf aid {n} (hearing aid) SEE: hearing aid	 ::
+deaf as a doorpost {adj} (stone deaf) SEE: stone deaf	 ::
+deaf as a post {adj} (stone deaf) SEE: stone deaf	 ::
+deafening {adj} (loud enough to cause hearing loss)	 :: [Bokmål] øredøvende
+deaf-mute {adj} (unable to hear or speak)	 :: [Bokmål] døvstumme
+deal {v} (distribute (cards))	 :: dele ut
+dear {adj} (an informal way of addressing the recipient in a letter's opening line)	 :: kjære
+dear {adj} (formal way of addressing)	 :: ærede
+dear {adj} (high in price; expensive)	 :: dyr, kostbar
+dear {adj}	 :: kjær, dyr
+dear {adj} (loved; lovable)	 :: kjær
+dear {adj} (loving, affectionate, heartfelt)	 :: kjær
+dear {adj} (sore) SEE: sore	 ::
+dear {n} (beloved#noun) SEE: beloved	 ::
+dear me {interj} (good heavens) SEE: good heavens	 ::
+death {n} (cessation of life)	 :: død {m}
+death {n} (personification of death)	 :: døden
+death adder {n} (Acanthophis)	 :: dødsorm
+death cap {n} (Amanita phalloides)	 :: grønn fluesopp
+deathlike {adj} (deadly) SEE: deadly	 ::
+death penalty {n} (state punishment of death)	 :: [Bokmål] dødsstraff {m}; [Nynorsk] dødsstraff {f}
+death rattle {n} (Gurgling sound sometimes made by a dying person)	 :: [Bokmål] agonal respirasjon, døende resipirasjon
+Debaltsevo {prop} (Debaltseve) SEE: Debaltseve	 ::
+debark {v} (to disembark) SEE: disembark	 ::
+debauch {n} (orgy) SEE: orgy	 ::
+debauchery {n} (debauchery)	 :: skjørlevnet
+debt {n} (action, state of mind, or object one has an obligation to perform for another)	 :: gjeld {m} {f}
+debt {n}	 :: gjeld
+debt {n} (money that one person or entity owes or is required to pay to another)	 :: gjeld {m} {f}
+debt {n} (state or condition of owing something to another)	 :: gjeld {m} {f}
+decade {n} (a period of ten years)	 :: tiår {n}, årti {n}, dekade {m}, decennium {n}, desennium {n}
+Decalogue {prop} (the Ten Commandments) SEE: Ten Commandments	 ::
+decameter {n} (decametre) SEE: decametre	 ::
+decane {n} (decane)	 :: dekan {n}
+decanoic acid {n} (capric acid) SEE: capric acid	 ::
+decapitate {v} (remove the head of)	 :: halshugge, halshogge
+decay {n} (process or result of being gradually decomposed)	 :: [Bokmål] nedbryting
+December {prop} (twelfth month of the Gregorian calendar)	 :: desember
+decibel {n} (a common measure of sound intensity)	 :: [Bokmål] decibel
+deciduous {adj} (of or pertaining to trees which lose their leaves in winter or the dry season)	 :: [Bokmål] løvfellende, lauvfellende; [Nynorsk] lauvfellande
+deciduous holly {n} (American winterberry) SEE: American winterberry	 ::
+deciduous tooth {n} (baby tooth) SEE: milk tooth	 ::
+deciduous winterberry {n} (American winterberry) SEE: American winterberry	 ::
+deciliter {n} (decilitre) SEE: decilitre	 ::
+decimal {n} (decimal place) SEE: decimal place	 ::
+decimal {n} (number system)	 :: desimal
+decimal number {n} (decimal number) SEE: decimal	 ::
+decimal point {n} (decimal place) SEE: decimal place	 ::
+decimate {v}	 :: desimere
+decimation {n} (tithing) SEE: tithing	 ::
+decimeter {n} (decimetre) SEE: decimetre	 ::
+decision {n}	 :: avgjørelse
+decision-making {n} (alternative form of decision making) SEE: decision making	 ::
+deck {n} (floorlike covering on a ship)	 :: [Bokmål] dekk {n}; [Nynorsk] dekk {n}
+deck {n} (pack of playing cards)	 :: [Bokmål] kortstokk {m}, kortleik {m}; [Nynorsk] kortleik {m}, kortstokk {m}
+deck {v} (decorate) SEE: decorate	 ::
+deck {v} (dress up) SEE: dress up	 ::
+deck out {v} (decorate) SEE: decorate	 ::
+deck out {v} (dress up) SEE: dress up	 ::
+declaration {n} (written or oral indication of a fact, opinion, or belief)	 :: erklæring {m} {f}
+declination {n} (declension) SEE: declension	 ::
+decline {v} (refuse)	 :: avslå
+decomposition {n} (biological process)	 :: nedbrytning {m} {f}
+decrepit {adj} (weakened or worn out)	 :: utslitt
+decubitus {n} (bedsore) SEE: bedsore	 ::
+decuple {adj} (tenfold) SEE: tenfold	 ::
+dedicated {adj} (devoted, loyal, conscientious)	 :: [Bokmål] dedikert
+deductible {n} (excess) SEE: excess	 ::
+deduction {n} (conclusion)	 :: [Bokmål] [literally] konklusjon {m}
+deduction {n} (process of reasoning)	 :: [Bokmål] deduksjon {m}; [Nynorsk] deduksjon {m}
+deduction {n} (sum that can be removed from tax calculations)	 :: [Bokmål] fradrag {n}; [Nynorsk] frådrag {n}
+deduction {n} (that which is subtracted or removed)	 :: [Bokmål] fradrag {n}; [Nynorsk] frådrag {n}
+deed {n} (action)	 :: dåd, gjerning
+deep-fat fryer {n} (heated vessel for frying food by immersing in hot fat or oil) SEE: deep fryer	 ::
+deep freeze {n} (freezer) SEE: freezer	 ::
+deep-fry {n} (deep-fat fryer) SEE: deep-fat fryer	 ::
+deer {n} (the animal)	 :: hjort, rådyr
+deerfly {n} (deer fly) SEE: deer fly	 ::
+deer ked {n} (Lipoptena cervi) SEE: deer fly	 ::
+defamation {n} (act of injuring another's reputation by any slanderous communication)	 :: ærekrenkelse {c}, ærekrenking {f}
+defeat {n} (the act of defeating or being defeated)	 :: nederlag {n}
+defeat {v} (to overcome in battle or contest)	 :: overvinne, beseire
+defence {n} (action of protecting from attack)	 :: forsvar
+defenceless {adj} (defenseless) SEE: defenseless	 ::
+defend {v} (ward off attacks from)	 :: forsvare, verne, beskytte
+defender {n} (someone who defends)	 :: forsvareren
+defense {n} (action of protecting from attack)	 :: forsvar
+defenselessness {n} (vulnerability)	 :: forsvarsløshet
+defiance {n} (the feeling of being defiant)	 :: motstand motvilje trass
+deficiency {n} (inadequacy or incompleteness)	 :: mangel {m}
+deficit {n} (deficiency) SEE: deficiency	 ::
+deficit {n} (situation wherein spending exceeds government revenue)	 :: underskudd
+definability {n} (quality of being definable)	 :: [Bokmål] definerbarhet
+define {v} (state meaning of)	 :: [Bokmål] definere; [Nynorsk] definere, definera
+definitely {adv} (without question and beyond doubt)	 :: definitivt, utvilsomt {n}
+definition {n}	 :: definisjon
+deformed {adj} (unusual of shape)	 :: vanskapt, misdannet
+defy {n} (challenge) SEE: challenge	 ::
+deglaze {v} ((transitive) to detach small pieces of cooked food from a pan)	 :: deglasere
+degree {n} (amount, proportion, extent)	 :: grad {m}, omfang {n}
+degree {n} (in geometry: unit of angle)	 :: grad {m}
+degree {n} (unit of temperature)	 :: grad {m}
+degustation {n} (tasting) SEE: tasting	 ::
+Dei gratia {adv} (by the Grace of God) SEE: by the Grace of God	 ::
+deism {n}	 :: deisme
+deity {n} (a powerful entity that possesses numerous miraculous powers)	 :: gud {m}
+deity {n} (essential nature of a god, divinity)	 :: guddom {m}
+delayed miscarriage {n} (missed abortion) SEE: missed abortion	 ::
+deletion {n}	 :: sletting
+deli {n} (shop that sells cooked or prepared food ready for serving)	 :: [Bokmål] delikatessebutikk {m}; [Nynorsk] delikatessebutikk {m}
+deliberate {adj} (carefully considered)	 :: veloverveid
+deliberate {adj} (intentional)	 :: med vilje
+deliberate {adj} (of a person, carefully considering the probable consequences of a step)	 :: overveid
+deliberation {n} (the act of deliberating, or of weighing and examining the reasons for and against a choice or measure)	 :: overveielse
+delicacy {n} (something appealing, especially a pleasing food)	 :: [Bokmål] delikatesse {m}; [Nynorsk] delikatesse {f}
+delicate {adj}	 :: delikat
+delicately {adv} (tactfully) SEE: tactfully	 ::
+delicatessen {n} (shop selling prepared foods)	 :: [Bokmål] delikatessebutikk {m}; [Nynorsk] delikatessebutikk {m}
+delicious {adj} (pleasing to taste)	 :: [Bokmål] deilig, nydelig, velsmakende
+Delilah {prop} (biblical mistress of Samson)	 :: Dalila
+deliver {v} (bring or transport something to its destination)	 :: levere
+deliver {v} (set free)	 :: befri
+dell {n} (valley) SEE: valley	 ::
+Delphinus {prop} (constellation)	 :: Delfinen
+delta {n} (fourth letter of modern Greek alphabet)	 :: [Bokmål] delta {m}; [Nynorsk] delta {m}
+delta {n} (landform at the mouth of a river)	 :: [Bokmål] delta {n}; [Nynorsk] delta {n}
+deltoid {adj} (in the shape of Δ) SEE: triangular	 ::
+delusion of grandeur {n} (False belief that one is important or powerful)	 :: stormannsgalskap {m}
+demagogue {n} (orator)	 :: [Bokmål] demagog {m}; [Nynorsk] demagog {m}
+demand {n} (claim for something)	 :: behov {n}
+demand {n} (desire to purchase goods and services)	 :: etterspørsel {m}
+demand {n} (measure of the maximum power load)	 :: behov {n}
+demand {n} (order)	 :: krav {n}
+demand {v} (to request forcefully)	 :: forlange, kreve
+demanding {adj} (requiring much endurance, strength, or patience)	 :: krevende
+demeanor {n} (The outward way in which a person behaves)	 :: oppførsel, opptreden
+demilitarization {n} (demilitarisation) SEE: demilitarisation	 ::
+Demiurge {prop} (Inferior creator deity in Gnosticism)	 :: demiurg {m}
+Demiurge {prop} (subordinate deity)	 :: demiurg {m}
+democracy {n} (government under the rule of its people)	 :: demokrati {n}, folkestyre {n-p}
+democracy {n} (rule by the people)	 :: demokrati {n}, folkestyre {n}
+democratic {adj} (pertaining to democracy)	 :: [Bokmål] demokratisk {m}; [Nynorsk] folkestyrd {m}, demokratisk {m}
+democratic socialism {n} (socialism based on democratic principles)	 :: [Bokmål] demokratisk sosialisme; [Nynorsk] demokratisk sosialisme
+demon {n} (evil spirit)	 :: demon
+demonisation {n} (demonization) SEE: demonization	 ::
+demonstrative {adj} ((grammar) that specifies the thing or person referred to)	 :: [Bokmål] påpekende; [Nynorsk] påpeikande
+demonstrative {n} (demonstrative adjective) SEE: demonstrative adjective	 ::
+demonstrative {n} (demonstrative pronoun) SEE: demonstrative pronoun	 ::
+demonstrator {n} (forefinger) SEE: forefinger	 ::
+denaturated {adj} (denatured) SEE: denatured	 ::
+denaturize {v} (denature) SEE: denature	 ::
+denial {n} (assertion of untruth)	 :: benektelse {m}
+denial {n} (negation in logic)	 :: negasjon {m}
+denial {n} (refusal to believe a problem exists)	 :: fornektelse {m}
+denial {n} (refusal to comply with a request)	 :: nekting {m} {f} nekt {m}
+denizen {n} (an inhabitant of a place; one who dwells in)	 :: beboer, innbygger
+denizen {n} (one who frequents a place)	 :: stamgjest
+Denmark {prop} (country in Western Europe)	 :: Danmark (Kongeriket Danmark); [Nynorsk] Danmark
+Dennis {prop} (male given name)	 :: Dennis
+denominator {n} (The number or expression written below the line in a fraction)	 :: nevner
+denote {v} (to refer to literally; to convey meaning)	 :: angi
+de novo {adv} (anew) SEE: anew	 ::
+densimeter {n} (densitometer) SEE: densitometer	 ::
+density {n} (number of particles or other quantity contained by a given volume)	 :: [Bokmål] tetthet {m} {f}; [Nynorsk] tettleik {m}
+density {n} (physics: amount of matter contained by a given volume)	 :: [Bokmål] massetetthet {m} {f}, densitet {m}; [Nynorsk] massetettleik {m}, densitet {m}
+density {n} (probability)	 :: [Bokmål] sannsynlighetstetthet {m} {f}; [Nynorsk] sannsynstettleik {m}
+dent {n} (shallow deformation in the surface)	 :: bulk {m}, bungel {m}
+dent {v} (develop a dent)	 :: få en bulk
+dent {v} (produce a dent)	 :: bulke
+dentist {n} (specialized medical doctor)	 :: [Bokmål] tannlege {m}; [Nynorsk] tannlege {m}
+dentition {n} (process of growing teeth) SEE: teething	 ::
+denude {v} (divest of all covering)	 :: [figurative] avkle, [literal] kle av
+deny {v} (to assert that something is not true)	 :: [Bokmål] fornekte, motstride; [Nynorsk] fornekte, motstride
+deny {v} (to not allow)	 :: [Bokmål] nekte; [Nynorsk] nekte
+deodorant {n} (odor-controlling cosmetic for the underarm)	 :: deodorant {m}
+Deo volente {interj} (God willing) SEE: God willing	 ::
+deoxysugar {n} (deoxy sugar) SEE: deoxy sugar	 ::
+departure {n} (death)	 :: bortgang {m}
+departure {n} (deviation from a plan or procedure)	 :: avvik {n}
+departure {n} (the act of departing)	 :: avgang {m}
+depend {v} (rely on support)	 :: [Bokmål] avhenge; [Nynorsk] avhenge, avhange
+depend {v} (trust)	 :: [Bokmål] stole på; [Nynorsk] stole på
+dependence {n} (state of being dependent)	 :: [Bokmål] avhengighet {m} {f}
+dependent {adj} (relying upon; depending upon)	 :: [Bokmål] avhengig; [Nynorsk] avhengig
+depilation {n} (epilation) SEE: epilation	 ::
+deplete {v} (exhaust) SEE: exhaust	 ::
+deposit {n} (security for a borrowed item)	 :: depositum
+deprecate {v} (to discontinue)	 :: utdatere
+depressed {adj} (severely despondent and unhappy)	 :: deprimert
+depressed {adj} (suffering from clinical depression)	 :: deprimert
+depths {n} (plural of depth) SEE: depth	 ::
+derailment {n} (action of a locomotive or train leaving the rails along which it runs)	 :: avsporing {m} {f}
+derby {n} (bowler hat) SEE: bowler hat	 ::
+Derek {prop} (given name)	 :: Didrik
+deride {v} (to harshly mock; ridicule)	 :: spotte
+derivative {n} (in analysis: function) SEE: derived function	 ::
+dermatographism {n} (skin disorder) SEE: dermatographia	 ::
+dermatologic {adj} (dermatological) SEE: dermatological	 ::
+dermographia {n} (skin disorder) SEE: dermatographia	 ::
+dermographism {n} (skin disorder) SEE: dermatographia	 ::
+derogate {v} (to debase oneself) SEE: debase	 ::
+derogatory {adj} (tending to lessen in value)	 :: [Bokmål] nedsettende; [Nynorsk] nedsetjande
+derrick {n} (framework constructed over a mine or oil well)	 :: [Bokmål] boretårn {n}, borerigg {m}
+descendant {n} (one who is the progeny of someone)	 :: [Bokmål] etterkommer {m}
+describe {v} (to give rise to a geometrical structure)	 :: [Bokmål] beskrive
+describe {v} (to represent in words)	 :: [Bokmål] beskrive
+desecrate {v} (to inappropriately change)	 :: [Bokmål] krenke; [Nynorsk] krenkje
+desecrate {v} (to profane or violate sacredness)	 :: [Bokmål] vanhellige; [Nynorsk] vanhelge
+desecrate {v} (to remove the consecration)	 :: [Bokmål] krenke, nedverdige, vanhellige, vanære; [Nynorsk] krenkje, nedverdige, vanhelge, vanære
+desensitize {v} (cause to become insensitive)	 :: desensitivisere
+desert {n} (barren area)	 :: ørken {c}
+deserter {n} (person who leaves a military or naval unit)	 :: [Bokmål] desertør {m}; [Nynorsk] desertør {m}
+desertion {n} (deserting)	 :: [Bokmål] desertering {m} {f}
+desiccate {v} (to dry)	 :: å tørke
+designation {n} (distinguishing mark or name)	 :: benevning, nemning
+desirable {adj} (suitable to be desired)	 :: [Bokmål] ønskelig (also: desired); [Nynorsk] ynskeleg, ynskjeleg, ønskeleg, ønskjeleg
+desire {n} (something wished for)	 :: ønske
+desk {n} (lectern) SEE: lectern	 ::
+desk {n} (table for writing and reading)	 :: [Bokmål] pult {m}, skrivebord {n}; [Nynorsk] skrivebord {n}
+despair {n} (loss of hope)	 :: frustrasjon {m}
+despair {v} (to be hopeless)	 :: fortvile
+desperate times call for desperate measures {proverb} (in adverse circumstances actions that might have been rejected are the best choice)	 :: desperate tider krever desperate tiltak
+desperation {n} (a state of despair, or utter hopelessness)	 :: [Bokmål] desperasjon {m}; [Nynorsk] desperasjon {m}
+desperation {n} (the act of despairing or becoming desperate; a giving up of hope)	 :: [Bokmål] desperasjon {m}; [Nynorsk] desperasjon {m}
+despicable {adj} (deserving to be despised)	 :: [Bokmål] avskyelig
+despite {prep} (in spite of)	 :: til tross for
+despondence {n} (despondency) SEE: despondency	 ::
+despondent {adj} (in low spirits from loss of hope or courage)	 :: [Bokmål] motløs, nedtrykt; [Nynorsk] motlaus, nedtrykt
+dessert {n} (sweet confection served as the last course of a meal)	 :: dessert
+destabilise {v} (destabilize) SEE: destabilize	 ::
+destiny {n} (predetermined condition; fate; fixed order of things)	 :: [Bokmål] skjebne {m}; [Nynorsk] skjebne {m}
+destroy {v} (to damage beyond use or repair)	 :: [Bokmål] ødelegge
+destroyer {n} (that who/which destroys)	 :: [Nynorsk] øydar {m}, øydeleggjar {m}
+destroying angel {n} (Amanita virosa)	 :: hvit fluesopp
+desultory {adj} (jumping, or passing, from one thing or subject to another, without order or rational connection)	 :: springende
+desultory {adj} (out of course; by the way; as a digression; not connected with the subject)	 :: malapropos
+detached {adj} (of a house: not joined to another house on either side)	 :: [Bokmål] frittstående; [Nynorsk] frittståande
+deter {v} (to persuade someone not to do something)	 :: avskrekke
+deter {v} (to prevent something from happening)	 :: forhindre
+detergent {n} (any non-soap cleaning agent, especially a synthetic surfactant)	 :: vaskemiddel {n}
+deteriorate {v} (grow worse)	 :: nedbrytes, skjemmes, forverres
+deteriorate {v} (make worse)	 :: ødelegge, skjemme, forverre
+determinant {n} (determining factor)	 :: determinant {m}
+determinant {n} (in mathematical sense)	 :: determinant {m}
+determinative {n} (a class of words)	 :: bestemmelsesord {n}, determinativ {n}
+determiner {n} (class of words)	 :: [Bokmål] determinativ {n}; [Nynorsk] determinativ {n}
+detrimental {adj} (causing damage or harm)	 :: skadelig
+dette {n} (debt) SEE: debt	 ::
+deuce {n} (side of a dice with two spots)	 :: toer
+Deuteronomy {prop} (book of the Bible)	 :: Femte Mosebok
+development {n} (process of developing)	 :: [Bokmål] utvikling {m} {f}; [Nynorsk] utvikling {f}
+device {n}	 :: innretning
+devil {n} (a creature of hell)	 :: djevel {m}
+devil {n}	 :: djevel
+devil {n} (dust devil) SEE: dust devil	 ::
+devilish {adv} (devilishly) SEE: devilishly	 ::
+devilment {n} (devilish action or conduct; mischief)	 :: djevelskap {m} {n}, jævelskap {m} {n}, styggedom {m}
+devil's advocate {n} (canon lawyer)	 :: djevelens advokat {m}
+devil's advocate {n} (debater)	 :: djevelens advokat {m}
+Dewar {n} (dewar) SEE: dewar	 ::
+Dewar flask {n} (dewar) SEE: dewar	 ::
+Dewar vessel {n} (dewar) SEE: dewar	 ::
+dewberry {n} (Rubus caesius)	 :: blåbringebær
+dew point {n} (temperature)	 :: duggpunkt {n}
+dextrose {n} (naturally-occurring form of glucose)	 :: druesukker
+Dhivehi {prop} (an Indo-Aryan language)	 :: dhivehi
+diabetes {n} (diabetes insipidus) SEE: diabetes insipidus	 ::
+diachronic linguistics {n} (historical linguistics) SEE: historical linguistics	 ::
+diacritic {adj} (denoting a distinguishing mark) SEE: diacritical	 ::
+diacritic {adj} (distinguishing) SEE: diacritical	 ::
+diagnosis {n} (identification of the nature and cause of an illness)	 :: [Bokmål] diagnose {m}; [Nynorsk] diagnose {m}
+diagram {n}	 :: diagram {n}
+dialect {n} (variety of a language)	 :: dialekt {m}
+dialog {n} (conversation or other discourse between individuals)	 :: dialog {m}, samtale {m}
+dialog {n} (literary form resembling a conversation)	 :: dialog {m}
+dialog {n} (verbal part of a literary or dramatic work)	 :: dialog {m}
+dialogue {n} (conversation or other discourse between individuals)	 :: [Bokmål] dialog {m}, samtale {m}, konversasjon {m}
+dialogue {n} (literary form resembling a conversation)	 :: dialog {m}
+dialogue {n} (verbal part of a literary or dramatic work)	 :: dialog {m}
+dialysis {n} (haemodialysis) SEE: haemodialysis	 ::
+diamantiferous {adj} (yielding diamonds) SEE: diamondiferous	 ::
+diameter {n} (length of this line)	 :: [Bokmål] diameter {m}; [Nynorsk] diameter {m}
+diameter {n} (line)	 :: [Bokmål] diameter {m}; [Nynorsk] diameter {m}
+diametrically {adv} (on exactly the opposite side)	 :: [Bokmål] diametralt; [Nynorsk] diametralt
+diamond {n} (diamond ring) SEE: diamond ring	 ::
+diamond {n} (gemstone)	 :: diamant
+diamond {n} (rhombus) SEE: rhombus	 ::
+diamond {n} (uncountable: mineral)	 :: diamant
+Diana {prop} (female given name)	 :: Diana {f}
+Diaoyu Islands {prop} (Senkaku Islands) SEE: Senkaku Islands	 ::
+diaper {n} (absorbent garment worn by a baby, or by someone who is incontinent)	 :: [Bokmål] bleie {m} {f}; [Nynorsk] bleie {f}
+diaperhood {n} (period of wearing diapers)	 :: [Bokmål] bleiealder {m}; [Nynorsk] bleiealder {m}
+diaper rash {n} (rash in the diaper area) SEE: nappy rash	 ::
+diarrhea {n} (medical condition)	 :: diaré {m}
+diary {n} (daily log of experiences)	 :: dagbok {m}
+Diaspora {prop} (dispersion of a group of people)	 :: diaspora
+diatonic {adj} (diatonic)	 :: diatonisk
+diatonic scale {n} (diatonic scale)	 :: diatonisk skala {m}
+dice {n} (polyhedron used in games of chance) SEE: die	 ::
+dick {n} (slang: penis)	 :: kuk, kukk {m}, pikk {m}
+dicotyledon {n} (in botany)	 :: [Bokmål] tofrøbladede; [Nynorsk] tofrøbladingar
+dictaphone {n} (dictation machine) SEE: dictation machine	 ::
+dictatorship {n} (a government led by a dictator)	 :: [Bokmål] diktatur {n}; [Nynorsk] diktatur {n}
+dictionary {n} (publication that explains the meanings of an ordered list of words)	 :: [Bokmål] ordbok {m} {f}; [Nynorsk] ordbok {f}
+didactic {adj} (instructive or intended to teach or demonstrate)	 :: didaktisk
+didactics {n} (art and science of teaching)	 :: didaktikk {m}
+die {n} (cubical part of a pedestal)	 :: sokkel {m}
+die {n} (embossed device used in stamping)	 :: stempel {n}
+die {n} (polyhedron used in games of chance)	 :: terning {m}
+die {v} (to become spiritually dead)	 :: dø
+die {v} (to break down)	 :: dø
+die {v} (to stop living)	 :: dø, døy
+die out {v} (to become extinct)	 :: [Bokmål] dø ut; [Nynorsk] døy ut
+dieresis {n} (diacritic) SEE: diaeresis	 ::
+diesel engine {n} (a type of engine)	 :: [Bokmål] dieselmotor {m}; [Nynorsk] dieselmotor {m}
+diesel motor {n} (diesel engine) SEE: diesel engine	 ::
+dietary fibre {n} (undigested substance)	 :: [Bokmål] kostfiber {m}
+difference {n} (characteristic of something that makes it different from something else)	 :: forskjell
+difference {n} (quality of being different)	 :: [Bokmål] forskjell {m}
+difference equation {n} (recurrence relation) SEE: recurrence relation	 ::
+different {adj} (not the same)	 :: forskjellig, ulik, annerledes
+different {adj} (unlike most others)	 :: annerledes
+differential {n} (differential gear) SEE: differential gear	 ::
+differential equation {n} (equation involving the derivatives of a function)	 :: [Bokmål] differensialligning {f}, {m}, differensiallikning {f}, {m}; [Nynorsk] differensiallikning {f}
+differentiation {n} (act of distinguishing or describing a thing, by giving its different, or specific difference)	 :: differensiering
+difficult {adj} (hard, not easy)	 :: vanskelig
+diffract {v} (intransitive)	 :: bøye
+diffract {v} (transitive)	 :: bøye
+diffuse {adj} (not concentrated)	 :: diffus
+diffuse {v} (To be spread over or through as in air, water, or other matter, especially by fluid motion or passive means)	 :: diffundere
+diffuse {v} (To spread over or through as in air, water, or other matter, especially by fluid motion or passive means)	 :: diffundere
+dig {v} (slang: to appreciate, or like)	 :: digge
+digestion {n} (process in gastrointestinal tract)	 :: [Bokmål] fordøyelse {m}; [Nynorsk] fordøying {f}, melting {f}, matmelting {f}
+digger {n} (gold miner) SEE: gold digger	 ::
+digger {n} (nickname for a friend) SEE: bugger	 ::
+digger {n} (spade (playing card)) SEE: spade	 ::
+digit {n} (finger or toe)	 :: finger (finger), tå (toe)
+digit {n} (numeral)	 :: siffer
+digraph {n} (directed graph) SEE: directed graph	 ::
+digs {n} (lodgings) SEE: lodgings	 ::
+dike {n} (ditch) SEE: ditch	 ::
+dike {n} (lesbian) SEE: dyke	 ::
+dilation {n} (delay) SEE: delay	 ::
+dildo {n} (artificial phallus)	 :: [Bokmål] dildo {m}; [Nynorsk] dildo {m}
+dilettante {n} (amateur)	 :: dilettant {m}
+dilettante {n} (person with a general but superficial interest)	 :: dilettant {m}
+diligence {n} (conscientiousness or determination or perseverance when doing something)	 :: flid {m}; [Bokmål] iherdighet {m} {f}
+diligence {n} (public stage-coach)	 :: diligence {m}
+diligent {adj} (performing with intense concentration, focus, responsible regard)	 :: flittig, iherdig; [Bokmål] arbeidsom; [Nynorsk] arbeidsam
+dill {n} (fool) SEE: fool	 ::
+dilution {n} (action of the verb dilute)	 :: fortynning
+dim {adj} (not bright, not colourful)	 :: dim {m} {f}, dimt {n}, dimme {p}
+dimension {n} (in science fiction)	 :: dimensjon
+dimensional lumber {n} (dimension lumber) SEE: dimension lumber	 ::
+dimensional stone {n} (dimension stone) SEE: dimension stone	 ::
+diminutive {adj} (very small)	 :: diminutiv, diminutiv
+dimwit {n} (person who is deficient in intelligence)	 :: tosk {m}, dust {m}, [archaic] dumrian {m}
+Dinah {prop} (female given name) SEE: Dina	 ::
+ding-dong ditch {v} (ringing someone's door bell and running away)	 :: ring-på-spring , ring-på-stikk-av
+dingleberry {n} (cranberry) SEE: cranberry	 ::
+dingleberry {n} (piece of feces)	 :: danglebær {n}
+dinitrogen tetroxide {n} (binary compound nitrogen and oxygen, N2O4)	 :: dinitrogentetraoksid
+dinner {n} (main meal of the day)	 :: [Bokmål] middag {m}; [Nynorsk] middag {m}
+dinner hour {n} (the hour when dinner takes place) SEE: dinnertime	 ::
+dinner jacket {n} (tuxedo) SEE: tuxedo	 ::
+dinner plate {n} (dinnerplate) SEE: dinnerplate	 ::
+dinnertime {n} (mid-day break) SEE: lunchtime	 ::
+dinosaur {n} (extinct reptile)	 :: dinosaur {m}, dinosaurus {m}
+diocese {n} (region administered by a bishop)	 :: [Bokmål] bispedømme {n}; [Nynorsk] bispedøme {n}, bispedømme {n}
+diopter {n} (alidide) SEE: alidide	 ::
+diopter {n} (speculum) SEE: speculum	 ::
+dioxin {n} (toxic compound)	 :: [Bokmål] dioksin {n}; [Nynorsk] dioksin {n}
+diphallasparatus {n} (diphallia) SEE: diphallia	 ::
+diphallic terata {n} (diphallia) SEE: diphallia	 ::
+diphallus {n} (diphallia) SEE: diphallia	 ::
+diploma {n} (certificate)	 :: [Bokmål] diplom {n}; [Nynorsk] diplom {n}
+diplomacy {n} (art of conducting international relations)	 :: [Bokmål] diplomati {n}; [Nynorsk] diplomati {n}
+diplomacy {n} (tact and subtle skill in dealing with people)	 :: [Bokmål] diplomati {n}; [Nynorsk] diplomati {n}
+diplomat {n} (person who is accredited to represent a government)	 :: [Bokmål] diplomat {m}; [Nynorsk] diplomat {m}
+diplomatist {n} (diplomat) SEE: diplomat	 ::
+dipole {n} (dipole antenna) SEE: dipole antenna	 ::
+dipshit {n} (stupid or undesirable person)	 :: [Bokmål] idiot (idd-jot) {m}, tufs {m}
+dire {adj} (expressing bad consequences)	 :: skrekkelig, ondskapsfull
+dire {adj} (warning of bad consequences)	 :: skummel, illevarslende
+direct current {n} (electric current in which the electrons flow in one direction)	 :: [Bokmål] likestrøm {m}; [Nynorsk] likestraum {m}
+direct free kick {n} (soccer)	 :: [Bokmål] direkte frispark {n}
+direction {n} (indication of the point toward which an object is moving)	 :: retning {m} {f}
+direction {n} (work of the director in cinema or theater)	 :: produksjon {m}
+direction {n} (work of the director (manager))	 :: ledelse {m}
+directly {adv} (immediately) SEE: immediately	 ::
+direct product {n} (in category theory) SEE: categorical product	 ::
+direct product {n} (in set theory) SEE: Cartesian product	 ::
+directrix {n} (a female who directs) SEE: directress	 ::
+dire straits {n} (difficult position)	 :: urent farvann {n}
+dirigible {n} (a self-propelled airship that can be steered)	 :: [Bokmål] luftskip {n}; [Nynorsk] luftskip {n}
+dirt {n} (soil or earth)	 :: skitt {m}, jord
+dirt {n} (stain or spot (on clothes etc))	 :: skitt {m}, smuss {n}, flekk {m}
+dirty {adj} (covered with or containing dirt)	 :: skitten
+dis {n} (diss) SEE: diss	 ::
+dis {v} (diss) SEE: diss	 ::
+disable {v} (to deactivate a function of an electronical or mechanical device)	 :: deaktivere
+disable {v} (to impair the physical or mental abilities of)	 :: funksjonshemme, gjøre funksjonshemmet
+disable {v} (to render unable; to take away the ability)	 :: passivisere, utmanøvrere, sette ut av stand til, deaktivere
+disadvantage {n} (setback or handicap)	 :: [Bokmål] ulempe {m} {f}; [Nynorsk] ulempe {f}
+disadvantage {n} (weakness)	 :: [Bokmål] ulempe {m} {f}; [Nynorsk] ulempe {f}
+disagree {v} (not correspond)	 :: ikke stemme overens
+disagree {v} (not harmonize)	 :: (være) uenig
+disappear {v} (to make vanish)	 :: fjerne
+disappear {v} (to vanish)	 :: [Bokmål] forsvinne; [Nynorsk] forsvinne, forsvinna
+disappearance {n} (action of disappearing or vanishing)	 :: forsvinning {f}
+disappointing {adj} (that disappoints or disappoint)	 :: skuffende
+disappointment {n} (emotion)	 :: [Bokmål] skuffelse {m}; [Nynorsk] vonbrot {n}, vonbrott {n}, skuffelse {m}
+disapprove {v} (to refuse to approve) SEE: reject	 ::
+disaster {n} (unexpected catastrophe causing physical damage, etc.)	 :: [Bokmål] katastrofe {m}; [Nynorsk] katastrofe {m}
+disaster {n} (unforeseen event causing great loss, etc.)	 :: [Bokmål] katastrofe {m}; [Nynorsk] katastrofe {m}
+discharge {n} (act of expelling or letting go)	 :: utvisning {m}
+discharge {n} (act of releasing an inpatient from hospital)	 :: utskrivning {m}
+discharge {n} (volume of water transported by a river in a certain amount of time)	 :: vannføring {m}
+discharge {v} ((electricity) the act of releasing an accumulated charge)	 :: utlade
+discharge {v} ((medicine) to release (an inpatient) from hospital)	 :: utskrive
+discharge {v} (unload)	 :: losse
+disclose {v} (open up) SEE: open up	 ::
+discography {n} (complete collection of the releases of a musical act)	 :: diskografi {m}
+discoloration {n} (act of discolouring or state of being discolored)	 :: [Bokmål] misfarging {m} {f}; [Nynorsk] misfarging {f}
+discomfiture {n} (A feeling of frustration, disappointment, perplexity or embarrassment)	 :: uro {n}
+disconnect {n} (lack of connection or accord) SEE: mismatch	 ::
+disconnect {n} (switch used to isolate a portion of an electrical circuit) SEE: disconnector	 ::
+disconnector {n} (switching device used to open an electric circuit)	 :: [Bokmål] skillebryter {m}
+discontent {n} (dissatisfaction) SEE: dissatisfaction	 ::
+discontention {n} (discontent) SEE: discontent	 ::
+discotheque {n} (nightclub)	 :: diskotek {n}
+discount {n} (reduction in price)	 :: rabatt {m}
+discover {v} (find something for the first time)	 :: [Bokmål] oppdage
+discover {v}	 :: oppdage
+discretion {n} (the quality of being discreet or circumspect)	 :: diskresjon {m}
+discrimination {n} (distinct treatment on the basis of prejudice)	 :: diskriminering
+discuss {v} (to converse or debate concerning a particular topic)	 :: diskutere
+discussion {n} (conversation or debate)	 :: diskusjon, debatt {m}
+disdain {n} (feeling of contempt or scorn)	 :: [Bokmål] forakt {m}; [Nynorsk] forakt {f}
+disdain {v} (to regard with strong contempt)	 :: forakte
+disease {n} (an abnormal condition of the body causing discomfort or dysfunction)	 :: sjukdom {m}; [Bokmål] sykdom {m}
+disgraceful {adj} (bringing or warranting disgrace)	 :: vanærende, skammelig, skjendig
+disguise {n} (attire to hide/assume an identity)	 :: forkledning {m}
+disgust {n} (an intense dislike or repugnance)	 :: [Bokmål] avsky {m}, vemmelse {m}; [Nynorsk] avsky, vemjing {f}, vemming {f}
+disgust {v} (to cause an intense dislike for something)	 :: [Bokmål] gi avsky, gi vemmelse, få til å vemmes; [Nynorsk] gje avsky, få til å vemjast, få til å vemmast
+dish {n} (vessel for holding/serving food )	 :: [Bokmål] tallerken {m}, asjett {m}
+dishonest {adj} (not honest)	 :: uærlig
+dishonor {n} (dishonour) SEE: dishonour	 ::
+dishonor {v} (dishonour) SEE: dishonour	 ::
+dishonour {n} (shame or disgrace)	 :: skam {m}, vanære {m}
+dishtowel {n} (a cloth or towel used to dry dishes) SEE: tea towel	 ::
+dishwasher {n} (machine)	 :: [Bokmål] oppvaskmaskin {m}; [Nynorsk] oppvaskmaskin {m}
+dishwashing {n} (dishwashing) SEE: dishes	 ::
+dishwashing {n} (dishwashing) SEE: washing-up	 ::
+disinfect {v} (To sterilize by the use of cleaning agent)	 :: desinfisere
+disinvite {v} (to cancel an invitation) SEE: uninvite	 ::
+disjunction {n} (logic)	 :: [Bokmål] disjunksjon {m}
+diskindness {n} (unkindness) SEE: unkindness	 ::
+disk jockey {n} (person who selects and plays recorded music) SEE: disc jockey	 ::
+dismal {adj} (gloomy and bleak)	 :: stusslig
+dismantle {v} (take apart)	 :: [Bokmål] demontere; [Nynorsk] demontere
+disobedience {n} (refusal to obey)	 :: ulydighet
+disorder {n} (physical or psychical malfunction)	 :: [Bokmål] forstyrrelse {m}
+disparage {v} (to dishonor by a comparison)	 :: [Bokmål] ringeakte, rakke ned på, nedvurdere
+disparage {v} (to ridicule)	 :: [Bokmål] ringeakte, rakke ned på, diskreditere
+disparaging {adj} (insulting)	 :: [Bokmål] nedsettende; [Nynorsk] nedsetjande
+dispatch {v} (To send with promptness)	 :: (av)sende, ekspedere
+dispersion {n} (optics: separation of visible light to its component frequencies)	 :: [Bokmål] dispersjon {m}; [Nynorsk] dispersjon {m}
+dispirited {adj} (without spirit) SEE: despondent	 ::
+dispute {n} (argument, failure to agree)	 :: uenighet, disputt {m}
+dispute {n} (quarrel) SEE: quarrel	 ::
+dispute {n} (verbal controversy)	 :: disputt {m}
+dispute {v} (to argue pro and con; to discuss)	 :: diskutere
+dispute {v} (to oppose by argument or assertion, to controvert)	 :: argumentere
+disregard {v} (to ignore)	 :: [Bokmål] avfeie, se bort fra; [Nynorsk] avfeie, sjå bort frå
+disrespect {n} (lack of respect)	 :: dissing {f} [colloquial], ringeakt {m}
+disrespect {v} (to show a lack of respect)	 :: disse [colloquial], ringeakte
+disrespectful {adj} (lacking respect)	 :: respektløs, uærbødig
+disruptive {adj} (causing disrupt or unrest)	 :: splittende, nedbrytende
+dissatisfaction {n} (unhappiness or discontent)	 :: utilfredshet, misnøye; [Nynorsk] misnøye
+dissatisfactory {adj} (causing dissatisfaction) SEE: unsatisfactory	 ::
+dissident {n} (person who opposes the current political structure, group or laws)	 :: [Bokmål] dissident {m}; [Nynorsk] dissident {m}
+dissimulate {v} (to deceive by concealment or omission)	 :: fortie
+dissimulation {n} (the act of concealing the truth)	 :: [Bokmål] forstillelse {m}
+dissolve {v} (fade out) SEE: fade out	 ::
+distil {v} (to make by means of distillation)	 :: [Bokmål] destillere; [Nynorsk] destillere
+distil {v} (to subject a substance to distillation)	 :: [Bokmål] destillere; [Nynorsk] destillere
+distil {v} (to undergo distillation)	 :: [Bokmål] destilleres; [Nynorsk] destilleras
+distill {v} (exude in small drops) SEE: distil	 ::
+distill {v} (make by distillation) SEE: distil	 ::
+distill {v} (subject to distillation) SEE: distil	 ::
+distill {v} (trickle down in small drops) SEE: distil	 ::
+distill {v} (undergo distillation) SEE: distil	 ::
+distillation {n} (separation of a substance)	 :: destillasjon {m}
+distinction {n} (that which distinguishes)	 :: distinksjon {m}
+distinction {n} (the state of being distinguishable)	 :: forskjell {m}
+distort {v} (to bring something out of shape)	 :: forvrenge, fordreie
+distort {v} (to give false account of)	 :: forvrenge
+distress {n} ((cause of) discomfort)	 :: ubehag
+distress {n} (serious danger)	 :: nødsituasjon
+distributor {n} (one who distributes, a thing that distributes)	 :: distributør {m}
+district {n} (administrative division)	 :: [Bokmål] distrikt {n}; [Nynorsk] distrikt {n}
+disturb {v} (confuse or irritate)	 :: forstyrre
+disturbance {n} (act of disturbing, being disturbed)	 :: [Bokmål] forstyrrelse {m}
+disturbance {n} (something that disturbs)	 :: [Bokmål] forstyrrelse {m}
+ditch {n} (trench)	 :: grøft, dike
+ditch {v} (to play hookey)	 :: skulke
+dithyramb {n} (a choral hymn sung in ancient Athens in honor of the god Dionysus)	 :: dityrambe {m}
+dithyramb {n} (a poem or oration in the same style)	 :: [Bokmål] høystemt lovsang; [Nynorsk] høgstemt(d) lovsong
+ditsy {adj} (ditzy) SEE: ditzy	 ::
+ditto {adv} (likewise) SEE: likewise	 ::
+dive {n} (deliberate fall after a challenge)	 :: [Bokmål] filming, [Bokmål] simulering
+diver {n} (someone who dives)	 :: [Bokmål] [in sport] stuper {m}
+divest {v} (undress) SEE: undress	 ::
+divide {v} (calculate quotient)	 :: dele, delt på
+dividend {n} (finance: a payment of money by a company to its shareholders)	 :: utbytte
+divine {adj} (beautiful, heavenly)	 :: [Bokmål] guddommelig, himmelsk, vidunderlig
+divine {adj} (eternal, holy or otherwise godlike)	 :: [Bokmål] guddommelig
+divine {adj} (of or pertaining to a god)	 :: [Bokmål] guddommelig; [Nynorsk] guddommeleg, guddomleg
+divine {adj} (of superhuman or surpassing excellence)	 :: [Bokmål] guddommelig, vidunderlig
+divine {n} (a deity) SEE: deity	 ::
+diving board {n} (diving platform) SEE: diving platform	 ::
+diving board {n} (springboard) SEE: springboard	 ::
+diving suit {n} (garment or apparatus worn by a diver for protection from the underwater environment)	 :: [Bokmål] dykkerdrakt {m} {f}; [Nynorsk] dykkardrakt {f}, dukkardrakt {f}
+division {n} (act or process of dividing anything)	 :: [Bokmål] divisjon {m}; [Nynorsk] divisjon {m}
+division {n} (arithmetic: calculation involving this process)	 :: [Bokmål] divisjon {m}; [Nynorsk] divisjon {m}
+division {n} (arithmetic: process of dividing a number by another)	 :: [Bokmål] divisjon {m}; [Nynorsk] divisjon {m}
+division {n} (large military unit)	 :: [Bokmål] divisjon {m}; [Nynorsk] divisjon {m}
+division {n} (section of a large company)	 :: [Bokmål] divisjon {m}; [Nynorsk] divisjon {m}
+divisor {n} (arithmetic: a number or expression)	 :: divisor
+divorce {n} (legal dissolution of a marriage)	 :: skillsmisse {m}
+dizziness {n} (state of being dizzy)	 :: [Bokmål] svimmelhet {m} {f}
+dizzyness {n} (dizziness) SEE: dizziness	 ::
+Djiboutian {adj} (pertaining to Djibouti)	 :: [Bokmål] djiboutisk; [Nynorsk] djiboutisk
+Djiboutian {n} (person)	 :: [Bokmål] djiboutier {m}; [Nynorsk] djiboutiar {m}
+Dnepropetrovsk {prop} (Dnipropetrovsk) SEE: Dnipropetrovsk	 ::
+do {v} (be in jail)	 :: sitte inne, sone
+do {v} (be reasonable or acceptable)	 :: gå an, holde
+do {v} (perform, execute)	 :: gjøre
+do {v} (work, suffice)	 :: holde, holde for
+doable {adj} (possible to do) SEE: feasible	 ::
+dobra {n} (official currency of São Tomé and Príncipe)	 :: dobra
+docileness {n} (docility) SEE: docility	 ::
+docker {n} (dockworker) SEE: dockworker	 ::
+doctor {n} (physician)	 :: lege {m}
+doctor {n} (veterinarian) SEE: veterinarian	 ::
+doctorate {n} (highest degree awarded by a university faculty)	 :: [Bokmål] doktorgrad {m}, doktortittel {m}; [Nynorsk] doktorgrad {m} {f}, doktortittel {m}
+doctor's certificate {n} (medical certificate) SEE: medical certificate	 ::
+docudrama {n} (drama that combines elements of documentary and drama)	 :: dokudrama
+documentary {n} (documentary film)	 :: dokumentar {m}
+documentation {n} (documents that explain the operation of a particular software program)	 :: [Bokmål] dokumentasjon
+dodecahedron {n} (a polyhedron with 12 faces)	 :: dodekaeder {n}
+dodgeball {n} (a sport)	 :: kanonball {m}
+dodgem {n} (dodgem) SEE: bumper car	 ::
+dodo {n} (Raphus cucullatus)	 :: dodo {m} [Bokmål], dronte {m} [Nynorsk]
+dog {n} (animal)	 :: hund {m}, bikkje {f}
+dog {n} (hinged catch) SEE: pawl	 ::
+dog {n} (metal support for logs) SEE: andiron	 ::
+dog {n} (slang: man) SEE: guy	 ::
+dogfish {n} (bowfin) SEE: bowfin	 ::
+dogfish {n} (shark in family Dalatidae) SEE: kitefin shark	 ::
+dogfish {n} (shark in family Scyliorhinidae) SEE: catshark	 ::
+doggy paddle {n} (swimming stroke) SEE: dog paddle	 ::
+doghouse {n} (kennel) SEE: kennel	 ::
+doghouse bass {n} (instrument) SEE: double bass	 ::
+dogma {n} (authoritative principle, belief or statement of opinion)	 :: dogme {n}
+dogma {n} (doctrine)	 :: dogme {n}
+dog meat {n} (dog eaten as meat)	 :: [Bokmål] hundekjøtt {n}; [Nynorsk] hundekjøt {n}, hundekjøtt {n}
+dogmeat {n} (Meat from a dog)	 :: [Bokmål] hundekjøtt {n}; [Nynorsk] hundekjøt {n}, hundekjøtt {n}
+dog shit {n} (deceitful statements, etc) SEE: bullshit	 ::
+dogshit {n} (dog excrement) SEE: dog shit	 ::
+dog's life {n} (miserable life)	 :: [Bokmål] hundeliv {n}; [Nynorsk] hundeliv {n}
+Dog Star {prop} (star in Canis Major)	 :: Hundestjernen
+doline {n} (any sinkhole) SEE: sinkhole	 ::
+doll {n} (a toy in the form of a human)	 :: [Bokmål] dukke {m} {f}, dokke {m} {f}; [Nynorsk] dokke {f}
+dollar {n} (designation for specific currency)	 :: dollar {m}
+dollhouse {n} (miniature house for dolls) SEE: doll's house	 ::
+dolphin {n} (aquatic mammal)	 :: delfin {m}
+dolphin {n} (dauphin) SEE: dauphin	 ::
+dolphin {n} (mahi-mahi) SEE: mahi-mahi	 ::
+domain {n} (a field or sphere of activity, influence or expertise)	 :: [Bokmål] domene {n}; [Nynorsk] domene {n}
+domain {n} (geographic area owned or controlled by a single person or organization)	 :: [Bokmål] domene {n}; [Nynorsk] domene {n}
+domain {n} (highest-level grouping of organisms)	 :: [Bokmål] domene {n}; [Nynorsk] domene {n}
+dome {n} (architectural element)	 :: kuppel {m}
+domesticate {v} (to adapt to live with humans)	 :: [Bokmål] domestisere; [Nynorsk] domestisere
+Dominica {prop} (Commonwealth of Dominica)	 :: Dominica
+Dominican {adj} (from Dominica)	 :: [Bokmål] dominikisk; [Nynorsk] dominikisk
+Dominican {adj} (from the Dominican Republic)	 :: [Bokmål] dominikansk; [Nynorsk] dominikansk
+Dominican {adj} (of or belonging to the religious order)	 :: [Bokmål] dominikansk; [Nynorsk] dominikansk
+Dominican {n} (from Dominica)	 :: [Bokmål] dominiker {m}; [Nynorsk] dominikar {m}
+Dominican {n} (from Dominican Republic)	 :: [Bokmål] dominikaner {m}; [Nynorsk] dominikan {m}, dominikanar {m}
+Dominican {n} (member of religious order)	 :: [Bokmål] dominikaner {m}; [Nynorsk] dominikan {m}, dominikanar {m}
+Dominican Republic {prop} (country in the Caribbean)	 :: Den dominikanske republikk
+domovoi {n} (domovoy) SEE: domovoy	 ::
+don {n} (mafia boss)	 :: mafiatopp {m}
+don {n} (professor) SEE: professor	 ::
+don {v} (put on clothes)	 :: ta på
+Donald Duck {prop} (one of the Disney characters)	 :: Donald Duck
+Donaldism {n} (Disney fan culture)	 :: Donaldismen
+donation {n} (a voluntary gift or contribution for a specific cause)	 :: [Bokmål] donasjon {m}; [Nynorsk] donasjon {m}
+donator {n} (one who donates)	 :: [Bokmål] donator {m}; [Nynorsk] donator {m}
+Donbass {prop} (Donbas) SEE: Donbas	 ::
+donjon {n} (fortified tower) SEE: keep	 ::
+donkey {n} (a domestic animal)	 :: esel {n}
+don't count your chickens before they're hatched {proverb} (don't count on things if you don't have them yet)	 :: ikke selg skinnet før bjørnen er skutt
+don't let the door hit you on the way out {phrase} (good riddance) SEE: good riddance	 ::
+don't mention it {phrase} (it is too trivial to warrant thanks)	 :: ingenting å takke for, ingen årsak
+donut {n} (deep-fried piece of dough) SEE: doughnut	 ::
+doodad {n} (thingy) SEE: thingy	 ::
+doodah {n} (thingy) SEE: thingy	 ::
+doodle {v} (to draw or scribble aimlessly)	 :: drodle
+doom {n} (Last Judgment) SEE: Last Judgment	 ::
+doomsayer {n} (one who predicts doom)	 :: [Bokmål] dommedagsprofet {m}; [Nynorsk] dommedagsprofet {m}
+doomsday {n} (any day of decisive judgement)	 :: [Bokmål] dommedag {m}; [Nynorsk] dommedag {m}, domedag {m}
+doomsday {n} (day when God is expected to judge the world)	 :: [Bokmål] dommedag {m}; [Nynorsk] dommedag {m}, domedag {m}
+door {n} (portal of entry into a building, room or vehicle)	 :: dør {m}
+doorbell {n} (device on or adjacent to an outer door for announcing one's presence)	 :: [Bokmål] dørklokke {m} {f}; [Nynorsk] dørklokke {f}
+doorcase {n} (doorframe) SEE: doorframe	 ::
+doormat {n} (coarse mat that appears at the entrance to a house)	 :: [Bokmål] dørmatte {m} {f}; [Nynorsk] dørmatte {f}
+doormat {n} (someone that is over-submissive to other's wishes)	 :: [Bokmål] dørmatte {m} {f}; [Nynorsk] dørmatte {f}
+doorpost {n} (doorjamb) SEE: doorjamb	 ::
+dope {v} (electronics: add a dopant to)	 :: [Bokmål] dope
+dope {v} (slang: affect with drugs)	 :: [Bokmål] dope
+dope {v} (slang: use drugs)	 :: [Bokmål] dope
+doppelganger {n} (ghostly double of a living person)	 :: dobbeltgjenger {m}
+doppelganger {n} (remarkably similar double)	 :: dobbeltgjenger {m}
+dorado {n} (mahi-mahi) SEE: mahi-mahi	 ::
+Dorcas {prop} (biblical woman)	 :: Dorkas
+Doric {prop} (Greek dialect)	 :: Dorisk {m}
+dork {n} (a quirky, silly, and/or stupid socially inept person, or one who is out of touch with contemporary trends)	 :: dust {m}
+dormouse {n} (rodent)	 :: syvsover, sovemus
+Dorothea {prop} (female given name) SEE: Dorothy	 ::
+Dorothy dollar {n} (business generated by homosexuals) SEE: pink pound	 ::
+do the math {v} (to figure it out yourself)	 :: [Bokmål] legge sammen to og to
+dot product {n} (scalar product) SEE: scalar product	 ::
+double bed {n} (a bed designed for two adults)	 :: [Bokmål] dobbeltseng {m} {f}; [Nynorsk] dobbeltseng {f}
+double fault {n} (missing of both the first serve and second serve)	 :: [Bokmål] dobbeltfeil {m}
+double standard {n} (the situation of groups one of whom is excused from following a standard)	 :: dobbeltmoral {m}, hykleri {n}
+doubt {n} (uncertainty)	 :: tvil {m}
+doubtful {adj} (experiencing or showing doubt)	 :: [Bokmål] tvilende; [Nynorsk] tvilande
+doughnut {n} (deep-fried piece of dough or batter)	 :: [Bokmål] smultring {m}, berlinerbolle {m} (with filling); [Nynorsk] smultring {m}
+dove {n} (bird of the pigeon and dove family Columbidae)	 :: [Bokmål] [♂♀] due {f} {m}, [♂] hanndue {f} {m}, [♂] duestegg {m}, [♀] hunndue {f} {m}; [Nynorsk] [♂♀] due {f}, [♂♀] dua {f} [variant form], [♂] hanndue {f}, [♂] duestegg {m}, [♀] hodue {f}
+dovecot {n} (dovecote) SEE: dovecote	 ::
+dovehouse {n} (dovecote) SEE: dovecote	 ::
+Dover {prop} (port in Kent, England)	 :: Dover
+down {adv} (from a high to a low position, downwards)	 :: ned
+down {adv} (in a lower position)	 :: nede
+down {n} (soft, immature feathers)	 :: dun {f} {n}
+downcast {adj} (feeling despondent)	 :: nedtrykt
+downhill {adj} (easy) SEE: easy	 ::
+downhill {adj} (going down a slope)	 :: kjøre utfor
+downhill {adj} (located down a slope)	 :: i en skråning
+downhill {n} (alpine skiing) SEE: alpine skiing	 ::
+downhill {n} (discipline of alpine skiing)	 :: utfor {m}
+downing {n} (defeat) SEE: defeat	 ::
+download {n} (file transfer to the local computer)	 :: nedlastning
+download {v} (to transfer data from a remote computer to a local one)	 :: laste ned, nedlaste; [Nynorsk] lasta ned, nedlasta
+Down's syndrome {n} (condition caused by chromosomal deficiency) SEE: Down syndrome	 ::
+downtrodden {adj} (oppressed, persecuted or subjugated)	 :: undertrykket
+downtrodden {adj} (trodden down)	 :: nedtråkket
+do you believe in God {phrase} (do you believe in God?)	 :: [Bokmål] tror du på Gud?; [Nynorsk] trur du på Gud?
+do you have a boyfriend {phrase} (do you have a boyfriend?)	 :: [Bokmål] har du en kjæreste?
+do you have a menu in English {phrase} (phrase)	 :: har du en meny på engelsk?
+do you need help {phrase} (Do you need help?)	 :: [Bokmål] trenger du hjelp?
+do you speak English {phrase} (do you speak English?)	 :: snakker du engelsk?
+do you speak something {phrase} (do you speak...?)	 :: snakker du norsk?
+dozen {n} (twelve)	 :: [Bokmål] dusin {n}; [Nynorsk] dusin {n}
+Draco {prop} (constellation)	 :: [Bokmål] Dragen; [Nynorsk] Draken
+dracology {n} (dragonlore) SEE: dragonlore	 ::
+draft {n} (amount of liquid that is drunk in one swallow)	 :: slurk {m}
+draft {n} (conscription)	 :: verneplikt {m}, tvungen militærtjeneste {m}
+draft {n} (current of air)	 :: trekk {m}
+draft {n} (early version of a written work)	 :: skisse {c}, utkast {n}, kladd {m}
+draft {n} (preliminary sketch)	 :: skisse {c}
+draft {v} (to conscript a person)	 :: utskrive
+draft {v} (to write a first version)	 :: skissere, kladde
+draft animal {n} (draught animal) SEE: draught animal	 ::
+drag {n} (puff on cigarette)	 :: [Bokmål] drag {n}, blås {m}
+drag {n} (slang: women’s clothing worn by men)	 :: [Bokmål] drag
+drag {n} (street) SEE: street	 ::
+dragnet {n} (net dragged across the bottom)	 :: [Bokmål] not {m} {f}; [Nynorsk] not {f}
+dragon {n} (constellation Draco) SEE: Draco	 ::
+dragon {n} (Komodo dragon) SEE: Komodo dragon	 ::
+dragon {n} (lizard of the genus Draco) SEE: Draco	 ::
+dragon {n} (mythical creature)	 :: drage {m}, lindorm, linnorm, sjøslange
+dragonfly {n} (insect of the infraorder Anisoptera)	 :: [Bokmål] øyenstikker {m}, øyestikker {m}; [Nynorsk] augestikkar {m}, augnestikkar {m}
+dragon's wort {n} (tarragon) SEE: tarragon	 ::
+drake {n} (male duck)	 :: [Bokmål] andrik {m}, andestegg {m}
+dramatic present tense {n} (tense) SEE: historical present tense	 ::
+dramatist {n} (playwright) SEE: playwright	 ::
+dramaturgic {adj} (of or relating to the art of dramatic composition for the stage)	 :: dramaturgisk
+dramaturgical {adj} (dramaturgic) SEE: dramaturgic	 ::
+drape {n} (curtain, drapery) SEE: curtain	 ::
+draught {n} (the depth below the water line to the bottom of a vessel's hull)	 :: dypgang
+draughts {n} (game for two players)	 :: dam
+draw {n} (procedure by which the result of a lottery is determined)	 :: loddtrekning {f}
+draw {n} (tie as a result of a game)	 :: uavgjort
+draw {v} (to cause) SEE: cause	 ::
+draw {v} (to disembowel) SEE: disembowel	 ::
+draw {v} (to inhale) SEE: inhale	 ::
+draw {v} (to produce a picture)	 :: [Bokmål] tegne; [Nynorsk] teikne
+drawback {n} (a disadvantage)	 :: ulempe {f}
+drawer {n} (open-topped box in a cabinet used for storing)	 :: skuff
+drawers {n} (plural of drawer) SEE: drawer	 ::
+drawing board {n} (plane wooden construction or table to which paper can be fastened for drawing purposes)	 :: [Bokmål] tegnebord {n}; [Nynorsk] teiknebord {n}
+drawing pin {n} (tack for attaching paper) SEE: thumbtack	 ::
+draw up {v} (arrange in order or formation)	 :: stille opp
+draw up {v} (compose a document)	 :: sette opp
+dream {n} (hope or wish)	 :: [Bokmål] drøm {m}; [Nynorsk] draum {m}
+dream {n} (imaginary events seen while sleeping)	 :: [Bokmål] drøm {m}; [Nynorsk] draum {m}
+dream {v} (see imaginary events while sleeping)	 :: drømme
+dream {v} (to daydream)	 :: dagdrømme
+dreary {adj} (drab)	 :: dyster
+dredge {n} (dragnet) SEE: dragnet	 ::
+dredger {n} (A vessel)	 :: mudderpram {m}
+dreggy {adj} (muddy) SEE: muddy	 ::
+dress {n} (apparel)	 :: klær {p}, påkledning {m}
+dress {n} (garment)	 :: kjole {m}
+dress {v} (to clothe oneself)	 :: kle på seg
+dress {v} (to clothe (something or somebody))	 :: kle
+dressing case {n} (luggage bag)	 :: toalettmappe {m}
+dressing gown {n} (item of clothing)	 :: [Bokmål] morgenkåpe {m} {f}; [Nynorsk] morgonkåpe {f}
+dress rehearsal {n} (rehearsal prior to a public spectacle, where all the performers are in costume)	 :: generalprøve {m} {f}
+dried {adj} (without water or moisture)	 :: [Bokmål] tørket
+drift {n} (shallow place in a river) SEE: ford	 ::
+drift {v} (to deviate gently from the intended direction of travel)	 :: [Bokmål] vandre
+drill {n} (activity done as an exercise or practice)	 :: drill {m}
+drill {n} (tool)	 :: bor {n}
+drill {v} (to investigate closer)	 :: dypdykke
+drill {v} (to make a hole)	 :: bore
+drill {v} (to practice)	 :: drille
+drill {v} (to repeat in order to make remember)	 :: terpe
+drill bit {n} (twist drill) SEE: twist drill	 ::
+drilling {n} (act of drilling)	 :: [Bokmål] boring {m} {f}; [Nynorsk] boring {f}
+drink {v} (consume alcoholic beverages)	 :: drikke
+drink {v} (consume liquid through the mouth)	 :: drikke
+drinkable {adj} (of good or satisfactory quality)	 :: drikkelig
+drinkable {adj} (safe to drink)	 :: drikkelig, drikkbart
+drink-driving {n} (drink-driving) SEE: drunk driving	 ::
+drinking horn {n} (drinking vessel fashioned from an animal's horn)	 :: [Bokmål] drikkehorn {n}; [Nynorsk] drikkehorn {n}
+drinking song {n} (song which celebrates or accompanies drinking)	 :: drikkevise
+drinking water {n} (water for humans)	 :: drikkevann
+drip {n} (a drop of a liquid)	 :: dråpe {m}
+drip {n} (an apparatus that slowly releases a liquid)	 :: drypp {n}
+drip {v} (to fall one drop at a time)	 :: dryppe
+drip {v} (to leak slowly)	 :: sive
+drip {v} (to put a small amount of a liquid on something, drop by drop)	 :: dryppe
+drivable {adj} (driveable) SEE: driveable	 ::
+drive {v} (operate (a wheeled motorized vehicle))	 :: [Bokmål] kjøre; [Nynorsk] køyra, køyre
+drive-in {n} (drive-in restaurant) SEE: drive-through	 ::
+driver's licence {n} (document) SEE: driver's license	 ::
+driver's license {n} (documenting permitting this person to drive)	 :: [Bokmål] førerkort; [Nynorsk] førarkort
+driving licence {n} (document) SEE: driver's license	 ::
+drizzle {n} (light rain)	 :: [Bokmål] yr {n}; [Nynorsk] yr {n}
+drizzle {n} ((physics, weather) numerous small and uniformly dispersed water drops)	 :: [Bokmål] yr {n}; [Nynorsk] yr {n}
+dromedary {n} (Camelus dromedarius, the single-humped camel)	 :: dromedar
+drool {v} (to secrete saliva in anticipation of food)	 :: sikle
+drop {n} (small mass of liquid)	 :: [Bokmål] dråpe {m}; [Nynorsk] drope {m}
+drop {n} (small, round piece of hard candy)	 :: [Bokmål] nb {m} {n}; [Nynorsk] drops {m} {n}
+drop {v} (to allow to fall from one's grasp)	 :: slippe
+dropdown {n} (computing: selection object) SEE: dropdown list	 ::
+drop-down {n} (type of menu) SEE: dropdown list	 ::
+drop in the ocean {n} (drop in the bucket) SEE: drop in the bucket	 ::
+drought {n} (a period of below average rain fall)	 :: [Bokmål] tørke {m} {f}; [Nynorsk] tørke {m}
+drug {n}	 :: narkotikum {n}, rusmiddel {n}, droge
+drug {n} (psychoactive substance ingested for recreational use, especially illegal and addictive one)	 :: rusmiddel
+drug {n} (substance used as a medical treatment) SEE: medicine	 ::
+drug abuse {n} (substance abuse) SEE: substance abuse	 ::
+drug addiction {n} (dependency on illegal drugs)	 :: [Bokmål] narkomani, narkotikaavhengighet
+drug baron {n} (druglord) SEE: druglord	 ::
+drug dealer {n} (person who illegally sells drugs)	 :: langer {m}, narkolanger {m}
+drugstore {n} (pharmacy) SEE: pharmacy	 ::
+druid {n} (an order of priests)	 :: druide {m}
+drum {n} (musical instrument)	 :: [Bokmål] tromme {m} {f}; [Nynorsk] tromme {f}
+drummer {n} (one who plays the drums)	 :: batterist {m}, trommeslager {m}, trommis {m}
+drum set {n} (drum kit) SEE: drum kit	 ::
+drumstick {n} (stick used to play drums)	 :: [Bokmål] trommestikke {m} {f}; [Nynorsk] trommestikke {f}
+drunk {adj} (intoxicated after drinking too much alcohol)	 :: full
+drunk as a lord {adj} (drunk) SEE: drunk	 ::
+drunk driver {n} (drunk driver) SEE: drink-driver	 ::
+drunk driving {n} (the act of driving under the influence of alcohol)	 :: fyllekjøring
+drunkness {n} (drunkenness) SEE: drunkenness	 ::
+drupe {n} (stone fruit) SEE: stone fruit	 ::
+Druzhkovka {prop} (Druzhkivka) SEE: Druzhkivka	 ::
+dry {adj} (free from liquid or moisture)	 :: tørr
+drydock {n} ( dock that can be drained of water)	 :: [Bokmål] tørrdokk {f}; [Nynorsk] turrdokk {f}
+dryer {n} (household appliance for drying clothing)	 :: tørketrommel {m}
+dry rot {n} (dry rot in plants)	 :: [Bokmål] tørråte {m}, tørr-råte {m}
+dry rot {n} (dry rot in wood)	 :: [Bokmål] hussopp {m}; [Nynorsk] hussopp {m}
+drywall {n} (A building material)	 :: gipsplate {c}
+dual number {n} (Grammatical number denoting a quantity of exactly two) SEE: dual	 ::
+dubbing {n} (dubbin) SEE: dubbin	 ::
+dubious {adj} (arousing doubt)	 :: tvilsom, usikker
+dubious {adj} (in disbelief, uncertain)	 :: tvilrådig, usikker
+dubnium {n} (chemical element)	 :: dubnium
+duchess {n} (female spouse or widow of a duke)	 :: [Bokmål] hertuginne {m} {f}; [Nynorsk] hertuginne {f}
+duchy {n} (a dominion or region ruled by a duke or duchess)	 :: [Bokmål] hertugdømme {n}; [Nynorsk] hertugdøme {n}, hertugdømme {n}
+duck {n} (aquatic bird of the family Anatidae)	 :: [Bokmål] and {m} {f}; [Nynorsk] and {f}
+duck {n} (female duck)	 :: [Bokmål] and {m} {f}
+duckling {n} (young duck)	 :: andunge {m}
+duckpond {n} (a pond populated by ducks)	 :: andedam {m}
+duck soup {n} (something which is easy) SEE: piece of cake	 ::
+duct {n} (a pipe, tube or canal which carries air or liquid from one place to another)	 :: [Bokmål] kanal {m}; [Nynorsk] kanal {m}
+ductile {adj} (capable of being pulled or stretched into thin wire)	 :: formbar
+dud {n} (loser) SEE: loser	 ::
+dud {n} (obsolete: clothes) SEE: duds	 ::
+dude {n} (dandy) SEE: dandy	 ::
+duel {n} (combat between two persons)	 :: duell {m}, tvekamp {m}
+dueler {n} (dueler) SEE: duelist	 ::
+DUI {initialism} (Driving Under the Influence)	 :: kjøre i beruset tilstand
+duke {n} (grand duke)	 :: storhertug {m}
+duke {n} (male holder of a dukedom)	 :: [Bokmål] hertug {m}; [Nynorsk] hertug {m}
+duke {n} (male ruler of a duchy)	 :: [Bokmål] hertug {m}; [Nynorsk] hertug {m}
+dulcimer {n} (musical instrument)	 :: hakkebrett
+dulcour {n} (sweetness; dulcitude; suavitude) SEE: sweetness	 ::
+dull {adj} (boring)	 :: kjedelig
+dull {adj} (lacking the ability to cut easily; not sharp)	 :: sløv
+dull {adj} (not bright or intelligent)	 :: dum
+dull {adj} (not shiny)	 :: matt
+dull {v} (to render dull)	 :: sløve
+dulse {n} (reddish brown seaweed that is eaten)	 :: søl {n}
+duma {n} (lower house of Russian national parliament)	 :: duma
+dumb {adj} (unable to speak) SEE: mute	 ::
+dumbledore {n} (beetle) SEE: beetle	 ::
+dumbledore {n} (bumblebee) SEE: bumblebee	 ::
+dumbledore {n} (dandelion) SEE: dandelion	 ::
+dumfounded {adj} (dumbfounded) SEE: dumbfounded	 ::
+dummy {n} ((bridge) The partner of the winning bidder, who shows his or her hand.)	 :: [Bokmål] blindemann {m}
+dummy {n} (nonfunctional device or tool used in place of a functional one)	 :: [Bokmål] dummy {m}
+dumpling {n} (food)	 :: [Bokmål] melbolle
+dun {adj} (of a brownish grey colour)	 :: gråbrun
+dun {n} (colour)	 :: gråbrunt {n}
+dun-bar {n} (species of moth)	 :: vanlig rovfly {n}
+dunce cap {n} (Conical hat)	 :: dumrianhatt
+dune {n} (a ridge or hill of sand piled up by the wind)	 :: dyne
+dungarees {n} (heavy denim pants or overalls)	 :: dongeribukse {m} {f} (pants)
+dungeon {n} (underground prison or vault)	 :: fangekjeller {m}, fangehull {n}
+dunlin {n} (Calidris alpina)	 :: myrsnipe {m} {f}
+dunnage {n} (baggage) SEE: baggage	 ::
+dunnage {n} (personal effects) SEE: personal effects	 ::
+duo {n} (twosome, especially musicians)	 :: [Bokmål] duo {m}; [Nynorsk] duo {m}
+dupe {v} (to swindle, deceive, or trick)	 :: dupere
+duplicitous {adj} (Given to or marked by deliberate deceptiveness in behavior or speech)	 :: [Bokmål] tvetydig
+durability {n} (Permanence by virtue of the power to resist stress or force)	 :: holdbarhet {m}, bestandighet {m}
+duramen {n} (heartwood) SEE: heartwood	 ::
+duress {n} (constraint by threat)	 :: [Bokmål] tvang
+durian {n} (fruit)	 :: durian {m}
+dusk {n} (a period of time occurring at the end of the day during which the sun sets)	 :: skumring {m}
+dusky {adj} (dark-skinned) SEE: dark-skinned	 ::
+dust {n} (fine, dry particles)	 :: støv {n}, dust {f} {n}
+dustbin {n} (container for trash) SEE: garbage can	 ::
+dust bunny {n} (a small clump of dust)	 :: hybelkanin {m}
+dustcart {n} (rubbish collection vehicle) SEE: garbage truck	 ::
+dustman {n} (garbage collector) SEE: garbage collector	 ::
+dust mask {n} (mask providing protection against dust)	 :: [Bokmål] støvmaske {m} {f}
+dustpan {n} (flat scoop for assembling dust)	 :: [Bokmål] feiebrett {n}; [Nynorsk] feiebrett {n}
+Dutch {adj} (of the Netherlands, people, or language)	 :: [Bokmål] nederlandsk; [Nynorsk] nederlandsk
+Dutch {prop} (people from the Netherlands)	 :: [Bokmål] nederlender {m}, nederlending {m}; [Nynorsk] nederlendar {m}, nederlending {m}
+Dutch {prop} (the Dutch language)	 :: [Bokmål] nederlandsk {m}; [Nynorsk] nederlandsk {m}
+Dutch cap {n} (contraceptive device) SEE: cervical cap	 ::
+Dutch clover {n} (Trifolium repens) SEE: white clover	 ::
+duty {n} (tax; tariff)	 :: avgift {m}
+duty {n} (that which one is morally or legally obligated to do)	 :: plikt {m}
+duvet {n} (bedding)	 :: dyne {c}
+DVD player {n} (DVD player)	 :: [Bokmål] DVD-spiller {m}, DVD-speller {m}, dvd-spiller {m}, dvd-speller {m}; [Nynorsk] DVD-spelar {m}, dvd-spelar {m}
+dwarf {adj} (miniature)	 :: dverg-
+dwarf {n} (being from folklore, underground dwelling nature spirit)	 :: [Bokmål] dverg {m}; [Nynorsk] dverg {m}
+dwarf {n} (small person)	 :: [Bokmål] dverg {m}; [Nynorsk] dverg {m}
+dwarf birch {n} (dwarf birch)	 :: [Bokmål] dvergbjørk {m} {f}, dvergbjerk {m} {f}; [Nynorsk] dvergbjørk {m} {f}
+dwarfism {n} (condition of being a dwarf)	 :: dvergvekst {m}
+dwarf planet {n} (a type of celestial body)	 :: dvergplanet {m}
+dweller {n} (inhabitant) SEE: inhabitant	 ::
+dyadic operation {n} (two-operand operation) SEE: binary operation	 ::
+dye {n} (a colourant, especially one that has an affinity to the substrate to which it is applied)	 :: [Bokmål] fargestoff {n}; [Nynorsk] fargestoff {n}
+dye {n} (die) SEE: die	 ::
+dyke {n} (variant spelling of dike) SEE: dike	 ::
+dynamite {n} (class of explosives)	 :: [Bokmål] dynamitt {m}; [Nynorsk] dynamitt {m}
+dynamitist {n} (dynamiter) SEE: dynamiter	 ::
+dynamo {n} (dynamo-electric machine)	 :: [Bokmål] dynamo {m}; [Nynorsk] dynamo {m}
+dysfunctional {adj} (functioning incorrectly or abnormally)	 :: [Bokmål] dysfunksjonell; [Nynorsk] dysfunksjonell
+dyslexia {n} (learning disability)	 :: dysleksi
+dysprosium {n} (chemical element)	 :: dysprosium

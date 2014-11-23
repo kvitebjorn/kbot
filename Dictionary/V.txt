@@ -1,0 +1,328 @@
+﻿Vé {prop} (Norse mythological figure)	 :: Ve
+vacation {n} (holiday, period of leisure time)	 :: ferie {m}
+vacationer {n} (someone who is on vacation) SEE: holiday-maker	 ::
+vaccination {n} (inoculation with a vaccine)	 :: vaksinering {m} {f}
+vaccine {n} (substance that stimulates production of antibodies)	 :: [Bokmål] vaksine {m}; [Nynorsk] vaksine {m}
+vacuüm {n} (vacuum) SEE: vacuum	 ::
+vacuum {n} (region of space that contains no matter)	 :: [Bokmål] vakuum {n}; [Nynorsk] vakuum {n}
+vacuum {n} (vacuum cleaner) SEE: vacuum cleaner	 ::
+vacuum {v} (intransitive: to use a vacuum cleaner)	 :: [Bokmål] støvsuge; [Nynorsk] støvsuge
+vacuum {v}	 :: lage vakuum
+vacuum {v} (transitive: to clean with a vacuum cleaner)	 :: [Bokmål] støvsuge; [Nynorsk] støvsuge
+vacuum cleaner {n} (machine for cleaning)	 :: [Bokmål] støvsuger {m}; [Nynorsk] støvsugar {m}
+vacuum flask {n} (a bottle, flask or similar vessel having a vacuum between its inner and outer silvered walls) SEE: thermos	 ::
+vacuum flask {n} (chemistry: Dewar vessel) SEE: dewar	 ::
+vacuum flask {n} (chemistry: Filter flask) SEE: Büchner flask	 ::
+vacuum tube {n} (electrical device)	 :: radiorør {n}
+vagina {n} (anatomical sense)	 :: skjede {m}; [Bokmål] vagina; [Nynorsk] vagina
+vagina {n} (vulva) SEE: vulva	 ::
+vagrant {n} (wanderer)	 :: reisende
+vaguery {n} (condition of being vague) SEE: vagueness	 ::
+vaguery {n} (thing which is vague) SEE: vagueness	 ::
+vaguery {n} (vagaries) SEE: vagary	 ::
+vain {adj} (based on very little substance)	 :: overfladisk
+Valentine {prop} (female given name) SEE: Valentina	 ::
+Valentine's Day {prop} (Saint Valentine's Day)	 :: valentinsdag {m}, Sankt Valentins dag {m}
+Valentinus {prop} (gnostic theologian)	 :: Valentinus
+Valhalla {prop} (in Norse mythology, the home of warriors slain gloriously in battle)	 :: Valhall
+valiant {adj} (showing courage or determination; heroic)	 :: edelmodig
+valkyrie {n} (any of the female attendants, or handmaidens of Odin)	 :: [Bokmål] valkyrier; [Nynorsk] valkyrie
+valley {n} (elongated depression between hills or mountains)	 :: dal {m}
+valor {n} (strength of mind in regard to danger) SEE: valour	 ::
+valor {n} (value, worth) SEE: value	 ::
+valour {n} (Strength of mind in regard to danger)	 :: edelmodighet {m}
+valour {n} (value) SEE: value	 ::
+value {n} (amount (of money or goods or services) that is considered to be a fair equivalent for something else)	 :: verdi {m}, pris {m}
+value {n} (degree of importance you give to something)	 :: verdi {m}, betydning {c}
+value {n} (quality (positive or negative) that renders something desirable or valuable)	 :: verdi {m}, verd {n}
+value {n}	 :: verdt
+value {v}	 :: sette pris på
+value {v} (to estimate the value of)	 :: verdsette, taksere
+value {v} (to fix or determine the value of)	 :: vurdere, verdsette
+value {v} (to hold dear)	 :: sette pris på, verdsette
+value {v} (to regard highly)	 :: verdsette, skatte
+value added tax {n} (tax levied on added value of an exchange)	 :: merverdiavgift
+valve {n} (device in an internal combustion engine)	 :: [Bokmål] ventil {m}; [Nynorsk] ventil {m}
+valve {n} (device that controls flow of gas or fluid)	 :: [Bokmål] ventil {m}; [Nynorsk] ventil {m}
+valve {n} (in anatomy)	 :: klaff {m}
+valve {n} (vacuum tube) SEE: vacuum tube	 ::
+vampire {n} (mythological creature)	 :: vampyr {m}
+van {n} (a (covered) vehicle used for carrying goods)	 :: [Bokmål] varebil {m}
+vanadium {n} (chemical element)	 :: vanadium
+Vancouver {prop} (city)	 :: Vancouver
+vandal {adj} (of the particular ancient Germanic tribe)	 :: vandalsk
+vandal {n} (person who damages property)	 :: vandal {m}
+Vandal {n} (member of an ancient east Germanic tribe)	 :: vandal {m}
+vandalise {v} (to needlessly destroy)	 :: vandalisere
+vandalism {n} (needless damage or destruction of property)	 :: hærverk
+vandalize {v} (vandalise) SEE: vandalise	 ::
+vane {n} (weather vane) SEE: weather vane	 ::
+vanguard {n} (forefront of any group or movement)	 :: banebryter {m}, avantgarde {m}
+vanguard {n} (leading units of an army)	 :: fortropp {m}
+vanilla {n} (flavor)	 :: vanilje {m}
+vanilla {n} (fruit)	 :: vaniljestang {f}
+vanilla {n} (orchid)	 :: vanilje {m}
+vanish {v} (become invisible or to move out of view unnoticed)	 :: [Bokmål] forsvinne, fordufte; [Nynorsk] forsvinne, forsvinna
+vanishment {n} (disappearance) SEE: disappearance	 ::
+vanity {n} (dressing table) SEE: dressing table	 ::
+vanity {n} (excessive pride)	 :: forfengelighet {f}
+vanquish {v} (to defeat, to overcome)	 :: nedkjempe, overvinne
+Vanuatu {prop} (Republic of Vanuatu)	 :: Vanuatu
+Vanuatuan {adj} (Of, from, or pertaining to Vanuatu, the Vanuatuan people or the Vanuatuan language)	 :: [Bokmål] vanuatisk; [Nynorsk] vanuatisk
+Vanuatuan {n} (A person from Vanuatu or of Vanuatuan descent)	 :: [Bokmål] vanuater {m}; [Nynorsk] vanuatar {m}
+vapor {n} (steam) SEE: steam	 ::
+Varangian {prop} (member of a Scandinavian tribe)	 :: væring
+varenik {n} (varenyky) SEE: varenyky	 ::
+vareniki {n} (varenyky) SEE: varenyky	 ::
+varenyk {n} (varenyky) SEE: varenyky	 ::
+variable {adj} (able to vary)	 :: variabel
+variable {adj} (biology: tending to deviate from a normal or recognized type)	 :: avvikende
+variable {adj} (likely to vary)	 :: variabel
+variable {adj} (marked by diversity or difference)	 :: varierende
+variable {adj} (mathematics: having no fixed quantitative value)	 :: variabel
+variable {n} (astronomy: a variable star) SEE: variable star	 ::
+variable {n} (computing: a named mutable piece of storage)	 :: variabel {m}
+variable {n} (mathematics: a quantity that may assume any one of a set of values)	 :: variabel {m}
+variable {n} (mathematics: a symbol representing a variable)	 :: variabel {m}
+variable {n} (something that is variable)	 :: variabel {m}
+variable {n} (something whose value may be dictated or discovered)	 :: variabel {m}
+variant {adj} (variable) SEE: variable	 ::
+variation {n} (the act or state of varying)	 :: [Bokmål] variasjon {m}; [Nynorsk] variasjon {m}
+varnish {n} (transparent paint)	 :: [Bokmål] ferniss {m}; [Nynorsk] ferniss {m}
+varsity {n} (university) SEE: university	 ::
+vary {v} (to institute a change in) SEE: modify	 ::
+vary {v}	 :: Variere
+vase {n} (container used mainly for displaying flowers)	 :: vase {m}
+vast {adj} (very large or wide (literally or figuratively))	 :: enorm, voldsom
+VAT {n} (value-added tax)	 :: moms, MVA
+Vatican {adj} (Relating to the Vatican City state)	 :: [Bokmål] vatikansk; [Nynorsk] vatikansk
+Vatican City {prop} (State of the Vatican City)	 :: Vatikanstaten, Vatikanet
+Vaticanian {adj} (Vatican) SEE: Vatican	 ::
+vaunt {v} (speak boastfully) SEE: boast	 ::
+veal {n} (flesh of a calf)	 :: [Bokmål] kalvekjøtt {n}; [Nynorsk] kalvekjøt {n}, kalvekjøtt {n}
+vector {n} (directed quantity)	 :: vektor {m}
+vegan {n} (supporter of veganism)	 :: veganer
+veganism {n} (Eating neither meat nor other animal products)	 :: veganisme
+vegetable {adj} (of or relating to plants)	 :: [Bokmål] vegetabilsk; [Nynorsk] vegetabilsk
+vegetable {n} (a person whose brain has been damaged)	 :: [Bokmål] grønnsak {m}; [Nynorsk] grønnsak {m}
+vegetable {n} (a plant raised for some edible part of it)	 :: [Bokmål] grønnsak {m} {f}; [Nynorsk] grønsak {f}
+vegetable {n} (edible part of such a plant)	 :: [Bokmål] grønnsak {m} {f}; [Nynorsk] grønsak {f}
+vegetable garden {n} (vegetable garden)	 :: [Bokmål] kjøkkenhage {m}, grønnsakhage {m}
+vegetarian {n} (person who does not eat any animal flesh)	 :: vegetarianer
+vegetarianism {n} (practice of following a vegetarian diet)	 :: vegetarianisme
+vehicle {n} (a conveyance)	 :: [Bokmål] farkost {m}, kjøretøy {n}; [Nynorsk] farkost {m}, køyretøy {n}
+vein {n} (blood vessel)	 :: [Bokmål] vene {m} {f}
+Velcro {prop} (fastener)	 :: borrelås {m}
+velocity {n} (rapidity of motion)	 :: [Bokmål] hastighet {m} {f}; [Nynorsk] hastigheit {f}
+velour {n} (A knit fabric similar to velvet, but usually somewhat coarser)	 :: [Bokmål] velur {m} {n}; [Nynorsk] velur {m} {n}
+velvet {n} (fabric)	 :: fløyel
+venatorial {adj} (venatic) SEE: venatic	 ::
+vendace {n} (Coregonus albula)	 :: [Bokmål] lagesild {f}, vemme; [Nynorsk] lagasild {f}
+vending machine {n} (machine that dispenses merchandise)	 :: [Bokmål] automat {m}; [Nynorsk] automat {m}
+veneer {n} (covering or disguising appearance)	 :: ferniss {n}
+veneer {n} (thin covering of fine wood)	 :: finér {m}
+Venezuela {prop} (country)	 :: Venezuela
+Venezuelan {adj} (of, from, or pertaining to Venezuela or the Venezuelan people)	 :: [Bokmål] venezuelansk; [Nynorsk] venezuelansk
+Venezuelan {n} (person from Venezuela or of Venezuelan descent)	 :: [Bokmål] venezuelaner {m}; [Nynorsk] venezuelan {m}, venezuelanar {m}
+Venice {prop} (city and province in Italy)	 :: Venezia
+venom {n} (poison carried by animal)	 :: gift {m}
+ventral fin {n} (fin below pectoral fin) SEE: pelvic fin	 ::
+ventriloquist {n} (a person who practices ventriloquism)	 :: buktaler {m}
+venturi {n} (throat of a carburetor) SEE: throat	 ::
+venturi {n} (venturi tube) SEE: venturi tube	 ::
+venue {n} (place, especially the one where a given event is to happen)	 :: [Bokmål] skueplass {m}, arrangementssted {n}
+venue {n} (venew) SEE: venew	 ::
+Venus {prop} (planet)	 :: [Bokmål] Venus; [Nynorsk] Venus
+Vera {prop} (female given name)	 :: Vera
+veranda {n} (roofed open gallery)	 :: veranda {m}
+verb {n} ((grammar) a word that indicates an action, event, or a state)	 :: verb; [Nynorsk] verb
+verbal noun {n} (grammar: noun that is morphologically related to a verb and has similar meaning)	 :: verbalsubstantiv {n}
+verbatim {adj} (of a document: word for word)	 :: ordrett
+verbiage {n} (overabundance of words)	 :: ordgyteri {n}
+verdant {adj} (green)	 :: grønn
+verge {n} (phallus) SEE: phallus	 ::
+verily {adv} (confidently, certainly)	 :: [Bokmål] sikkert, visselig
+verily {adv} (truly, doubtlessly)	 :: [Bokmål] sannelig
+verisimilitude {n}	 :: virkelighetsnærhet {m} {f}, virkelighetstroskap {m}
+vermilion {adj} (having the color of vermilion dye)	 :: sinoberrød
+vermilion {n} (colour)	 :: sinober {m}, sinoberrødt {n}, vermilion {m}
+vermilion {n} (pigment)	 :: sinober {m}, sinoberrødt {n}, vermilion {m}
+vernacular {n} (everyday speech)	 :: dagligtale {m}
+vernal equinox {n} (the moment)	 :: [Bokmål] vårjevndøgn {n}
+Veroboard {n} (countable: a stripboard) SEE: stripboard	 ::
+Veroboard {n} (uncountable: stripboard) SEE: stripboard	 ::
+Veronica {prop} (female given name)	 :: Veronika, Veronica
+verse {n} (one of several similar units of a song, consisting of several lines, generally rhymed)	 :: [Bokmål] strofe {m}, vers {n}; [Nynorsk] strofe {f}, vers {n}
+verse {n} (poetic form with regular meter and a fixed rhyme scheme)	 :: vers {n}
+version {n} (an account or description from a particular point of view)	 :: versjon
+version {n} (a specific form or variation of something)	 :: versjon
+version {n} (a translation from one language to another)	 :: versjon
+versus {prep} (in opposition to)	 :: versus
+vertebra {n} (any of the small bones which make up the backbone)	 :: ryggvirvel {m}
+vertebrate {n} (an animal having a backbone)	 :: [Nynorsk] virveldyr
+vertiginous {adj}	 :: svimlende
+very {adj} (the same; identical)	 :: samme
+very {adv} (to a high degree)	 :: veldig
+very {adv} (true, truly)	 :: veldig, aller
+very well {interj} (interjection)	 :: javel, da så
+vest {n} (garment worn under a shirt)	 :: [Bokmål] trøye {m} {f}; [Nynorsk] trøye {f}
+vestiary {n} (dressing room or stroreroom for clothes) SEE: vestry	 ::
+vestige {n} (mark of the foot left on the earth; a track or footstep; a trace; a sign)	 :: spor
+vet {n} (veterinarian) SEE: veterinarian	 ::
+veterinarian {n} (doctor who treats animals)	 :: veterinær {m}, dyrlege {m}; [Nynorsk] dyrlækjar {m}
+veterinary {n} (veterinarian) SEE: veterinarian	 ::
+veterinary surgeon {n} (veterinarian) SEE: veterinarian	 ::
+vexillological {adj} (vexillologic) SEE: vexillologic	 ::
+v-fib {n} (ventricular fibrillation) SEE: vfib	 ::
+viaduct {n} (bridge with several spans that carries road or rail traffic over a valley)	 :: viadukt
+Viborg {prop} (Danish city)	 :: Viborg
+vibrant {adj} (pulsing with energy or activity)	 :: pulserende
+vibraphone {n} (percussion instrument)	 :: vibrafon
+vibrating {adj} (that vibrates)	 :: [Bokmål] vibrerende
+viceroy {n} (the governor of a country etc.)	 :: [Bokmål] visekonge {m}
+vicious circle {n} (situation in which the solution to a problem creates another problem)	 :: [Bokmål] ond sirkel {m}
+victim {n} (anyone who is harmed by another)	 :: offer {n}
+victor {n} (winner in a fight or contest)	 :: [Bokmål] seierherre {m}, vinner {m}; [Nynorsk] sigerherre {m}, vinnar {m}
+Victor {prop} (male given name)	 :: Viktor
+Victoria {prop} (female given name)	 :: Viktoria
+victory {n} (an instance of having won a competition or battle)	 :: [Bokmål] seier; [Nynorsk] siger
+Victory Day {n} (a day to commemorate victories in important battles or wars in the countries' history)	 :: Seiersdagen
+videocracy {n} (power of image over society)	 :: videokrati {n}
+video game {n} (game controlled by a software)	 :: videospill
+videophone {n} (type of telephone)	 :: videotelefon {m}
+Vietnam {prop} (country in Southeast Asia)	 :: Vietnam
+Vietnamese {adj} (of or pertaining to Vietnam)	 :: [Bokmål] vietnamesisk; [Nynorsk] vietnamesisk
+Vietnamese {n} (Vietnamese person)	 :: [Bokmål] vietnameser {m}; [Nynorsk] vietnamesar {m}
+Vietnamese {prop} (language)	 :: [Bokmål] vietnamesisk {m}; [Nynorsk] vietnamesisk {m}
+view {n} (computing: user interface part of program)	 :: visning {m}
+view {n} (mental image)	 :: syn {n}
+view {n} (point of view)	 :: synspunkt {n}
+view {n} (range of vision)	 :: sikt {m}
+view {n} (seeing)	 :: utsyn {n}, utsikt {m}, sikt {m}
+view {n} (something to look at)	 :: utsikt {m}
+view {n} (way of understanding)	 :: synspunkt {n}
+view {v} (to look at)	 :: se på
+viewpoint {n} (point of view) SEE: point of view	 ::
+vigilance {n} (Alert watchfulness)	 :: [Bokmål] årvåkenhet {m} {f}
+vigilance {n} (Close and continuous attention)	 :: [Bokmål] årvåkenhet {m} {f}
+vigilant {adj} (watchful)	 :: oppmerksom, forsiktig
+Viking {n} (One of the Scandinavian seafaring warriors)	 :: Norsk Nynorsk: vikingar {m}; Norsk bokmål: viking {m}
+village {n} (a rural habitation of size between a hamlet and a town)	 :: landsby, torp {n}
+vinegar {n} (condiment)	 :: eddik
+vineyard {n} (grape plantation)	 :: vingård {m}, vinplantasje {m}
+vinification {n} (winemaking) SEE: winemaking	 ::
+Vinnitsa {prop} (Vinnytsia) SEE: Vinnytsia	 ::
+vintage {n} (wine identified by year and vineyard)	 :: [Bokmål] årgang {m}
+vintage {n} (yield of grapes during one season)	 :: [Bokmål] druehøst {m}
+violence {n}	 :: vold
+violent {adj} (involving physical conflict)	 :: [Bokmål] voldelig
+violin {n} (string instrument)	 :: fiolin {m}
+violinist {n} (person who plays violin)	 :: [Bokmål] fiolinist {m}; [Nynorsk] fiolinist {m}
+violoncello {n} (cello) SEE: cello	 ::
+viper {n} (adder) SEE: adder	 ::
+virgin {n} (person who has never had sexual intercourse)	 :: jomfru {f}
+virginal membrane {n} (hymen) SEE: hymen	 ::
+Virginian winterberry {n} (American winterberry) SEE: American winterberry	 ::
+Virgin Mary {prop} (mother of Christ)	 :: [Bokmål] jomfru Maria {m} {f}; [Nynorsk] jomfru Maria {f}
+Virgo {n} (Someone with a Virgo star sign)	 :: jomfru
+Virgo {prop} (astrological sign)	 :: [Bokmål] Jomfruen {m} {f}; [Nynorsk] Jomfrua {f}
+Virgo {prop} (constellation)	 :: [Bokmål] Jomfruen {m} {f}; [Nynorsk] Jomfrua {f}
+virtualization {n} (act of virtualizing)	 :: [Bokmål] virtualisering
+virtue {n} (a good model quality)	 :: dyd {m}
+virtue {n} (an exemplary quality)	 :: dyd {m}
+virtue {n} (chastity and faithfulness)	 :: dyd {m}
+virtue {n} (excellence in morals)	 :: dyd {m}
+virus {n} (computer virus) SEE: computer virus	 ::
+virus {n} (DNA/RNA causing disease)	 :: [Bokmål] virus {n}; [Nynorsk] virus {n}
+visa {n} (permit)	 :: visum
+viscera {n} (internal organs of the body)	 :: innvoller {m-p}
+viscera {n} (intestines) SEE: intestines	 ::
+vise {n} (two-jawed instrument for holding work)	 :: tvinge {f} {m}; skrustikke {f} {m}
+Vishnu {prop} (the god)	 :: Vishnu
+visible {adj} (able to be seen)	 :: synlig
+vision {n} (a religious or mystical experience)	 :: åpenbaring {m} {f}
+vision impaired {adj} (visually impaired) SEE: visually impaired	 ::
+visit {n} (single act of visiting)	 :: [Bokmål] besøk {n}; [Nynorsk] besøk {n}
+visit {v} (to avenge) SEE: avenge	 ::
+visit {v} (to go and meet (someone))	 :: [Bokmål] besøke; [Nynorsk] gjeste
+visit {v} (to inflict) SEE: inflict	 ::
+visitant {n} (migratory bird) SEE: migrant	 ::
+visitant {n} (spectre) SEE: spectre	 ::
+visiting card {n} (business card) SEE: business card	 ::
+visitors' book {n} (a facility for visitors' comments) SEE: guest book	 ::
+visitor team {n} (visiting team) SEE: visiting team	 ::
+visor {n} (mask) SEE: mask	 ::
+vis-à-vis {adj} (face-to-face) SEE: face-to-face	 ::
+vis-à-vis {n} (counterpart) SEE: counterpart	 ::
+vital {adj} (invigorating or life-giving)	 :: livsoppholdende
+vital {adj} (necessary to continued existence)	 :: livsviktig
+vital {adj} (necessary to the continuation of life)	 :: livsoppholdende
+vital {adj} (relating to, or characteristic of life)	 :: vital, livsviktig
+vital {adj} (relating to the recording of life events)	 :: levende
+vital {adj} (very important)	 :: kjempeviktig
+vitalism {n} (the doctrine of élan vital)	 :: [Bokmål] vitalisme {m}; [Nynorsk] vitalisme {m}
+vitamin {n} (organic compound essential to human health)	 :: [Bokmål] vitamin {n}; [Nynorsk] vitamin {n}
+vitriol {n} (sulphuric acid) SEE: sulphuric acid	 ::
+Vitsebsk {prop} (Vitebsk) SEE: Vitebsk	 ::
+vituperative {adj} (marked by harsh spoken or written abuse; abusive, often with ranting or railing)	 :: [Bokmål] dadlende, klandrende, kritiserende, lastende, skjellende
+viva {interj} (long live ... !) SEE: long live	 ::
+Vivian {prop} (female given name)	 :: Vivian
+viviparous eelpout {n} (viviparous blenny) SEE: viviparous blenny	 ::
+vixen {n} (sexy woman) SEE: fox	 ::
+vizier {n} (high-ranking official)	 :: vesir
+Vladivostok {prop} (seaport in Russia)	 :: Vladivostok
+vlei {n} (marsh) SEE: marsh	 ::
+vlei {n} (wetland) SEE: wetland	 ::
+vocabulary {n} (list of words)	 :: vokabular {n}, ordliste {m} {f}, vokabular {n}
+vocabulary {n} (set of words a person knows)	 :: vokabular {n}, ordforråd {n}, ordtilfang
+vocabulary {n} (stock of words used in a particular field)	 :: ordforråd {n}, vokabular {n}
+vocabulary {n} (words of a language collectively)	 :: ordforråd {n}, vokabular {n}
+vocal {adj} (of or pertaining to the voice or speech)	 :: vokal {m}
+vocal {adj} (phonetics)	 :: vokale {f}
+vocal cord {n} (folds of mucous membrane)	 :: stämmebånd {n}; [Nynorsk] stämmeband, røsteband {n}, røstband {n}
+vocative {n} (grammatical case) SEE: vocative case	 ::
+vocative case {n} (case of address)	 :: vokativ {m}
+vociferous {adj} (making a noisy outcry)	 :: [Bokmål] høyrøstet; [Nynorsk] høgrøysta
+vodka {n} (clear distilled alcoholic liquor)	 :: [Bokmål] vodka {m}; [Nynorsk] vodka {m}
+vodyanoi {n} (vodyanoy) SEE: vodyanoy	 ::
+voetsek {interj} (get lost) SEE: get lost	 ::
+voetsek {interj} (go away) SEE: go away	 ::
+voice {n} (sound uttered by the mouth)	 :: stemme {m}; [Nynorsk] stemma {f}, røyst {f}
+voice {n}	 :: stemme, røst
+voice box {n} (electrolarynx) SEE: electrolarynx	 ::
+voice box {n} (larynx) SEE: larynx	 ::
+voice box {n} (talk box) SEE: talk box	 ::
+voice mail {n} (message left on a voice mail system) SEE: voice message	 ::
+voice-over {n} (a TV broadcast etc., in which pictures are accompanied by the voice of an unseen actor or reporter.)	 :: fortellerstemme
+void {adj} (Having lost all legal validity)	 :: ugyldig
+void {n} (An empty space; a vacuum)	 :: intet {n}, tomhet {m}, vakuum {n}, tomrom {n}
+void {v} ((medicine) to empty)	 :: tømme
+void {v} (to make invalid or worthless)	 :: annulere, gjøre ugyldig
+Volapük {prop} (language)	 :: volapyk
+volatile {adj} (evaporating or vaporizing readily under normal conditions)	 :: flyktig
+volcanic {adj}	 :: vulkansk
+volcano {n} (mountain containing a magma chamber)	 :: vulkan {m}
+vole {n}	 :: vånd
+Volga {prop} (longest river in Europe, flowing to the Caspian Sea)	 :: Volga; [Nynorsk] Volga
+voltage {n} (amount of electrostatic potential)	 :: spenning {m}
+volunteer {n} (one who voluntarily offers himself/herself for service)	 :: [Bokmål] frivillig
+vomer {n} (vomer bone) SEE: vomer bone	 ::
+vomer bone {n} (small thin bone that forms part of the septum between the nostrils)	 :: plogbein {n}
+vomit {n} (regurgitated former contents of a stomach)	 :: oppkast {n}, spy {n}
+vomit {v} (to regurgitate the contents of a stomach)	 :: kaste opp, spy, brekke seg
+vote {n} (formalised choice)	 :: [Bokmål] avstemning {m} {f}; [Nynorsk] avstemming {f}, avrøysting {f}
+Votic {prop} (language)	 :: votisk
+voting station {n} (polling station) SEE: polling station	 ::
+voucher {n} (A receipt)	 :: kvittering
+vowel harmony {n} (phonological process)	 :: vokalharmoni; [Nynorsk] vokalharmoni
+vowelization {n} (vocalization) SEE: vocalization	 ::
+voyage {n} (long journey; especially by ship)	 :: reise, sjøreise
+voyager {n} (traveller) SEE: traveller	 ::
+Västerås {prop} (a city in Sweden)	 :: Västerås
+vulcanologist {n} (person who studies volcanoes) SEE: volcanologist	 ::
+vulcanology {n} (study of volcanoes) SEE: volcanology	 ::
+vulgar {adj} (obscene)	 :: [Bokmål] vulgær; [Nynorsk] vulgær
+Vulgar Era {prop} (Common Era) SEE: Common Era	 ::
+vulture {n} (bird)	 :: gribb {m}
+vulva {n} (collectively the external female sexual organs)	 :: vulva
+VW {initialism} (Volkswagen, a German car manufacturer)	 :: folkevogn {f}

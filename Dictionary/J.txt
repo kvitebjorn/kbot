@@ -1,0 +1,246 @@
+﻿Jabberwock {prop} (fantastical monster)	 :: Dromeparden, Jabbervakken, Javraljaussir, Jabberokk
+jack {n} (device for raising and supporting a heavy object)	 :: jekk {m}
+jack {n} (freshwater pike) SEE: pike	 ::
+jack {n} (knave) SEE: knave	 ::
+jack {n} (large California rockfish) SEE: rockfish	 ::
+jack {n} (nautical: sailor) SEE: jacktar	 ::
+jack {n} (playing card)	 :: jekk {m}
+jack {n} (slang: nothing) SEE: jackshit	 ::
+jack {n} (surface mounted connector)	 :: plugg {m}
+jack {v} (use a jack)	 :: jekke
+jackass {n} (male donkey)	 :: esel {n}
+jackdaw {n} (Coloeus dauuricus) SEE: Daurian jackdaw	 ::
+jackdaw {n} (Coloeus monedula)	 :: kaie
+jacket potato {n} (a baked potato) SEE: baked potato	 ::
+Jack-in-the-pulpit {n} (cat's cradle) SEE: cat's cradle	 ::
+jack-knife {n} (statistics) SEE: jackknife	 ::
+jack of all trades {n} (one competent in many endeavors)	 :: tusenkunstner, alt-mulig-mann
+Jackson {prop} (cognates of the surname) SEE: Johnson	 ::
+Jacob {prop} (male given name (the standard form))	 :: Jakob
+Jacob {prop} (one of the sons of Isaac and Rebecca)	 :: Jakob
+jade {n} (colour)	 :: jadegrønn
+jade {n} (gem)	 :: jade; [Bokmål] jade; [Nynorsk] jade
+jaeger {n} (rifle) SEE: rifle	 ::
+jaeger {n} (seabird)	 :: jo {c}
+Jah {prop} (God) SEE: God	 ::
+jail {n} (prison) SEE: prison	 ::
+jail {v} (imprison) SEE: imprison	 ::
+jailkeeper {n} (jailer) SEE: jailer	 ::
+Jainism {prop} (religion and philosophy)	 :: [Bokmål] Jainisme; [Nynorsk] Djainismen
+Jalalabad {prop} (a city in eastern Afghanistan)	 :: Jalalabad
+jam {n} (blockage, congestion)	 :: trengsel
+jam {n} (difficult situation)	 :: vanskelighet/ trøbbel/ knipe ´
+jam {n} (sweet mixture of fruit boiled with sugar)	 :: [Bokmål] syltetøy {n}; [Nynorsk] syltetøy {n}, syltety {n}
+Jamaica {prop} (country in the Caribbean)	 :: Jamaica; [Nynorsk] Jamaica
+Jamaican {adj} (of, from, or pertaining to Jamaica, the Jamaican people or the Jamaican language)	 :: [Bokmål] jamaicansk, jamaikansk; [Nynorsk] jamaicansk, jamaikansk
+Jamaican {n} (person of Jamaican descent)	 :: [Bokmål] jamaicaner {m}, jamaikaner {m}; [Nynorsk] jamaican {m}, jamaicanar {m}, jamaikan {m}, jamaikanar {m}
+James {prop} (male given name (the standard form))	 :: Jakob
+James {prop} (one of two Apostles)	 :: Jakob
+jam jar {n} (A container for jam)	 :: [Bokmål] syltetøyglass {n}
+jam jar {n} (car) SEE: car	 ::
+jammed {adj} (overcrowded; congested)	 :: proppfull, stappfull
+Jane {prop} (feminine form of John)	 :: Johanne, Johanna
+janissary {n} (former Turkish soldier)	 :: janitsjar {m}
+January {prop} (first month of the Gregorian calendar)	 :: januar; [Nynorsk] januar
+Janus {prop} (moon of Saturn)	 :: Janus
+Janus {prop} (Roman god of gates and doorways)	 :: Janus
+Japan {prop} (A Far East country in Asia)	 :: Japan; [Nynorsk] Japan
+Japanese {adj} (of or relating to Japan)	 :: [Bokmål] japansk; [Nynorsk] japansk
+Japanese {n} (person of Japan)	 :: [Bokmål] japaner {m}; [Nynorsk] japanar {m}
+Japanese {prop} (Japanese language)	 :: [Bokmål] japansk {m}; [Nynorsk] japansk {m}
+Japanese lantern {n} (bladder cherry) SEE: bladder cherry	 ::
+Japano- {prefix} (Nippo-) SEE: Nippo-	 ::
+jar {n} (small container for food)	 :: krukke
+jasper {n} (jasperware) SEE: jasperware	 ::
+jasper {n} (precious stone)	 :: jaspis {m}
+Jasper {prop} (male given name; one of the Magi) SEE: Caspar	 ::
+jaw {n} (bone of the jaw)	 :: kjeve
+jay {n} (bird)	 :: nøtteskrike [Eurasian jay]
+jazz {n} (musical art form)	 :: [Bokmål] jazz {m}; [Nynorsk] jazz {m}
+J-drama {n} (dorama) SEE: dorama	 ::
+jealous {adj} (envious; feeling resentful of someone for a perceived advantage, material or otherwise)	 :: misunnelig
+jealous {adj}	 :: sjalu
+jealous {adj} (suspecting rivalry in love; fearful of being replaced, in position or in affection)	 :: sjalu
+Jeanette {prop} (female given name) SEE: Jeannette	 ::
+jeans {n} (denim trousers)	 :: jeans {m}, olabukse {m} {f}
+jeans {n} (plural of jean) SEE: jean	 ::
+Jeep {n} (jeep) SEE: jeep	 ::
+jeerer {n} (A mocker)	 :: spotter
+Jeffrey {prop} (male given name) SEE: Geoffrey	 ::
+Jehovah {n} (Jehovah's Witness) SEE: Jehovah's Witness	 ::
+Jehovah {prop} (Yahweh) SEE: Yahweh	 ::
+Jehovah's Witness {n} (member of the Jehovah's Witnesses)	 :: Jehovas vitner {p}
+Jehovah's Witnesses {n} (denomination)	 :: Jehovas vitner {n}
+Jehovah's Witnesses {n} (member of organisation)	 :: Jehovas vitne {n}, Jehovas vitner {p}
+jellyfish {n} (aquatic being)	 :: manet
+jellyroll {n} (cylindrical cake) SEE: Swiss roll	 ::
+jemmy {v} (cram) SEE: cram	 ::
+Jenifer {prop} (female given name) SEE: Jennifer	 ::
+jenny {n} (device for spinning) SEE: spinning jenny	 ::
+jenny {n} (female of donkey) SEE: she-ass	 ::
+Jenny {prop} (female given name)	 :: Jenny
+jenny-ass {n} (female donkey) SEE: she-ass	 ::
+jeopardise {v} (jeopardize) SEE: jeopardize	 ::
+jeremiad {n} (long speech or prose work)	 :: jeremiade, klagesang
+Jeremiah {prop} (book of the Bible)	 :: Jeremia, Jeremias
+Jeremiah {prop} (male given name)	 :: Jeremias
+Jeremy {prop} (Jeremiah) SEE: Jeremiah	 ::
+Jericho {prop} (an ancient town in the West Bank)	 :: [Bokmål] Jeriko
+jerk {n} (soda jerk) SEE: soda jerk	 ::
+Jerry {prop} (German) SEE: German	 ::
+Jerry {prop} (slang: German) SEE: Fritz	 ::
+Jerusalem {prop} (city)	 :: Jerusalem
+Jerusalem oak {n} (epazote) SEE: epazote	 ::
+Jesse {prop} (biblical father of David)	 :: Isai
+Jesus {prop} (the Christian Messiah)	 :: Jesus
+Jesus Christ {prop} (Jesus of Nazareth)	 :: Jesus Kristus
+jet {n} (jet plane) SEE: jet plane	 ::
+jet-black {adj} (of the blackest black) SEE: pitch-black	 ::
+jet machine {n} (device that uses a jet of water to clean something)	 :: høytrykkspyler (water), sandblåsemaskin (sand)
+jet plane {n} (an airplane that is powered by a jet engine)	 :: [Bokmål] jetfly {n}
+jettison {n} (the action of jettisoning items)	 :: hive {n}
+jetty {n} (pier) SEE: pier	 ::
+jetty {n} (wharf) SEE: wharf	 ::
+Jew {n} (a person with a Jewish cultural or ancestral connection)	 :: jøde {m}
+Jew {n} (person of the Jewish faith)	 :: jøde {m}
+jewel {v} (decorate or bedeck with jewels or gems) SEE: bejewel	 ::
+jeweler {n} (a person whose job is making, repairing or selling jewelry)	 :: [Bokmål] juveler {m}; [Nynorsk] juveler {m}
+jeweller {n} (jeweller) SEE: jeweler	 ::
+Jewess {n} (female Jew)	 :: [Bokmål] jødinne {m} {f}; [Nynorsk] jødinne {f}
+Jewish {adj} (of or relating to a Jew or Jews, their ethnicity, religion or culture)	 :: jødisk
+Jewish {adj} (Yiddish) SEE: Yiddish	 ::
+Jewish Autonomous Oblast {prop} (Jewish autonomous oblast in Russia)	 :: [Bokmål] Den jødiske autonome oblasten; [Nynorsk] Den jødiske autonome oblasten
+Jewry {n} (the land of Jews (obsolete)) SEE: Judea	 ::
+Jew's harp {n} (musical instrument)	 :: munnharpe
+Jezebel {prop} (Biblical character Jezebel)	 :: Jesabel {f}
+Jiantizi {prop} (Simplified Chinese) SEE: Simplified Chinese	 ::
+Jiayi {prop} (Chiayi) SEE: Chiayi	 ::
+jiffy {n} (short length of time)	 :: straks, øyeblikk {n}
+jig {n} (light, brisk musical movement) SEE: gigue	 ::
+jigger {v} (jiggermast) SEE: jiggermast	 ::
+jigsaw {n} (jigsaw puzzle) SEE: jigsaw puzzle	 ::
+jigsaw puzzle {n} (type of puzzle)	 :: puslespill; [Nynorsk] puslespel
+jihad {n} (holy war undertaken by Muslims)	 :: jihad {m}
+Jilong {prop} (Keelung) SEE: Keelung	 ::
+jimmy {v} (open with a crowbow)	 :: brekkjern {n}, kubein {n}
+jimsonweed {n} (weed) SEE: thorn apple	 ::
+jingoism {n} (chauvinism) SEE: chauvinism	 ::
+jingoist {adj} (chauvinist) SEE: chauvinist	 ::
+jingoist {n} (chauvinist) SEE: chauvinist	 ::
+jinrikisha {n} (rickshaw) SEE: rickshaw	 ::
+jinriksha {n} (two-wheeled carriage) SEE: rickshaw	 ::
+Joachim {prop} (male given name)	 :: Joakim
+Joan {prop} (female given name) SEE: Jane	 ::
+Joanna {prop} (biblical follower of Jesus)	 :: Johanna
+Joanna {prop} (cognates of the given name) SEE: Jane	 ::
+job {n} (economic role for which a person is paid)	 :: jobb
+job action {n} (workplace protest) SEE: industrial action	 ::
+jobless {adj} (lacking employment) SEE: unemployed	 ::
+jock {n} (jockstrap) SEE: jockstrap	 ::
+jock strap {n} (jockstrap) SEE: jockstrap	 ::
+jockstrap {n} (an athletic supporter)	 :: skrittbeskytter {m}, [colloquial] susp {m}
+Joel {prop} (book of the Bible)	 :: Joel
+Joel {prop} (male given name)	 :: Joel
+John {prop} (biblical persons)	 :: Johannes
+John {prop} (male given name - the standard or most popular form)	 :: Johan, Jon
+John {prop} (name used to address a man whose name is not known)	 :: N.N.
+John {prop} (one of the epistles of John)	 :: Johannes, Johannes' første, andre, tredje brev, 1, 2, 3 Joh
+John {prop} (the fourth gospel)	 :: (Evangeliet etter) Johannes, Joh
+John Doe {n} (any unknown or anonymous male person)	 :: Ola Nordmann
+Johnson {prop} (surname meaning "son of John")	 :: Johansen
+join {v} (to combine more than one item into one; to put together)	 :: sammenstille
+joint {v} (to separate the joints) SEE: disjoint	 ::
+jointer {n} (pointing-trowel) SEE: pointing-trowel	 ::
+joke {n} (amusing story)	 :: vits {m}
+joke {n} (something said or done for amusement)	 :: spøk {m}
+joke {n} (worthless thing or person)	 :: vits {m}
+joke {v} (do for amusement)	 :: tulle
+joker {n} (jester) SEE: fool	 ::
+jolly {adj} (jovial) SEE: jovial	 ::
+Jolly Roger {n} (skull flag)	 :: sjørøverflagg {n}
+Jonah {prop} (Biblical: a book of the Old Testament)	 :: Jona, Jonas
+Jonah {prop} (given name)	 :: Jonas
+Jonathan {prop} (biblical character)	 :: Jonatan
+Jonathan {prop} (male given name)	 :: Jonathan
+Jordan {prop} (country)	 :: Jordan
+Jordan {prop} (river)	 :: Jordan
+Jordanian {adj} (Of, from, or pertaining to Jordan or the Jordanian people)	 :: [Bokmål] jordansk; [Nynorsk] jordansk
+Jordanian {n} (A person from Jordan or of Jordanian descent)	 :: [Bokmål] jordaner {m}; [Nynorsk] jordanar {m}
+Joseph {prop} (favorite son of Jacob)	 :: Josef
+Joseph {prop} (husband of Virgin Mary)	 :: Josef
+Joseph {prop} (male given name)	 :: Josef
+Josephine {prop} (feminine form of Joseph)	 :: Josefine
+Joshua {prop} (book of the Bible)	 :: Josva
+Joshua {prop} (male given name)	 :: Josva
+joskin {n} (yokel) SEE: country bumpkin	 ::
+joule {n} (derived unit of energy, work and heat)	 :: joule
+journal {n} (diary or daily record)	 :: dagbok {m} {f}
+journal {n} (newspaper or magazine)	 :: tidsskrift {n}
+journalism {n} (activity or profession of being a journalist)	 :: journalistikk
+journalist {n} (keeper of a personal journal)	 :: [Bokmål] journalfører {m}, rullefører {m} [military use]; [Nynorsk] journalførar
+journalist {n} (one whose occupation or profession is journalism)	 :: journalist {m}
+journalist {n} (reporter)	 :: journalist {m}, reporter {m}
+journalistic {adj} (related to journalism or journalists)	 :: [Bokmål] journalistisk; [Nynorsk] journalistisk
+journey {n} (trip, a voyage)	 :: reise
+journey {v} (to travel, to make a trip or voyage)	 :: reise
+jowled {adj} (jowly) SEE: jowly	 ::
+joy {n} (feeling of happiness)	 :: [Bokmål] fryd {m}, glede {c}; [Nynorsk] fryd {m}, frygd {f}, glede {f}
+jubilant {adj} (In a state of elation)	 :: [adv] jublende
+Jud. {prop} (abbreviation of the equivalent of Judges) SEE: Judg.	 ::
+Judaism {n} (world religion)	 :: [Bokmål] jødedom {m}; [Nynorsk] jødedom {m}
+judge {n}	 :: dommer {m}
+judge {n} (public judicial official)	 :: dommer {m}
+judge {v}	 :: dømme, avgjøre
+Judges {prop} (book of the Bible)	 :: Dommerne
+judgment {n} (power or faculty of making a judgment)	 :: [Bokmål] dømmekraft {m} {f}; [Nynorsk] dømmekraft {f}, dømekraft {f}
+Judith {prop} (book of the Bible)	 :: Judit
+Judith {prop} (female given name)	 :: Judith
+judo {n} (Japanese martial art)	 :: judo
+juggle {v} (manipulate objects artistically)	 :: sjonglere
+juggle {v} (to handle or manage many tasks at once)	 :: sjonglere
+juggler {n} (person who practices juggling)	 :: [Bokmål] sjonglør {m}; [Nynorsk] sjonglør {m}
+juggling {n} (moving of objects in an artful manner)	 :: [Bokmål] sjonglering; [Nynorsk] sjonglering
+jugular {n} (vein through the neck) SEE: jugular vein	 ::
+juice {n} (beverage made of juice)	 :: juice, jus
+juice {n} (liquid from a plant)	 :: juice, jus
+juice joint {n} (nightclub) SEE: nightclub	 ::
+jukebox {n} (a coin-operated machine that plays recorded music)	 :: [Bokmål] jukeboks {m}; [Nynorsk] jukeboks {m}
+Julia {prop} (female given name)	 :: Julie
+Julian {prop} (male given name)	 :: Julian
+Julie {prop} (female given name) SEE: Julia	 ::
+Juliet {prop} (character in Romeo and Juliet)	 :: Julie
+July {prop} (seventh month of the Gregorian calendar)	 :: juli
+jump {n} (instance of causing oneself to fall from an elevated location)	 :: hopp {n}, sprang {n}
+jump {n} (instance of employing a parachute to leave an aircraft or elevated location)	 :: hopp {n}, sprang {n}
+jump {n} (instance of propelling oneself into the air)	 :: hopp {n}, sprang {n}
+jump {n} (instance of reacting to a sudden stimulus by jerking the body)	 :: skvetting {m}
+jump {n} (jumping move in a board game)	 :: sprang {n}
+jump {v} (cause oneself to leave an elevated location and fall downward)	 :: hoppe
+jump {v} (employ a move in certain board games in which one piece moves over another)	 :: hoppe over
+jump {v} (employ a parachute to leave an aircraft or elevated location)	 :: hoppe
+jump {v} (move to a position in (a queue/line) that is further forward)	 :: snike, gå forbi
+jump {v} (propel oneself rapidly upward such that momentum causes the body to become airborne)	 :: hoppe
+jump {v} (react to a sudden stimulus by jerking the body violently)	 :: skvette
+jump on the bandwagon {v} (to profit from a craze)	 :: kaste seg på lasset
+jump rope {n} (length of rope) SEE: skipping rope	 ::
+June {prop} (sixth month of the Gregorian calendar)	 :: juni
+Juneberry {n} (serviceberry) SEE: serviceberry	 ::
+jungle {n} (large, undeveloped, humid forest)	 :: jungel {m}
+juniper {n} (shrub or tree of the genus Juniperus)	 :: einer {m}
+juniper berry {n} (the female seed cone of a juniper)	 :: einerbær {n}
+junk food {n} (food with little or no nutritional value)	 :: usunnmat
+junta {n} (ruling council of a military dictatorship)	 :: junta {m}
+Jupiter mass {n} (Unit of mass)	 :: jupitermasse {m}
+jurist {n} (expert in law)	 :: jurist {m}
+jurist {n} (judge) SEE: judge	 ::
+just {adj} (morally fair, righteous)	 :: nettopp
+just {adv} (only, simply, merely)	 :: bare, kun
+just {adv} (perfectly)	 :: nettopp
+just {adv} (recently)	 :: nettopp
+just {v} (to fight a tournament) SEE: joust	 ::
+justice {n}	 :: rettferdighet
+Jutland {prop} (peninsula)	 :: Jylland {n}; [Nynorsk] Jylland {n}
+juvenile offending {n} (juvenile delinquency) SEE: juvenile delinquency	 ::
+juxtapose {v} (to place side by side)	 :: [Bokmål] sammenligne; [Nynorsk] samanlikne/samanlikna
+jynx {n} (a charm or spell) SEE: spell	 ::
+jynx {n} (Jynx torquilla) SEE: wryneck	 ::

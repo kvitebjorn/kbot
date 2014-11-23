@@ -1,0 +1,13 @@
+﻿xanthous {adj} (yellow-brown)	 :: gusten
+x-axis {n} (axis drawn from left to right)	 :: x-akse {m}
+xenon {n} (chemical element)	 :: [Bokmål] xenon {n}; [Nynorsk] xenon {n}
+xenophobia {n} (a pathological fear or hatred of strangers or foreigners)	 :: [Bokmål] xenofobi {m}, fremmedfrykt {m}; [Nynorsk] xenofobi {m}
+xenophobic {n} (xenophobe) SEE: xenophobe	 ::
+xeroxcopy {n} (xerox copy) SEE: xerox copy	 ::
+Xianggang {prop} (Hong Kong) SEE: Hong Kong	 ::
+Xinzhu {prop} (Hsinchu) SEE: Hsinchu	 ::
+xiphias {n} (xiphias) SEE: swordfish	 ::
+Xizang {prop} (Tibet) SEE: Tibet	 ::
+XML {abbr} (extensible markup language)	 :: XML {n}
+xylocaine {n} (lidocaine) SEE: lidocaine	 ::
+xylophone {n} (musical instrument)	 :: [Bokmål] xylofon {m}; [Nynorsk] xylofon {m}
