@@ -8,31 +8,31 @@ import Dict.Entries
 
 lookupEntry :: String -> IO [String]
 lookupEntry str = case toLower $ head str of
-  'a' -> filter (isPrefixOf str) <$> a
-  'b' -> filter (isPrefixOf str) <$> b
-  'c' -> filter (isPrefixOf str) <$> c
-  'd' -> filter (isPrefixOf str) <$> d
-  'e' -> filter (isPrefixOf str) <$> e
-  'f' -> filter (isPrefixOf str) <$> f
-  'g' -> filter (isPrefixOf str) <$> g
-  'h' -> filter (isPrefixOf str) <$> h
-  'i' -> filter (isPrefixOf str) <$> i
-  'j' -> filter (isPrefixOf str) <$> j
-  'k' -> filter (isPrefixOf str) <$> k
-  'l' -> filter (isPrefixOf str) <$> l
-  'm' -> filter (isPrefixOf str) <$> m
-  'n' -> filter (isPrefixOf str) <$> n
-  'o' -> filter (isPrefixOf str) <$> o
-  'p' -> filter (isPrefixOf str) <$> p
-  'q' -> filter (isPrefixOf str) <$> q
-  'r' -> filter (isPrefixOf str) <$> r
-  's' -> filter (isPrefixOf str) <$> s
-  't' -> filter (isPrefixOf str) <$> t
-  'u' -> filter (isPrefixOf str) <$> u
-  'v' -> filter (isPrefixOf str) <$> v
-  'w' -> filter (isPrefixOf str) <$> w
-  'x' -> filter (isPrefixOf str) <$> x
-  'y' -> filter (isPrefixOf str) <$> y
-  'z' -> filter (isPrefixOf str) <$> z
+  'a' -> filter (str `isPrefixOf`) <$> a
+  'b' -> filter (str `isPrefixOf`) <$> b
+  'c' -> filter (str `isPrefixOf`) <$> c
+  'd' -> filter (str `isPrefixOf`) <$> d
+  'e' -> filter (str `isPrefixOf`) <$> e
+  'f' -> filter (str `isPrefixOf`) <$> f
+  'g' -> filter (str `isPrefixOf`) <$> g
+  'h' -> filter (str `isPrefixOf`) <$> h
+  'i' -> filter (str `isPrefixOf`) <$> i
+  'j' -> filter (str `isPrefixOf`) <$> j
+  'k' -> filter (str `isPrefixOf`) <$> k
+  'l' -> filter (str `isPrefixOf`) <$> l
+  'm' -> filter (str `isPrefixOf`) <$> m
+  'n' -> filter (str `isPrefixOf`) <$> n
+  'o' -> filter (str `isPrefixOf`) <$> o
+  'p' -> filter (str `isPrefixOf`) <$> p
+  'q' -> filter (str `isPrefixOf`) <$> q
+  'r' -> filter (str `isPrefixOf`) <$> r
+  's' -> filter (str `isPrefixOf`) <$> s
+  't' -> filter (str `isPrefixOf`) <$> t
+  'u' -> filter (str `isPrefixOf`) <$> u
+  'v' -> filter (str `isPrefixOf`) <$> v
+  'w' -> filter (str `isPrefixOf`) <$> w
+  'x' -> filter (str `isPrefixOf`) <$> x
+  'y' -> filter (str `isPrefixOf`) <$> y
+  'z' -> filter (str `isPrefixOf`) <$> z
   _   -> return []
 
