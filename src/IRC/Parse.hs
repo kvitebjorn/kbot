@@ -23,11 +23,11 @@ translate h msg = do
   let ord = getWordToTranslate msg
   case ord of
     Just ord -> do 
-      putStrLn ord
+      putStrLn ord -- for debug purposes
       translation <- lookupEntry ord
-      print translation
-      hPutStrLn h $ "PRIVMSG " ++ channel ++ " :" ++ (concat translation)
-      putStrLn    $ "PRIVMSG " ++ channel ++ " :" ++ (concat translation)
+      print translation -- for debug purposes
+      hPutStrLn h $ "PRIVMSG " ++ channel ++ " :" ++ concat translation
+      putStrLn    $ "PRIVMSG " ++ channel ++ " :" ++ concat translation
     Nothing  -> return ()
 
 getWordToTranslate :: String -> Maybe String
