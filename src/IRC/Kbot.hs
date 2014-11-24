@@ -4,19 +4,8 @@ import Control.Monad ( forever )
 import Network
 import System.IO 
 
+import IRC.Connection
 import IRC.Parse ( handleMsg )
-
-host :: HostName
-host = "irc.freenode.org"
-
-port :: PortNumber
-port = 6667
-
-nick :: String
-nick = "kvitebot"
-
-channel :: String
-channel = "##norsk"
 
 runKbot :: IO ()
 runKbot = withSocketsDo $ do
