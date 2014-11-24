@@ -18,9 +18,13 @@ runKbot = withSocketsDo $ do
   hPutStrLn h $ "PRIVMSG nickserv :identify " ++ pass
 
   msg001 <- hGetLine h
+  putStrLn msg001
   msg002 <- hGetLine h
+  putStrLn msg002
   msg003 <- hGetLine h
+  putStrLn msg003
   msg004 <- hGetLine h
+  putStrLn msg004
 
   hPutStrLn h $ "JOIN " ++ channel 
 

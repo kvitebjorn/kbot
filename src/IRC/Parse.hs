@@ -1,6 +1,5 @@
 module IRC.Parse where
 
-import Control.Monad.IO.Class ( liftIO )
 import Data.List ( isPrefixOf, isInfixOf )
 import System.IO
 
@@ -26,17 +25,12 @@ translate h msg = do
     Just ord -> do 
       putStrLn ord
       translation <- lookupEntry ord
-      print $ prettyTranslation translation
-      hPutStrLn h $ "PRIVMSG " ++ channel ++ " :" ++ (prettyTranslation translation)
-      putStrLn    $ "PRIVMSG " ++ channel ++ " :" ++ (prettyTranslation translation)
+      print translation
+      hPutStrLn h $ "PRIVMSG " ++ channel ++ " :" ++ (concat translation)
+      putStrLn    $ "PRIVMSG " ++ channel ++ " :" ++ (concat translation)
     Nothing  -> return ()
 
 getWordToTranslate :: String -> Maybe String
 getWordToTranslate "" = Nothing
 getWordToTranslate msg = Just $ drop 1 $ dropWhile (/= ':') $ tail msg
-
-prettyTranslation :: [String] -> String
-prettyTranslation [] = ""
-prettyTranslation [x]  = x
-prettyTranslation (x:xs) = x ++ "\n" ++ prettyTranslation xs
 
